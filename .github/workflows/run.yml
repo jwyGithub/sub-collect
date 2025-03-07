@@ -16,6 +16,8 @@ on:
         secrets:
             SUBS:
                 required: true
+            SUBSCRIPTION_SYNC_URL:
+                required: false
 
 jobs:
     update-nodes:
@@ -51,3 +53,14 @@ jobs:
                   git commit -m "🔄 自动更新节点: $(date '+%Y-%m-%d %H:%M:%S')"
                   git push
 
+            - name: 等待提交完成
+              run: sleep 1
+
+            - name: 触发同步
+              env:
+                  SYNC_URL: ${{ secrets.SUBSCRIPTION_SYNC_URL }}
+              if: ${{ env.SYNC_URL != '' }}
+              run: |
+                  if curl -s -o /dev/null -w "%{http_code}" "$SYNC_URL" | grep -q "^2"; then
+                      echo "[INFO] 同步触发成功"
+                  fi

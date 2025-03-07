@@ -52,8 +52,6 @@ async function main() {
 
         // 3. 保存节点
         await storage.saveNodes(allNodes);
-
-        logger.info('任务完成');
     } catch (error) {
         logger.error('程序执行失败: %s', error);
         process.exit(1);
