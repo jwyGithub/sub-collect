@@ -1,5 +1,4 @@
 import { logger } from './logger';
-import { fetchWithRetry } from 'cloudflare-tools';
 
 interface IpApiResponse {
     status: string;
@@ -38,7 +37,8 @@ interface IpapiResponse {
 class IpLookupService {
     private cache = new Map<string, string>();
     private pendingQueries = new Map<string, Promise<string>>();
-    private rateLimitDelay = 200; // 每个请求间隔200ms，避免API限制
+    private lastQueryTime = 0;
+    private minQueryInterval = 500; // 每次查询最小间隔 500ms
 
     /**
      * 批量查询IP的国家代码
@@ -65,26 +65,15 @@ class IpLookupService {
             return results;
         }
 
-        // 并发查询，但限制并发数
-        const batchSize = 10;
-        for (let i = 0; i < uncachedIps.length; i += batchSize) {
-            const batch = uncachedIps.slice(i, i + batchSize);
-            const promises = batch.map(ip => this.lookupSingle(ip));
-
+        // 顺序查询每个IP，交替使用不同的API
+        for (const ip of uncachedIps) {
             try {
-                const batchResults = await Promise.all(promises);
-                batchResults.forEach((countryCode, index) => {
-                    const ip = batch[index];
-                    results.set(ip, countryCode);
-                    this.cache.set(ip, countryCode);
-                });
+                const countryCode = await this.lookupSingle(ip);
+                results.set(ip, countryCode);
+                this.cache.set(ip, countryCode);
             } catch (error) {
-                logger.error('批量查询IP失败: %s', error);
-            }
-
-            // 添加延迟，避免触发API限制
-            if (i + batchSize < uncachedIps.length) {
-                await new Promise(resolve => setTimeout(resolve, this.rateLimitDelay * batchSize));
+                logger.error('❌ 查询IP %s 失败: %s', ip, error);
+                results.set(ip, 'ERROR');
             }
         }
 
@@ -104,20 +93,41 @@ class IpLookupService {
 
         const queryPromise = (async () => {
             try {
-                // 首先尝试 ip-api.com
-                const ipApiResponse = await this.queryIpApi(ip);
-                if (ipApiResponse.status === 'success' && ipApiResponse.countryCode) {
-                    logger.debug('IP %s -> %s (%s, %s)', ip, ipApiResponse.countryCode, ipApiResponse.city, ipApiResponse.isp);
-                    return ipApiResponse.countryCode;
+                // 确保查询间隔
+                const now = Date.now();
+                const timeSinceLastQuery = now - this.lastQueryTime;
+                if (timeSinceLastQuery < this.minQueryInterval) {
+                    await new Promise(resolve => setTimeout(resolve, this.minQueryInterval - timeSinceLastQuery));
                 }
 
-                // 如果失败，尝试 ipapi.com
+                // 先尝试 ip-api.com
+                try {
+                    const ipApiResponse = await this.queryIpApi(ip);
+                    if (ipApiResponse.status === 'success' && ipApiResponse.countryCode) {
+                        logger.debug(
+                            'IP %s -> %s (%s, %s) [ip-api.com]',
+                            ip,
+                            ipApiResponse.countryCode,
+                            ipApiResponse.city,
+                            ipApiResponse.isp
+                        );
+                        this.lastQueryTime = Date.now();
+                        return ipApiResponse.countryCode;
+                    }
+                } catch (error) {
+                    logger.debug('ip-api.com 查询失败，尝试备用 API: %s', error);
+                }
+
+                // 如果 ip-api.com 失败，等待一下再尝试 ipapi.com
+                await new Promise(resolve => setTimeout(resolve, this.minQueryInterval));
+
+                // 尝试 ipapi.com
                 const ipapiResponse = await this.queryIpapi(ip);
                 if (ipapiResponse.country_code) {
                     const securityInfo = ipapiResponse.security;
                     if (securityInfo) {
                         logger.debug(
-                            'IP %s -> %s (%s, %s) [代理: %s, 威胁等级: %s]',
+                            'IP %s -> %s (%s, %s) [ipapi.com] [代理: %s, 威胁等级: %s]',
                             ip,
                             ipapiResponse.country_code,
                             ipapiResponse.city,
@@ -126,13 +136,14 @@ class IpLookupService {
                             securityInfo.threat_level
                         );
                     }
+                    this.lastQueryTime = Date.now();
                     return ipapiResponse.country_code;
                 }
 
                 logger.warn('无法确定IP %s 的位置', ip);
                 return 'UNKNOWN';
             } catch (error) {
-                logger.error('查询IP %s 失败: %s', ip, error);
+                logger.error('❌ 查询IP %s 失败: %s', ip, error);
                 return 'ERROR';
             } finally {
                 this.pendingQueries.delete(ip);
@@ -144,19 +155,19 @@ class IpLookupService {
     }
 
     private async queryIpApi(ip: string): Promise<IpApiResponse> {
-        const response = await fetchWithRetry(`http://ip-api.com/json/${ip}`, { retries: 3, retryDelay: 1000 });
+        const response = await fetch(`http://ip-api.com/json/${ip}`);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
-        return response.data.json();
+        return response.json();
     }
 
     private async queryIpapi(ip: string): Promise<IpapiResponse> {
-        const response = await fetchWithRetry(`https://ipapi.com/ip_api.php?ip=${ip}`, { retries: 3, retryDelay: 1000 });
+        const response = await fetch(`https://ipapi.com/ip_api.php?ip=${ip}`);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
-        return response.data.json();
+        return response.json();
     }
 }
 
