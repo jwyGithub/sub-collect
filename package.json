@@ -1,0 +1,31 @@
+{
+    "name": "sub-collect",
+    "version": "1.0.0",
+    "description": "A subscription collector for various proxy protocols",
+    "main": "dist/main.js",
+    "type": "module",
+    "scripts": {
+        "start": "esno src/main.ts",
+        "dev": "NODE_ENV=development esno src/main.ts",
+        "prod": "NODE_ENV=production esno src/main.ts"
+    },
+    "keywords": [
+        "subscription",
+        "collector",
+        "proxy"
+    ],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/node": "^22.13.9",
+        "esno": "^4.8.0",
+        "pino": "^9.6.0",
+        "pino-pretty": "^13.0.0",
+        "typescript": "^5.8.2",
+        "yaml": "^2.7.0"
+    },
+    "dependencies": {
+        "cloudflare-tools": "^0.1.1"
+    }
+}
+

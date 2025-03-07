@@ -1,0 +1,29 @@
+# 文件存储配置
+storage:
+    base_path: 'address'
+    files:
+        vless: 'vless_api.txt'
+        vmess: 'vmess_api.txt'
+        trojan: 'trojan_api.txt'
+        ssr: 'ssr_api.txt'
+        ss: 'ss_api.txt'
+        hysteria: 'hysteria_api.txt'
+        hysteria2: 'hysteria2_api.txt'
+
+# 日志配置
+logger:
+    level: 'debug'
+    pretty: true
+
+# 过滤规则配置
+filter:
+    # 正则表达式黑名单
+    patterns:
+        - '^127\.' # 过滤本地回环地址
+        - '^192\.168\.' # 过滤局域网地址
+        - 'cf\.090227\.xyz$' # 过滤特定域名
+    # 国家/地区代码黑名单
+    countryCodes:
+        - 'CN' # 中国大陆
+
+

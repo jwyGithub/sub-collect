@@ -1,0 +1,64 @@
+name: 订阅节点更新
+
+on:
+    # 定时触发
+    schedule:
+        - cron: '0 */8 * * *' # 每8小时执行一次
+
+    # 手动触发
+    workflow_dispatch:
+        inputs:
+            reason:
+                description: '触发原因'
+                required: false
+                default: '手动触发更新'
+    workflow_call:
+        secrets:
+            GITHUB_TOKEN:
+                required: true
+            SUBS:
+                required: true
+
+jobs:
+    update-nodes:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: 检出代码
+              uses: actions/checkout@v4
+
+            - name: 设置 Node.js 环境
+              uses: actions/setup-node@v4
+              with:
+                  node-version: latest
+
+            - name: 设置 pnpm
+              uses: pnpm/action-setup@v4
+              with:
+                  version: latest
+
+            - name: 安装依赖
+              run: pnpm install --no-frozen-lockfile
+
+            - name: 运行更新脚本
+              run: pnpm run prod
+              env:
+                  SUBS: ${{ secrets.SUBS }}
+
+            - name: 提交更改
+              run: |
+                  git config --local user.email "github-actions[bot]@users.noreply.github.com"
+                  git config --local user.name "github-actions[bot]"
+
+                  # 检查 address 目录是否存在更改
+                  if [ -d "address" ]; then
+                      git add address/
+                      if git diff --cached --quiet; then
+                          echo "没有需要提交的更改"
+                      else
+                          git commit -m "🔄 自动更新节点: $(date '+%Y-%m-%d %H:%M:%S')"
+                      fi
+                  else
+                      echo "address 目录不存在"
+                  fi
+
