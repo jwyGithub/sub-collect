@@ -72,7 +72,7 @@ class IpLookupService {
                 results.set(ip, countryCode);
                 this.cache.set(ip, countryCode);
             } catch (error) {
-                logger.error('❌ 查询IP %s 失败: %s', ip, error);
+                logger.error('[ERROR] 查询IP %s 失败: %s', ip, error);
                 results.set(ip, 'ERROR');
             }
         }
@@ -105,7 +105,7 @@ class IpLookupService {
                     const ipApiResponse = await this.queryIpApi(ip);
                     if (ipApiResponse.status === 'success' && ipApiResponse.countryCode) {
                         logger.debug(
-                            'IP %s -> %s (%s, %s) [ip-api.com]',
+                            '[IP-API] %s -> %s (%s, %s)',
                             ip,
                             ipApiResponse.countryCode,
                             ipApiResponse.city,
@@ -115,7 +115,7 @@ class IpLookupService {
                         return ipApiResponse.countryCode;
                     }
                 } catch (error) {
-                    logger.debug('ip-api.com 查询失败，尝试备用 API: %s', error);
+                    logger.debug('[RETRY] ip-api.com 查询失败，尝试备用 API: %s', error);
                 }
 
                 // 如果 ip-api.com 失败，等待一下再尝试 ipapi.com
@@ -127,7 +127,7 @@ class IpLookupService {
                     const securityInfo = ipapiResponse.security;
                     if (securityInfo) {
                         logger.debug(
-                            'IP %s -> %s (%s, %s) [ipapi.com] [代理: %s, 威胁等级: %s]',
+                            '[IPAPI] %s -> %s (%s, %s) [代理: %s, 威胁等级: %s]',
                             ip,
                             ipapiResponse.country_code,
                             ipapiResponse.city,
@@ -140,10 +140,10 @@ class IpLookupService {
                     return ipapiResponse.country_code;
                 }
 
-                logger.warn('无法确定IP %s 的位置', ip);
+                logger.warn('[WARN] 无法确定IP %s 的位置', ip);
                 return 'UNKNOWN';
             } catch (error) {
-                logger.error('❌ 查询IP %s 失败: %s', ip, error);
+                logger.error('[ERROR] 查询IP %s 失败: %s', ip, error);
                 return 'ERROR';
             } finally {
                 this.pendingQueries.delete(ip);

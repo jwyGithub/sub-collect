@@ -1,17 +1,17 @@
 import pino from 'pino';
 import { config } from '../config';
 
-// 定义日志级别对应的表情
-const levelEmojis = {
-    trace: '🔍',
-    debug: '🐛',
-    info: '📝',
-    warn: '⚠️',
-    error: '❌',
-    fatal: '💀'
+// 定义日志级别对应的标记
+const levelTags = {
+    trace: '[TRACE]',
+    debug: '[DEBUG]',
+    info: '[INFO]',
+    warn: '[WARN]',
+    error: '[ERROR]',
+    fatal: '[FATAL]'
 } as const;
 
-// 创建一个代理记录器来添加表情
+// 创建一个代理记录器来添加标记
 const createProxyLogger = (baseLogger: pino.Logger) => {
     const handler: ProxyHandler<pino.Logger> = {
         get(target, property) {
@@ -22,9 +22,9 @@ const createProxyLogger = (baseLogger: pino.Logger) => {
             if (typeof target[property as keyof pino.Logger] === 'function') {
                 return (...args: any[]) => {
                     if (typeof args[0] === 'string') {
-                        const level = property as keyof typeof levelEmojis;
-                        const emoji = levelEmojis[level] || '';
-                        args[0] = `${emoji} ${args[0]}`;
+                        const level = property as keyof typeof levelTags;
+                        const tag = levelTags[level] || '';
+                        args[0] = `${tag} ${args[0]}`;
                     }
                     return (target[property as keyof pino.Logger] as Function).apply(target, args);
                 };
