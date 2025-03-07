@@ -14,8 +14,6 @@ on:
                 default: '手动触发更新'
     workflow_call:
         secrets:
-            GITHUB_TOKEN:
-                required: true
             SUBS:
                 required: true
 
