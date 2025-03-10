@@ -49,9 +49,15 @@ jobs:
               run: |
                   git config --local user.email "github-actions[bot]@users.noreply.github.com"
                   git config --local user.name "github-actions[bot]"
-                  git add address
-                  git commit -m "🔄 自动更新节点: $(date '+%Y-%m-%d %H:%M:%S')"
-                  git push
+                  
+                  # 检查是否有改动
+                  if [[ -n "$(git status --porcelain)" ]]; then
+                    git add .
+                    git commit -m "🔄 自动更新节点: $(date '+%Y-%m-%d %H:%M:%S')"
+                    git push
+                  else
+                    echo "没有需要提交的更改"
+                  fi
 
             - name: 等待提交完成
               run: sleep 1
