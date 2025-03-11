@@ -1,43 +1,12 @@
-207.180.248.7:37732#法国5 - ⬇️ 7.7MB/s
-onevpshosting-5.solook.uk:40000#英国1 - ⬇️ 13.3MB/s
-yingguo1.su8.lol:8899#英国10 - ⬇️ 2.6MB/s
-gb5.dexlos.com:9327#英国12 - ⬇️ 6.2MB/s
-gb1.dexlos.com:1446#英国3 - ⬇️ 5.8MB/s
-gb2.dexlos.com:3555#英国4 - ⬇️ 13.0MB/s
-gb3.dexlos.com:5996#英国6 - ⬇️ 10.3MB/s
-gb4.dexlos.com:7426#英国8 - ⬇️ 3.2MB/s
-yiyuankuailian-hk.jiumaojiu.org:21023#香港10 - ⬇️ 1.3MB/s
-hk5.ddns-link-b5.uk:9333#香港11 - ⬇️ 1.1MB/s
-yiyuankuailian-hk.jiumaojiu.org:21051#香港16 - ⬇️ 10.4MB/s
-hk2.ddns-link-b5.uk:3666#香港7 - ⬇️ 6.2MB/s
-jp2.dexlos.com:3656#日本15 - ⬇️ 19.5MB/s
-jp3.dexlos.com:5729#日本20 - ⬇️ 30.0MB/s
-jp4.dexlos.com:7666#日本4 - ⬇️ 29.6MB/s
-jp5.dexlos.com:9872#日本9 - ⬇️ 29.9MB/s
-31.186.87.211:4029#波兰1 - ⬇️ 9.5MB/s
-46.17.41.189:51224#俄罗斯2 - ⬇️ 6.0MB/s
-185.22.152.236:33007#俄罗斯3 - ⬇️ 1.1MB/s
-jp-oracle.aikunapp.com:5001#新加坡1 - ⬇️ 12.0MB/s
-yiyuankuailian-sg.jiumaojiu.org:21006#新加坡12 - ⬇️ 8.7MB/s
-sg4.dexlos.com:7245#新加坡3 - ⬇️ 32.4MB/s
-sg5.dexlos.com:9794#新加坡6 - ⬇️ 25.7MB/s
-yiyuankuailian-us.jiumaojiu.org:21079#美国12 - ⬇️ 17.3MB/s
-yiyuankuailian-us.jiumaojiu.org:21005#美国13 - ⬇️ 19.2MB/s
-18.217.36.213:25534#美国15 - ⬇️ 16.3MB/s
-yyk-223.solook.uk:40000#美国2 - ⬇️ 16.0MB/s
-pianyi-us.jiumaojiu.org:20164#美国21 - ⬇️ 18.5MB/s
-pianyi-us.jiumaojiu.org:20119#美国27 - ⬇️ 14.0MB/s
-pianyi-us.jiumaojiu.org:20109#美国30 - ⬇️ 18.4MB/s
-qyt-61-5.solook.uk:40000#美国31 - ⬇️ 11.7MB/s
-pianyi-us.jiumaojiu.org:20175#美国33 - ⬇️ 17.4MB/s
-yyk-5-169.solook.uk:40000#美国35 - ⬇️ 10.4MB/s
-64.23.178.208:8243#美国37 - ⬇️ 16.7MB/s
-us4.dexlos.com:7768#美国38 - ⬇️ 18.0MB/s
-yiyuankuailian-us.jiumaojiu.org:21010#美国39 - ⬇️ 17.0MB/s
-racknerd-207.solook.uk:40000#美国42 - ⬇️ 5.5MB/s
-us5.dexlos.com:9247#美国49 - ⬇️ 17.4MB/s
-us2.dexlos.com:3083#美国52 - ⬇️ 16.6MB/s
-yiyuankuailian-us.jiumaojiu.org:21001#美国54 - ⬇️ 17.5MB/s
-yiyuankuailian-lu.jiumaojiu.org:21009#🌀其他1-LU - ⬇️ 2.2MB/s
-yiyuankuailian-lu.jiumaojiu.org:21085#🌀其他6-LU - ⬇️ 2.2MB/s
-yiyuankuailian-lu.jiumaojiu.org:21004#🌀其他7-LU - ⬇️ 2.1MB/s
+207.180.248.7:37732#法国1 - ⬇️ 3.1MB/s
+onevpshosting-5.solook.uk:40000#英国1 - ⬇️ 6.0MB/s
+31.186.87.211:4029#波兰1 - ⬇️ 4.2MB/s
+yiyuankuailian-sg.jiumaojiu.org:21006#新加坡3 - ⬇️ 2.3MB/s
+yyk-223.solook.uk:40000#美国10 - ⬇️ 12.9MB/s
+pianyi-us.jiumaojiu.org:20109#美国13 - ⬇️ 5.1MB/s
+pianyi-us.jiumaojiu.org:20164#美国15 - ⬇️ 4.6MB/s
+pianyi-us.jiumaojiu.org:20119#美国18 - ⬇️ 1.1MB/s
+yyk-5-169.solook.uk:40000#美国2 - ⬇️ 5.6MB/s
+64.23.178.208:8243#美国3 - ⬇️ 6.1MB/s
+qyt-61-5.solook.uk:40000#美国6 - ⬇️ 7.4MB/s
+racknerd-207.solook.uk:40000#美国8 - ⬇️ 1.5MB/s
