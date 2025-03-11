@@ -14,7 +14,7 @@ on:
                 default: '手动触发更新'
     workflow_call:
         secrets:
-            SUBS:
+            CONFIG:
                 required: true
             SUBSCRIPTION_SYNC_URL:
                 required: false
@@ -43,7 +43,7 @@ jobs:
             - name: 运行更新脚本
               run: pnpm run prod
               env:
-                  SUBS: ${{ secrets.SUBS }}
+                  CONFIG: ${{ secrets.CONFIG }}
 
             - name: 提交更改
               run: |
