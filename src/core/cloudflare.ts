@@ -86,8 +86,9 @@ export class CloudflareClient {
                 this.trojanResult = trojanResult;
             }
             return [
-                { name: 'vless', url: this.vlessResult },
-                { name: 'trojan', url: this.trojanResult }
+                { name: 'vless-sub', url: this.vlessResult },
+                { name: 'trojan-sub', url: this.trojanResult },
+                ...Object.entries(this.config.subs).map(([name, url]: [string, string]) => ({ name, url }))
             ];
         } catch (error) {
             logger.error(error);
