@@ -18,14 +18,25 @@ function loadConfigFile<T>(filename: string): T {
 }
 
 // 从环境变量加载订阅配置
-function loadSubsFromEnv(): EnvConfig['subs'] {
-    const subsEnv = process.env.SUBS;
-    if (!subsEnv) {
-        return [];
+function loadConfigFromEnv(): EnvConfig {
+    const configEnv = process.env.CONFIG;
+
+    if (!configEnv) {
+        return {
+            subs: {
+                vless: '',
+                trojan: ''
+            },
+            cloudflare: {
+                token: '',
+                account_id: '',
+                zone_id: ''
+            }
+        };
     }
 
     try {
-        return JSON.parse(subsEnv);
+        return JSON.parse(configEnv);
     } catch (error) {
         throw new Error(`Failed to parse SUBS environment variable: ${error}`);
     }
@@ -37,9 +48,7 @@ function loadEnvConfig(): EnvConfig {
 
     // 生产环境：从环境变量加载
     if (!isDev) {
-        return {
-            subs: loadSubsFromEnv()
-        };
+        return loadConfigFromEnv();
     }
 
     // 开发环境：尝试从 development.yaml 加载
@@ -48,7 +57,15 @@ function loadEnvConfig(): EnvConfig {
     } catch (error) {
         console.warn('开发环境配置加载失败，使用空订阅列表:', error);
         return {
-            subs: []
+            subs: {
+                vless: '',
+                trojan: ''
+            },
+            cloudflare: {
+                token: '',
+                account_id: '',
+                zone_id: ''
+            }
         };
     }
 }

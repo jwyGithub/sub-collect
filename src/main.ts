@@ -5,17 +5,22 @@ import { Storage } from './core/storage';
 import { logger } from './utils/logger';
 import { Node } from './config/types';
 import { PROTOCOLS } from './const';
+import { CloudflareClient } from './core/cloudflare';
+import { sleep } from 'cloudflare-tools';
 
 async function main() {
     try {
+        const cloudflare = new CloudflareClient(config);
+        const result = await cloudflare.start();
+        await sleep(5000);
+
         logger.info('开始处理订阅任务');
         const storage = new Storage(config.storage);
         const allNodes: Node[] = [];
-
         // 1. 并行获取所有订阅内容
         logger.info('开始获取所有订阅内容');
         const subscriptionContents = await Promise.all(
-            config.subs.map(async sub => {
+            result.map(async sub => {
                 try {
                     logger.info('正在获取订阅: %s (%s)', sub.name, sub.url);
                     const content = await fetchSubscription(sub.url);
@@ -27,13 +32,10 @@ async function main() {
             })
         );
         logger.info('所有订阅内容获取完成');
-
         // 2. 解析所有订阅内容
         logger.info('开始解析订阅内容');
-
         for (const { name, content, success } of subscriptionContents) {
             if (!success) continue;
-
             logger.info('正在解析订阅: %s', name);
             for (const protocol of PROTOCOLS) {
                 try {
@@ -49,9 +51,11 @@ async function main() {
             }
         }
         logger.info('所有订阅解析完成，共解析到 %d 个节点', allNodes.length);
-
         // 3. 保存节点
         await storage.saveNodes(allNodes);
+
+        // 4. 删除自定义域名
+        await cloudflare.deleteCustomHostname();
     } catch (error) {
         logger.error('程序执行失败: %s', error);
         process.exit(1);

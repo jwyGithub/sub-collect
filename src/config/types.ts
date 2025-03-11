@@ -1,8 +1,3 @@
-export interface Subscription {
-    name: string;
-    url: string;
-}
-
 export interface StorageConfig {
     base_path: string;
     files: {
@@ -15,7 +10,6 @@ export interface StorageConfig {
         hysteria2: string;
     };
 }
-
 export interface LoggerConfig {
     level: string;
     pretty: boolean;
@@ -23,8 +17,8 @@ export interface LoggerConfig {
 
 // 过滤规则配置接口
 export interface FilterRules {
-    patterns: string[]; // 正则表达式黑名单（用于过滤 IP 和域名）
-    countryCodes: string[]; // 国家/地区代码黑名单
+    patterns: string[];
+    countryCodes: string[];
 }
 
 // 基础配置接口（default.yaml）
@@ -36,7 +30,15 @@ export interface BaseConfig {
 
 // 环境配置接口（development.yaml 或环境变量）
 export interface EnvConfig {
-    subs: Subscription[];
+    subs: {
+        vless: string;
+        trojan: string;
+    };
+    cloudflare: {
+        token: string;
+        account_id: string;
+        zone_id: string;
+    };
 }
 
 // 完整配置接口

@@ -9,12 +9,14 @@ import { fetchWithRetry } from 'cloudflare-tools';
  */
 export async function fetchSubscription(url: string): Promise<string> {
     try {
-        const response = await fetch(url);
-        if (!response.ok) {
-            throw new FetchError(`HTTP error! status: ${response.status}`);
-        }
-
-        const text = await response.text();
+        const response = await fetchWithRetry(url, {
+            retries: 20,
+            retryDelay: 1000,
+            onRetry(attempt, delay) {
+                logger.warn('获取订阅内容失败 (%s), 重试第 %d 次, 等待 %d 毫秒', url, attempt, delay);
+            }
+        });
+        const text = await response.data.text();
         logger.debug('成功获取订阅内容 (%s)', url);
 
         return text;
