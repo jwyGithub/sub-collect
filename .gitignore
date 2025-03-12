@@ -135,6 +135,7 @@ dist
 
 # 开发环境配置
 config/development.yaml
+config/development.json
 
 # 编辑器配置
 .vscode/
