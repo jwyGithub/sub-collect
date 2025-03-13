@@ -9,6 +9,7 @@ storage:
         ss: 'ss_api.txt'
         hysteria: 'hysteria_api.txt'
         hysteria2: 'hysteria2_api.txt'
+        all: 'all.txt'
 
 # 日志配置
 logger:

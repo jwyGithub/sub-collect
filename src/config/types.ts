@@ -39,6 +39,7 @@ export interface EnvConfig {
         account_id: string;
         zone_id: string;
     };
+    uuid: string;
 }
 
 // 完整配置接口

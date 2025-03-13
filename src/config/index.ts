@@ -31,7 +31,8 @@ function loadConfigFromEnv(): EnvConfig {
                 token: '',
                 account_id: '',
                 zone_id: ''
-            }
+            },
+            uuid: ''
         };
     }
 
@@ -65,7 +66,8 @@ function loadEnvConfig(): EnvConfig {
                 token: '',
                 account_id: '',
                 zone_id: ''
-            }
+            },
+            uuid: ''
         };
     }
 }

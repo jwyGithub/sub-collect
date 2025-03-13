@@ -20,9 +20,9 @@ class CloudflareWorker {
     }
 
     public async start(): Promise<string> {
-        logger.info('开始设置自定义域名');
+        logger.info(`%s 开始设置自定义域名`, this.domain.service);
         await this.setCustomHostname();
-        return `https://${this.fakeDomain}/${this.domain.service}?sub=${this.config.subs[this.protocol]}`;
+        return `https://${this.fakeDomain}/${this.config.uuid}?sub=${this.config.subs[this.protocol]}`;
     }
 
     private async setCustomHostname() {
@@ -35,8 +35,9 @@ class CloudflareWorker {
                 zone_id: this.config.cloudflare.zone_id
             });
             this.fakeDomainId = res.id || '';
+            logger.info(`%s 自定义域名设置成功`, this.domain.service);
         } catch (error) {
-            logger.error('设置自定义域名失败', error);
+            logger.error(`%s 设置自定义域名失败 : %s`, this.domain.service, error);
         }
     }
 
@@ -45,8 +46,9 @@ class CloudflareWorker {
             await this.cloudflare.workers.domains.delete(this.fakeDomainId, {
                 account_id: this.config.cloudflare.account_id
             });
+            logger.info(`%s 自定义域名删除成功`, this.domain.service);
         } catch (error) {
-            logger.error('删除自定义域名失败', error);
+            logger.error(`%s 删除自定义域名失败 : %s`, this.domain.service, error);
         }
     }
 }
