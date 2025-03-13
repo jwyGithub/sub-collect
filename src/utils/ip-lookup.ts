@@ -6,7 +6,7 @@ class IpLookupService {
     private pendingQueries = new Map<string, Promise<string>>();
     private lastQueryTime = 0;
     private minQueryInterval = 500; // 每次查询最小间隔 500ms
-    private batchSize = 100; // 每批处理的IP数量
+    private batchSize = 20; // 每批处理的IP数量
     private providers: IpLookupProvider[];
 
     constructor() {

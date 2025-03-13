@@ -110,7 +110,9 @@ export interface IpLookupProvider {
  */
 export class IpApiProvider implements IpLookupProvider {
     async lookup(ip: string): Promise<string> {
-        const response = await fetch(`http://ip-api.com/json/${ip}`);
+        const url = `http://ip-api.com/json/${ip}`;
+        logger.debug('[IP-API] %s', url);
+        const response = await fetch(url);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -129,7 +131,9 @@ export class IpApiProvider implements IpLookupProvider {
  */
 export class IpapiProvider implements IpLookupProvider {
     async lookup(ip: string): Promise<string> {
-        const response = await fetch(`https://ipapi.com/ip_api.php?ip=${ip}`);
+        const url = `https://ipapi.com/ip_api.php?ip=${ip}`;
+        logger.debug('[IPAPI] %s', url);
+        const response = await fetch(url);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -148,7 +152,9 @@ export class IpapiProvider implements IpLookupProvider {
  */
 export class IpSbProvider implements IpLookupProvider {
     async lookup(ip: string): Promise<string> {
-        const response = await fetch(`https://api.ip.sb/geoip/${ip}`);
+        const url = `https://api.ip.sb/geoip/${ip}`;
+        logger.debug('[IP.SB] %s', url);
+        const response = await fetch(url);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
@@ -167,7 +173,9 @@ export class IpSbProvider implements IpLookupProvider {
  */
 export class IpApiIoProvider implements IpLookupProvider {
     async lookup(ip: string): Promise<string> {
-        const response = await fetch(`https://ip-api.io/json/${ip}`);
+        const url = `https://ip-api.io/json/${ip}`;
+        logger.debug('[IP-API.IO] %s', url);
+        const response = await fetch(url);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
