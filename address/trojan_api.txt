@@ -1,86 +1,67 @@
-185.133.35.245:443#BR
+8.219.121.62:443#SG
+185.133.35.224:443#BR
+152.70.105.161:443#JP
+216.221.210.185:443#US
+172.82.16.99:443#US
+212.183.88.43:443#AT
+91.149.239.70:443#US
+144.24.72.26:443#KR
+193.122.122.238:8443#KR
+140.238.60.225:443#JP
+185.16.110.111:443#FR
+212.183.88.109:443#AT
 192.0.54.0:443#US
-185.133.35.106:443#BR
-47.57.233.126:443#HK
-63.141.128.102:443#US
-185.133.35.78:443#BR
-212.183.88.162:443#AT
-192.0.54.132:443#US
-138.2.114.196:443#KR
-63.141.128.193:443#US
-193.122.125.223:443#KR
-152.70.236.166:443#KR
-158.178.225.39:443#SG
-206.238.237.105:443#SG
-185.133.35.30:443#BR
-162.159.153.194:443#CT
-162.159.153.150:443#CT
+185.16.110.107:443#FR
+162.159.152.25:443#CT
 162.159.153.12:443#CT
-162.159.152.139:443#CT
-104.18.47.177:443#CMCC
-104.17.124.174:443#CMCC
-104.16.157.246:443#CMCC
+162.159.152.69:443#CT
+104.18.46.81:443#CMCC
+104.16.144.176:443#CMCC
+104.17.189.210:443#CMCC
 198.41.221.186:443#CMCC
-104.16.144.216:443#CMCC
-[2606:4700:3036:0:a36a:4a94:8d40:c92c]:443#CMCC-IPV6
-[2606:4700:3036:ef:3f32:a9c6:39c4:9ae3]:443#CMCC-IPV6
-[2606:4700:3036::ce:d6ea]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:e1ed:36:8916:dace]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:e1ed:36:7204:2031]:443#CMCC-IPV6
-ttolpro.bigkangaroo.net:443#澳大利亚1 - ⬇️ 5.5MB/s
-siwtno.coffeekit.net:443#德国7 - ⬇️ 1.1MB/s
-coliseum.coffeekit.net:443#法国2 - ⬇️ 1.6MB/s
-bottling.coffeekit.net:443#法国4 - ⬇️ 5.8MB/s
-gy.58n.net:20294#香港24 - ⬇️ 4.0MB/s
-gy.58n.net:24603#香港7 - ⬇️ 7.9MB/s
-gy.58n.net:20300#日本13 - ⬇️ 16.3MB/s
-gy.58n.net:20139#日本5 - ⬇️ 18.1MB/s
-gy.58n.net:20076#日本8 - ⬇️ 3.3MB/s
-gy.58n.net:20142#日本9 - ⬇️ 6.6MB/s
-gy.58n.net:50355#韩国1 - ⬇️ 16.0MB/s
-gy.58n.net:45168#韩国4 - ⬇️ 7.6MB/s
-gy.58n.net:20299#新加坡4 - ⬇️ 25.7MB/s
-gy.58n.net:20129#新加坡9 - ⬇️ 21.2MB/s
-gy.58n.net:11215#美国16 - ⬇️ 17.4MB/s
-gy.58n.net:20296#美国27 - ⬇️ 14.0MB/s
-gy.58n.net:20308#美国8 - ⬇️ 12.2MB/s
-national.meijireform.com:28335#日本1 - ⬇️ 11.3MB/s
-western.meijireform.com:28338#日本12 - ⬇️ 8.9MB/s
-sniffle.meijireform.com:18332#日本15 - ⬇️ 10.3MB/s
-social.meijireform.com:28340#日本17 - ⬇️ 3.5MB/s
-fearow.superpokemon.com:28341#日本18 - ⬇️ 8.0MB/s
-tenderly.meijireform.com:28337#日本2 - ⬇️ 6.5MB/s
-seaside.meijireform.com:28342#日本4 - ⬇️ 2.7MB/s
-visual.superpokemon.com:443#日本6 - ⬇️ 8.5MB/s
-country.meijireform.com:28332#日本7 - ⬇️ 9.7MB/s
-bapus.koreanbbq.link:443#韩国3 - ⬇️ 6.1MB/s
-mention.protocolbuffer.com:443#新加坡11 - ⬇️ 14.2MB/s
-diagram.protocolbuffer.com:18332#新加坡13 - ⬇️ 3.5MB/s
-handgun.protocolbuffer.com:443#新加坡14 - ⬇️ 5.6MB/s
-luber.protocolbuffer.com:443#新加坡3 - ⬇️ 15.0MB/s
-pricing.protocolbuffer.com:18333#新加坡5 - ⬇️ 30.9MB/s
-morlin.protocolbuffer.com:28332#新加坡6 - ⬇️ 31.6MB/s
-pevoy.protocolbuffer.com:28337#新加坡8 - ⬇️ 8.9MB/s
-socepy.homeofbrave.net:443#美国1 - ⬇️ 2.6MB/s
-product.wireshop.net:443#美国10 - ⬇️ 17.7MB/s
-covteam.homeofbrave.net:443#美国13 - ⬇️ 1.7MB/s
-offbeat.taiwanesefood.link:28332#美国15 - ⬇️ 1.2MB/s
-printer.wireshop.net:28335#美国17 - ⬇️ 18.5MB/s
-lander.wireshop.net:443#美国18 - ⬇️ 17.3MB/s
-aluminum.wireshop.net:28334#美国19 - ⬇️ 18.1MB/s
-length.wireshop.net:443#美国2 - ⬇️ 18.3MB/s
-curtain.homeofbrave.net:28331#美国26 - ⬇️ 17.8MB/s
-dilmun.starspace.link:443#美国28 - ⬇️ 17.9MB/s
-privacy.taiwanesefood.link:443#美国29 - ⬇️ 2.2MB/s
-walrus.missionsec.io:28339#美国30 - ⬇️ 3.7MB/s
-toward.taiwanesefood.link:443#美国32 - ⬇️ 1.5MB/s
-soldier.homeofbrave.net:443#美国33 - ⬇️ 10.5MB/s
-lnitak.starspace.link:443#美国34 - ⬇️ 18.5MB/s
-tubular.wireshop.net:443#美国35 - ⬇️ 18.8MB/s
-bathtub.homeofbrave.net:28333#美国36 - ⬇️ 17.7MB/s
-beseech.homeofbrave.net:443#美国37 - ⬇️ 2.5MB/s
-closet.homeofbrave.net:28332#美国38 - ⬇️ 17.4MB/s
-dessert.taiwanesefood.link:443#美国39 - ⬇️ 7.5MB/s
-rolling.homeofbrave.net:28333#美国5 - ⬇️ 18.6MB/s
-otcele.golfland.club:443#🌀其他1-SE - ⬇️ 1.0MB/s
-mstiot.golfland.club:443#🌀其他5-SE - ⬇️ 1.7MB/s
+[2606:4700:3036:0:a36a:4a23:4a60:9f3f]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:260:e3e9:a48c:8437]:443#CMCC-IPV6
+[2606:4700:3036:ef:92f:be51:8695:9fc5]:443#CMCC-IPV6
+ttolpro.bigkangaroo.net:443#澳大利亚1 - ⬇️ 18.0MB/s
+bottling.coffeekit.net:443#法国3 - ⬇️ 5.0MB/s
+young.golfland.club:443#英国2 - ⬇️ 12.8MB/s
+sniffle.meijireform.com:18332#日本11 - ⬇️ 19.1MB/s
+gharial.superpokemon.com:443#日本13 - ⬇️ 29.2MB/s
+gorgeous-bull.shiner427.skin:443#日本17 - ⬇️ 13.8MB/s
+visual.superpokemon.com:443#日本7 - ⬇️ 18.2MB/s
+pidgey.superpokemon.com:28345#日本9 - ⬇️ 27.8MB/s
+luber.protocolbuffer.com:443#新加坡15 - ⬇️ 32.2MB/s
+18.139.226.245:443#新加坡17 - ⬇️ 31.0MB/s
+pevoy.protocolbuffer.com:28337#新加坡18 - ⬇️ 16.1MB/s
+valance.protocolbuffer.com:443#新加坡8 - ⬇️ 30.0MB/s
+levuior.taiwanesefood.link:28332#台湾4 - ⬇️ 11.9MB/s
+tubular.wireshop.net:443#美国22 - ⬇️ 17.0MB/s
+closet.homeofbrave.net:28332#美国25 - ⬇️ 9.5MB/s
+aluminum.wireshop.net:28334#美国29 - ⬇️ 18.1MB/s
+teapat.taiwanesefood.link:443#美国30 - ⬇️ 5.2MB/s
+printer.wireshop.net:28335#美国34 - ⬇️ 17.9MB/s
+lander.wireshop.net:443#美国39 - ⬇️ 18.3MB/s
+154.17.13.71:443#美国41 - ⬇️ 17.6MB/s
+154.17.23.111:443#美国42 - ⬇️ 14.1MB/s
+104.21.69.41:443#美国44 - ⬇️ 16.4MB/s
+barring.taiwanesefood.link:443#美国45 - ⬇️ 8.6MB/s
+tro-us02.gproxy.gratis:443#美国47 - ⬇️ 15.1MB/s
+bedsheet.homeofbrave.net:443#美国48 - ⬇️ 11.3MB/s
+dessert.taiwanesefood.link:443#美国49 - ⬇️ 1.0MB/s
+curtain.homeofbrave.net:28331#美国5 - ⬇️ 17.7MB/s
+chimney.homeofbrave.net:443#美国52 - ⬇️ 3.1MB/s
+lnitak.starspace.link:443#美国53 - ⬇️ 17.6MB/s
+product.wireshop.net:443#美国56 - ⬇️ 17.7MB/s
+soldier.homeofbrave.net:443#美国58 - ⬇️ 1.2MB/s
+whisky.homeofbrave.net:443#美国6 - ⬇️ 5.4MB/s
+154.17.21.41:443#美国62 - ⬇️ 17.9MB/s
+104.247.121.10:443#美国63 - ⬇️ 2.2MB/s
+154.17.20.103:443#美国67 - ⬇️ 2.0MB/s
+privacy.taiwanesefood.link:443#美国7 - ⬇️ 4.7MB/s
+phooey.taiwanesefood.link:443#美国70 - ⬇️ 5.3MB/s
+bathtub.homeofbrave.net:28333#美国73 - ⬇️ 15.2MB/s
+beseech.homeofbrave.net:443#美国8 - ⬇️ 5.5MB/s
+offbeat.taiwanesefood.link:28332#美国9 - ⬇️ 4.0MB/s
+otcele.golfland.club:443#🌀其他1-SE - ⬇️ 8.0MB/s
+mstiot.golfland.club:443#🌀其他17-SE - ⬇️ 1.7MB/s
+13.53.176.184:443#🌀其他6-SE - ⬇️ 14.9MB/s
