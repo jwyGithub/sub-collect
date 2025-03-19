@@ -1,40 +1,72 @@
-185.133.35.245:443#BR
-64.110.86.68:443#KR
-8.210.170.130:8443#HK
-194.76.18.83:443#KZ
-63.141.128.140:443#US
-185.16.110.103:443#FR
-63.141.128.94:443#US
+212.183.88.162:443#AT
 202.37.33.80:443#NZ
-192.0.54.0:443#US
-138.2.115.236:443#KR
-185.133.35.195:443#BR
-185.133.35.237:443#BR
-185.133.35.99:443#BR
-162.159.152.245:443#CT
-162.159.153.84:443#CT
-162.159.152.201:443#CT
-162.159.152.154:443#CT
-104.17.111.56:443#CMCC
-104.17.161.203:443#CMCC
-104.18.43.60:443#CMCC
-104.17.220.150:443#CMCC
-104.18.46.81:443#CMCC
-[2606:4700:3036:0:a36a:4aa4:75d9:9f75]:443#CMCC-IPV6
-[2606:4700:3036:0:a36a:4a94:8d40:c92c]:443#CMCC-IPV6
+185.133.35.245:443#BR
+185.133.35.30:443#BR
+144.24.83.39:443#KR
+185.133.35.155:443#BR
+63.141.128.193:443#US
+98.70.26.236:443#IN
+206.238.236.166:443#SG
+150.230.106.97:443#JP
+156.230.12.71:443#HK
+129.154.60.48:443#KR
+160.79.105.99:443#US
+217.163.76.102:443#GB
+206.238.237.60:443#SG
+104.16.144.196:443#CMCC
+104.16.146.187:443#CMCC
+104.16.154.41:443#CMCC
+104.16.144.119:443#CMCC
+104.16.159.190:443#CMCC
+104.16.157.246:443#CMCC
 [2606:4700:3036:6ed4:e1ed:36:8916:dace]:443#CMCC-IPV6
-[2606:4700:3036:0:a36a:4a23:4a60:9f3f]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]:443#CMCC-IPV6
-seaside.meijireform.com:28342#日本1 - ⬇️ 29.3MB/s
-tenderly.meijireform.com:28337#日本14 - ⬇️ 29.0MB/s
-gharial.superpokemon.com:443#日本15 - ⬇️ 28.7MB/s
-fearow.superpokemon.com:28341#日本17 - ⬇️ 15.1MB/s
-pidgey.superpokemon.com:28345#日本19 - ⬇️ 27.0MB/s
-country.meijireform.com:28332#日本22 - ⬇️ 29.1MB/s
-shogunate.meijireform.com:28344#日本4 - ⬇️ 24.4MB/s
-national.meijireform.com:28335#日本6 - ⬇️ 3.0MB/s
-swiftly.meijireform.com:443#日本7 - ⬇️ 6.8MB/s
-104.21.69.41:443#美国35 - ⬇️ 1.0MB/s
-beseech.homeofbrave.net:443#美国38 - ⬇️ 10.2MB/s
-socepy.homeofbrave.net:443#美国53 - ⬇️ 9.9MB/s
-192.3.130.103:443#🌀其他17-未识别 - ⬇️ 5.2MB/s
+[2606:4700:3036::ce:d6ea]:443#CMCC-IPV6
+[2606:4700:3036:ef:3f32:9601:b705:e94b]:443#CMCC-IPV6
+aafrtpfxr.cal01i9zjfegelp.5xfsur8v62.gosdk.xyz:34016#加拿大7 - ⬇️ 8.7MB/s
+aafrtpfxr.del01i9zjfegelp.5xfsur8v62.gosdk.xyz:43583#德国9 - ⬇️ 8.4MB/s
+aafrtpfxr.frl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43498#法国1 - ⬇️ 10.0MB/s
+gyl.58n.net:20309#香港1 - ⬇️ 28.9MB/s
+gy.58n.net:20294#香港31 - ⬇️ 16.3MB/s
+gy.58n.net:20279#香港36 - ⬇️ 29.4MB/s
+gy.58n.net:43337#香港40 - ⬇️ 28.4MB/s
+gy.58n.net:24603#香港5 - ⬇️ 28.7MB/s
+gy.58n.net:20139#日本12 - ⬇️ 31.6MB/s
+gy.58n.net:20059#日本3 - ⬇️ 17.0MB/s
+gy.58n.net:20300#日本9 - ⬇️ 2.8MB/s
+gy.58n.net:50355#韩国7 - ⬇️ 12.0MB/s
+gy.58n.net:20130#新加坡1 - ⬇️ 29.9MB/s
+gy.58n.net:17806#新加坡3 - ⬇️ 25.1MB/s
+gy.58n.net:20288#美国1 - ⬇️ 23.6MB/s
+gy.58n.net:16895#美国11 - ⬇️ 24.1MB/s
+gy.58n.net:21970#美国19 - ⬇️ 3.1MB/s
+gy.58n.net:20296#美国3 - ⬇️ 24.3MB/s
+gy.58n.net:20308#美国30 - ⬇️ 2.0MB/s
+gy.58n.net:11215#美国36 - ⬇️ 15.9MB/s
+gy.58n.net:20305#美国38 - ⬇️ 3.2MB/s
+gy.58n.net:20302#美国49 - ⬇️ 20.2MB/s
+gy.58n.net:20303#美国56 - ⬇️ 18.7MB/s
+gy.58n.net:30767#美国6 - ⬇️ 24.4MB/s
+aafrtpfxr.hkl04i9zjfegelp.5xfsur8v62.gosdk.xyz:27103#香港46 - ⬇️ 25.2MB/s
+gharial.superpokemon.com:443#日本1 - ⬇️ 1.7MB/s
+pidgey.superpokemon.com:28345#日本10 - ⬇️ 28.4MB/s
+visual.superpokemon.com:443#日本11 - ⬇️ 15.5MB/s
+national.meijireform.com:28335#日本13 - ⬇️ 18.3MB/s
+shogunate.meijireform.com:28344#日本2 - ⬇️ 28.8MB/s
+country.meijireform.com:28332#日本4 - ⬇️ 29.4MB/s
+tenderly.meijireform.com:28337#日本5 - ⬇️ 1.7MB/s
+aafrtpfxr.jpl04i9zjfegelp.5xfsur8v62.gosdk.xyz:22269#日本8 - ⬇️ 32.4MB/s
+aafrtpfxr.nll01i9zjfegelp.5xfsur8v62.gosdk.xyz:43591#荷兰1 - ⬇️ 8.8MB/s
+aafrtpfxr.rul01i9zjfegelp.5xfsur8v62.gosdk.xyz:46925#俄罗斯5 - ⬇️ 14.9MB/s
+aafrtpfxr.twl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27201#台湾18 - ⬇️ 30.0MB/s
+dignity.taiwanesefood.link:443#美国15 - ⬇️ 2.5MB/s
+aafrtpfxr.usl02i9zjfegelp.5xfsur8v62.gosdk.xyz:33505#美国2 - ⬇️ 11.1MB/s
+172.67.149.43:443#美国28 - ⬇️ 4.2MB/s
+172.67.204.75:443#美国5 - ⬇️ 12.1MB/s
+104.21.71.205:443#美国51 - ⬇️ 2.8MB/s
+aafrtpfxr.usl03i9zjfegelp.5xfsur8v62.gosdk.xyz:33506#美国53 - ⬇️ 13.3MB/s
+aafrtpfxr.myl02i9zjfegelp.5xfsur8v62.gosdk.xyz:43383#🌀其他14-MY - ⬇️ 9.1MB/s
+aafrtpfxr.pkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:42883#🌀其他20-PK - ⬇️ 3.8MB/s
+aafrtpfxr.myl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43393#🌀其他3-MY - ⬇️ 5.9MB/s
+aafrtpfxr.thl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43395#🌀其他4-TH - ⬇️ 28.4MB/s
+aafrtpfxr.vnl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43396#🌀其他6-VN - ⬇️ 2.2MB/s
+aafrtpfxr.trl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43397#🌀其他8-TR - ⬇️ 8.4MB/s
