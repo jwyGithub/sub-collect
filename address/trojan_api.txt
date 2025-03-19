@@ -1,68 +1,49 @@
-8.222.140.75:443#SG
+138.2.115.236:443#KR
+212.183.88.24:443#AT
+185.133.35.160:443#BR
+135.84.76.105:443#US
 185.133.35.182:443#BR
-144.24.72.26:443#KR
-193.122.108.84:443#KR
-206.238.236.166:443#SG
-152.70.236.166:443#KR
-212.183.88.186:443#AT
-185.133.35.224:443#BR
-47.57.233.126:443#HK
-170.39.66.154:443#US
-216.221.210.185:443#US
-8.222.211.196:443#SG
-129.150.61.196:443#SG
-162.159.152.185:443#CT
-162.159.152.248:443#CT
-162.159.153.232:443#CT
-162.159.152.114:443#CT
-104.16.157.246:443#CMCC
-104.16.144.239:443#CMCC
-104.17.213.78:443#CMCC
-104.17.122.253:443#CMCC
-104.18.46.81:443#CMCC
-[2606:4700:3036:0:a36a:4aa4:75d9:9f75]:443#CMCC-IPV6
-[2606:4700:3036:ef:92f:be51:8695:9fc5]:443#CMCC-IPV6
-[2606:4700:3036::ce:d6ea]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:e1ed:36:8916:dace]:443#CMCC-IPV6
-[2606:4700:3036:ef:db9e:eecc:caef:9d4a]:443#CMCC-IPV6
-[2606:4700:3036:ef:3f32:a9c6:39c4:9ae3]:443#CMCC-IPV6
-ligtsh.bigkangaroo.net:443#澳大利亚1 - ⬇️ 17.2MB/s
-ttolpro.bigkangaroo.net:443#澳大利亚2 - ⬇️ 18.5MB/s
-yecea.coffeekit.net:28334#德国8 - ⬇️ 7.2MB/s
-gy.58n.net:43337#香港1 - ⬇️ 25.8MB/s
-gy.58n.net:20307#香港2 - ⬇️ 22.0MB/s
-gy.58n.net:22741#香港4 - ⬇️ 22.9MB/s
-gy.58n.net:24603#香港7 - ⬇️ 18.2MB/s
-gy.58n.net:20139#日本2 - ⬇️ 28.8MB/s
-gy.58n.net:20059#日本5 - ⬇️ 31.4MB/s
-gy.58n.net:20142#日本6 - ⬇️ 30.1MB/s
-gy.58n.net:20140#日本7 - ⬇️ 22.4MB/s
-gy.58n.net:20299#新加坡2 - ⬇️ 6.1MB/s
-gy.58n.net:21247#台湾10 - ⬇️ 28.5MB/s
-gy.58n.net:11215#美国1 - ⬇️ 22.8MB/s
-gy.58n.net:20305#美国14 - ⬇️ 17.8MB/s
-gy.58n.net:20288#美国19 - ⬇️ 16.9MB/s
-gy.58n.net:20306#美国20 - ⬇️ 17.4MB/s
-gy.58n.net:20308#美国26 - ⬇️ 16.4MB/s
-gy.58n.net:20303#美国7 - ⬇️ 20.9MB/s
-gy.58n.net:25238#美国8 - ⬇️ 20.4MB/s
-gy.58n.net:30767#美国9 - ⬇️ 20.7MB/s
-sniffle.meijireform.com:18332#日本11 - ⬇️ 14.9MB/s
-gharial.superpokemon.com:443#日本15 - ⬇️ 29.1MB/s
-swiftly.meijireform.com:443#日本16 - ⬇️ 28.8MB/s
-tenderly.meijireform.com:28337#日本19 - ⬇️ 1.8MB/s
-national.meijireform.com:28335#日本21 - ⬇️ 23.5MB/s
-affairs.meijireform.com:28331#日本22 - ⬇️ 28.9MB/s
-sakoku.meijireform.com:28334#日本23 - ⬇️ 23.8MB/s
-country.meijireform.com:28332#日本4 - ⬇️ 28.1MB/s
-pidgey.superpokemon.com:28345#日本8 - ⬇️ 27.6MB/s
-valance.protocolbuffer.com:443#新加坡5 - ⬇️ 30.6MB/s
-levuior.taiwanesefood.link:28332#台湾12 - ⬇️ 5.1MB/s
-socepy.homeofbrave.net:443#美国10 - ⬇️ 5.8MB/s
-privacy.taiwanesefood.link:443#美国29 - ⬇️ 1.7MB/s
-154.17.31.220:28332#美国3 - ⬇️ 17.8MB/s
-teapat.taiwanesefood.link:443#美国32 - ⬇️ 4.7MB/s
-192.3.130.103:443#美国46 - ⬇️ 4.2MB/s
-closet.homeofbrave.net:28332#美国5 - ⬇️ 14.6MB/s
-curtain.homeofbrave.net:28331#美国6 - ⬇️ 17.7MB/s
-13.53.176.184:443#🌀其他4-SE - ⬇️ 4.3MB/s
+185.133.35.167:443#BR
+63.141.128.209:443#US
+212.183.88.225:443#AT
+185.16.110.103:443#FR
+185.16.110.111:443#FR
+185.133.35.103:443#BR
+185.133.35.228:443#BR
+185.133.35.125:443#BR
+162.159.152.190:443#CT
+162.159.153.27:443#CT
+162.159.153.175:443#CT
+162.159.153.90:443#CT
+162.159.153.61:443#CT
+104.17.189.210:443#CMCC
+104.18.47.177:443#CMCC
+[2606:4700:3036:6ed4:e1ed:ae00:3c36:e683]:443#CMCC-IPV6
+[2606:4700:3036:0:a36a:4a94:8d40:c92c]:443#CMCC-IPV6
+zz.xgbig.viptap-tcb-zz.cc:50070#香港29 - ⬇️ 32.5MB/s
+gy.58n.net:20278#香港30 - ⬇️ 5.3MB/s
+gy.58n.net:20071#日本6 - ⬇️ 18.6MB/s
+gy.58n.net:50355#韩国2 - ⬇️ 12.7MB/s
+gy.58n.net:17806#新加坡6 - ⬇️ 12.4MB/s
+gy.58n.net:16895#美国27 - ⬇️ 19.0MB/s
+visual.superpokemon.com:443#日本10 - ⬇️ 27.2MB/s
+country.meijireform.com:28332#日本11 - ⬇️ 15.9MB/s
+seaside.meijireform.com:28342#日本13 - ⬇️ 28.8MB/s
+pidgey.superpokemon.com:28345#日本14 - ⬇️ 22.8MB/s
+gharial.superpokemon.com:443#日本2 - ⬇️ 25.9MB/s
+fearow.superpokemon.com:28341#日本3 - ⬇️ 1.6MB/s
+swiftly.meijireform.com:443#日本5 - ⬇️ 28.8MB/s
+national.meijireform.com:28335#日本7 - ⬇️ 28.9MB/s
+sakoku.meijireform.com:28334#日本9 - ⬇️ 28.7MB/s
+zz.sghkg.fogvip-zz.uk:50311#新加坡5 - ⬇️ 21.1MB/s
+zz.xinjp01.fogvip-zz.uk:40013#新加坡7 - ⬇️ 15.4MB/s
+zz.xinjp02.fogvip-zz.uk:40017#新加坡8 - ⬇️ 19.0MB/s
+zz.tw01.fogvip-zz.uk:40036#台湾3 - ⬇️ 19.1MB/s
+zz.tw01.fogvip-zz.uk:40037#台湾9 - ⬇️ 18.6MB/s
+104.21.34.159:443#美国16 - ⬇️ 14.9MB/s
+192.3.130.103:443#美国2 - ⬇️ 4.0MB/s
+zz.mgxyt.fogvip-zz.uk:40005#美国22 - ⬇️ 10.3MB/s
+zz.usa02.fogvip-zz.uk:40045#美国3 - ⬇️ 7.4MB/s
+chimney.homeofbrave.net:443#美国43 - ⬇️ 3.5MB/s
+zz.usa01.fogvip-zz.uk:50072#美国7 - ⬇️ 10.0MB/s
+zz.mlxy-1.fogvip-zz.uk:50117#🌀其他4-MY - ⬇️ 17.6MB/s
