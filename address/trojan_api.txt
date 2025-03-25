@@ -1,40 +1,32 @@
-130.250.137.94:443#US
-138.2.29.227:443#JP
-168.138.180.81:443#SG
-185.133.35.103:443#BR
-144.24.83.39:443#KR
-135.84.76.110:443#US
-217.163.76.97:443#GB
-206.238.237.98:443#SG
-45.67.215.0:443#RU
-216.221.210.185:443#US
-8.222.199.153:443#SG
-212.183.88.132:443#AT
-152.70.105.161:443#JP
-104.16.152.163:443#CMCC
-104.16.146.187:443#CMCC
-104.16.157.246:443#CMCC
-104.16.150.133:443#CMCC
-104.17.189.210:443#CMCC
-104.16.144.239:443#CMCC
-[2606:4700:3036:6ed4:260:e3e9:a48c:8437]:443#CMCC-IPV6
-[2606:4700:3036:0:a36a:4a94:8d40:c92c]:443#CMCC-IPV6
-[2606:4700:3036:ef:3f32:a9c6:39c4:9ae3]:443#CMCC-IPV6
-[2606:4700:3036:0:a36a:4af2:65e7:a0d6]:443#CMCC-IPV6
-[2606:4700:3036:ef:db9e:eecc:caef:9d4a]:443#CMCC-IPV6
-smiling-sailfish.shiner427.skin:443#印度1 - ⬇️ 16.5MB/s
-right-monitor.shiner427.skin:443#印度4 - ⬇️ 17.4MB/s
-perfect-elk.shiner427.skin:443#德国3 - ⬇️ 8.6MB/s
-native-eft.shiner427.skin:443#德国5 - ⬇️ 3.6MB/s
-188.213.171.8:2053#意大利1 - ⬇️ 4.5MB/s
-driven-tiger.shiner427.skin:443#日本14 - ⬇️ 12.4MB/s
-gorgeous-gopher.shiner427.skin:443#日本6 - ⬇️ 10.4MB/s
-many-macaque.shiner427.skin:443#日本9 - ⬇️ 9.7MB/s
-factual-snake.shiner427.skin:443#美国19 - ⬇️ 11.9MB/s
-strong-eel.shiner427.skin:443#美国3 - ⬇️ 7.5MB/s
-capital-hyena.shiner427.skin:443#美国32 - ⬇️ 11.7MB/s
-positive-treefrog.shiner427.skin:443#美国50 - ⬇️ 2.9MB/s
-willing-possum.shiner427.skin:443#英国7 - ⬇️ 3.1MB/s
-allowing-owl.shiner427.skin:443#荷兰2 - ⬇️ 4.0MB/s
-ample-koi.shiner427.skin:443#荷兰3 - ⬇️ 1.2MB/s
-intense-hornet.shiner427.skin:443#荷兰4 - ⬇️ 4.2MB/s
+185.133.35.120:443#BR
+206.238.237.105:443#SG
+206.238.236.240:443#SG
+146.56.156.199:443#KR
+63.141.128.94:443#US
+8.219.86.249:443#SG
+212.183.88.136:443#AT
+172.82.16.99:443#US
+194.76.18.83:443#KZ
+192.0.54.132:443#US
+206.238.236.136:443#SG
+129.150.61.196:443#SG
+185.133.35.182:443#BR
+192.200.160.99:443#US
+219.76.13.164:443#HK
+right-monitor.shiner427.skin:443#印度2 - ⬇️ 16.6MB/s
+smiling-sailfish.shiner427.skin:443#印度4 - ⬇️ 1.1MB/s
+on-roughy.shiner427.skin:443#德国5 - ⬇️ 2.4MB/s
+perfect-elk.shiner427.skin:443#德国6 - ⬇️ 3.5MB/s
+gorgeous-gopher.shiner427.skin:443#日本12 - ⬇️ 12.8MB/s
+many-macaque.shiner427.skin:443#日本4 - ⬇️ 8.5MB/s
+driven-tiger.shiner427.skin:443#日本9 - ⬇️ 8.6MB/s
+capital-hyena.shiner427.skin:443#美国1 - ⬇️ 12.9MB/s
+positive-treefrog.shiner427.skin:443#美国36 - ⬇️ 4.7MB/s
+strong-eel.shiner427.skin:443#美国5 - ⬇️ 9.9MB/s
+factual-snake.shiner427.skin:443#美国8 - ⬇️ 1.8MB/s
+adapting-halibut.shiner427.skin:443#英国1 - ⬇️ 1.9MB/s
+direct-hen.shiner427.skin:443#英国4 - ⬇️ 2.0MB/s
+willing-possum.shiner427.skin:443#英国5 - ⬇️ 7.5MB/s
+ample-koi.shiner427.skin:443#荷兰2 - ⬇️ 6.1MB/s
+allowing-owl.shiner427.skin:443#荷兰3 - ⬇️ 6.9MB/s
+intense-hornet.shiner427.skin:443#荷兰4 - ⬇️ 5.0MB/s
