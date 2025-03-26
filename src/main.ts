@@ -77,6 +77,8 @@ async function main(cloudflare: CloudflareClient) {
     } finally {
         // 6. 删除自定义域名
         await cloudflare.deleteCustomHostname();
+        // 7. 删除自定义SSL证书
+        await cloudflare.deleteCustomSsl();
     }
 }
 

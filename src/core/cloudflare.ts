@@ -51,6 +51,38 @@ class CloudflareWorker {
             logger.error(`%s 删除自定义域名失败 : %s`, this.domain.service, error);
         }
     }
+
+    public async deleteCustomSsl() {
+        try {
+            const res = await this.cloudflare.ssl.certificatePacks.list({
+                zone_id: this.config.cloudflare.zone_id,
+                status: 'all'
+            });
+            const sslPack = this.getSslPack(res.result, this.fakeDomain);
+
+            if (sslPack) {
+                logger.info(`%s 删除自定义SSL证书`, sslPack.id);
+                await this.cloudflare.ssl.certificatePacks.delete(sslPack.id, {
+                    zone_id: this.config.cloudflare.zone_id
+                });
+            } else {
+                logger.info(`%s 没有自定义SSL证书`, this.fakeDomain);
+            }
+        } catch (error) {
+            logger.error(`%s 删除自定义SSL证书失败 : %s`, this.fakeDomain, error);
+        }
+    }
+
+    private getSslPack(list: any[] = [], uuid: string) {
+        for (const item of list) {
+            const [zone, domain] = item.hosts;
+            const matchKey = domain.replace(`.${zone}`, '');
+            if (matchKey === uuid) {
+                return item;
+            }
+        }
+        return null;
+    }
 }
 
 export class CloudflareClient {
@@ -104,6 +136,15 @@ export class CloudflareClient {
             await this.trojan?.deleteCustomHostname();
         } catch (error) {
             logger.error('删除自定义域名失败', error);
+        }
+    }
+
+    public async deleteCustomSsl() {
+        try {
+            await this.vless?.deleteCustomSsl();
+            await this.trojan?.deleteCustomSsl();
+        } catch (error) {
+            logger.error('删除自定义SSL证书失败', error);
         }
     }
 }
