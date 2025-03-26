@@ -7,7 +7,8 @@
     "scripts": {
         "start": "esno src/main.ts",
         "dev": "NODE_ENV=development esno src/main.ts",
-        "prod": "NODE_ENV=production esno src/main.ts"
+        "prod": "NODE_ENV=production esno src/main.ts",
+        "clean": "NODE_ENV=production esno src/clean.ts"
     },
     "keywords": [
         "subscription",
@@ -29,3 +30,4 @@
         "cloudflare-tools": "^0.2.2"
     }
 }
+

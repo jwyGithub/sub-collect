@@ -16,7 +16,7 @@ class CloudflareWorker {
         this.config = config;
         this.domain = domain;
 
-        this.fakeDomain = `${randomUUID()}.${this.domain.zone_name}`;
+        this.fakeDomain = `tempssl-${randomUUID()}.${this.domain.zone_name}`;
     }
 
     public async start(): Promise<string> {
