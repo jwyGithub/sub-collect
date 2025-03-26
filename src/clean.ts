@@ -11,7 +11,8 @@ async function clean() {
         const sslPacks: string[] = [];
 
         const tempSslPack = (await cloudflare.ssl.certificatePacks.list({
-            zone_id: config.cloudflare.zone_id
+            zone_id: config.cloudflare.zone_id,
+            status: 'all'
         })) as { result: { id: string; name: string }[] };
 
         const getTempSslPack = tempSslPack.result.filter((item: Record<string, any>) => {
