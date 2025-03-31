@@ -1,85 +1,22 @@
-46.17.41.217:4395#俄罗斯1 - ⬇️ 12.5MB/s
-46.17.41.5:12904#俄罗斯10 - ⬇️ 6.2MB/s
-46.29.163.171:35751#俄罗斯2 - ⬇️ 7.3MB/s
-gb.1e6af9be69cbae59cba.tech:20324#加拿大1 - ⬇️ 15.2MB/s
-gb.1e6af9be69cbae59cba.tech:20371#加拿大10 - ⬇️ 11.5MB/s
-gb.1e6af9be69cbae59cba.tech:20309#加拿大11 - ⬇️ 9.2MB/s
-gb.1e6af9be69cbae59cba.tech:20367#加拿大12 - ⬇️ 12.4MB/s
-gb.1e6af9be69cbae59cba.tech:20313#加拿大13 - ⬇️ 8.8MB/s
-gb.1e6af9be69cbae59cba.tech:20338#加拿大14 - ⬇️ 15.3MB/s
-gb.1e6af9be69cbae59cba.tech:20387#加拿大15 - ⬇️ 14.6MB/s
-gb.1e6af9be69cbae59cba.tech:20381#加拿大16 - ⬇️ 13.3MB/s
-gb.1e6af9be69cbae59cba.tech:20368#加拿大18 - ⬇️ 12.5MB/s
-gb.1e6af9be69cbae59cba.tech:20388#加拿大19 - ⬇️ 13.8MB/s
-gb.1e6af9be69cbae59cba.tech:20395#加拿大2 - ⬇️ 14.1MB/s
-gb.1e6af9be69cbae59cba.tech:20366#加拿大20 - ⬇️ 15.3MB/s
-gb.1e6af9be69cbae59cba.tech:20321#加拿大3 - ⬇️ 12.4MB/s
-gb.1e6af9be69cbae59cba.tech:20393#加拿大4 - ⬇️ 12.2MB/s
-gb.1e6af9be69cbae59cba.tech:20389#加拿大5 - ⬇️ 15.1MB/s
-gb.1e6af9be69cbae59cba.tech:20370#加拿大7 - ⬇️ 12.9MB/s
-gb.1e6af9be69cbae59cba.tech:20357#加拿大8 - ⬇️ 16.4MB/s
-gb.1e6af9be69cbae59cba.tech:20302#加拿大9 - ⬇️ 11.7MB/s
-de.1e6af9be69cbae59cba.tech:20303#德国11 - ⬇️ 9.9MB/s
-de.1e6af9be69cbae59cba.tech:20354#德国12 - ⬇️ 9.9MB/s
-de.1e6af9be69cbae59cba.tech:20381#德国16 - ⬇️ 13.7MB/s
-de.1e6af9be69cbae59cba.tech:20310#德国18 - ⬇️ 10.1MB/s
-de.1e6af9be69cbae59cba.tech:20397#德国19 - ⬇️ 11.5MB/s
-de.1e6af9be69cbae59cba.tech:20309#德国21 - ⬇️ 7.9MB/s
-de.1e6af9be69cbae59cba.tech:20367#德国22 - ⬇️ 12.4MB/s
-de.1e6af9be69cbae59cba.tech:20375#德国23 - ⬇️ 14.0MB/s
-de.1e6af9be69cbae59cba.tech:20323#德国24 - ⬇️ 13.5MB/s
-de.1e6af9be69cbae59cba.tech:20347#德国25 - ⬇️ 11.0MB/s
-de.1e6af9be69cbae59cba.tech:20348#德国27 - ⬇️ 13.2MB/s
-de.1e6af9be69cbae59cba.tech:20312#德国28 - ⬇️ 12.1MB/s
-de.1e6af9be69cbae59cba.tech:20305#德国3 - ⬇️ 14.4MB/s
-de.1e6af9be69cbae59cba.tech:20357#德国31 - ⬇️ 12.2MB/s
-de.1e6af9be69cbae59cba.tech:20355#德国4 - ⬇️ 14.6MB/s
-de.1e6af9be69cbae59cba.tech:20368#德国5 - ⬇️ 15.3MB/s
-de.1e6af9be69cbae59cba.tech:20358#德国6 - ⬇️ 14.6MB/s
-de.1e6af9be69cbae59cba.tech:20311#德国7 - ⬇️ 14.5MB/s
-de.1e6af9be69cbae59cba.tech:20317#德国8 - ⬇️ 13.0MB/s
-5.39.252.72:32008#德国15 - ⬇️ 5.7MB/s
-sg.1e6af9be69cbae59cba.tech:20314#新加坡3 - ⬇️ 2.0MB/s
-54.238.17.181:29677#日本5 - ⬇️ 17.8MB/s
-tw3.akebi.cc:2005#法国3 - ⬇️ 3.4MB/s
-tw3.akebi.cc:2006#澳大利亚11 - ⬇️ 4.3MB/s
-tw3.akebi.cc:2000#香港11 - ⬇️ 7.2MB/s
-tw3.akebi.cc:2021#香港28 - ⬇️ 3.3MB/s
-tw3.akebi.cc:2027#🌀其他7-KZ - ⬇️ 2.3MB/s
-51.159.226.1:61770#法国5 - ⬇️ 13.6MB/s
-195.154.33.70:59967#法国7 - ⬇️ 14.4MB/s
-sub-pl.yangxiansheng.online:40705#波兰1 - ⬇️ 7.9MB/s
-31.186.87.211:4029#波兰2 - ⬇️ 5.4MB/s
-85.194.246.115:53252#波兰4 - ⬇️ 7.7MB/s
-au.1e6af9be69cbae59cba.tech:20336#澳大利亚1 - ⬇️ 19.2MB/s
-au.1e6af9be69cbae59cba.tech:20383#澳大利亚10 - ⬇️ 9.3MB/s
-au.1e6af9be69cbae59cba.tech:20371#澳大利亚12 - ⬇️ 7.7MB/s
-au.1e6af9be69cbae59cba.tech:20394#澳大利亚13 - ⬇️ 5.8MB/s
-au.1e6af9be69cbae59cba.tech:20340#澳大利亚14 - ⬇️ 4.1MB/s
-au.1e6af9be69cbae59cba.tech:20384#澳大利亚15 - ⬇️ 20.6MB/s
-au.1e6af9be69cbae59cba.tech:20389#澳大利亚16 - ⬇️ 21.2MB/s
-au.1e6af9be69cbae59cba.tech:20369#澳大利亚17 - ⬇️ 8.5MB/s
-au.1e6af9be69cbae59cba.tech:20372#澳大利亚18 - ⬇️ 21.1MB/s
-au.1e6af9be69cbae59cba.tech:20323#澳大利亚19 - ⬇️ 6.9MB/s
-au.1e6af9be69cbae59cba.tech:20367#澳大利亚20 - ⬇️ 10.6MB/s
-au.1e6af9be69cbae59cba.tech:20329#澳大利亚3 - ⬇️ 3.2MB/s
-au.1e6af9be69cbae59cba.tech:20380#澳大利亚4 - ⬇️ 7.4MB/s
-au.1e6af9be69cbae59cba.tech:20310#澳大利亚5 - ⬇️ 7.0MB/s
-au.1e6af9be69cbae59cba.tech:20346#澳大利亚6 - ⬇️ 18.7MB/s
-au.1e6af9be69cbae59cba.tech:20303#澳大利亚7 - ⬇️ 5.5MB/s
-au.1e6af9be69cbae59cba.tech:20333#澳大利亚8 - ⬇️ 19.9MB/s
-au.1e6af9be69cbae59cba.tech:20317#澳大利亚9 - ⬇️ 6.1MB/s
-192-227-152-86.nip.io:61001#美国11 - ⬇️ 3.5MB/s
-us.1e6af9be69cbae59cba.tech:20385#美国18 - ⬇️ 16.9MB/s
-us.1e6af9be69cbae59cba.tech:20345#美国19 - ⬇️ 15.0MB/s
-us.1e6af9be69cbae59cba.tech:20339#美国20 - ⬇️ 13.4MB/s
-us.1e6af9be69cbae59cba.tech:20376#美国25 - ⬇️ 15.7MB/s
-us.1e6af9be69cbae59cba.tech:20326#美国39 - ⬇️ 19.4MB/s
-us.1e6af9be69cbae59cba.tech:20368#美国49 - ⬇️ 19.4MB/s
-us.1e6af9be69cbae59cba.tech:20366#美国59 - ⬇️ 19.4MB/s
-us.1e6af9be69cbae59cba.tech:20344#美国64 - ⬇️ 16.0MB/s
-us.1e6af9be69cbae59cba.tech:20379#美国66 - ⬇️ 16.2MB/s
-us.1e6af9be69cbae59cba.tech:20381#美国7 - ⬇️ 17.5MB/s
-107.167.18.123:443#美国40 - ⬇️ 20.3MB/s
-15.253.6.140:16543#美国53 - ⬇️ 4.7MB/s
-sub-us.yangxiansheng.online:8888#美国71 - ⬇️ 8.0MB/s
+46.29.163.171:35751#俄罗斯1 - ⬇️ 2.8MB/s
+46.17.41.5:12904#俄罗斯3 - ⬇️ 2.1MB/s
+46.17.41.217:4395#俄罗斯4 - ⬇️ 2.4MB/s
+155.248.219.197:37407#加拿大6 - ⬇️ 10.8MB/s
+yd1.gywanglug.xyz:8443#印度1 - ⬇️ 15.0MB/s
+dg1.gywanglug.xyz:8443#德国8 - ⬇️ 5.7MB/s
+195.154.33.70:59967#法国2 - ⬇️ 6.3MB/s
+51.159.226.1:61770#法国7 - ⬇️ 7.8MB/s
+pl3.xn--04q43rwxe.eu.org:27142#波兰1 - ⬇️ 3.7MB/s
+sub-pl.yangxiansheng.online:40705#波兰2 - ⬇️ 6.6MB/s
+164.152.19.229:47262#美国1 - ⬇️ 13.7MB/s
+mg5.gywanglug.xyz:8443#美国11 - ⬇️ 14.7MB/s
+192-227-152-86.nip.io:61001#美国16 - ⬇️ 3.4MB/s
+sub-us.yangxiansheng.online:8888#美国19 - ⬇️ 7.9MB/s
+mg4.gywanglug.xyz:8443#美国22 - ⬇️ 10.9MB/s
+cc.w1997.eu.org:66#美国26 - ⬇️ 14.2MB/s
+mg1.gywanglug.xyz:8443#美国28 - ⬇️ 7.6MB/s
+mg7.gywanglug.xyz:8443#美国5 - ⬇️ 14.2MB/s
+yg1.gywanglug.xyz:8443#英国3 - ⬇️ 8.3MB/s
+ulf.w1997.eu.org:66#荷兰1 - ⬇️ 3.2MB/s
+jnd1.gywanglug.xyz:8443#🌀其他21-未识别 - ⬇️ 11.8MB/s
+mg2.gywanglug.xyz:8443#🌀其他24-未识别 - ⬇️ 7.8MB/s
