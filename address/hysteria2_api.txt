@@ -1,30 +1,17 @@
-46.17.41.5:12904#俄罗斯11 - ⬇️ 5.7MB/s
-46.17.41.217:4395#俄罗斯3 - ⬇️ 10.4MB/s
-46.29.163.171:35751#俄罗斯7 - ⬇️ 4.4MB/s
-132.145.105.88:30300#加拿大1 - ⬇️ 14.5MB/s
-155.248.219.197:37407#加拿大19 - ⬇️ 10.0MB/s
-tw.akebi.cc:30001#台湾20 - ⬇️ 4.2MB/s
-tw.akebi.cc:1000#香港10 - ⬇️ 2.3MB/s
-alipay-api-nl-a-2.testred.xyz:443#德国10 - ⬇️ 3.6MB/s
-dg1.gywanglug.xyz:8443#德国11 - ⬇️ 11.0MB/s
-alipay-api-fr-a-1.testred.xyz:443#德国6 - ⬇️ 17.2MB/s
-alipay-api-jp-a-2.testred.xyz:443#日本1 - ⬇️ 12.7MB/s
-103.106.228.28:42675#日本7 - ⬇️ 2.1MB/s
-51.159.226.1:61770#法国12 - ⬇️ 8.4MB/s
-195.154.33.70:59967#法国6 - ⬇️ 11.7MB/s
-sub-pl.yangxiansheng.online:40705#波兰1 - ⬇️ 12.2MB/s
-mg7.gywanglug.xyz:8443#美国10 - ⬇️ 20.6MB/s
-alipay-api-us-a-1.testred.xyz:443#美国15 - ⬇️ 5.1MB/s
-cc.w1997.eu.org:66#美国39 - ⬇️ 2.7MB/s
-164.152.19.229:47262#美国45 - ⬇️ 15.7MB/s
-mg6.gywanglug.xyz:8443#美国5 - ⬇️ 19.0MB/s
-mg5.gywanglug.xyz:8443#美国6 - ⬇️ 18.6MB/s
-192-227-152-86.nip.io:61001#美国61 - ⬇️ 3.5MB/s
-alipay-api-us-a-5.testred.xyz:443#美国9 - ⬇️ 17.7MB/s
-alipay-api-nl-a-1.testred.xyz:443#荷兰3 - ⬇️ 11.5MB/s
-alipay-api-hk-a-3.testred.xyz:443#香港18 - ⬇️ 4.1MB/s
-tw3.akebi.cc:2021#香港23 - ⬇️ 3.7MB/s
-tw3.akebi.cc:2018#🌀其他32-TH - ⬇️ 2.4MB/s
-alipay-api-hk-a-2.testred.xyz:443#香港6 - ⬇️ 34.1MB/s
-212.192.12.56:31003#🌀其他29-CN - ⬇️ 5.4MB/s
-alipay-api-us-a-2.testred.xyz:443#🌀其他35-未识别 - ⬇️ 2.5MB/s
+132.145.105.88:30300#加拿大5 - ⬇️ 16.0MB/s |28%|Netflix|Youtube|Openai
+155.248.219.197:37407#加拿大9 - ⬇️ 13.8MB/s |28%|Netflix|Youtube|Openai
+alipay-api-fr-a-1.testred.xyz:443#德国3 - ⬇️ 6.9MB/s |0%|Netflix|Disney|Youtube|Openai
+195.154.33.70:59967#法国1 - ⬇️ 6.9MB/s |0%|Youtube|Openai
+51.159.226.1:61770#法国2 - ⬇️ 9.6MB/s |16%|Youtube|Openai
+sub-pl.yangxiansheng.online:40705#波兰1 - ⬇️ 5.2MB/s |0%|Disney|Openai
+cc.w1997.eu.org:66#美国15 - ⬇️ 19.3MB/s |18%|Openai
+mg5.gywanglug.xyz:8443#美国23 - ⬇️ 7.7MB/s |62%|Openai
+alipay-api-us-a-2.testred.xyz:443#美国29 - ⬇️ 4.1MB/s |32%|Openai
+108.181.5.130:15544#美国33 - ⬇️ 11.7MB/s |48%|Openai
+164.152.19.229:47262#美国34 - ⬇️ 7.5MB/s |28%|Netflix|Openai
+107.167.18.123:443#美国41 - ⬇️ 12.6MB/s |42%|Openai
+sub-hk.yangxiansheng.online:8888#香港18 - ⬇️ 7.0MB/s |15%|Netflix|Disney|Youtube|Openai
+alipay-api-jp-a-1.testred.xyz:443#🌀其他10-未识别 - ⬇️ 14.1MB/s|Openai
+alipay-api-au-a-1.testred.xyz:443#🌀其他14-SE - ⬇️ 6.7MB/s |24%|Youtube|Openai
+alipay-api-ca-a-1.testred.xyz:443#🌀其他16-未识别 - ⬇️ 12.5MB/s|Openai
+mg7.gywanglug.xyz:8443#🌀其他9-未识别 - ⬇️ 20.3MB/s|Openai

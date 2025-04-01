@@ -1,6 +1,11 @@
-104.18.149.75:443#台湾3 - ⬇️ 5.4MB/s
-u2.huvicloud.com:443#日本16 - ⬇️ 14.4MB/s
-jp05-vm0.entry.srthdw.art:46484#日本5 - ⬇️ 4.2MB/s
-uK802.890689.XYz:443#美国12 - ⬇️ 3.3MB/s
-192.74.247.195:30005#美国64 - ⬇️ 2.0MB/s
-aryanews.onetwothree123.ir:2053#🌀其他17-SE - ⬇️ 7.5MB/s
+5.39.252.72:20039#德国1 - ⬇️ 6.3MB/s |32%|Openai
+time.is:443#日本10 - ⬇️ 14.4MB/s |56%|Youtube|Openai
+cn2.ansh.top:443#日本12 - ⬇️ 10.5MB/s |56%|Youtube|Openai
+kkkghdragxc.fask511.cfd:25775#日本15 - ⬇️ 4.1MB/s |65%|Openai
+34.97.135.220:30251#日本3 - ⬇️ 26.1MB/s |10%|Openai
+222.104.240.250:10390#日本7 - ⬇️ 5.0MB/s |0%|Youtube|Openai
+jp03-alt-vm0.entry.srthdw.art:21583#日本8 - ⬇️ 6.8MB/s|Youtube|Openai
+38.174.162.101:38003#美国17 - ⬇️ 8.2MB/s |0%|Openai
+29483adc-su5gg0-sx6tfn-1fwzw.losa.plebai.net:5201#美国32 - ⬇️ 10.4MB/s |42%|Openai
+042b1f59-su5gg0-sx6tfn-1fwzw.lz.plebai.net:8082#美国35 - ⬇️ 5.8MB/s |42%|Openai
+192.74.247.195:30005#🌀其他8-未识别 - ⬇️ 14.9MB/s
