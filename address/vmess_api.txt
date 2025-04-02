@@ -1,11 +1,23 @@
-5.39.252.72:20039#德国1 - ⬇️ 6.3MB/s |32%|Openai
-time.is:443#日本10 - ⬇️ 14.4MB/s |56%|Youtube|Openai
-cn2.ansh.top:443#日本12 - ⬇️ 10.5MB/s |56%|Youtube|Openai
-kkkghdragxc.fask511.cfd:25775#日本15 - ⬇️ 4.1MB/s |65%|Openai
-34.97.135.220:30251#日本3 - ⬇️ 26.1MB/s |10%|Openai
-222.104.240.250:10390#日本7 - ⬇️ 5.0MB/s |0%|Youtube|Openai
-jp03-alt-vm0.entry.srthdw.art:21583#日本8 - ⬇️ 6.8MB/s|Youtube|Openai
-38.174.162.101:38003#美国17 - ⬇️ 8.2MB/s |0%|Openai
-29483adc-su5gg0-sx6tfn-1fwzw.losa.plebai.net:5201#美国32 - ⬇️ 10.4MB/s |42%|Openai
-042b1f59-su5gg0-sx6tfn-1fwzw.lz.plebai.net:8082#美国35 - ⬇️ 5.8MB/s |42%|Openai
-192.74.247.195:30005#🌀其他8-未识别 - ⬇️ 14.9MB/s
+104.16.228.229:80#巴西1 - ⬇️ 7.5MB/s |65%|Openai
+104.18.42.163:80#巴西2 - ⬇️ 9.0MB/s |65%|Youtube|Openai
+104.18.21.69:80#巴西3 - ⬇️ 9.3MB/s |65%|Netflix|Youtube|Openai
+104.18.23.45:80#巴西4 - ⬇️ 10.1MB/s |65%|Youtube|Openai
+172.65.90.53:80#巴西5 - ⬇️ 12.5MB/s |65%|Netflix|Youtube|Openai
+5.39.252.72:20039#德国6 - ⬇️ 6.0MB/s |32%|Openai
+111.243.122.124:25775#日本11 - ⬇️ 8.7MB/s |65%|Youtube|Openai
+222.104.240.250:10390#日本25 - ⬇️ 5.9MB/s |0%|Youtube|Openai
+u2.huvicloud.com:443#日本5 - ⬇️ 28.4MB/s |11%|Youtube|Openai
+tttxbmsm.fask511.cfd:25775#日本7 - ⬇️ 12.4MB/s |65%|Youtube|Openai
+108.186.31.110:37001#美国20 - ⬇️ 13.8MB/s |25%|Openai
+v8.heduian.link:30808#美国35 - ⬇️ 19.7MB/s|Openai
+v7.heduian.link:30807#美国44 - ⬇️ 6.3MB/s |29%|Openai
+v2-us2-zf2.netcar.live:34013#美国51 - ⬇️ 5.7MB/s |15%|Netflix|Disney|Openai
+v29.heduian.link:30829#美国52 - ⬇️ 7.4MB/s |0%|Netflix|Openai
+38.174.162.101:38003#美国6 - ⬇️ 13.8MB/s |0%|Openai
+kkkghdragxc.fask511.cfd:25780#阿拉伯酋长国2 - ⬇️ 9.2MB/s |17%|Openai
+pilaobanpengyou.netcar.live:320#香港10 - ⬇️ 7.9MB/s |15%|Netflix|Disney|Youtube
+104.17.137.127:443#香港17 - ⬇️ 5.4MB/s |28%|Disney|Youtube
+v2-tgzz.netcar.live:18139#🌀其他25-TH - ⬇️ 8.3MB/s |0%|Netflix|Youtube|Openai
+104.21.44.185:2053#🌀其他28-SE - ⬇️ 4.4MB/s |24%|Openai
+aryanews.onetwothree123.ir:2053#🌀其他31-SE - ⬇️ 7.8MB/s |24%|Youtube|Openai
+v5.heduian.link:30805#🌀其他5-ES - ⬇️ 7.0MB/s |11%|Openai
