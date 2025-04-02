@@ -1,35 +1,48 @@
-8.219.139.28:443#SG
-141.147.168.141:443#JP
-129.159.202.83:443#DE
-193.123.254.59:443#KR
-146.56.189.5:443#KR
-168.138.184.172:443#SG
-158.101.80.84:443#JP
-8.222.128.117:443#SG
-141.147.188.120:443#JP
-129.146.46.164:443#US
-129.154.56.71:443#KR
-138.2.29.64:443#JP
-168.138.165.174:443#SG
+168.138.46.67:443#JP
+141.148.231.39:443#NL
+47.91.18.127:443#JP
+47.57.245.232:443#HK
+155.248.164.130:443#JP
+141.148.187.195:443#US
+152.70.155.147:8443#US
+131.186.37.92:443#JP
 192.9.137.193:8443#US
-47.245.104.152:443#SG
-162.159.152.244:443#CT
-162.159.152.215:443#CT
-162.159.152.116:443#CT
+8.219.168.50:443#SG
+168.138.165.174:443#SG
+140.83.36.48:443#JP
+193.123.243.138:443#KR
+162.159.153.1:443#CT
 162.159.153.141:443#CT
-162.159.153.151:443#CT
-104.17.181.227:443#CMCC
-104.16.250.9:443#CMCC
-104.17.186.185:443#CMCC
-104.17.183.207:443#CMCC
-104.17.170.204:443#CMCC
-104.17.171.18:443#CMCC
-[2606:4700:3036:6ed4:e1ed:ae00:3c36:e683]:443#CMCC-IPV6
-[2606:4700:3036:ef:3f32:9601:b705:e94b]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:e1ed:36:8916:dace]:443#CMCC-IPV6
+162.159.152.238:443#CT
+162.159.152.194:443#CT
+162.159.152.215:443#CT
+104.18.88.187:443#CMCC
+104.16.242.80:443#CMCC
+104.17.180.136:443#CMCC
+[2606:4700:3036:0:a36a:4af2:65e7:a0d6]:443#CMCC-IPV6
+[2606:4700:3036:ef:3f32:a9c6:39c4:9ae3]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:260:e3e9:a48c:8437]:443#CMCC-IPV6
 [2606:4700:3036:ef:db9e:eecc:caef:9d4a]:443#CMCC-IPV6
-gysz0000.dynu.net:38340#🌀其他19-未识别 - ⬇️ 5.4MB/s|Youtube|Openai
-172.67.135.23:443#美国29 - ⬇️ 11.9MB/s |28%|Netflix|Openai
-vt-bana2-cn-11.ghpgwqswodgzv.com:40021#香港21 - ⬇️ 4.4MB/s |0%|Disney|Youtube|Openai
-172.67.141.68:2096#🌀其他1-SE - ⬇️ 9.6MB/s|Youtube|Openai
-econews.onetwothree123.ir:2087#🌀其他8-SE - ⬇️ 4.5MB/s |24%|Openai
+172.67.204.22:443#美国54 - ⬇️ 5.8MB/s |33%|Openai
+aafrtpfxr.cal01i9zjfegelp.5xfsur8v62.gosdk.xyz:34016#加拿大6 - ⬇️ 5.9MB/s |0%|Youtube|Openai
+aafrtpfxr.twl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27201#台湾2 - ⬇️ 10.7MB/s |0%|Netflix|Disney|Youtube|Openai
+aafrtpfxr.del01i9zjfegelp.5xfsur8v62.gosdk.xyz:43583#德国17 - ⬇️ 11.2MB/s |17%|Openai
+aafrtpfxr.sgl02i9zjfegelp.5xfsur8v62.gosdk.xyz:42881#新加坡10 - ⬇️ 6.1MB/s |0%|Disney|Youtube|Openai
+aafrtpfxr.jpl04i9zjfegelp.5xfsur8v62.gosdk.xyz:22269#日本14 - ⬇️ 5.6MB/s |0%|Disney|Youtube|Openai
+aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27001#日本2 - ⬇️ 5.0MB/s |0%|Netflix|Disney|Youtube|Openai
+wb.kaiqsz.com:28713#日本5 - ⬇️ 39.1MB/s |5%|Netflix|Disney|Youtube|Openai
+aafrtpfxr.frl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43498#法国1 - ⬇️ 4.8MB/s |17%|Disney|Openai
+aafrtpfxr.usl02i9zjfegelp.5xfsur8v62.gosdk.xyz:33505#美国1 - ⬇️ 5.9MB/s |0%|Disney|Openai
+104.21.49.59:443#美国14 - ⬇️ 4.5MB/s |33%|Openai
+aafrtpfxr.usl03i9zjfegelp.5xfsur8v62.gosdk.xyz:33506#美国25 - ⬇️ 5.9MB/s |0%|Openai
+172.67.159.56:443#美国28 - ⬇️ 16.1MB/s |0%|Openai
+192.3.130.103:443#美国58 - ⬇️ 4.8MB/s|Openai
+aafrtpfxr.gbl01i9zjfegelp.5xfsur8v62.gosdk.xyz:44397#英国1 - ⬇️ 6.4MB/s |17%|Openai
+aafrtpfxr.ael01i9zjfegelp.5xfsur8v62.gosdk.xyz:43497#阿拉伯酋长国2 - ⬇️ 4.8MB/s |28%|Openai
+aafrtpfxr.hkl02i9zjfegelp.5xfsur8v62.gosdk.xyz:27102#香港11 - ⬇️ 4.6MB/s |0%|Netflix|Disney|Youtube|Openai
+aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101#香港13 - ⬇️ 5.0MB/s |0%|Netflix|Disney|Youtube|Openai
+mojnews.itn24.ir:2096#🌀其他12-SE - ⬇️ 4.9MB/s |24%|Openai
+aafrtpfxr.trl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43397#🌀其他14-TR - ⬇️ 5.4MB/s |0%|Openai
+aafrtpfxr.idl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43394#🌀其他15-ID - ⬇️ 4.6MB/s |0%|Netflix|Openai
+aafrtpfxr.myl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43393#🌀其他3-MY - ⬇️ 6.1MB/s |0%|Youtube|Openai
+172.67.141.68:2096#🌀其他7-SE - ⬇️ 5.4MB/s|Openai
