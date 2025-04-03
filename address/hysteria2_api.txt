@@ -1,15 +1,15 @@
-46.29.163.171:35751#俄罗斯1 - ⬇️ 6.3MB/s |50%
-46.17.41.217:4395#俄罗斯3 - ⬇️ 7.7MB/s |100%
-46.17.41.5:12904#俄罗斯5 - ⬇️ 12.8MB/s |100%
-132.145.105.88:30300#加拿大1 - ⬇️ 17.0MB/s |28%|Netflix|Youtube|Openai
-140.245.42.3:44552#新加坡11 - ⬇️ 4.5MB/s |65%|Youtube|Openai
-alipay-api-jp-a-2.testred.xyz:443#日本5 - ⬇️ 12.4MB/s |0%|Youtube|Openai
-195.154.33.70:59967#法国2 - ⬇️ 11.4MB/s |0%|Youtube|Openai
-51.159.226.1:61770#法国7 - ⬇️ 16.1MB/s |16%|Openai
-alipay-api-us-a-4.testred.xyz:443#美国14 - ⬇️ 20.8MB/s |11%|Openai
-164.152.19.229:47262#美国25 - ⬇️ 15.1MB/s |28%|Netflix|Openai
-mg5.gywanglug.xyz:8443#美国40 - ⬇️ 22.9MB/s |63%|Openai
-alipay-api-nl-a-1.testred.xyz:443#荷兰1 - ⬇️ 8.9MB/s |24%|Youtube|Openai
-alipay-api-hk-a-3.testred.xyz:443#香港34 - ⬇️ 30.8MB/s |3%|Netflix|Disney|Youtube
-sub-hk.yangxiansheng.online:8888#香港4 - ⬇️ 17.2MB/s |15%|Netflix|Disney|Youtube|Openai
-74.119.193.3:54969#🌀其他14-未识别 - ⬇️ 7.0MB/s|Youtube
+46.29.163.171:35751#俄罗斯5 - ⬇️ 7.9MB/s |50%
+132.145.105.88:30300#加拿大10 - ⬇️ 14.6MB/s |28%|Netflix|Disney|Youtube|Openai
+alipay-api-fr-a-1.testred.xyz:443#德国1 - ⬇️ 13.7MB/s |0%|Netflix|Disney|Youtube|Openai
+45.63.116.113:443#德国4 - ⬇️ 7.0MB/s |0%|Netflix|Youtube|Openai
+alipay-api-nl-a-2.testred.xyz:443#德国7 - ⬇️ 11.2MB/s |0%|Netflix|Openai
+51.159.226.1:61770#法国3 - ⬇️ 16.3MB/s |16%|Openai
+195.154.33.70:59967#法国7 - ⬇️ 11.3MB/s |0%|Youtube|Openai
+alipay-api-us-a-3.testred.xyz:443#美国2 - ⬇️ 7.2MB/s |56%|Openai
+107.167.18.123:443#美国24 - ⬇️ 9.0MB/s |42%|Openai
+alipay-api-us-a-2.testred.xyz:443#美国31 - ⬇️ 4.1MB/s |32%|Openai
+alipay-api-us-a-1.testred.xyz:443#美国32 - ⬇️ 11.7MB/s |0%|Openai
+164.152.19.229:47262#美国36 - ⬇️ 17.5MB/s |28%|Netflix|Disney|Openai
+mg6.gywanglug.xyz:8443#美国38 - ⬇️ 22.3MB/s |63%|Openai
+108.181.5.133:15544#美国40 - ⬇️ 16.0MB/s |48%|Openai
+108.181.5.130:15544#美国44 - ⬇️ 9.0MB/s |48%|Openai

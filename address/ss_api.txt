@@ -1,23 +1,22 @@
-13.229.210.217:443#新加坡1 - ⬇️ 24.8MB/s |13%|Youtube|Openai
-13.250.61.152:443#新加坡10 - ⬇️ 27.7MB/s |39%|Youtube|Openai
-pr3.jymzffbquawl.com:6607#新加坡2 - ⬇️ 32.2MB/s |5%|Netflix|Disney|Youtube|Openai
-54.169.64.13:443#新加坡3 - ⬇️ 34.0MB/s |39%|Youtube|Openai
-bs3.jymzffbquawl.com:6600#新加坡4 - ⬇️ 31.9MB/s |5%|Youtube|Openai
-bs3.jymzffbquawl.com:6602#新加坡7 - ⬇️ 32.3MB/s|Netflix|Disney|Youtube|Openai
-13.250.5.171:443#新加坡6 - ⬇️ 22.5MB/s |39%|Youtube|Openai
-13.229.48.116:443#新加坡8 - ⬇️ 15.5MB/s |13%|Openai
-47.129.202.70:443#新加坡9 - ⬇️ 26.5MB/s |16%|Youtube|Openai
-35.77.81.130:443#日本1 - ⬇️ 27.3MB/s |39%|Youtube|Openai
-3.112.239.136:443#日本10 - ⬇️ 32.6MB/s |11%|Youtube|Openai
-52.198.238.20:443#日本12 - ⬇️ 28.6MB/s |11%|Youtube|Openai
-52.199.237.27:443#日本13 - ⬇️ 12.3MB/s |11%|Youtube|Openai
-43.206.220.47:443#日本16 - ⬇️ 29.3MB/s |39%|Youtube|Openai
-cn01.efan8867801.xyz:8766#日本19 - ⬇️ 24.0MB/s |5%|Netflix|Disney|Youtube|Openai
-cn01.efan8867801.xyz:8769#日本2 - ⬇️ 26.9MB/s |5%|Netflix|Disney|Youtube|Openai
-cn01.efan8867801.xyz:8776#美国33 - ⬇️ 25.6MB/s |5%|Netflix|Disney|Openai
-cn01.efan8867801.xyz:8771#美国9 - ⬇️ 24.7MB/s |5%|Netflix|Disney|Openai
-54.238.109.190:443#日本20 - ⬇️ 27.5MB/s |11%|Youtube|Openai
-18.183.228.32:443#日本23 - ⬇️ 24.9MB/s |11%|Youtube|Openai
-43.202.67.225:443#韩国1 - ⬇️ 16.2MB/s |39%|Youtube|Openai
-pr1.jymzffbquawl.com:3606#香港12 - ⬇️ 33.0MB/s|Netflix|Disney|Youtube|Openai
-rk1.nynode0.cc:19873#香港35 - ⬇️ 11.1MB/s |19%
+bs3.jymzffbquawl.com:3046#台湾31 - ⬇️ 28.9MB/s |13%|Netflix|Disney|Youtube|Openai
+bs3.jymzffbquawl.com:6605#新加坡6 - ⬇️ 66.8MB/s |5%|Netflix|Disney|Youtube|Openai
+bs3.jymzffbquawl.com:4603#日本1 - ⬇️ 18.1MB/s |5%|Netflix|Disney|Youtube|Openai
+bs3.jymzffbquawl.com:4602#日本22 - ⬇️ 22.5MB/s |5%|Netflix|Disney|Youtube|Openai
+54.169.64.13:443#新加坡1 - ⬇️ 23.8MB/s |39%|Youtube|Openai
+47.129.157.77:443#新加坡11 - ⬇️ 26.1MB/s |16%|Youtube|Openai
+us2mszypkzy.92859852.xyz:48698#新加坡12 - ⬇️ 12.2MB/s |11%|Netflix|Disney|Youtube
+us1mxevocgs.92859852.xyz:52678#新加坡8 - ⬇️ 5.3MB/s |16%|Netflix|Disney|Youtube
+54.199.167.92:443#日本10 - ⬇️ 28.5MB/s |39%|Youtube|Openai
+35.77.81.130:443#日本11 - ⬇️ 27.0MB/s |39%|Youtube|Openai
+18.183.228.32:443#日本12 - ⬇️ 20.8MB/s |11%|Youtube|Openai
+52.197.57.24:443#日本13 - ⬇️ 25.7MB/s |11%|Youtube|Openai
+18.181.170.89:443#日本14 - ⬇️ 25.8MB/s |11%|Youtube|Openai
+175.41.230.149:443#日本15 - ⬇️ 31.7MB/s |0%|Youtube|Openai
+3.112.239.136:443#日本4 - ⬇️ 28.8MB/s |11%|Openai
+54.199.64.156:443#日本6 - ⬇️ 8.5MB/s |39%|Openai
+54.238.109.190:443#日本7 - ⬇️ 24.6MB/s |11%|Youtube|Openai
+13.112.73.126:443#日本8 - ⬇️ 22.1MB/s |0%|Youtube|Openai
+pr3.jymzffbquawl.com:4602#日本9 - ⬇️ 17.1MB/s|Netflix|Disney|Youtube|Openai
+bs1.jymzffbquawl.com:3605#香港24 - ⬇️ 27.6MB/s |5%|Netflix|Disney|Youtube|Openai
+bs1.jymzffbquawl.com:3607#香港26 - ⬇️ 75.2MB/s|Netflix|Disney|Youtube|Openai
+pr1.jymzffbquawl.com:3601#香港25 - ⬇️ 32.4MB/s |0%|Netflix|Disney|Youtube|Openai
