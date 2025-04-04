@@ -1,13 +1,6 @@
-46.137.227.253:443#新加坡1 - ⬇️ 6.1MB/s |39%|Openai
-54.199.167.92:443#日本1 - ⬇️ 27.0MB/s |39%|Netflix|Disney|Youtube|Openai
-52.199.237.27:443#日本11 - ⬇️ 28.9MB/s |11%|Netflix|Youtube|Openai
-13.112.180.58:443#日本15 - ⬇️ 23.7MB/s |0%|Netflix|Youtube|Openai
-43.207.204.100:443#日本17 - ⬇️ 6.0MB/s|Netflix|Openai
-175.41.230.149:443#日本18 - ⬇️ 13.8MB/s |0%|Netflix|Youtube|Openai
-54.238.109.190:443#日本20 - ⬇️ 27.1MB/s |11%|Netflix|Youtube|Openai
-52.197.57.24:443#日本22 - ⬇️ 24.3MB/s |11%|Netflix|Youtube|Openai
-3.112.239.136:443#日本25 - ⬇️ 26.7MB/s |11%|Netflix|Youtube|Openai
-52.198.238.20:443#日本5 - ⬇️ 29.0MB/s |11%|Netflix|Youtube|Openai
-bs3.jymzffbquawl.com:4605#🌀其他1-未识别 - ⬇️ 17.7MB/s|Netflix|Disney|Youtube|Openai
-gy.tangu.win:13642#🌀其他4-VN - ⬇️ 9.5MB/s |17%|Netflix|Youtube|Openai
-pr1.jymzffbquawl.com:3606#🌀其他6-未识别 - ⬇️ 23.7MB/s|Netflix|Disney|Youtube|Openai
+47.129.157.77:443#新加坡1 - ⬇️ 31.6MB/s |16%|Netflix|Youtube|Openai
+52.198.238.20:443#日本10 - ⬇️ 26.6MB/s |11%|Netflix|Youtube|Openai
+3.112.239.136:443#日本13 - ⬇️ 26.2MB/s |11%|Netflix|Youtube|Openai
+52.199.237.27:443#日本14 - ⬇️ 25.9MB/s |11%|Netflix|Youtube|Openai
+pr3.jymzffbquawl.com:4607#日本8 - ⬇️ 19.4MB/s |5%|Netflix|Disney|Youtube|Openai
+gurvpn_bot.outlinekeys.net:4433#荷兰1 - ⬇️ 6.1MB/s |0%|Netflix|Youtube|Openai
