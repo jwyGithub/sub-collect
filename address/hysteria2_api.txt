@@ -1,15 +1,23 @@
-46.29.163.171:35751#俄罗斯5 - ⬇️ 7.9MB/s |50%
-132.145.105.88:30300#加拿大10 - ⬇️ 14.6MB/s |28%|Netflix|Disney|Youtube|Openai
-alipay-api-fr-a-1.testred.xyz:443#德国1 - ⬇️ 13.7MB/s |0%|Netflix|Disney|Youtube|Openai
-45.63.116.113:443#德国4 - ⬇️ 7.0MB/s |0%|Netflix|Youtube|Openai
-alipay-api-nl-a-2.testred.xyz:443#德国7 - ⬇️ 11.2MB/s |0%|Netflix|Openai
-51.159.226.1:61770#法国3 - ⬇️ 16.3MB/s |16%|Openai
-195.154.33.70:59967#法国7 - ⬇️ 11.3MB/s |0%|Youtube|Openai
-alipay-api-us-a-3.testred.xyz:443#美国2 - ⬇️ 7.2MB/s |56%|Openai
-107.167.18.123:443#美国24 - ⬇️ 9.0MB/s |42%|Openai
-alipay-api-us-a-2.testred.xyz:443#美国31 - ⬇️ 4.1MB/s |32%|Openai
-alipay-api-us-a-1.testred.xyz:443#美国32 - ⬇️ 11.7MB/s |0%|Openai
-164.152.19.229:47262#美国36 - ⬇️ 17.5MB/s |28%|Netflix|Disney|Openai
-mg6.gywanglug.xyz:8443#美国38 - ⬇️ 22.3MB/s |63%|Openai
-108.181.5.133:15544#美国40 - ⬇️ 16.0MB/s |48%|Openai
-108.181.5.130:15544#美国44 - ⬇️ 9.0MB/s |48%|Openai
+132.145.105.88:30300#加拿大1 - ⬇️ 7.7MB/s |28%|Netflix|Disney|Youtube|Openai
+46.17.41.217:4395#俄罗斯1 - ⬇️ 10.4MB/s |100%
+46.29.163.171:35751#俄罗斯10 - ⬇️ 13.2MB/s |50%
+46.17.41.5:12904#俄罗斯5 - ⬇️ 6.0MB/s |100%
+alipay-api-ca-a-1.testred.xyz:443#加拿大7 - ⬇️ 13.3MB/s |67%|Netflix|Openai
+tw.akebi.cc:30001#台湾10 - ⬇️ 7.5MB/s |0%|Netflix|Disney|Youtube|Openai
+tw.akebi.cc:1000#香港32 - ⬇️ 5.5MB/s |33%|Netflix|Disney
+51.159.226.1:61770#法国11 - ⬇️ 15.8MB/s |16%|Netflix|Openai
+195.154.33.70:59967#法国2 - ⬇️ 11.5MB/s |0%|Netflix|Youtube|Openai
+85.194.246.115:53252#波兰1 - ⬇️ 7.5MB/s |0%|Netflix|Disney|Youtube|Openai
+164.152.19.229:47262#美国15 - ⬇️ 16.7MB/s |28%|Netflix|Disney|Openai
+108.181.5.133:15544#美国26 - ⬇️ 19.9MB/s |48%|Netflix|Openai
+108.181.5.130:15544#美国32 - ⬇️ 11.7MB/s |48%|Netflix|Openai
+alipay-api-us-a-4.testred.xyz:443#美国53 - ⬇️ 22.0MB/s |11%|Netflix|Openai
+alipay-api-us-a-3.testred.xyz:443#美国8 - ⬇️ 23.5MB/s |56%|Netflix|Openai
+alipay-api-hk-a-2.testred.xyz:443#香港10 - ⬇️ 5.6MB/s|Netflix|Youtube
+tw3.akebi.cc:2000#香港11 - ⬇️ 11.6MB/s |33%|Netflix|Disney
+tw3.akebi.cc:2021#香港39 - ⬇️ 8.4MB/s |33%|Netflix|Disney
+tw3.akebi.cc:2006#🌀其他25-未识别 - ⬇️ 6.8MB/s|Netflix|Disney|Youtube|Openai
+148.135.43.253:446#🌀其他12-未识别 - ⬇️ 20.7MB/s|Netflix|Openai
+alipay-api-au-a-1.testred.xyz:443#🌀其他19-SE - ⬇️ 7.2MB/s |24%|Youtube|Openai
+alipay-api-us-a-1.testred.xyz:443#🌀其他6-未识别 - ⬇️ 24.0MB/s|Netflix|Openai
+45.12.134.112:21764#🌀其他7-CY - ⬇️ 8.3MB/s |70%|Netflix|Openai

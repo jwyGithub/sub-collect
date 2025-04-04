@@ -1,37 +1,28 @@
-129.159.143.171:2053#IL
+152.67.219.130:443#KR
+8.219.176.73:443#SG
+8.219.117.33:443#SG
+8.222.153.168:443#SG
+8.219.232.117:443#SG
 140.238.50.112:443#JP
-132.145.24.99:8443#GB
-129.154.209.99:443#KR
-152.70.155.147:2096#US
-129.150.53.218:443#SG
-8.219.239.215:443#SG
-141.147.47.32:8443#DE
-141.147.47.32:2053#DE
-129.154.63.92:443#KR
-152.69.219.154:8443#SG
-8.222.250.79:443#SG
-204.216.216.148:2053#IT
-8.222.181.217:443#SG
-158.101.204.199:443#NL
-132.145.53.55:2053#GB
-104.17.176.177:443#CMCC
-104.17.176.198:443#CMCC
-104.18.86.133:443#CMCC
-104.17.183.76:443#CMCC
-198.41.209.186:443#CMCC
-[2606:4700:3036:0:a36a:4a23:4a60:9f3f]:443#CMCC-IPV6
+8.219.212.56:443#SG
+165.1.79.60:8443#US
+8.219.156.69:443#SG
+47.245.108.95:443#SG
+8.219.68.154:443#SG
+8.219.208.8:443#SG
+8.219.167.243:443#SG
+150.230.216.107:443#JP
+162.159.152.69:443#CT
+162.159.152.155:443#CT
+162.159.153.209:443#CT
+162.159.152.225:443#CT
+104.17.185.105:443#CMCC
+104.17.166.0:443#CMCC
+104.17.164.183:443#CMCC
+104.16.242.82:443#CMCC
 [2606:4700:3036:0:a36a:4aa4:75d9:9f75]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]:443#CMCC-IPV6
+[2606:4700:3036::ce:d6ea]:443#CMCC-IPV6
 [2606:4700:3036:ef:3f32:a9c6:39c4:9ae3]:443#CMCC-IPV6
-[2606:4700:3036:ef:db9e:eecc:caef:9d4a]:443#CMCC-IPV6
-aafrtpfxr.cal01i9zjfegelp.5xfsur8v62.gosdk.xyz:34016#加拿大3 - ⬇️ 6.4MB/s |0%|Youtube|Openai
-aafrtpfxr.del01i9zjfegelp.5xfsur8v62.gosdk.xyz:43583#德国9 - ⬇️ 4.2MB/s |17%|Openai
-aafrtpfxr.jpl02i9zjfegelp.5xfsur8v62.gosdk.xyz:27002#日本3 - ⬇️ 6.5MB/s |0%|Netflix|Disney|Youtube|Openai
-aafrtpfxr.frl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43498#法国8 - ⬇️ 4.6MB/s |17%|Disney|Openai
-aafrtpfxr.usl03i9zjfegelp.5xfsur8v62.gosdk.xyz:33506#美国11 - ⬇️ 5.3MB/s |0%|Openai
-89.187.181.179:43118#美国14 - ⬇️ 5.1MB/s |48%
-104.21.69.41:443#美国18 - ⬇️ 4.2MB/s |33%|Openai
-aafrtpfxr.gbl01i9zjfegelp.5xfsur8v62.gosdk.xyz:44397#英国4 - ⬇️ 4.7MB/s |17%|Openai
-aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101#香港16 - ⬇️ 7.5MB/s |15%|Netflix|Disney|Youtube|Openai
-aafrtpfxr.hkl03i9zjfegelp.5xfsur8v62.gosdk.xyz:10465#香港32 - ⬇️ 5.2MB/s |0%|Netflix|Disney|Youtube|Openai
-aafrtpfxr.thl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43395#🌀其他8-TH - ⬇️ 6.9MB/s |80%|Youtube|Openai
+[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]:443#CMCC-IPV6
+172.67.159.56:443#美国5 - ⬇️ 5.9MB/s |33%|Netflix|Openai
+88.119.175.241:443#🌀其他13-LT - ⬇️ 12.4MB/s |0%|Netflix|Openai

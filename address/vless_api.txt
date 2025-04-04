@@ -1,19 +1,19 @@
-132.145.81.117:443#KR
-47.240.42.138:443#HK
-168.138.165.174:443#SG
-140.238.44.146:443#JP
-141.147.92.143:8443#GB
-47.254.29.193:443#US
-138.2.64.229:443#SG
-8.219.234.116:443#SG
-144.24.74.16:443#KR
-141.147.92.154:443#GB
-8.222.218.155:443#SG
-158.101.216.209:443#NL
-131.186.33.178:443#JP
-193.122.124.215:8443#KR
-8.219.235.120:443#SG
-131.186.62.158:443#JP
+150.230.250.247:443#KR
+152.69.216.119:443#SG
+8.219.248.247:443#SG
+8.219.2.66:443#SG
+8.219.210.145:443#SG
+155.248.160.181:443#JP
+138.2.235.224:8443#US
+8.219.193.93:443#SG
+8.220.134.136:443#PH
+8.222.178.220:443#SG
+144.24.78.188:443#KR
+158.101.84.95:443#JP
+8.219.53.107:443#SG
+8.219.209.78:443#SG
+47.57.13.107:443#HK
+8.222.185.203:443#SG
 152.70.100.102:58312#JP
 158.101.76.55:21953#JP
 129.150.32.171:6443#SG
@@ -28,153 +28,158 @@
 104.168.43.27:37190#US
 204.110.220.97:80#US
 204.110.220.191:80#US
-129.151.204.91:443#SE
 129.159.129.107:2053#IL
 129.159.143.171:8443#IL
 129.213.136.180:443#US
+132.145.81.117:443#KR
 138.2.107.107:443#SG
 138.2.61.180:443#JP
 140.238.158.238:443#CA
 140.238.201.118:443#AU
 141.148.203.6:443#IN
 144.24.140.37:443#IN
+150.136.87.192:443#US
 152.67.190.105:443#IN
 152.70.57.182:443#NL
+156.230.12.71:443#CN
 168.138.13.201:443#AU
 192.18.134.22:443#US
 193.123.80.245:443#AE
 210.61.97.241:81#TW
 43.135.44.101:30002#HK
 47.253.105.131:443#US
-162.159.153.151:443#CT
-162.159.152.116:443#CT
-162.159.153.134:443#CT
-104.17.170.4:443#CMCC
-104.17.185.105:443#CMCC
-104.17.178.106:443#CMCC
-104.17.174.108:443#CMCC
-104.18.90.136:443#CMCC
+162.159.152.53:443#CT
+162.159.153.156:443#CT
+162.159.153.194:443#CT
+162.159.153.217:443#CT
+162.159.152.31:443#CT
+162.159.152.11:443#CT
 104.19.221.207:443#CMCC
-[2606:4700:3036:0:a36a:3160:b566:8741]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:e1ed:36:7204:2031]:443#CMCC-IPV6
-[2606:4700:3036:ef:95e:7a29:2ccc:d331]:443#CMCC-IPV6
+104.18.86.19:443#CMCC
+104.17.175.163:443#CMCC
+104.17.176.198:443#CMCC
+104.17.178.124:443#CMCC
+104.18.86.133:443#CMCC
+[2606:4700:3036:ef:3f32:9601:b705:e94b]:443#CMCC-IPV6
 [2606:4700:3036:6ed4:ffdf:15bf:7d77:5f52]:443#CMCC-IPV6
-[2606:4700:3036:ef:92f:be51:8695:9fc5]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:e1ed:ae00:3c36:e683]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:260:e367:c3d4:d3bb]:443#CMCC-IPV6
 [2606:4700:3036:0:a36a:4a94:8d40:c92c]:443#CMCC-IPV6
+[2606:4700:3036:ef:db9e:ee41:a8df:d3b2]:443#CMCC-IPV6
 193.123.248.228:23333#加入我的频道t.me/CMLiussss解锁更多优选节点 KR
-198.62.62.156:443#加拿大1 - ⬇️ 14.0MB/s |0%|Netflix|Disney
-huxley.ns.cloudflare.com:443#加拿大4 - ⬇️ 13.9MB/s |0%|Disney
-45.154.98.100:4010#加拿大5 - ⬇️ 6.3MB/s |0%|Disney|Youtube|Openai
-moura.ns.cloudflare.com:443#加拿大6 - ⬇️ 5.1MB/s |0%|Disney
-braden.ns.cloudflare.com:443#加拿大8 - ⬇️ 15.3MB/s |0%|Disney|Openai
-icook.tw:443#加拿大9 - ⬇️ 7.6MB/s |0%|Netflix|Disney
-45.131.4.116:80#印度1 - ⬇️ 15.1MB/s |65%|Disney|Openai
-27.50.48.18:2087#台湾1 - ⬇️ 4.3MB/s |0%|Disney|Openai
-sage.ns.cloudflare.com:443#台湾10 - ⬇️ 11.6MB/s |0%|Disney|Openai
-108.165.152.202:2083#台湾11 - ⬇️ 10.0MB/s |0%|Disney|Openai
-218.152.153.20:18012#台湾12 - ⬇️ 5.1MB/s |0%|Netflix|Disney|Youtube|Openai
-27.50.48.61:2083#台湾13 - ⬇️ 4.5MB/s |0%|Disney|Openai
-59.15.182.92:30019#台湾14 - ⬇️ 7.1MB/s |0%|Netflix|Disney|Youtube|Openai
-lynn.ns.cloudflare.com:443#台湾15 - ⬇️ 11.9MB/s |0%|Disney|Openai
-121.135.67.36:12205#台湾16 - ⬇️ 4.4MB/s |0%|Netflix|Disney|Youtube|Openai
-209.94.90.64:443#台湾17 - ⬇️ 12.7MB/s |0%|Netflix|Disney|Youtube|Openai
-92.243.74.3:8443#台湾18 - ⬇️ 16.3MB/s |0%|Disney|Openai
-27.50.48.239:8443#台湾19 - ⬇️ 13.5MB/s |0%|Disney|Openai
-duke.ns.cloudflare.com:443#台湾2 - ⬇️ 16.8MB/s |0%|Disney|Openai
-27.50.49.154:2083#台湾20 - ⬇️ 12.2MB/s |0%|Disney|Openai
-59.25.31.189:12222#台湾21 - ⬇️ 8.1MB/s |0%|Netflix|Disney|Youtube|Openai
-damien.ns.cloudflare.com:443#台湾22 - ⬇️ 11.3MB/s |0%|Disney|Openai
-152.70.105.128:443#台湾23 - ⬇️ 20.1MB/s |0%|Netflix|Disney|Youtube|Openai
-27.50.49.136:443#台湾24 - ⬇️ 9.8MB/s |0%|Disney|Openai
-8.223.15.4:443#台湾25 - ⬇️ 20.0MB/s |0%|Netflix|Disney|Youtube|Openai
-154.218.15.250:2083#台湾26 - ⬇️ 14.6MB/s |0%|Disney|Openai
-64.110.101.31:8443#台湾27 - ⬇️ 4.6MB/s |0%|Netflix|Disney|Youtube|Openai
-zhee01.dynu.net:15700#台湾28 - ⬇️ 14.5MB/s |19%|Youtube|Openai
-zhee01.dynu.net:64654#美国30 - ⬇️ 10.3MB/s |32%|Openai
-zhee01.dynu.net:38311#美国39 - ⬇️ 8.1MB/s |68%|Openai
-zhee01.dynu.net:46372#美国46 - ⬇️ 6.1MB/s |18%|Netflix|Openai
-zhee01.dynu.net:35853#香港29 - ⬇️ 32.0MB/s |0%|Netflix|Disney|Youtube
-108.165.152.98:2087#台湾29 - ⬇️ 13.9MB/s |0%|Disney|Openai
-91.217.139.227:8443#台湾30 - ⬇️ 7.6MB/s |0%|Openai
-154.201.79.223:2333#台湾32 - ⬇️ 5.5MB/s |0%|Disney|Openai
-kip.ns.cloudflare.com:443#台湾33 - ⬇️ 14.9MB/s |0%|Disney|Openai
-arvind.ns.cloudflare.com:443#台湾4 - ⬇️ 12.2MB/s |0%|Disney|Openai
-108.165.152.78:2083#台湾5 - ⬇️ 16.1MB/s |0%|Disney|Openai
-92.243.74.180:8443#台湾6 - ⬇️ 8.8MB/s |0%|Disney|Openai
-162.120.94.23:2087#台湾7 - ⬇️ 12.7MB/s |0%|Disney|Openai
-209.94.90.87:2087#台湾8 - ⬇️ 13.4MB/s |0%|Disney|Youtube|Openai
-45.131.4.178:80#巴西6 - ⬇️ 7.6MB/s |0%|Disney|Openai
-zula.ir:2053#德国10 - ⬇️ 15.1MB/s|Openai
-45.131.5.182:80#德国11 - ⬇️ 17.4MB/s |0%|Netflix|Disney|Openai
-www.speedtest.net:2096#德国12 - ⬇️ 12.6MB/s |0%|Openai
-www.speedtest.net:8443#荷兰3 - ⬇️ 16.9MB/s |51%|Openai
-www.speedtest.net:443#阿拉伯酋长国1 - ⬇️ 16.8MB/s |0%|Openai
-45.131.5.35:80#德国13 - ⬇️ 7.5MB/s |52%|Netflix|Disney|Openai
-45.131.4.33:80#德国3 - ⬇️ 10.5MB/s |0%|Disney|Openai
-104.21.96.1:443#德国5 - ⬇️ 5.8MB/s |52%|Netflix|Disney|Youtube|Openai
-csuzhou01.1cooldns.com:58031#德国6 - ⬇️ 8.2MB/s |51%|Openai
-csuzhou01.1cooldns.com:44003#新加坡5 - ⬇️ 19.3MB/s|Youtube|Openai
-csuzhou01.1cooldns.com:14659#英国5 - ⬇️ 10.8MB/s |50%|Disney|Openai
-csuzhou01.1cooldns.com:32055#英国6 - ⬇️ 11.7MB/s |50%|Disney|Openai
-csuzhou01.1cooldns.com:41279#香港8 - ⬇️ 12.3MB/s |0%|Netflix|Disney|Youtube|Openai
-csuzhou01.1cooldns.com:23301#🌀其他6-MY - ⬇️ 7.6MB/s |0%|Youtube|Openai
-support.zoom.us:80#新加坡10 - ⬇️ 6.3MB/s|Youtube|Openai
-170.114.45.6:80#新加坡3 - ⬇️ 10.0MB/s|Youtube|Openai
-170.114.46.6:80#新加坡4 - ⬇️ 8.2MB/s|Youtube|Openai
-beiyong.dynuddns.net:48121#日本16 - ⬇️ 7.8MB/s |12%|Openai
-beiyong.dynuddns.net:57926#美国35 - ⬇️ 7.7MB/s |50%|Openai
-beiyong.dynuddns.net:65053#英国1 - ⬇️ 5.1MB/s|Disney|Openai
-18.177.138.207:53089#日本17 - ⬇️ 6.6MB/s |17%|Netflix|Disney|Youtube|Openai
-45.131.5.119:80#日本18 - ⬇️ 16.9MB/s |0%|Disney|Openai
-shenzhou02.mysynology.net:35659#日本2 - ⬇️ 15.7MB/s |28%|Openai
-shenzhou02.mysynology.net:47096#波兰1 - ⬇️ 8.0MB/s |32%|Openai
-shenzhou02.mysynology.net:32193#🌀其他3-TH - ⬇️ 4.5MB/s |0%|Netflix|Youtube|Openai
-172.64.152.226:80#日本20 - ⬇️ 5.9MB/s |0%|Disney|Openai
-45.131.4.214:80#日本21 - ⬇️ 11.9MB/s |0%|Disney|Openai
-45.131.4.126:80#日本5 - ⬇️ 7.7MB/s |0%|Disney|Openai
-190.93.245.137:443#法国2 - ⬇️ 14.5MB/s |47%|Openai
-bsuqian01.dynu.net:42426#澳大利亚1 - ⬇️ 9.7MB/s |55%|Youtube|Openai
-bsuqian01.dynu.net:50200#美国41 - ⬇️ 5.0MB/s |51%|Openai
-bsuqian01.dynu.net:40581#🌀其他5-ES - ⬇️ 4.1MB/s |32%|Openai
-45.131.5.27:80#澳大利亚2 - ⬇️ 9.2MB/s |0%|Disney|Openai
-104.16.142.237:443#瑞士1 - ⬇️ 9.5MB/s |0%|Openai
-45.131.4.113:80#美国1 - ⬇️ 4.1MB/s
-45.131.4.192:80#美国10 - ⬇️ 17.6MB/s |0%|Netflix|Disney|Openai
-104.21.16.1:443#美国12 - ⬇️ 15.1MB/s |0%|Disney|Youtube|Openai
-45.131.5.206:80#美国13 - ⬇️ 4.9MB/s |0%|Disney|Openai
-45.131.5.151:80#美国15 - ⬇️ 16.6MB/s |0%|Disney|Openai
-45.131.5.26:80#美国17 - ⬇️ 12.4MB/s |39%|Netflix|Disney|Openai
-45.131.4.187:80#美国20 - ⬇️ 15.7MB/s |0%|Disney|Openai
-104.18.35.30:80#美国22 - ⬇️ 6.9MB/s |39%|Disney|Openai
-45.131.5.101:80#美国26 - ⬇️ 11.5MB/s |0%|Disney|Openai
-45.131.4.131:80#美国28 - ⬇️ 4.2MB/s |65%|Disney|Openai
-45.131.5.179:80#美国29 - ⬇️ 12.3MB/s |0%|Disney|Openai
-m2-1cm.pages.dev:443#美国34 - ⬇️ 16.0MB/s |39%|Disney|Openai
-45.131.4.151:80#美国42 - ⬇️ 17.2MB/s |0%|Disney
-45.131.5.80:80#美国45 - ⬇️ 14.7MB/s |0%|Disney|Openai
-45.131.5.99:80#美国49 - ⬇️ 15.4MB/s |0%
-www.parsvds.com:2096#芬兰1 - ⬇️ 5.1MB/s |26%|Openai
-172.67.204.84:2053#芬兰3 - ⬇️ 12.8MB/s |27%|Openai
-188.114.96.3:8443#英国3 - ⬇️ 14.8MB/s |49%|Netflix|Disney|Openai
-104.17.148.22:8443#荷兰1 - ⬇️ 16.4MB/s |51%|Openai
-45.131.4.200:80#阿拉伯酋长国2 - ⬇️ 15.4MB/s |0%|Disney|Openai
-icook.hk:443#韩国1 - ⬇️ 10.5MB/s |65%|Netflix|Disney|Youtube
-104.21.32.1:443#韩国10 - ⬇️ 13.4MB/s |65%|Netflix|Disney|Youtube|Openai
-uriah.ns.cloudflare.com:443#韩国11 - ⬇️ 11.1MB/s |65%|Disney|Openai
-time.is:443#韩国12 - ⬇️ 10.4MB/s |0%|Netflix|Disney
-45.154.98.210:444#韩国3 - ⬇️ 9.9MB/s |65%|Netflix|Disney|Openai
-160.79.105.99:443#韩国4 - ⬇️ 8.1MB/s |65%|Netflix|Disney
-tasteatlas.com:443#韩国5 - ⬇️ 8.9MB/s |0%|Disney
-212.183.88.43:443#韩国6 - ⬇️ 16.6MB/s |65%|Disney
-212.183.88.162:443#韩国7 - ⬇️ 4.2MB/s |65%|Netflix|Disney|Openai
-benedict.ns.cloudflare.com:443#韩国8 - ⬇️ 14.7MB/s |65%|Netflix|Disney
-test123.zlqhdns.top:24318#香港1 - ⬇️ 6.0MB/s |0%|Youtube
-test123.zlqhdns.top:61178#香港21 - ⬇️ 7.4MB/s |0%
-test123.zlqhdns.top:11555#香港3 - ⬇️ 8.2MB/s |39%|Youtube
-gysz0000.dynu.net:45883#香港22 - ⬇️ 7.7MB/s|Netflix|Disney|Youtube
-162.247.5.96:443#香港30 - ⬇️ 23.4MB/s |17%|Netflix|Disney
-45.131.4.254:80#🌀其他11-SE - ⬇️ 4.8MB/s |0%|Disney|Openai
-eu1.abvpn.ru:443#🌀其他2-MD - ⬇️ 5.8MB/s |51%|Youtube|Openai
-162.247.5.92:443#🌀其他4-VN - ⬇️ 11.3MB/s |0%|Openai
-45.131.5.194:80#🌀其他7-SE - ⬇️ 11.7MB/s |0%|Disney|Openai
-129.153.199.107:9710#🌀其他9-未识别 - ⬇️ 7.2MB/s
+132.145.105.88:42557#加拿大3 - ⬇️ 6.2MB/s |28%|Netflix|Youtube|Openai
+gysz0000.dynu.net:16011#加拿大4 - ⬇️ 6.2MB/s |68%|Netflix|Youtube|Openai
+gysz0000.dynu.net:12477#台湾13 - ⬇️ 14.6MB/s |19%|Netflix|Youtube|Openai
+gysz0000.dynu.net:15823#台湾4 - ⬇️ 10.5MB/s |19%|Netflix|Youtube|Openai
+gysz0000.dynu.net:11839#日本4 - ⬇️ 8.9MB/s |70%|Netflix|Openai
+gysz0000.dynu.net:23657#香港48 - ⬇️ 5.2MB/s |42%|Netflix|Disney
+gysz0000.dynu.net:45883#香港6 - ⬇️ 17.3MB/s|Netflix|Disney|Youtube
+gy01.hunheiydd.xyz:16011#加拿大5 - ⬇️ 6.8MB/s |68%|Netflix|Youtube|Openai
+gy01.hunheiydd.xyz:12477#台湾8 - ⬇️ 16.7MB/s |19%|Netflix|Youtube|Openai
+gy01.hunheiydd.xyz:11839#日本10 - ⬇️ 18.7MB/s |70%|Netflix|Openai
+gy01.hunheiydd.xyz:30274#美国36 - ⬇️ 7.4MB/s |51%|Netflix|Openai
+gy01.hunheiydd.xyz:23657#香港14 - ⬇️ 6.6MB/s |42%|Netflix|Disney
+45.131.5.119:80#印度1 - ⬇️ 17.0MB/s |65%|Netflix|Disney|Openai
+agaungzhou01.bumbleshrimp.com:12791#印度2 - ⬇️ 21.2MB/s |55%|Youtube|Openai
+agaungzhou01.bumbleshrimp.com:56127#新加坡6 - ⬇️ 37.2MB/s |32%|Openai
+agaungzhou01.bumbleshrimp.com:40072#法国12 - ⬇️ 8.4MB/s |51%|Youtube|Openai
+agaungzhou01.bumbleshrimp.com:38302#美国54 - ⬇️ 8.0MB/s |51%|Netflix|Openai
+agaungzhou01.bumbleshrimp.com:50997#荷兰1 - ⬇️ 8.4MB/s |51%|Netflix|Youtube|Openai
+agaungzhou01.bumbleshrimp.com:31800#香港47 - ⬇️ 10.8MB/s |0%|Netflix|Disney|Youtube
+agaungzhou01.bumbleshrimp.com:46716#香港54 - ⬇️ 32.0MB/s |0%|Netflix|Disney|Youtube
+agaungzhou01.bumbleshrimp.com:29316#🌀其他1-EG - ⬇️ 8.8MB/s |0%|Youtube|Openai
+agaungzhou01.bumbleshrimp.com:30019#🌀其他10-IL - ⬇️ 5.6MB/s |41%|Youtube|Openai
+agaungzhou01.bumbleshrimp.com:60677#🌀其他24-SA - ⬇️ 8.9MB/s |0%|Netflix|Youtube|Openai
+agaungzhou01.bumbleshrimp.com:12831#🌀其他9-GR - ⬇️ 7.5MB/s |0%|Youtube|Openai
+45.131.4.113:80#印度3 - ⬇️ 16.6MB/s |65%|Netflix|Disney|Openai
+45.131.5.151:80#印度4 - ⬇️ 16.3MB/s |65%|Netflix|Disney|Openai
+zhee01.dynu.net:13263#台湾1 - ⬇️ 28.4MB/s |19%|Netflix|Youtube|Openai
+zhee01.dynu.net:16704#台湾2 - ⬇️ 15.0MB/s |0%|Netflix|Disney|Youtube|Openai
+zhee01.dynu.net:15700#台湾9 - ⬇️ 13.1MB/s |19%|Netflix|Youtube|Openai
+zhee01.dynu.net:16497#日本16 - ⬇️ 15.9MB/s |70%|Netflix|Openai
+zhee01.dynu.net:46372#美国30 - ⬇️ 8.2MB/s |18%|Netflix|Openai
+zhee01.dynu.net:22054#美国33 - ⬇️ 8.5MB/s |37%|Netflix|Openai
+zhee01.dynu.net:64654#美国34 - ⬇️ 11.9MB/s |32%|Netflix|Openai
+zhee01.dynu.net:38311#美国38 - ⬇️ 15.2MB/s |68%|Netflix|Openai
+zhee01.dynu.net:27932#美国40 - ⬇️ 12.9MB/s |51%|Netflix|Openai
+zhee01.dynu.net:54220#香港29 - ⬇️ 27.8MB/s |0%|Netflix|Disney|Youtube
+zhee01.dynu.net:35853#香港44 - ⬇️ 5.6MB/s |0%|Netflix|Disney|Youtube
+zhee01.dynu.net:25135#香港50 - ⬇️ 15.2MB/s |0%|Netflix|Disney|Youtube|Openai
+162.247.5.91:443#台湾11 - ⬇️ 24.0MB/s |39%|Netflix|Youtube|Openai
+bsuqian01.dynu.net:47531#台湾3 - ⬇️ 10.3MB/s |19%|Netflix|Youtube|Openai
+bsuqian01.dynu.net:31735#日本26 - ⬇️ 18.9MB/s |20%|Netflix|Youtube|Openai
+bsuqian01.dynu.net:25768#日本7 - ⬇️ 39.0MB/s |70%|Netflix|Youtube|Openai
+bsuqian01.dynu.net:42426#澳大利亚1 - ⬇️ 14.8MB/s |55%|Netflix|Youtube|Openai
+bsuqian01.dynu.net:30206#美国51 - ⬇️ 8.4MB/s |51%|Netflix|Youtube|Openai
+bsuqian01.dynu.net:40387#香港46 - ⬇️ 5.3MB/s |0%|Netflix|Disney
+bsuqian01.dynu.net:27631#香港9 - ⬇️ 12.9MB/s |0%|Netflix|Youtube
+bsuqian01.dynu.net:45114#🌀其他18-TR - ⬇️ 5.6MB/s |41%|Youtube|Openai
+bsuqian01.dynu.net:22216#🌀其他28-MD - ⬇️ 9.2MB/s |51%|Netflix|Openai
+bsuqian01.dynu.net:16955#🌀其他30-TH - ⬇️ 4.1MB/s |0%|Netflix|Youtube|Openai
+bsuqian01.dynu.net:17930#🌀其他32-RO - ⬇️ 9.9MB/s |51%|Youtube|Openai
+bsuqian01.dynu.net:17889#🌀其他5-AT - ⬇️ 11.3MB/s |51%|Youtube|Openai
+45.131.4.131:80#巴西6 - ⬇️ 15.2MB/s |0%|Netflix|Disney|Openai
+45.131.5.164:80#巴西7 - ⬇️ 9.4MB/s |0%|Netflix|Disney|Openai
+www.speedtest.net:2096#德国1 - ⬇️ 4.2MB/s |26%|Openai
+www.speedtest.net:8443#荷兰3 - ⬇️ 18.5MB/s |51%|Netflix|Openai
+45.131.4.245:80#德国2 - ⬇️ 10.7MB/s |0%|Netflix|Disney|Openai
+panel2.svgspeedtest.net:443#德国3 - ⬇️ 5.4MB/s |36%|Openai
+zula.ir:2053#德国4 - ⬇️ 14.6MB/s |27%|Openai
+zula.ir:8443#法国4 - ⬇️ 16.5MB/s |47%|Openai
+csuzhou01.1cooldns.com:58031#德国9 - ⬇️ 9.2MB/s |51%|Youtube|Openai
+csuzhou01.1cooldns.com:44003#新加坡22 - ⬇️ 23.0MB/s|Netflix|Youtube|Openai
+csuzhou01.1cooldns.com:14548#日本18 - ⬇️ 9.5MB/s |55%|Netflix|Disney|Openai
+csuzhou01.1cooldns.com:13989#日本25 - ⬇️ 24.5MB/s |70%|Netflix|Youtube|Openai
+csuzhou01.1cooldns.com:14659#英国7 - ⬇️ 9.3MB/s |50%|Netflix|Disney|Openai
+csuzhou01.1cooldns.com:41279#香港31 - ⬇️ 22.8MB/s |0%|Netflix|Disney|Youtube|Openai
+csuzhou01.1cooldns.com:23301#🌀其他17-MY - ⬇️ 4.7MB/s |0%|Netflix|Youtube|Openai
+csuzhou01.1cooldns.com:27011#🌀其他26-PH - ⬇️ 11.2MB/s |10%|Netflix|Youtube|Openai
+csuzhou01.1cooldns.com:15464#🌀其他3-AR - ⬇️ 4.1MB/s |0%|Youtube|Openai
+170.114.45.6:80#新加坡1 - ⬇️ 14.3MB/s|Youtube|Openai
+170.114.46.6:80#新加坡13 - ⬇️ 18.7MB/s|Netflix|Youtube|Openai
+beiyong.dynuddns.net:29877#新加坡16 - ⬇️ 61.0MB/s|Youtube
+beiyong.dynuddns.net:48121#日本19 - ⬇️ 27.0MB/s |12%|Netflix|Openai
+beiyong.dynuddns.net:57926#美国11 - ⬇️ 9.9MB/s |50%|Netflix|Openai
+beiyong.dynuddns.net:65053#英国2 - ⬇️ 8.7MB/s |50%|Netflix|Disney|Openai
+beiyong.dynuddns.net:12597#香港8 - ⬇️ 18.3MB/s |0%|Youtube
+support.zoom.us:80#新加坡2 - ⬇️ 4.3MB/s|Youtube|Openai
+test123.zlqhdns.top:10778#新加坡24 - ⬇️ 6.4MB/s |28%|Netflix|Openai
+test123.zlqhdns.top:11555#香港18 - ⬇️ 22.5MB/s |39%|Youtube
+test123.zlqhdns.top:24318#香港36 - ⬇️ 21.9MB/s |0%|Netflix|Youtube
+test123.zlqhdns.top:61178#香港40 - ⬇️ 28.6MB/s |0%|Netflix
+104.17.147.22:2052#新加坡3 - ⬇️ 14.7MB/s |60%|Netflix|Disney
+104.18.35.30:80#日本11 - ⬇️ 17.9MB/s |0%|Netflix|Disney|Openai
+45.131.4.126:80#日本14 - ⬇️ 15.4MB/s |0%|Netflix|Disney|Openai
+104.26.14.85:8080#法国10 - ⬇️ 18.0MB/s |16%|Netflix|Openai
+ns4.esfahansiman.com:443#法国7 - ⬇️ 16.6MB/s |41%|Openai
+172.67.204.84:8443#法国8 - ⬇️ 15.1MB/s |47%|Netflix|Openai
+45.131.5.35:80#澳大利亚2 - ⬇️ 14.2MB/s |0%|Netflix|Disney|Openai
+152.67.68.116:443#瑞士1 - ⬇️ 8.4MB/s |28%|Netflix|Disney|Youtube|Openai
+yapc-1.afshin.ir:443#瑞士3 - ⬇️ 7.9MB/s |28%|Netflix|Disney|Youtube|Openai
+45.131.4.228:80#美国1 - ⬇️ 14.7MB/s |0%|Netflix|Disney|Openai
+45.131.4.200:80#美国12 - ⬇️ 16.0MB/s |0%|Netflix|Disney|Openai
+45.131.4.214:80#美国13 - ⬇️ 16.6MB/s |0%|Netflix|Disney|Openai
+45.131.4.194:80#美国14 - ⬇️ 19.6MB/s |0%|Netflix|Disney|Openai
+31.59.111.49:33718#美国18 - ⬇️ 4.2MB/s |28%|Netflix|Disney
+45.131.4.116:80#美国2 - ⬇️ 11.0MB/s |0%|Netflix|Disney|Openai
+45.131.5.145:80#美国24 - ⬇️ 14.3MB/s |0%|Netflix|Disney|Openai
+45.131.5.80:80#美国25 - ⬇️ 16.0MB/s |39%|Netflix|Disney|Openai
+192.3.130.103:443#美国29 - ⬇️ 5.6MB/s |33%|Netflix|Openai
+154.17.14.188:443#美国3 - ⬇️ 5.1MB/s |11%|Netflix|Openai
+45.131.5.194:80#美国31 - ⬇️ 12.8MB/s |0%|Netflix|Disney|Openai
+15.204.150.39:443#美国37 - ⬇️ 6.9MB/s |67%|Netflix|Openai
+51.81.37.5:443#美国39 - ⬇️ 5.1MB/s |67%|Netflix|Openai
+172.64.152.226:80#美国43 - ⬇️ 16.7MB/s |0%|Netflix|Disney|Openai
+188.114.96.3:443#美国45 - ⬇️ 16.1MB/s|Netflix|Disney|Openai
+188.114.96.3:8443#🌀其他2-SE - ⬇️ 14.5MB/s |0%|Netflix|Disney|Openai
+45.131.5.99:80#美国46 - ⬇️ 7.2MB/s |65%|Netflix|Disney|Openai
+45.131.5.27:80#美国56 - ⬇️ 15.2MB/s |39%|Netflix|Disney|Openai
+45.131.5.182:80#芬兰1 - ⬇️ 15.7MB/s |0%|Netflix|Disney|Openai
+104.26.15.16:2096#芬兰3 - ⬇️ 11.7MB/s |26%|Openai
+www.parsvds.com:2096#芬兰4 - ⬇️ 4.6MB/s |26%|Openai
+104.26.14.16:2096#芬兰8 - ⬇️ 14.5MB/s |26%|Openai
+45.131.4.151:80#英国5 - ⬇️ 16.4MB/s |49%|Netflix|Disney|Openai
+45.131.5.101:80#阿拉伯酋长国2 - ⬇️ 14.3MB/s |0%|Netflix|Disney|Openai
+162.247.5.92:443#🌀其他14-VN - ⬇️ 4.7MB/s |0%|Netflix|Openai
+45.131.4.178:80#🌀其他27-SE - ⬇️ 15.5MB/s |0%|Netflix|Disney|Openai
+tgju.org:8080#🌀其他4-未识别 - ⬇️ 12.1MB/s|Netflix|Openai
