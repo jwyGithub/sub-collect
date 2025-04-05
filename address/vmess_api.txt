@@ -5,7 +5,9 @@
 e57abd45-sucv40-tcum62-se45.lz.plebai.net:8082#美国20 - ⬇️ 10.8MB/s |42%|Netflix|Openai
 465fa81a-sucv40-sudq0l-1rz5s.losb.plebai.net:5212#美国21 - ⬇️ 8.0MB/s |42%|Netflix|Openai
 v8.heduian.link:30808#美国22 - ⬇️ 7.3MB/s|Netflix|Openai
+98d7ac76-sucv40-tcum62-se45.cu.plebai.net:5229#美国25 - ⬇️ 7.4MB/s |42%|Netflix|Openai
 488b4289-sucv40-sxlqds-1qs82.losa.plebai.net:5220#美国27 - ⬇️ 8.6MB/s |42%|Netflix|Openai
 74782484-sub0g0-taoovp-1pfgf.cu.plebai.net:5229#美国33 - ⬇️ 7.2MB/s |42%|Netflix|Openai
+v29.heduian.link:30829#美国36 - ⬇️ 5.9MB/s |0%|Netflix|Disney
 e2e10045-sucv40-tcop2n-tl32.lz.plebai.net:8082#美国4 - ⬇️ 4.8MB/s |42%|Netflix|Openai
 42048d3c-sucv40-sudq0l-1rz5s.lz.plebai.net:8082#美国5 - ⬇️ 4.7MB/s |42%|Netflix|Openai
