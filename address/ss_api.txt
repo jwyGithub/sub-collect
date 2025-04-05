@@ -1,21 +1,15 @@
-mdss-tw.04z3susick.download:12034#台湾1 - ⬇️ 4.5MB/s |19%|Disney|Youtube|Openai
-bs3.jymzffbquawl.com:3036#台湾2 - ⬇️ 32.6MB/s|Netflix|Disney|Youtube|Openai
-mdss-sg.04z3susick.download:12017#新加坡2 - ⬇️ 17.0MB/s |65%|Netflix|Disney|Youtube|Openai
-18.181.170.89:443#日本1 - ⬇️ 24.2MB/s |11%|Netflix|Youtube|Openai
-mdss-jp.04z3susick.download:12016#日本10 - ⬇️ 30.5MB/s |0%|Netflix|Disney|Youtube|Openai
-13.112.180.58:443#日本16 - ⬇️ 26.0MB/s |0%|Netflix|Youtube|Openai
-18.183.228.32:443#日本2 - ⬇️ 24.8MB/s |11%|Netflix|Openai
-52.198.238.20:443#日本8 - ⬇️ 27.9MB/s |11%|Netflix|Youtube|Openai
-mdss-other.04z3susick.download:12048#澳大利亚1 - ⬇️ 24.8MB/s |63%|Netflix|Youtube|Openai
-137.175.113.193:8388#美国31 - ⬇️ 13.7MB/s |0%|Netflix|Openai
-mdss-us.04z3susick.download:12028#美国52 - ⬇️ 6.5MB/s |0%|Netflix|Disney|Openai
-43.201.70.112:443#韩国10 - ⬇️ 24.3MB/s |39%|Youtube|Openai
-3.34.142.98:443#韩国11 - ⬇️ 26.1MB/s |39%|Netflix|Youtube|Openai
-54.180.231.103:443#韩国12 - ⬇️ 27.5MB/s |43%|Netflix|Youtube|Openai
-3.36.52.106:443#韩国2 - ⬇️ 28.9MB/s|Netflix|Youtube|Openai
-13.209.12.6:443#韩国3 - ⬇️ 29.7MB/s |43%|Netflix|Youtube|Openai
-52.79.247.8:443#韩国6 - ⬇️ 7.9MB/s |43%|Netflix|Youtube|Openai
-3.34.189.113:443#韩国7 - ⬇️ 30.3MB/s |39%|Youtube|Openai
-43.202.41.241:443#韩国9 - ⬇️ 10.2MB/s |39%|Youtube|Openai
-mdss-hk.04z3susick.download:12007#香港33 - ⬇️ 21.3MB/s |31%|Netflix|Disney|Youtube
-47.129.157.77:443#🌀其他5-未识别 - ⬇️ 34.8MB/s|Netflix|Youtube|Openai
+mdss-tw.04z3susick.download:12032#台湾1 - ⬇️ 24.4MB/s |19%|Netflix|Disney|Youtube|Openai
+mdss-other.04z3susick.download:12038#德国4 - ⬇️ 5.1MB/s |67%|Netflix|Youtube|Openai
+mdss-jp.04z3susick.download:12015#日本4 - ⬇️ 5.0MB/s |0%|Netflix|Disney|Youtube|Openai
+18.183.228.32:443#日本6 - ⬇️ 19.5MB/s |11%|Netflix|Youtube|Openai
+3.112.239.136:443#日本9 - ⬇️ 10.4MB/s |11%|Netflix|Youtube|Openai
+43.203.233.87:443#韩国1 - ⬇️ 19.7MB/s |39%|Netflix|Youtube|Openai
+3.36.52.106:443#韩国2 - ⬇️ 20.6MB/s |39%|Netflix|Youtube|Openai
+3.34.189.113:443#韩国4 - ⬇️ 17.1MB/s |39%|Netflix|Youtube|Openai
+43.202.41.241:443#韩国6 - ⬇️ 5.9MB/s |39%|Youtube|Openai
+3.35.55.190:443#韩国8 - ⬇️ 5.5MB/s |39%|Netflix|Youtube|Openai
+52.79.247.8:443#韩国9 - ⬇️ 14.6MB/s |43%|Netflix|Youtube|Openai
+relay01.oceancloud.asia:65330#香港5 - ⬇️ 8.1MB/s |15%|Netflix|Disney|Youtube
+mdss-hk.04z3susick.download:12010#香港9 - ⬇️ 13.9MB/s |31%|Netflix|Disney|Youtube
+bs3.jymzffbquawl.com:4607#🌀其他6-未识别 - ⬇️ 21.7MB/s|Netflix|Disney|Youtube|Openai
+gy.tangu.win:13642#🌀其他8-VN - ⬇️ 10.3MB/s |17%|Netflix|Youtube|Openai

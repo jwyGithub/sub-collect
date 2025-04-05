@@ -1,15 +1,11 @@
-104.26.12.54:80#巴西1 - ⬇️ 6.5MB/s |65%|Youtube|Openai
-104.18.23.138:80#巴西11 - ⬇️ 6.6MB/s |65%|Youtube|Openai
-104.18.23.235:80#巴西3 - ⬇️ 5.6MB/s |65%|Openai
-mlcatcdn2.dynv6.net:80#巴西4 - ⬇️ 4.5MB/s |65%|Netflix|Youtube|Openai
-104.18.23.30:80#巴西5 - ⬇️ 5.1MB/s |65%|Netflix|Youtube|Openai
-104.18.23.171:80#巴西6 - ⬇️ 5.4MB/s|Netflix|Openai
-104.18.23.137:80#巴西7 - ⬇️ 4.4MB/s|Youtube|Openai
-mlcatcdn6.dynv6.net:80#巴西8 - ⬇️ 5.4MB/s |65%|Youtube|Openai
-104.18.21.69:80#巴西9 - ⬇️ 4.6MB/s |65%|Netflix|Youtube|Openai
-172.67.175.56:443#法国5 - ⬇️ 17.8MB/s |0%|Openai
-0a04ffa1-sub0g0-sv11pd-1g8k0.cu.plebai.net:5228#美国14 - ⬇️ 7.7MB/s |42%|Netflix|Openai
-7d257f4d-sucv40-sudq0l-1rz5s.cu.plebai.net:5229#美国30 - ⬇️ 8.0MB/s |42%|Netflix|Openai
-104.21.57.38:2053#美国34 - ⬇️ 15.9MB/s |55%|Netflix|Openai
-172.67.189.27:2083#美国38 - ⬇️ 13.9MB/s |55%|Netflix|Openai
-3bf296de-sub0g0-sykxcb-1nhp7.cu.plebai.net:5228#美国41 - ⬇️ 9.4MB/s |42%|Netflix|Openai
+21346889-sudhc0-sxms9a-4vgd.east.sgp2.189ti.com:4154#新加坡2 - ⬇️ 18.3MB/s|Youtube|Openai
+172.67.175.56:443#法国4 - ⬇️ 8.5MB/s|Openai
+24851514-sucv40-swr62l-lj7z.losa.plebai.net:5220#美国10 - ⬇️ 4.3MB/s |42%|Netflix|Openai
+46e92f23-sucv40-suruu8-8bem.losb.plebai.net:5212#美国2 - ⬇️ 4.5MB/s |42%|Netflix|Openai
+e57abd45-sucv40-tcum62-se45.lz.plebai.net:8082#美国20 - ⬇️ 10.8MB/s |42%|Netflix|Openai
+465fa81a-sucv40-sudq0l-1rz5s.losb.plebai.net:5212#美国21 - ⬇️ 8.0MB/s |42%|Netflix|Openai
+v8.heduian.link:30808#美国22 - ⬇️ 7.3MB/s|Netflix|Openai
+488b4289-sucv40-sxlqds-1qs82.losa.plebai.net:5220#美国27 - ⬇️ 8.6MB/s |42%|Netflix|Openai
+74782484-sub0g0-taoovp-1pfgf.cu.plebai.net:5229#美国33 - ⬇️ 7.2MB/s |42%|Netflix|Openai
+e2e10045-sucv40-tcop2n-tl32.lz.plebai.net:8082#美国4 - ⬇️ 4.8MB/s |42%|Netflix|Openai
+42048d3c-sucv40-sudq0l-1rz5s.lz.plebai.net:8082#美国5 - ⬇️ 4.7MB/s |42%|Netflix|Openai
