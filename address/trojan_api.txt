@@ -1,33 +1,41 @@
-8.219.84.30:443#SG
-140.238.50.112:443#JP
-150.230.192.153:443#JP
-131.186.33.175:443#JP
-158.180.81.234:443#KR
-8.219.254.197:443#SG
-152.70.37.39:443#KR
-141.144.195.164:443#NL
-8.222.209.33:443#SG
-168.138.184.172:443#SG
-8.222.224.74:443#SG
-150.230.251.99:443#KR
-141.147.164.117:443#JP
-141.147.170.254:443#JP
-162.159.152.53:443#CT
-162.159.152.155:443#CT
-162.159.152.31:443#CT
-162.159.153.216:443#CT
-104.18.90.79:443#CMCC
-104.16.246.34:443#CMCC
-104.16.246.174:443#CMCC
-104.17.222.218:443#CMCC
-104.18.94.131:443#CMCC
-104.19.155.252:443#CMCC
-[2606:4700:3036:6ed4:e1ed:36:7204:2031]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]:443#CMCC-IPV6
-[2606:4700:3036::ce:d6ea]:443#CMCC-IPV6
-[2606:4700:3036:0:a36a:3160:b566:8741]:443#CMCC-IPV6
-gy.58n.net:33323#台湾3 - ⬇️ 21.9MB/s |0%|Netflix|Disney|Youtube|Openai
-gy.58n.net:30712#新加坡5 - ⬇️ 8.2MB/s |0%|Netflix|Openai
-gy.58n.net:20059#日本6 - ⬇️ 27.1MB/s |0%|Netflix|Youtube|Openai
-gy.58n.net:20296#美国7 - ⬇️ 19.9MB/s |54%|Netflix|Openai
-lbso.bnnodeservice.com:32001#美国46 - ⬇️ 24.0MB/s |0%|Netflix|Disney|Openai
+146.56.146.219:443#KR
+146.56.169.207:443#KR
+140.83.39.153:443#JP
+158.180.65.229:443#KR
+140.238.20.27:443#KR
+141.147.185.63:443#JP
+152.67.125.161:443#AU
+64.110.73.172:443#KR
+138.2.30.46:443#JP
+8.219.222.148:443#SG
+8.222.251.202:443#SG
+47.254.232.109:443#MY
+129.159.202.83:443#DE
+64.110.86.83:443#KR
+162.159.153.72:443#CT
+162.159.153.156:443#CT
+162.159.153.209:443#CT
+104.18.95.228:443#CMCC
+104.17.215.28:443#CMCC
+104.16.244.57:443#CMCC
+[2606:4700:3036:6ed4:e1ed:36:8916:dace]:443#CMCC-IPV6
+[2606:4700:3036:0:a36a:4a94:8d40:c92c]:443#CMCC-IPV6
+[2606:4700:3036:ef:92f:be51:8695:9fc5]:443#CMCC-IPV6
+ru1a.88888007.xyz:443#俄罗斯2 - ⬇️ 5.7MB/s |100%
+aafrtpfxr.twl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27201#台湾3 - ⬇️ 4.4MB/s |0%|Netflix|Disney|Youtube|Openai
+aafrtpfxr.jpl04i9zjfegelp.5xfsur8v62.gosdk.xyz:22269#日本14 - ⬇️ 4.9MB/s |0%|Netflix|Disney|Youtube|Openai
+aafrtpfxr.jpl02i9zjfegelp.5xfsur8v62.gosdk.xyz:27002#日本17 - ⬇️ 4.3MB/s |0%|Netflix|Disney|Youtube|Openai
+possible-tiger.shiner427.skin:443#日本6 - ⬇️ 6.8MB/s |0%|Netflix|Youtube|Openai
+fr2a.88888007.xyz:443#法国1 - ⬇️ 6.9MB/s |35%|Netflix|Youtube|Openai
+aafrtpfxr.frl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43498#法国8 - ⬇️ 4.2MB/s |17%|Disney|Openai
+us2a.88888007.xyz:443#美国10 - ⬇️ 6.7MB/s |62%|Netflix|Youtube|Openai
+aafrtpfxr.usl03i9zjfegelp.5xfsur8v62.gosdk.xyz:33506#美国25 - ⬇️ 4.2MB/s |0%|Netflix|Openai
+us4a.88888007.xyz:443#美国27 - ⬇️ 4.1MB/s |68%|Netflix|Openai
+us2.f1ef2ecf-58cc-eb9b-47a9-37cbb1952850.2f6cd430.the-best-airport.com:443#香港13 - ⬇️ 7.6MB/s |0%|Youtube
+aafrtpfxr.hkl03i9zjfegelp.5xfsur8v62.gosdk.xyz:10465#香港15 - ⬇️ 5.0MB/s |0%|Netflix|Disney|Youtube|Openai
+hk1.e1be634c-66db-a8e4-79d4-c3bbbf8b71d8.6df03129.the-best-airport.com:443#香港2 - ⬇️ 5.6MB/s |0%
+us2.bad9d86c-856b-dabc-14a7-2c8c75ebc68b.2f6cd430.the-best-airport.com:443#香港4 - ⬇️ 7.1MB/s |0%|Youtube
+hk2.e1868ef8-5d94-ae24-8e7b-902ffcea384a.24ba0f77.the-best-airport.com:443#香港7 - ⬇️ 4.9MB/s |0%|Youtube
+us1.b40cc2db-4374-d2e9-bcdc-e38d246cd64d.36a8c922.the-best-airport.com:443#香港8 - ⬇️ 4.9MB/s |0%|Youtube
+aafrtpfxr.vnl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43396#🌀其他1-VN - ⬇️ 5.1MB/s |0%|Openai
+aafrtpfxr.idl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43394#🌀其他11-ID - ⬇️ 4.1MB/s |0%|Youtube|Openai
