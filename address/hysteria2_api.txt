@@ -1,71 +1,45 @@
-164.152.19.229:47262#美国20 - ⬇️ 17.1MB/s |28%|Netflix|Disney|Openai
-46.29.163.171:35751#俄罗斯1 - ⬇️ 12.6MB/s |50%
-46.17.41.217:4395#俄罗斯3 - ⬇️ 10.7MB/s |100%
-46.17.41.5:12904#俄罗斯6 - ⬇️ 5.3MB/s |100%
-jnd1.gywanglug.xyz:8443#加拿大2 - ⬇️ 17.0MB/s|Netflix|Youtube|Openai
-in.1e6af9be69cbae59cba.tech:20756#印度1 - ⬇️ 16.5MB/s |63%|Netflix|Youtube|Openai
-in.1e6af9be69cbae59cba.tech:20788#印度12 - ⬇️ 15.3MB/s |63%|Netflix|Openai
-in.1e6af9be69cbae59cba.tech:20798#印度2 - ⬇️ 5.6MB/s |63%|Netflix|Youtube|Openai
-in.1e6af9be69cbae59cba.tech:20750#印度4 - ⬇️ 15.5MB/s |63%|Netflix|Youtube|Openai
-in.1e6af9be69cbae59cba.tech:20706#印度6 - ⬇️ 16.8MB/s |63%|Netflix|Youtube|Openai
-in.1e6af9be69cbae59cba.tech:20785#印度7 - ⬇️ 4.1MB/s |63%|Netflix|Youtube|Openai
-in.1e6af9be69cbae59cba.tech:20714#印度8 - ⬇️ 15.6MB/s |63%|Netflix|Youtube|Openai
-dg1.gywanglug.xyz:8443#德国10 - ⬇️ 15.9MB/s |63%|Netflix|Openai
-q1.28.al:2345#德国28 - ⬇️ 17.4MB/s |23%|Netflix|Youtube|Openai
-xjp1.gywanglug.xyz:8443#新加坡16 - ⬇️ 6.2MB/s|Netflix|Youtube|Openai
-51.159.226.1:61770#法国3 - ⬇️ 20.0MB/s |16%|Netflix|Openai
-195.154.33.70:59967#法国5 - ⬇️ 11.7MB/s |0%|Netflix|Youtube|Openai
-au.1e6af9be69cbae59cba.tech:20735#澳大利亚1 - ⬇️ 17.6MB/s |63%|Netflix|Youtube|Openai
-au.1e6af9be69cbae59cba.tech:20712#澳大利亚10 - ⬇️ 22.7MB/s |63%|Netflix|Youtube|Openai
-au.1e6af9be69cbae59cba.tech:20788#澳大利亚11 - ⬇️ 13.6MB/s |63%|Netflix|Youtube|Openai
-au.1e6af9be69cbae59cba.tech:20797#澳大利亚12 - ⬇️ 12.9MB/s |63%|Netflix|Youtube|Openai
-au.1e6af9be69cbae59cba.tech:20768#澳大利亚13 - ⬇️ 22.1MB/s |63%|Netflix|Youtube|Openai
-au.1e6af9be69cbae59cba.tech:20709#澳大利亚2 - ⬇️ 13.9MB/s |63%|Netflix|Youtube|Openai
-au.1e6af9be69cbae59cba.tech:20798#澳大利亚3 - ⬇️ 24.7MB/s |63%|Netflix|Youtube|Openai
-au.1e6af9be69cbae59cba.tech:20771#澳大利亚4 - ⬇️ 19.5MB/s |63%|Netflix|Youtube|Openai
-au.1e6af9be69cbae59cba.tech:20755#澳大利亚5 - ⬇️ 13.5MB/s |63%|Netflix|Youtube|Openai
-au.1e6af9be69cbae59cba.tech:20777#澳大利亚6 - ⬇️ 18.7MB/s |63%|Netflix|Youtube|Openai
-au.1e6af9be69cbae59cba.tech:20741#澳大利亚8 - ⬇️ 18.7MB/s |63%|Netflix|Youtube|Openai
-us.1e6af9be69cbae59cba.tech:20361#美国10 - ⬇️ 21.1MB/s|Netflix|Openai
-us.1e6af9be69cbae59cba.tech:20345#美国16 - ⬇️ 20.3MB/s|Netflix|Openai
-us.1e6af9be69cbae59cba.tech:20318#美国23 - ⬇️ 18.0MB/s|Openai
-us.1e6af9be69cbae59cba.tech:20322#美国24 - ⬇️ 20.2MB/s|Openai
-us.1e6af9be69cbae59cba.tech:20321#美国42 - ⬇️ 19.5MB/s|Netflix|Openai
-us.1e6af9be69cbae59cba.tech:20396#美国44 - ⬇️ 18.6MB/s|Netflix|Openai
-us.1e6af9be69cbae59cba.tech:20372#美国55 - ⬇️ 18.8MB/s|Netflix|Openai
-8b21ebfd-suif40-tcvn0z-1tlyg.hy2.gotochinatown.net:8443#美国12 - ⬇️ 21.4MB/s |42%|Netflix
-mg4.gywanglug.xyz:8443#美国14 - ⬇️ 21.3MB/s |63%|Netflix|Openai
-192-227-152-86.nip.io:61001#美国18 - ⬇️ 6.3MB/s |33%|Netflix|Disney|Openai
-mg3.gywanglug.xyz:8443#美国26 - ⬇️ 22.2MB/s |63%|Netflix|Openai
-alipay-api-us-a-5.testred.xyz:443#美国32 - ⬇️ 24.3MB/s |0%|Netflix|Disney|Openai
-b9a88fb8-suk9s0-t7qex7-1supq.hy2.gotochinatown.net:8443#美国4 - ⬇️ 16.9MB/s |42%|Netflix
-108.181.5.133:15544#美国58 - ⬇️ 21.9MB/s|Netflix|Openai
-d7b8355e-suk9s0-t8ro7t-1ey07.hy2.gotochinatown.net:8443#美国62 - ⬇️ 19.0MB/s |42%|Netflix
-mg02.hssl8088.icu:50000#美国67 - ⬇️ 22.1MB/s |50%|Netflix|Openai
-mg6.gywanglug.xyz:8443#美国73 - ⬇️ 23.2MB/s |63%|Netflix|Openai
-alipay-api-us-a-2.testred.xyz:443#美国76 - ⬇️ 5.0MB/s |32%|Netflix|Openai
-4e4babe3-suk9s0-t234dm-eso8.hy2.gotochinatown.net:8443#美国9 - ⬇️ 20.4MB/s |42%|Netflix
-gb.1e6af9be69cbae59cba.tech:20343#英国1 - ⬇️ 17.7MB/s|Netflix|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20392#英国10 - ⬇️ 15.4MB/s|Netflix|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20387#英国12 - ⬇️ 13.5MB/s|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20308#英国15 - ⬇️ 16.7MB/s|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20315#英国16 - ⬇️ 15.1MB/s|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20317#英国18 - ⬇️ 15.9MB/s|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20339#英国2 - ⬇️ 14.6MB/s|Netflix|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20335#英国20 - ⬇️ 15.9MB/s|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20305#英国21 - ⬇️ 14.9MB/s|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20377#英国22 - ⬇️ 12.7MB/s|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20350#英国26 - ⬇️ 15.0MB/s|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20314#英国28 - ⬇️ 15.4MB/s|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20361#英国29 - ⬇️ 16.9MB/s|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20324#英国3 - ⬇️ 15.3MB/s|Netflix|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20366#英国30 - ⬇️ 15.5MB/s|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20383#英国4 - ⬇️ 12.2MB/s|Netflix|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20379#英国7 - ⬇️ 14.2MB/s|Netflix|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20322#英国8 - ⬇️ 16.0MB/s|Netflix|Youtube|Openai
-gb.1e6af9be69cbae59cba.tech:20318#英国9 - ⬇️ 15.3MB/s|Netflix|Youtube|Openai
-uk2.xiaoliyu.us:2056#英国25 - ⬇️ 4.6MB/s |33%|Netflix|Openai
-kr.w1997.eu.org:66#韩国10 - ⬇️ 20.0MB/s |65%|Netflix|Youtube|Openai
-tw3.akebi.cc:2021#香港26 - ⬇️ 9.2MB/s |33%|Netflix|Disney
-yg1.gywanglug.xyz:8443#🌀其他15-未识别 - ⬇️ 15.7MB/s|Netflix|Youtube|Openai
-alipay-api-us-a-3.testred.xyz:443#🌀其他5-未识别 - ⬇️ 25.6MB/s|Openai
+132.145.105.88:30300#加拿大3 - ⬇️ 14.7MB/s |28%|Netflix|Disney|Youtube|Openai
+164.152.19.229:47262#美国19 - ⬇️ 14.5MB/s |28%|Netflix|Disney|Openai
+46.17.41.5:12904#俄罗斯2 - ⬇️ 9.3MB/s |100%
+176.32.39.240:31000#俄罗斯4 - ⬇️ 8.8MB/s |50%|Youtube
+46.29.163.171:35751#俄罗斯5 - ⬇️ 8.8MB/s |50%
+46.17.41.217:4395#俄罗斯6 - ⬇️ 7.5MB/s |100%
+192.18.145.7:45979#加拿大1 - ⬇️ 5.0MB/s |28%|Netflix|Disney|Youtube|Openai
+in.1e6af9be69cbae59cba.tech:20706#印度1 - ⬇️ 13.8MB/s |63%|Netflix|Youtube|Openai
+in.1e6af9be69cbae59cba.tech:20788#印度2 - ⬇️ 5.6MB/s |63%|Netflix|Youtube|Openai
+in.1e6af9be69cbae59cba.tech:20790#印度4 - ⬇️ 4.7MB/s |63%|Netflix|Youtube|Openai
+in.1e6af9be69cbae59cba.tech:20774#印度6 - ⬇️ 5.3MB/s |63%|Netflix|Youtube|Openai
+in.1e6af9be69cbae59cba.tech:20714#印度7 - ⬇️ 4.5MB/s |63%|Netflix|Youtube|Openai
+in.1e6af9be69cbae59cba.tech:20743#印度8 - ⬇️ 13.7MB/s |63%|Netflix|Youtube|Openai
+in.1e6af9be69cbae59cba.tech:20750#印度9 - ⬇️ 13.8MB/s |63%|Netflix|Youtube|Openai
+45.63.116.113:443#德国11 - ⬇️ 4.1MB/s |0%|Youtube|Openai
+q1.28.al:2345#德国13 - ⬇️ 18.0MB/s |23%|Netflix|Youtube|Openai
+alipay-api-fr-a-1.testred.xyz:443#德国3 - ⬇️ 16.3MB/s |0%|Netflix|Disney|Youtube|Openai
+195.154.33.70:59967#法国10 - ⬇️ 8.5MB/s |0%|Netflix|Youtube|Openai
+51.159.226.1:61770#法国3 - ⬇️ 10.2MB/s |16%|Netflix|Openai
+au.1e6af9be69cbae59cba.tech:20771#澳大利亚2 - ⬇️ 10.2MB/s |63%|Netflix|Youtube|Openai
+au.1e6af9be69cbae59cba.tech:20709#澳大利亚3 - ⬇️ 23.3MB/s |63%|Netflix|Youtube|Openai
+au.1e6af9be69cbae59cba.tech:20798#澳大利亚4 - ⬇️ 18.1MB/s|Netflix|Youtube|Openai
+au.1e6af9be69cbae59cba.tech:20712#澳大利亚5 - ⬇️ 13.6MB/s |63%|Netflix|Youtube|Openai
+au.1e6af9be69cbae59cba.tech:20788#澳大利亚6 - ⬇️ 22.9MB/s |63%|Netflix|Youtube|Openai
+90f6eaa0-sudhc0-syoixd-bm0y.la.shifen.uk:443#美国1 - ⬇️ 17.5MB/s |42%|Netflix
+d7babeae-sudhc0-svm3vt-czv5.la.shifen.uk:443#美国10 - ⬇️ 18.3MB/s |42%|Netflix
+108.181.5.133:15544#美国25 - ⬇️ 20.9MB/s|Netflix|Openai
+mg1.gywanglug.xyz:8443#美国40 - ⬇️ 21.4MB/s|Netflix|Openai
+4e4babe3-suk9s0-t234dm-eso8.hy2.gotochinatown.net:8443#美国44 - ⬇️ 20.5MB/s |42%|Netflix
+d7b8355e-suk9s0-t8ro7t-1ey07.hy2.gotochinatown.net:8443#美国5 - ⬇️ 16.9MB/s |42%|Netflix
+147ef105-submo0-sudpdj-d5nv.la.shifen.uk:443#美国59 - ⬇️ 19.5MB/s |42%|Netflix
+0238bfe3-sudhc0-t33mcq-4tx.la.shifen.uk:443#美国6 - ⬇️ 16.6MB/s |42%|Netflix
+71845bc5-submo0-t0t1z3-1qgn.la.shifen.uk:443#美国61 - ⬇️ 23.7MB/s |42%|Netflix
+8b21ebfd-suif40-tcvn0z-1tlyg.hy2.gotochinatown.net:8443#美国67 - ⬇️ 13.9MB/s |42%|Netflix
+b9a88fb8-suk9s0-t7qex7-1supq.hy2.gotochinatown.net:8443#美国75 - ⬇️ 15.9MB/s |42%|Netflix
+gb.1e6af9be69cbae59cba.tech:20361#英国3 - ⬇️ 15.3MB/s|Netflix|Youtube|Openai
+gb.1e6af9be69cbae59cba.tech:20366#英国4 - ⬇️ 16.5MB/s|Youtube|Openai
+gb.1e6af9be69cbae59cba.tech:20317#英国5 - ⬇️ 15.5MB/s|Youtube|Openai
+gb.1e6af9be69cbae59cba.tech:20379#英国6 - ⬇️ 14.3MB/s|Youtube|Openai
+gb.1e6af9be69cbae59cba.tech:20387#英国7 - ⬇️ 13.8MB/s|Youtube|Openai
+gb.1e6af9be69cbae59cba.tech:20383#🌀其他4-未识别 - ⬇️ 12.7MB/s|Youtube|Openai
+kr.w1997.eu.org:66#韩国16 - ⬇️ 18.1MB/s |62%|Netflix|Youtube|Openai
+alipay-api-hk-a-2.testred.xyz:443#香港8 - ⬇️ 4.5MB/s |75%|Netflix|Youtube
+108.181.5.130:15544#🌀其他1-未识别 - ⬇️ 21.8MB/s|Netflix|Openai
+starlink-tko.2513142.xyz:443#🌀其他6-未识别 - ⬇️ 24.5MB/s|Netflix|Youtube|Openai
