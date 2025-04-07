@@ -1,50 +1,38 @@
-gysz0000.dynu.net:56277#印度3 - ⬇️ 15.2MB/s |55%|Netflix|Youtube|Openai
-bs3.jymzffbquawl.com:3046#台湾11 - ⬇️ 31.1MB/s |13%|Netflix|Disney|Youtube|Openai
-bs3.jymzffbquawl.com:6601#新加坡10 - ⬇️ 72.3MB/s |5%|Netflix|Disney|Youtube|Openai
-bs3.jymzffbquawl.com:6603#新加坡32 - ⬇️ 60.5MB/s |0%|Netflix|Disney|Youtube|Openai
-54.254.242.112:25612#新加坡1 - ⬇️ 29.4MB/s |11%|Netflix|Youtube|Openai
-pr3.jymzffbquawl.com:6609#新加坡11 - ⬇️ 34.1MB/s |5%|Netflix|Disney|Youtube|Openai
-13.228.72.3:80#新加坡13 - ⬇️ 29.6MB/s |13%|Netflix|Youtube|Openai
-54.151.223.103:80#新加坡14 - ⬇️ 30.1MB/s |13%|Netflix|Youtube|Openai
-52.77.241.146:25612#新加坡15 - ⬇️ 34.4MB/s |39%|Netflix|Youtube|Openai
-54.169.248.170:80#新加坡19 - ⬇️ 30.6MB/s |39%|Netflix|Youtube|Openai
-18.136.209.161:25612#新加坡20 - ⬇️ 7.9MB/s |13%|Netflix|Youtube|Openai
-52.221.236.111:80#新加坡22 - ⬇️ 30.7MB/s |39%|Netflix|Youtube|Openai
-18.142.181.4:25612#新加坡25 - ⬇️ 20.5MB/s |13%|Netflix|Youtube|Openai
-13.250.13.67:25612#新加坡26 - ⬇️ 37.7MB/s |39%|Netflix|Youtube|Openai
-46.137.233.112:80#新加坡27 - ⬇️ 30.8MB/s |39%|Netflix|Youtube|Openai
-okanc.node-is.green:21115#新加坡28 - ⬇️ 29.2MB/s |5%|Disney|Youtube|Openai
-47.129.252.66:80#新加坡29 - ⬇️ 28.0MB/s |16%|Netflix|Youtube|Openai
-18.140.52.108:25612#新加坡30 - ⬇️ 27.8MB/s |39%|Netflix|Youtube|Openai
-13.212.196.13:80#新加坡31 - ⬇️ 30.9MB/s |13%|Netflix|Youtube|Openai
-13.214.211.44:80#新加坡33 - ⬇️ 30.9MB/s |13%|Netflix|Youtube|Openai
-13.212.241.11:80#新加坡35 - ⬇️ 32.4MB/s |13%|Netflix|Youtube|Openai
-54.254.13.78:25612#新加坡38 - ⬇️ 32.3MB/s |11%|Netflix|Youtube|Openai
-18.140.63.226:25612#新加坡4 - ⬇️ 31.6MB/s |39%|Netflix|Youtube|Openai
-3.0.17.104:25612#新加坡5 - ⬇️ 30.4MB/s |13%|Netflix|Youtube|Openai
-18.143.93.43:80#新加坡6 - ⬇️ 30.2MB/s |13%|Netflix|Youtube|Openai
-54.151.204.146:80#新加坡7 - ⬇️ 33.0MB/s |13%|Netflix|Youtube|Openai
-13.229.208.218:25612#新加坡8 - ⬇️ 25.4MB/s |13%|Netflix|Youtube|Openai
-3.113.12.194:65231#日本17 - ⬇️ 25.7MB/s |11%|Netflix|Youtube|Openai
-35.72.13.55:65231#日本2 - ⬇️ 25.0MB/s |39%|Netflix|Youtube|Openai
-57.180.28.163:65231#日本20 - ⬇️ 15.1MB/s |0%|Netflix|Youtube|Openai
-18.183.131.188:65231#日本24 - ⬇️ 24.1MB/s |11%|Netflix|Youtube|Openai
-54.250.154.37:65231#日本3 - ⬇️ 25.4MB/s |39%|Netflix|Disney|Youtube|Openai
-54.92.112.22:65231#日本6 - ⬇️ 27.2MB/s |0%|Netflix|Youtube|Openai
-18.183.142.156:65231#日本7 - ⬇️ 33.3MB/s |11%|Netflix|Youtube|Openai
-52.194.222.36:65231#日本9 - ⬇️ 27.0MB/s |11%|Netflix|Youtube|Openai
-35.92.133.58:463#美国135 - ⬇️ 14.3MB/s |39%|Netflix|Openai
-54.244.202.58:463#美国136 - ⬇️ 14.3MB/s |39%|Netflix|Openai
-35.93.154.44:463#美国146 - ⬇️ 12.8MB/s|Netflix|Openai
-54.187.201.86:463#美国154 - ⬇️ 11.5MB/s |39%|Netflix|Openai
-34.221.211.141:463#美国155 - ⬇️ 14.5MB/s |39%|Netflix|Openai
-35.93.139.175:463#美国2 - ⬇️ 15.0MB/s |39%|Netflix|Openai
-35.167.5.118:463#美国32 - ⬇️ 13.0MB/s |39%|Netflix|Openai
-54.245.159.15:463#美国38 - ⬇️ 13.8MB/s |39%|Netflix|Openai
-34.213.220.211:463#美国47 - ⬇️ 13.2MB/s |39%|Netflix|Openai
-34.215.191.184:463#美国51 - ⬇️ 8.9MB/s |39%|Netflix|Openai
-35.95.37.83:463#美国58 - ⬇️ 14.3MB/s |39%|Netflix|Openai
-34.213.176.128:463#美国6 - ⬇️ 12.0MB/s |39%|Netflix|Openai
-35.93.27.26:463#美国95 - ⬇️ 14.6MB/s |39%|Netflix|Openai
-bs1.jymzffbquawl.com:3605#香港50 - ⬇️ 33.3MB/s |5%|Netflix|Disney|Youtube|Openai
-pr1.jymzffbquawl.com:3607#香港53 - ⬇️ 22.2MB/s |100%|Netflix|Disney|Youtube
+gy01.hunheiydd.xyz:56277#印度3 - ⬇️ 6.1MB/s -55%-Youtube-Openai
+13.250.13.67:25612#新加坡1 - ⬇️ 15.0MB/s -39%-Netflix-Youtube-Openai
+54.255.184.248:80#新加坡10 - ⬇️ 31.4MB/s -11%-Netflix-Youtube-Openai
+13.214.211.44:80#新加坡12 - ⬇️ 36.0MB/s -13%-Netflix-Youtube-Openai
+18.140.63.226:25612#新加坡14 - ⬇️ 29.0MB/s -39%-Netflix-Youtube-Openai
+13.212.241.11:80#新加坡16 - ⬇️ 33.6MB/s -13%-Netflix-Youtube-Openai
+3.0.17.104:25612#新加坡18 - ⬇️ 30.2MB/s -13%-Netflix-Youtube-Openai
+46.137.233.112:80#新加坡19 - ⬇️ 31.0MB/s -39%-Netflix-Youtube-Openai
+18.136.209.161:25612#新加坡2 - ⬇️ 30.6MB/s -13%-Netflix-Youtube-Openai
+13.228.79.110:80#新加坡20 - ⬇️ 31.5MB/s -13%-Netflix-Youtube-Openai
+52.221.184.76:25612#新加坡25 - ⬇️ 33.9MB/s -39%-Netflix-Openai
+52.221.236.111:80#新加坡26 - ⬇️ 30.2MB/s -39%-Netflix-Youtube-Openai
+okanc.node-is.green:21114#新加坡27 - ⬇️ 30.1MB/s -5%-Disney
+18.143.93.43:80#新加坡28 - ⬇️ 33.1MB/s -13%-Netflix-Youtube-Openai
+54.151.223.103:80#新加坡3 - ⬇️ 27.4MB/s -13%-Netflix-Youtube-Openai
+13.228.72.3:80#新加坡30 - ⬇️ 29.4MB/s -13%-Netflix-Youtube-Openai
+47.129.252.66:80#新加坡33 - ⬇️ 31.6MB/s -16%-Netflix-Youtube-Openai
+54.254.242.112:25612#新加坡4 - ⬇️ 26.1MB/s -11%-Netflix-Youtube-Openai
+54.254.229.119:80#新加坡8 - ⬇️ 32.4MB/s -11%-Netflix-Youtube-Openai
+47.129.152.154:80#新加坡9 - ⬇️ 32.1MB/s -16%-Netflix-Youtube-Openai
+54.250.154.37:65231#日本1 - ⬇️ 33.9MB/s -39%-Netflix-Openai
+52.194.222.36:65231#日本18 - ⬇️ 30.1MB/s -11%-Netflix-Youtube-Openai
+35.72.13.55:65231#日本20 - ⬇️ 29.5MB/s -39%-Netflix-Youtube-Openai
+18.183.142.156:65231#日本3 - ⬇️ 28.6MB/s -11%-Netflix-Youtube-Openai
+57.180.28.163:65231#日本7 - ⬇️ 35.1MB/s -0%-Netflix-Youtube-Openai
+54.249.166.244:65231#日本8 - ⬇️ 19.5MB/s -39%-Netflix-Disney-Youtube-Openai
+35.95.37.83:463#美国103 - ⬇️ 13.3MB/s -39%-Netflix-Openai
+54.200.143.138:463#美国11 - ⬇️ 10.9MB/s -39%-Netflix-Openai
+54.187.201.86:463#美国137 - ⬇️ 14.0MB/s -39%-Netflix-Openai
+35.92.133.58:463#美国145 - ⬇️ 13.8MB/s -39%-Netflix-Openai
+35.93.139.175:463#美国18 - ⬇️ 14.4MB/s -39%-Netflix-Openai
+54.71.126.152:463#美国31 - ⬇️ 14.6MB/s -39%-Netflix-Openai
+54.187.182.17:463#美国58 - ⬇️ 13.9MB/s -39%-Netflix-Openai
+34.215.191.184:463#美国64 - ⬇️ 13.7MB/s -39%-Netflix-Openai
+44.246.118.43:463#美国65 - ⬇️ 13.6MB/s -39%-Netflix-Openai
+34.213.220.211:463#美国78 - ⬇️ 13.9MB/s -39%-Netflix-Openai
+35.93.154.44:463#美国93 - ⬇️ 11.9MB/s -39%-Netflix-Openai
+35.93.27.26:463#🌀其他19-未识别 - ⬇️ 14.3MB/s-Openai
