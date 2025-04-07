@@ -1,5 +1,19 @@
-96d2c7af-sugkg0-t67sv3-1snfs.se.plebai.net:8880#美国15 - ⬇️ 9.0MB/s -0%-Netflix-Openai
-141.101.120.195:2096#美国20 - ⬇️ 8.0MB/s -33%-Netflix-Openai
-8e4f197d-sum4g0-sx1cxx-1tfjk.cu.plebai.net:5229#美国76 - ⬇️ 7.9MB/s -42%-Netflix-Openai
-8e5118b7-sunz40-tcs1gf-1qz6v.se.plebai.net:8880#美国78 - ⬇️ 5.5MB/s -0%-Netflix-Openai
-56526974-sugkg0-svn8il-1sc2u.se.plebai.net:8880#美国79 - ⬇️ 9.9MB/s -0%-Netflix
+1744007541.tencentapp.cn:2083#俄罗斯1 - ⬇️ 7.0MB/s -0%-Youtube-Openai
+1744007541.tencentapp.cn:8443#美国53 - ⬇️ 8.0MB/s -33%-Netflix-Openai
+1744007541.tencentapp.cn:2053#美国64 - ⬇️ 4.9MB/s -37%-Netflix-Openai
+98ebc1d5-sunz40-t5w83q-1slpx.lzc.plebai.net:7089#美国17 - ⬇️ 10.6MB/s -42%-Netflix-Openai
+33ef14f5-sugkg0-svnl1v-cq5n.lzc.plebai.net:7089#美国56 - ⬇️ 6.3MB/s -42%-Netflix-Openai
+8687f110-sunz40-t324jc-fazp.lzc.plebai.net:7089#美国58 - ⬇️ 4.1MB/s -42%-Netflix-Openai
+81a5eb64-sugkg0-ta7nh3-ejvo.cu.plebai.net:5229#美国62 - ⬇️ 4.6MB/s -42%-Netflix-Openai
+us-n-08.11b5.com:10608#美国63 - ⬇️ 7.6MB/s -100%-Netflix-Disney-Openai
+df694caa-sunz40-t8kd6j-1c9em.cu.plebai.net:5229#美国9 - ⬇️ 5.0MB/s -42%-Netflix-Openai
+uk-n-02.11b5.com:10402#英国3 - ⬇️ 11.1MB/s -50%-Netflix-Youtube-Openai
+kr-n-02.11b5.com:10802#韩国2 - ⬇️ 7.5MB/s -62%-Youtube-Openai
+35.220.230.251:30251#香港9 - ⬇️ 7.0MB/s -11%-Netflix
+v5.heduian.link:30805#🌀其他1-ES - ⬇️ 7.3MB/s -11%-Netflix-Openai
+br-n-01.11b5.com:14001#🌀其他11-MX - ⬇️ 6.3MB/s -3%-Netflix-Youtube-Openai
+tr-n-02.11b5.com:10902#🌀其他13-TR - ⬇️ 14.6MB/s -0%-Netflix-Openai
+it-n-01.11b5.com:15001#🌀其他3-TH - ⬇️ 6.4MB/s -0%-Youtube-Openai
+uk-n-03.11b5.com:10403#🌀其他5-ES - ⬇️ 7.6MB/s -0%-Netflix-Disney
+uk-n-04.11b5.com:10404#🌀其他8-ES - ⬇️ 9.9MB/s-Disney-Openai
+tr-n-01.11b5.com:10901#🌀其他9-TR - ⬇️ 5.3MB/s-Netflix-Youtube-Openai

@@ -1,40 +1,30 @@
-8.222.143.79:443#SG
 193.122.118.205:443#KR
-8.219.85.195:443#SG
-150.230.207.104:443#JP
-143.47.181.198:443#NL
-8.222.150.102:443#SG
-152.70.119.70:443#US
-144.24.94.21:443#KR
-8.220.218.105:443#KR
-129.154.211.200:443#KR
-8.219.241.137:443#SG
-8.219.72.136:443#SG
-131.186.33.175:443#JP
-162.159.152.11:443#CT
-162.159.153.194:443#CT
+129.159.202.83:443#DE
+152.69.199.70:8443#JP
+140.83.39.153:443#JP
+141.144.203.241:443#NL
+141.148.229.106:443#NL
+158.101.211.243:443#NL
+152.70.44.5:443#DE
+8.219.228.81:443#SG
+129.146.16.219:443#US
+158.101.23.175:443#US
+144.21.32.141:443#NL
+132.226.209.4:443#GB
+158.101.202.232:443#NL
 162.159.153.209:443#CT
-104.19.157.248:443#CMCC
-104.16.251.253:443#CMCC
-104.18.94.209:443#CMCC
-104.18.92.226:443#CMCC
-104.19.156.46:443#CMCC
-[2606:4700:3036:0:a36a:3160:b566:8741]:443#CMCC-IPV6
+162.159.153.170:443#CT
+162.159.153.42:443#CT
+162.159.152.205:443#CT
+104.18.88.103:443#CMCC
+104.16.242.33:443#CMCC
+104.17.188.234:443#CMCC
+104.17.165.172:443#CMCC
+[2606:4700:3036:0:a36a:4a23:4a60:9f3f]:443#CMCC-IPV6
 [2606:4700:3036:0:a36a:4a94:8d40:c92c]:443#CMCC-IPV6
-[2606:4700:3036:0:a36a:4af2:65e7:a0d6]:443#CMCC-IPV6
-aafrtpfxr.del01i9zjfegelp.5xfsur8v62.gosdk.xyz:43583#德国2 - ⬇️ 4.7MB/s -17%-Openai
-aafrtpfxr.sgl02i9zjfegelp.5xfsur8v62.gosdk.xyz:42881#新加坡9 - ⬇️ 6.3MB/s -0%-Netflix-Disney-Youtube-Openai
-aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27001#日本3 - ⬇️ 9.0MB/s -0%-Netflix-Disney-Youtube-Openai
-aafrtpfxr.jpl02i9zjfegelp.5xfsur8v62.gosdk.xyz:27002#日本5 - ⬇️ 5.0MB/s -0%-Disney-Youtube-Openai
-aafrtpfxr.frl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43498#法国4 - ⬇️ 4.5MB/s -17%-Disney-Openai
-gy.58n.net:11215#美国1 - ⬇️ 9.9MB/s -20%-Netflix-Openai
-gy.58n.net:20296#美国12 - ⬇️ 9.6MB/s -54%-Netflix-Openai
-aafrtpfxr.usl03i9zjfegelp.5xfsur8v62.gosdk.xyz:33506#美国3 - ⬇️ 7.8MB/s -0%-Netflix-Openai
-sanjose03.890614.filegear-sg.me:443#美国5 - ⬇️ 9.2MB/s -32%-Netflix-Openai
-104.21.58.135:443#美国52 - ⬇️ 10.7MB/s -0%-Netflix-Openai
-172.67.210.210:443#美国53 - ⬇️ 6.1MB/s -32%-Netflix
-172.67.200.238:443#美国6 - ⬇️ 6.4MB/s -67%-Openai
-www.ak-hk.top:10200#英国2 - ⬇️ 8.4MB/s -65%-Openai
-aafrtpfxr.brl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43586#🌀其他13-MD - ⬇️ 4.7MB/s -51%-Youtube-Openai
-aafrtpfxr.trl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43397#🌀其他16-TR - ⬇️ 4.6MB/s -0%-Openai
-aafrtpfxr.idl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43394#🌀其他24-ID - ⬇️ 6.7MB/s -0%-Youtube-Openai
+[2606:4700:3036::ce:d6ea]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:260:e3e9:a48c:8437]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:e1ed:36:7204:2031]:443#CMCC-IPV6
+vn-n-02.11b5.com:11002#🌀其他10-VN - ⬇️ 7.1MB/s -0%-Openai
+vn-n-01.11b5.com:11001#🌀其他7-VN - ⬇️ 5.5MB/s-Openai
