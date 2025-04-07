@@ -1,54 +1,5 @@
-cg1c09.waimaoglobaldirect.cc:443#俄罗斯1 - ⬇️ 11.3MB/s -100%
-195.58.49.84:22000#俄罗斯13 - ⬇️ 4.3MB/s -50%-Netflix-Youtube
-cg1c08.waimaoglobaldirect.cc:443#俄罗斯14 - ⬇️ 16.2MB/s -50%-Youtube
-104.18.23.235:80#巴西1 - ⬇️ 6.1MB/s -65%-Netflix-Youtube-Openai
-mlcatcdn7.dynv6.net:80#巴西10 - ⬇️ 4.1MB/s -65%-Youtube-Openai
-104.18.26.94:80#巴西12 - ⬇️ 6.4MB/s -65%-Netflix-Youtube-Openai
-104.18.27.94:80#巴西13 - ⬇️ 7.6MB/s -65%-Openai
-104.26.12.54:80#巴西14 - ⬇️ 6.9MB/s -65%-Netflix-Youtube-Openai
-104.18.23.246:80#巴西15 - ⬇️ 5.1MB/s -65%-Youtube-Openai
-mlcatcdn9.dynv6.net:80#巴西16 - ⬇️ 4.5MB/s -65%-Openai
-mlcatcdn1.dynv6.net:80#巴西17 - ⬇️ 5.0MB/s -65%-Youtube-Openai
-mlcatcdn3.dynv6.net:80#巴西18 - ⬇️ 6.2MB/s -65%-Netflix-Youtube-Openai
-104.18.23.137:80#巴西4 - ⬇️ 6.4MB/s -65%-Youtube-Openai
-104.18.23.138:80#巴西7 - ⬇️ 5.7MB/s -65%-Youtube-Openai
-104.18.23.218:80#巴西8 - ⬇️ 5.2MB/s -65%-Openai
-104.16.228.229:80#巴西9 - ⬇️ 5.0MB/s -65%-Netflix-Youtube-Openai
-cg1d08.waimaoglobaldirect.cc:443#澳大利亚1 - ⬇️ 6.3MB/s -63%-Youtube-Openai
-66be5082-sueps0-t8gc2u-fde3.sv.plebai.net:80#美国1 - ⬇️ 9.3MB/s -0%-Netflix-Openai
-69528f2d-sueps0-swy8qd-18ug9.se.plebai.net:8880#美国10 - ⬇️ 14.4MB/s -0%-Netflix-Openai
-1743919941.tencentapp.cn:8443#美国101 - ⬇️ 12.4MB/s -32%-Disney-Openai
-1743919941.tencentapp.cn:2096#美国141 - ⬇️ 4.5MB/s -33%-Netflix-Openai
-9e7694c0-sueps0-sxrtmf-1kww5.sv.plebai.net:80#美国105 - ⬇️ 12.6MB/s -0%-Netflix-Openai
-937ced1c-sueps0-swy8qd-18ug9.lzc.plebai.net:7088#美国112 - ⬇️ 13.0MB/s -42%-Netflix-Openai
-182c3a30-sum4g0-sx1cxx-1tfjk.lzc.plebai.net:7088#美国113 - ⬇️ 10.4MB/s -42%-Netflix-Openai
-137.175.10.241:38003#美国118 - ⬇️ 13.3MB/s -0%-Youtube-Openai
-141.101.120.195:2096#美国120 - ⬇️ 10.5MB/s -33%-Netflix-Openai
-95f858a9-sueps0-t8gc2u-fde3.se.plebai.net:8880#美国122 - ⬇️ 12.4MB/s -0%-Netflix-Openai
-cg1c04.waimaoglobaldirect.cc:443#美国124 - ⬇️ 11.8MB/s -42%-Netflix-Disney-Openai
-8f60b470-sueps0-sv4qt9-1es4a.se.plebai.net:8880#美国128 - ⬇️ 15.5MB/s -0%-Netflix-Openai
-5dd67fe2-sueps0-sv4qt9-1es4a.lzc.plebai.net:7088#美国132 - ⬇️ 13.3MB/s -42%-Netflix-Openai
-d88fda92-sueps0-t8gc2u-fde3.cu.plebai.net:5229#美国136 - ⬇️ 10.4MB/s -42%-Netflix-Openai
-25710b74-sum4g0-sx1cxx-1tfjk.se.plebai.net:8880#美国139 - ⬇️ 13.1MB/s-Netflix-Openai
-08599ef7-sueps0-sv4qt9-1es4a.sv.plebai.net:80#美国140 - ⬇️ 11.7MB/s -0%-Netflix-Openai
-cg1d01.waimaoglobaldirect.cc:443#美国23 - ⬇️ 13.1MB/s-Openai
-a7213e31-sumqo0-swo13r-3im.a.fosant.com:3693#美国24 - ⬇️ 11.5MB/s -25%-Netflix-Openai
-694f733a-sueps0-t8gc2u-fde3.lzc.plebai.net:7088#美国35 - ⬇️ 9.9MB/s -42%-Netflix-Openai
-8e4f197d-sum4g0-sx1cxx-1tfjk.cu.plebai.net:5229#美国43 - ⬇️ 10.9MB/s -42%-Netflix-Openai
-e1dcbefa-sueps0-swy8qd-18ug9.sv.plebai.net:80#美国57 - ⬇️ 11.3MB/s -0%-Netflix-Openai
-be4ac03c-sum4g0-sx1cxx-1tfjk.sv.plebai.net:80#美国61 - ⬇️ 12.1MB/s -0%-Netflix-Openai
-d2f24fa9-sueps0-sxrtmf-1kww5.lzc.plebai.net:7088#美国62 - ⬇️ 13.9MB/s -42%-Netflix-Openai
-cg1d02.waimaoglobaldirect.cc:443#美国69 - ⬇️ 13.5MB/s -63%-Openai
-64dfeb34-sumqo0-tbfl8f-xcf.a.fosant.com:3693#美国80 - ⬇️ 10.4MB/s -25%-Netflix-Openai
-a9ef9b55-sueps0-sxrtmf-1kww5.se.plebai.net:8880#美国86 - ⬇️ 12.8MB/s-Netflix-Openai
-77c697d2-sueps0-sxrtmf-1kww5.cu.plebai.net:5228#美国99 - ⬇️ 12.3MB/s -42%-Netflix-Openai
-cg1c12.waimaoglobaldirect.cc:443#英国7 - ⬇️ 7.4MB/s -67%-Openai
-cg1d05.waimaoglobaldirect.cc:443#荷兰2 - ⬇️ 7.6MB/s-Youtube-Openai
-cg1c13.waimaoglobaldirect.cc:443#荷兰3 - ⬇️ 9.4MB/s-Youtube-Openai
-8e2a8805-sueps0-sxrtmf-1kww5.hk3.p5pv.com:80#香港13 - ⬇️ 5.3MB/s -13%-Disney-Youtube-Openai
-23080798-sueps0-sxrtmf-1kww5.hgc1.tcpbbr.net:80#香港15 - ⬇️ 5.4MB/s -13%-Netflix-Disney-Youtube-Openai
-4cd937c7-sueps0-t8gc2u-fde3.hk3.p5pv.com:80#香港2 - ⬇️ 5.3MB/s -13%-Netflix-Disney-Youtube-Openai
-c1597ab4-sueps0-t8gc2u-fde3.hgc1.tcpbbr.net:80#香港25 - ⬇️ 5.7MB/s -13%-Netflix-Disney-Youtube-Openai
-06e6b075-sum4g0-sx1cxx-1tfjk.hk3.p5pv.com:80#香港27 - ⬇️ 4.5MB/s -13%-Netflix-Disney-Youtube
-4db0c464-sueps0-sxrtmf-1kww5.hk.p5pv.com:80#香港4 - ⬇️ 4.3MB/s -13%-Netflix-Disney-Youtube-Openai
-e4fac854-sum4g0-sx1cxx-1tfjk.hk.p5pv.com:80#香港8 - ⬇️ 6.6MB/s -13%-Netflix-Disney-Youtube-Openai
+96d2c7af-sugkg0-t67sv3-1snfs.se.plebai.net:8880#美国15 - ⬇️ 9.0MB/s -0%-Netflix-Openai
+141.101.120.195:2096#美国20 - ⬇️ 8.0MB/s -33%-Netflix-Openai
+8e4f197d-sum4g0-sx1cxx-1tfjk.cu.plebai.net:5229#美国76 - ⬇️ 7.9MB/s -42%-Netflix-Openai
+8e5118b7-sunz40-tcs1gf-1qz6v.se.plebai.net:8880#美国78 - ⬇️ 5.5MB/s -0%-Netflix-Openai
+56526974-sugkg0-svn8il-1sc2u.se.plebai.net:8880#美国79 - ⬇️ 9.9MB/s -0%-Netflix
