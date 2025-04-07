@@ -4,6 +4,7 @@ import { base64Decode } from '../../utils/base64';
 import { ParseError } from '../../utils/error';
 import { REMARKS_REG, SSR_REG } from '@/const';
 import { tryBase64Decode } from 'cloudflare-tools';
+import { formatPs } from '@/utils';
 
 export class SsrParser extends BaseParser {
     constructor() {
@@ -25,7 +26,7 @@ export class SsrParser extends BaseParser {
                 protocol: 'ssr',
                 address: host,
                 port,
-                hash: `#${tryBase64Decode(base64).replace('|', '-')}`
+                hash: `#${formatPs(tryBase64Decode(base64))}`
             };
         } catch (error) {
             throw new ParseError(`Failed to parse SSR config: ${error}`);

@@ -3,6 +3,7 @@ import { VmessNode } from '../../config/types';
 import { base64Decode } from '../../utils/base64';
 import { ParseError } from '../../utils/error';
 import { tryUrlDecode } from 'cloudflare-tools';
+import { formatPs } from '@/utils';
 
 interface VmessConfig {
     v: string;
@@ -30,7 +31,7 @@ export class VmessParser extends BaseParser {
                 protocol: 'vmess',
                 address: config.add,
                 port: config.port.toString(),
-                hash: `#${tryUrlDecode(config.ps).replace('|', '-')}`
+                hash: `#${formatPs(tryUrlDecode(config.ps))}`
             };
         } catch (error) {
             throw new ParseError(`Failed to parse Vmess config: ${error}`);

@@ -3,6 +3,7 @@ import { SsNode } from '../../config/types';
 import { base64Decode } from '../../utils/base64';
 import { ParseError } from '../../utils/error';
 import { tryUrlDecode } from 'cloudflare-tools';
+import { formatPs } from '@/utils';
 
 export class SsParser extends BaseParser {
     constructor() {
@@ -18,7 +19,7 @@ export class SsParser extends BaseParser {
                 protocol: 'ss',
                 address: url.hostname,
                 port: url.port,
-                hash: tryUrlDecode(url.hash).replace('|', '-')
+                hash: formatPs(tryUrlDecode(url.hash))
             };
         } catch (error) {
             throw new ParseError(`Failed to parse SS config: ${error}`);
