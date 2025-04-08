@@ -1,8 +1,7 @@
-172.67.71.217:443#德国5 - ⬇️ 18.6MB/s -0%-Openai
-34.97.245.204:30251#日本3 - ⬇️ 17.9MB/s -13%-Netflix-Openai
-104.21.48.160:443#法国10 - ⬇️ 4.9MB/s -0%-Netflix-Openai
-185.174.138.209:2095#法国11 - ⬇️ 11.6MB/s-Netflix
-185.174.138.196:2082#法国13 - ⬇️ 15.4MB/s -0%-Openai
-172.67.154.84:443#法国4 - ⬇️ 4.2MB/s -0%-Netflix-Disney-Openai
-1744007541.tencentapp.cn:8443#美国5 - ⬇️ 11.5MB/s -31%
-35.220.230.251:30251#香港2 - ⬇️ 25.7MB/s -10%-Netflix
+fbf248.de15-5483-d16b.sbs:80#新加坡1 - ⬇️ 11.2MB/s -35%-Netflix-Openai
+j803z-g05.jp03-7d22-vm0.entry.fr0307a.art:21585#日本5 - ⬇️ 6.8MB/s -9%-Netflix-Youtube-Openai
+1744007541.tencentapp.cn:2053#美国14 - ⬇️ 12.6MB/s -44%-Netflix-Disney-Openai
+104.18.118.195:8443#美国20 - ⬇️ 13.5MB/s -44%-Netflix-Disney
+170.114.45.53:2086#美国35 - ⬇️ 18.6MB/s -35%-Netflix-Openai
+170.114.45.52:2086#美国51 - ⬇️ 12.2MB/s -35%-Netflix-Openai
+QWe.852224.GGFF.NEt:443#美国6 - ⬇️ 4.3MB/s -0%-Netflix-Openai

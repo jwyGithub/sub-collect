@@ -1,6 +1,10 @@
-35.93.139.175:463#美国29 - ⬇️ 10.7MB/s
-52.33.3.233:463#美国33 - ⬇️ 14.4MB/s-Netflix-Openai
-78.129.140.11:443#英国1 - ⬇️ 12.5MB/s -0%-Netflix-Youtube-Openai
-n1eubce2cbv.h5dg9l1jwpczvs91dekk.pw:48778#香港9 - ⬇️ 34.9MB/s -0%-Netflix-Disney-Youtube-Openai
-gy.tangu.win:13642#🌀其他12-VN - ⬇️ 11.0MB/s -17%-Netflix-Youtube-Openai
-156.226.174.40:30004#🌀其他2-SC - ⬇️ 8.8MB/s-Netflix-Disney-Youtube-Openai
+bs3.jymzffbquawl.com:4606#日本14 - ⬇️ 16.9MB/s -6%-Netflix-Disney-Youtube-Openai
+bs3.jymzffbquawl.com:4608#🌀其他19-未识别 - ⬇️ 17.4MB/s-Netflix-Disney-Youtube-Openai
+54.92.112.22:623#日本7 - ⬇️ 33.1MB/s -0%-Openai
+pr3.jymzffbquawl.com:4602#日本8 - ⬇️ 9.6MB/s -6%-Netflix-Disney-Youtube-Openai
+35.92.133.58:463#美国2 - ⬇️ 14.5MB/s -38%-Netflix-Openai
+35.93.154.44:463#美国21 - ⬇️ 13.5MB/s-Netflix-Openai
+78.129.140.11:443#英国1 - ⬇️ 6.4MB/s -0%-Netflix-Youtube-Openai
+yidong.nodelinktoday.com:29906#英国3 - ⬇️ 8.4MB/s-Netflix-Disney-Openai
+149.34.244.80:443#荷兰1 - ⬇️ 5.4MB/s -51%-Netflix-Youtube-Openai
+dianxin.nodelinktoday.com:29903#香港25 - ⬇️ 34.0MB/s -14%-Netflix-Disney-Youtube-Openai

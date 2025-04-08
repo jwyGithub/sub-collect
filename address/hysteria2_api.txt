@@ -1,26 +1,23 @@
-164.152.19.229:47262#美国6 - ⬇️ 17.0MB/s -29%-Netflix-Openai
-46.29.163.171:35751#俄罗斯1 - ⬇️ 4.3MB/s -50%
-46.17.41.5:12904#俄罗斯3 - ⬇️ 4.0MB/s -100%
-45.63.116.113:443#德国17 - ⬇️ 6.5MB/s -0%-Netflix-Youtube-Openai
-168.138.184.187:20000#新加坡4 - ⬇️ 9.6MB/s -64%-Disney-Youtube-Openai
-tw3.akebi.cc:2023#柬埔寨1 - ⬇️ 4.8MB/s-Openai
-195.154.33.70:59967#法国1 - ⬇️ 8.3MB/s -0%-Netflix-Youtube-Openai
-51.159.226.1:61770#法国9 - ⬇️ 11.2MB/s -14%-Netflix-Openai
-4e4babe3-suk9s0-t234dm-eso8.hy2.gotochinatown.net:8443#美国1 - ⬇️ 19.5MB/s -41%-Netflix
-4c5e2c5a-sunz40-t8kd6j-1c9em.hy2.gotochinatown.net:8443#美国13 - ⬇️ 20.9MB/s -41%-Netflix
-gy1.mlshu.top:30001#美国18 - ⬇️ 18.0MB/s-Netflix-Openai
-8b21ebfd-suif40-tcvn0z-1tlyg.hy2.gotochinatown.net:8443#美国19 - ⬇️ 20.4MB/s -41%-Netflix
-db446c52-sunz40-t324jc-fazp.hy2.gotochinatown.net:8443#美国23 - ⬇️ 15.6MB/s -41%-Netflix
-d2834b71-sum4g0-t234dm-eso8.hy2.gotochinatown.net:8443#美国26 - ⬇️ 16.5MB/s -41%-Netflix
-b9a88fb8-suk9s0-t7qex7-1supq.hy2.gotochinatown.net:8443#美国32 - ⬇️ 22.1MB/s -41%-Netflix
-f159118f-sunz40-t5w83q-1slpx.hy2.gotochinatown.net:8443#美国37 - ⬇️ 23.0MB/s -41%-Netflix
-alipay-api-us-a-5.testred.xyz:443#美国38 - ⬇️ 21.3MB/s -50%-Netflix-Disney-Openai
-a0ee1004-sum4g0-t7qex7-1supq.hy2.gotochinatown.net:8443#美国39 - ⬇️ 21.0MB/s -41%-Netflix
-d7b8355e-suk9s0-t8ro7t-1ey07.hy2.gotochinatown.net:8443#美国4 - ⬇️ 23.1MB/s -41%-Netflix
-90f6eaa0-sudhc0-syoixd-bm0y.la.shifen.uk:443#美国41 - ⬇️ 23.0MB/s -41%-Netflix
-148.135.43.253:446#美国44 - ⬇️ 21.6MB/s -67%-Netflix-Openai
-108.181.5.133:15544#美国46 - ⬇️ 20.8MB/s -46%-Netflix-Openai
-mg02.hssl8088.icu:50000#美国7 - ⬇️ 17.3MB/s-Netflix-Openai
-d7babeae-sudhc0-svm3vt-czv5.la.shifen.uk:443#美国9 - ⬇️ 16.7MB/s -41%-Netflix
-sinavm.soft10.ir:443#🌀其他15-LI - ⬇️ 9.1MB/s -51%-Netflix-Youtube-Openai
-alipay-api-hk-a-3.testred.xyz:443#🌀其他3-未识别 - ⬇️ 6.4MB/s-Netflix-Disney
+164.152.19.229:47262#美国28 - ⬇️ 17.1MB/s -29%-Netflix-Disney-Openai
+46.17.41.5:12904#俄罗斯1 - ⬇️ 6.4MB/s -100%
+rplcehysttya6.airlineshoma.com:443#德国5 - ⬇️ 6.4MB/s -29%-Netflix-Openai
+168.138.184.187:20000#新加坡5 - ⬇️ 12.5MB/s -64%-Disney-Youtube-Openai
+51.159.226.1:61770#法国1 - ⬇️ 10.3MB/s -14%-Netflix-Openai
+195.154.33.70:59967#法国3 - ⬇️ 9.8MB/s -0%-Netflix-Youtube-Openai
+alipay-api-us-c-2.testred.xyz:443#美国11 - ⬇️ 15.8MB/s -0%-Netflix-Disney-Openai
+0e1462f1-sum4g0-t8ro7t-1ey07.hy2.gotochinatown.net:8443#美国15 - ⬇️ 16.6MB/s -41%-Netflix
+d7b8355e-suk9s0-t8ro7t-1ey07.hy2.gotochinatown.net:8443#美国19 - ⬇️ 19.8MB/s -41%-Netflix
+b9a88fb8-suk9s0-t7qex7-1supq.hy2.gotochinatown.net:8443#美国23 - ⬇️ 19.5MB/s -41%-Netflix
+4c5e2c5a-sunz40-t8kd6j-1c9em.hy2.gotochinatown.net:8443#美国25 - ⬇️ 21.3MB/s -41%-Netflix
+c1854513-sunz40-tdaw2c-1tgar.hy2.gotochinatown.net:8443#美国29 - ⬇️ 23.3MB/s -41%-Netflix
+f159118f-sunz40-t5w83q-1slpx.hy2.gotochinatown.net:8443#美国3 - ⬇️ 16.0MB/s -41%-Netflix
+4765f7c3-sunz40-tcs1gf-1qz6v.hy2.gotochinatown.net:8443#美国30 - ⬇️ 21.6MB/s -41%-Netflix
+alipay-api-us-a-1.testred.xyz:443#美国31 - ⬇️ 21.5MB/s -0%-Netflix-Openai
+108.181.5.133:15544#美国36 - ⬇️ 21.3MB/s -46%-Netflix-Openai
+4e4babe3-suk9s0-t234dm-eso8.hy2.gotochinatown.net:8443#美国37 - ⬇️ 15.9MB/s -41%-Netflix
+d2834b71-sum4g0-t234dm-eso8.hy2.gotochinatown.net:8443#美国43 - ⬇️ 16.8MB/s -41%-Netflix
+db446c52-sunz40-t324jc-fazp.hy2.gotochinatown.net:8443#美国45 - ⬇️ 21.6MB/s -41%-Netflix
+mg7.gywanglug.xyz:8443#美国52 - ⬇️ 23.4MB/s-Netflix-Openai
+tw.akebi.cc:1000#香港4 - ⬇️ 5.2MB/s -33%
+mg4.gywanglug.xyz:8443#🌀其他18-未识别 - ⬇️ 24.2MB/s-Netflix-Openai
+111.119.207.186:29831#🌀其他8-未识别 - ⬇️ 4.2MB/s-Netflix-Disney-Youtube-Openai
