@@ -1,43 +1,30 @@
-130.162.165.64:443#GB
-152.67.199.132:443#KR
-193.122.125.205:443#KR
-150.230.20.156:2053#NL
-144.24.44.152:443#US
-8.219.82.40:443#SG
-8.220.134.136:443#PH
-141.148.189.124:443#US
-144.24.65.251:443#KR
-204.216.216.148:8443#IT
-8.222.193.152:443#SG
-152.70.59.138:443#NL
-152.67.125.161:443#AU
-8.222.139.232:443#SG
-162.159.152.155:443#CT
+47.243.139.85:2053#HK
+192.0.54.221:443#US
+18.167.194.154:443#HK
+216.24.57.49:443#US
+192.200.160.133:443#US
+160.123.255.15:443#ZA
+160.123.255.105:443#ZA
+16.162.37.167:443#HK
+160.79.104.226:443#US
+212.183.88.56:443#AT
+160.123.255.48:443#ZA
+158.224.90.175:443#US
+212.183.88.147:443#AT
+47.76.146.1:2083#HK
+162.159.153.239:443#CT
+162.159.153.170:443#CT
 162.159.152.225:443#CT
-162.159.153.156:443#CT
-162.159.152.53:443#CT
-162.159.153.216:443#CT
-104.16.253.27:443#CMCC
-104.19.159.39:443#CMCC
-104.19.148.160:443#CMCC
-104.19.159.40:443#CMCC
-[2606:4700:3036:ef:db9e:ee41:a8df:d3b2]:443#CMCC-IPV6
+162.159.152.155:443#CT
+162.159.153.144:443#CT
+104.16.246.173:443#CMCC
+104.19.145.14:443#CMCC
+104.17.104.243:443#CMCC
+104.16.249.115:443#CMCC
+[2606:4700:3036:6ed4:e1ed:36:7204:2031]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]:443#CMCC-IPV6
 [2606:4700:3036:6ed4:ffdf:15bf:7d77:5f52]:443#CMCC-IPV6
-103.160.204.1:443#加拿大1 - ⬇️ 12.0MB/s -0%-Netflix-Disney-Openai
-aafrtpfxr.cal01i9zjfegelp.5xfsur8v62.gosdk.xyz:34016#加拿大3 - ⬇️ 4.2MB/s -0%-Youtube-Openai
-aafrtpfxr.del01i9zjfegelp.5xfsur8v62.gosdk.xyz:43583#德国8 - ⬇️ 11.3MB/s -17%-Openai
-aafrtpfxr.sgl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27401#新加坡4 - ⬇️ 4.2MB/s -0%-Disney-Youtube-Openai
-aafrtpfxr.aul01i9zjfegelp.5xfsur8v62.gosdk.xyz:34017#澳大利亚1 - ⬇️ 4.2MB/s-Openai
-sanjose06.852224.ggff.net:443#美国12 - ⬇️ 4.4MB/s -36%-Netflix-Openai
-tro-us02.gproxy.gratis:443#美国37 - ⬇️ 9.2MB/s -62%-Netflix-Openai
-15.204.58.214:443#美国38 - ⬇️ 9.2MB/s -62%-Netflix-Openai
-104.21.58.135:443#美国51 - ⬇️ 4.5MB/s -36%-Netflix-Openai
-aafrtpfxr.usl02i9zjfegelp.5xfsur8v62.gosdk.xyz:33505#美国82 - ⬇️ 9.8MB/s -0%-Netflix-Disney-Openai
-109.107.159.122:443#英国1 - ⬇️ 4.1MB/s -38%-Netflix-Openai
-85.234.65.11:443#荷兰2 - ⬇️ 5.5MB/s -27%-Netflix-Youtube-Openai
-aafrtpfxr.nll01i9zjfegelp.5xfsur8v62.gosdk.xyz:43591#荷兰6 - ⬇️ 5.3MB/s -17%-Netflix-Openai
-aafrtpfxr.hkl02i9zjfegelp.5xfsur8v62.gosdk.xyz:27102#香港5 - ⬇️ 4.9MB/s -0%-Netflix-Disney-Youtube-Openai
-aafrtpfxr.hkl04i9zjfegelp.5xfsur8v62.gosdk.xyz:27103#香港6 - ⬇️ 4.9MB/s -0%-Netflix-Disney-Youtube-Openai
-51.21.184.181:22222#🌀其他4-SE - ⬇️ 4.3MB/s -38%
-aafrtpfxr.trl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43397#🌀其他6-TR - ⬇️ 4.3MB/s -0%-Openai
-aafrtpfxr.idl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43394#🌀其他7-ID - ⬇️ 4.4MB/s -0%-Youtube-Openai
+[2606:4700:3036:0:a36a:3160:b566:8741]:443#CMCC-IPV6
+[2606:4700:3036:ef:3f32:a9c6:39c4:9ae3]:443#CMCC-IPV6
+141.101.121.241:2096#美国10 - ⬇️ 21.1MB/s -44%-Netflix-Disney-Openai
+141.101.120.153:2096#美国4 - ⬇️ 7.9MB/s-Netflix-Disney-Openai
