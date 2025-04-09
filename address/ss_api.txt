@@ -1,19 +1,11 @@
-141.195.112.163:60533#加拿大1 - ⬇️ 5.4MB/s -35%-Netflix-Openai
-hk4.qsm1.xyz:36794#台湾2 - ⬇️ 9.6MB/s -0%-Netflix-Disney-Youtube-Openai
-91.108.245.111:23600#德国14 - ⬇️ 9.7MB/s -40%-Netflix-Disney-Youtube-Openai
-bs3.jymzffbquawl.com:6602#新加坡8 - ⬇️ 75.2MB/s -6%-Netflix-Disney-Youtube-Openai
-pr3.jymzffbquawl.com:4600#日本1 - ⬇️ 28.3MB/s-Netflix-Disney-Youtube-Openai
-pr3.jymzffbquawl.com:4607#日本13 - ⬇️ 49.7MB/s -6%-Netflix-Disney-Youtube-Openai
-pr3.jymzffbquawl.com:5608#美国13 - ⬇️ 7.6MB/s -62%-Netflix-Disney-Openai
-pr3.jymzffbquawl.com:5611#美国73 - ⬇️ 10.6MB/s -62%-Netflix-Disney-Openai
-pr3.jymzffbquawl.com:5610#美国75 - ⬇️ 6.1MB/s -62%-Netflix-Openai
-pr3.jymzffbquawl.com:5609#🌀其他19-未识别 - ⬇️ 7.3MB/s-Netflix-Disney-Openai
-151.115.88.168:443#波兰1 - ⬇️ 5.5MB/s -14%-Netflix-Youtube-Openai
-us01.dns-node.top:45581#美国8 - ⬇️ 4.8MB/s -21%-Netflix-Disney-Openai
-uk01.dns-node.top:45615#英国3 - ⬇️ 4.1MB/s -13%-Netflix-Disney-Youtube-Openai
-149.34.244.80:443#荷兰2 - ⬇️ 8.8MB/s -51%-Netflix-Youtube-Openai
-jp01.dns-node.top:45572#韩国2 - ⬇️ 4.9MB/s -43%-Netflix-Disney-Youtube-Openai
-pr1.jymzffbquawl.com:3606#香港13 - ⬇️ 73.4MB/s -6%-Youtube-Openai
-hk1.qsm1.xyz:23651#香港14 - ⬇️ 66.3MB/s -26%-Youtube
-sg04.dns-node.top:45610#🌀其他8-MY - ⬇️ 5.1MB/s -0%-Netflix-Disney-Youtube-Openai
-us03.dns-node.top:45583#🌀其他9-AR - ⬇️ 4.3MB/s -62%-Netflix-Disney-Youtube-Openai
+141.195.112.163:60533#加拿大2 - ⬇️ 4.3MB/s -35%-Netflix-Openai
+91.108.245.111:23600#德国14 - ⬇️ 8.5MB/s -40%-Netflix-Disney-Youtube-Openai
+45.144.49.110:18514#波兰1 - ⬇️ 5.5MB/s -0%-Netflix-Youtube-Openai
+151.115.88.168:443#波兰2 - ⬇️ 7.4MB/s -14%-Netflix-Youtube-Openai
+84.17.53.160:989#瑞士13 - ⬇️ 4.0MB/s -0%-Netflix-Youtube-Openai
+103.36.91.32:8388#美国54 - ⬇️ 4.9MB/s -0%-Netflix-Disney-Youtube-Openai
+62.100.205.48:989#英国10 - ⬇️ 5.3MB/s -50%-Netflix-Youtube-Openai
+78.129.140.11:443#英国6 - ⬇️ 12.6MB/s -0%-Netflix-Youtube-Openai
+91.84.111.27:58575#荷兰1 - ⬇️ 9.6MB/s -18%-Netflix-Youtube-Openai
+ams.telegavpn.org:19057#荷兰5 - ⬇️ 9.4MB/s -0%-Netflix-Youtube-Openai
+147.45.60.102:52392#🌀其他9-EE - ⬇️ 7.3MB/s -39%-Netflix-Disney-Youtube-Openai
