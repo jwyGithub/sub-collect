@@ -1,31 +1,64 @@
-47.76.32.108:2096#US
-47.76.32.108:2083#US
-69.84.182.200:443#US
-63.141.128.17:443#US
-185.133.35.201:443#BR
-185.133.35.140:443#BR
+8.210.174.156:2087#HK
+8.210.174.156:2096#HK
+69.84.182.1:443#US
+192.0.63.68:443#US
 47.243.5.154:2053#HK
-63.141.128.134:443#US
-69.84.182.102:443#US
-160.79.105.109:443#US
-185.133.35.187:443#BR
-47.76.146.1:2083#HK
-160.123.255.82:443#ZA
-162.159.152.155:443#CT
+63.141.128.113:443#US
+45.67.215.242:443#RU
+135.84.76.97:443#US
+185.133.35.56:443#BR
+45.67.215.252:443#RU
+185.16.110.107:443#FR
+160.79.104.175:443#US
+8.217.159.210:2087#HK
+192.200.160.149:443#US
+69.84.182.175:443#US
 162.159.152.11:443#CT
-162.159.153.170:443#CT
-162.159.153.194:443#CT
+162.159.153.212:443#CT
 162.159.153.239:443#CT
-104.16.246.173:443#CMCC
-104.16.246.188:443#CMCC
-104.17.101.175:443#CMCC
-104.17.215.102:443#CMCC
-198.41.208.23:443#CMCC
-104.16.249.115:443#CMCC
-[2606:4700:3036:6ed4:e1ed:ae00:3c36:e683]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:ffdf:15bf:7d77:5f52]:443#CMCC-IPV6
-sg006.421421.xyz:20230#新加坡4 - ⬇️ 13.3MB/s -17%-Disney-Youtube-Openai
-172.67.173.64:443#美国11 - ⬇️ 7.8MB/s -61%-Netflix-Openai
-104.21.48.1:443#美国23 - ⬇️ 6.5MB/s -36%-Netflix-Openai
-104.21.23.115:443#美国43 - ⬇️ 12.1MB/s -36%-Netflix-Openai
-109.107.159.124:443#英国4 - ⬇️ 9.3MB/s -38%-Netflix-Youtube-Openai
+162.159.152.31:443#CT
+162.159.153.216:443#CT
+104.18.83.92:443#CMCC
+104.17.110.70:443#CMCC
+104.19.150.28:443#CMCC
+104.17.219.208:443#CMCC
+104.17.210.171:443#CMCC
+[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]:443#CMCC-IPV6
+[2606:4700:3036:ef:db9e:ee41:a8df:d3b2]:443#CMCC-IPV6
+aafrtpfxr.cal01i9zjfegelp.5xfsur8v62.gosdk.xyz:34016#加拿大1 - ⬇️ 7.4MB/s -0%-Youtube-Openai
+aafrtpfxr.inl01i9zjfegelp.5xfsur8v62.gosdk.xyz:42882#印度2 - ⬇️ 4.7MB/s -25%-Netflix-Openai
+pro-de1.eisbeinhock.com:465#德国7 - ⬇️ 9.0MB/s -0%-Netflix-Youtube-Openai
+aafrtpfxr.del01i9zjfegelp.5xfsur8v62.gosdk.xyz:43583#德国8 - ⬇️ 5.6MB/s -17%-Openai
+pro-sg1.dimsumyumcha.com:465#新加坡2 - ⬇️ 6.7MB/s -9%-Netflix-Disney-Youtube-Openai
+aafrtpfxr.jpl04i9zjfegelp.5xfsur8v62.gosdk.xyz:22269#日本1 - ⬇️ 7.1MB/s -0%-Disney-Youtube-Openai
+pro-jp1.crabyakiniku.com:465#日本3 - ⬇️ 19.3MB/s -0%-Netflix-Youtube-Openai
+pro-fw-jp1.dimsumyumcha.com:5011#日本8 - ⬇️ 22.7MB/s -0%-Netflix-Youtube-Openai
+aafrtpfxr.frl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43498#法国5 - ⬇️ 7.3MB/s -17%-Disney-Openai
+15.188.122.63:22222#法国7 - ⬇️ 8.4MB/s -38%-Openai
+250407.jichang.my:29978#澳大利亚2 - ⬇️ 7.3MB/s -64%-Youtube-Openai
+250407.jichang.my:34865#瑞士1 - ⬇️ 9.9MB/s -63%-Netflix-Youtube-Openai
+250407.jichang.my:47918#韩国2 - ⬇️ 6.6MB/s -0%-Netflix-Youtube-Openai
+pro-au2.vegemitepie.com:465#澳大利亚3 - ⬇️ 12.9MB/s -9%-Disney-Youtube-Openai
+pro-fw-us1.barbecuepie.com:5011#美国10 - ⬇️ 13.7MB/s -0%-Netflix-Openai
+pro-us2.barbecuepie.com:465#美国11 - ⬇️ 11.9MB/s -0%-Netflix-Openai
+pro-fw-us2.barbecuepie.com:5012#美国19 - ⬇️ 18.1MB/s -0%-Netflix-Openai
+104.21.21.226:443#美国30 - ⬇️ 5.0MB/s -31%-Netflix-Openai
+pro-us1.barbecuepie.com:465#美国36 - ⬇️ 12.9MB/s -0%-Netflix-Openai
+aafrtpfxr.usl03i9zjfegelp.5xfsur8v62.gosdk.xyz:33506#美国4 - ⬇️ 6.3MB/s -0%-Netflix-Openai
+172.67.163.102:443#美国42 - ⬇️ 13.1MB/s -0%-Netflix-Openai
+pro-fw-uk1.dimsumyumcha.com:5012#英国4 - ⬇️ 18.5MB/s -0%-Netflix-Youtube-Openai
+aafrtpfxr.gbl01i9zjfegelp.5xfsur8v62.gosdk.xyz:44397#英国6 - ⬇️ 7.5MB/s-Netflix-Openai
+www.ak-hk.top:10200#英国7 - ⬇️ 7.9MB/s -67%-Netflix-Youtube-Openai
+pro-uk1.fishchipsexpress.com:465#英国8 - ⬇️ 9.9MB/s -0%-Netflix-Youtube-Openai
+aafrtpfxr.nll01i9zjfegelp.5xfsur8v62.gosdk.xyz:43591#荷兰2 - ⬇️ 7.4MB/s -17%-Openai
+pro-nl1.bananenpannenkoekjes.com:465#荷兰4 - ⬇️ 10.5MB/s-Netflix-Youtube-Openai
+aafrtpfxr.hkl03i9zjfegelp.5xfsur8v62.gosdk.xyz:10465#香港19 - ⬇️ 4.5MB/s -0%-Netflix-Disney-Youtube-Openai
+aafrtpfxr.hkl02i9zjfegelp.5xfsur8v62.gosdk.xyz:27102#香港28 - ⬇️ 7.9MB/s -0%-Netflix-Disney-Youtube-Openai
+pro-hk1.dimsumyumcha.com:465#香港7 - ⬇️ 22.4MB/s -0%-Netflix-Youtube-Openai
+aafrtpfxr.pkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:42883#🌀其他1-PK - ⬇️ 5.3MB/s -0%-Youtube-Openai
+aafrtpfxr.idl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43394#🌀其他10-ID - ⬇️ 7.5MB/s -0%-Openai
+aafrtpfxr.arl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43590#🌀其他17-AR - ⬇️ 4.3MB/s -66%-Openai
+aafrtpfxr.thl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43395#🌀其他3-TH - ⬇️ 8.5MB/s -80%-Netflix-Youtube-Openai
+tro-us02.gproxy.gratis:443#🌀其他7-未识别 - ⬇️ 14.8MB/s
+aafrtpfxr.myl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43393#🌀其他8-MY - ⬇️ 7.9MB/s -0%-Youtube-Openai

@@ -1,10 +1,6 @@
-fbf248.de15-5483-d16b.sbs:80#新加坡10 - ⬇️ 5.3MB/s -35%-Netflix-Openai
-141.101.121.127:2053#美国13 - ⬇️ 9.8MB/s -44%-Netflix-Disney-Openai
-6fe34a9c-suk9s0-sve5if-z93q.lza.plebai.net:80#美国17 - ⬇️ 6.6MB/s -41%-Netflix-Openai
-c7344c10-suk9s0-sxv16d-1k09w.se.plebai.net:1280#美国19 - ⬇️ 9.4MB/s -0%-Netflix-Openai
-77.83.141.171:443#美国26 - ⬇️ 25.2MB/s -0%-Netflix-Disney
-170.114.45.53:2086#美国27 - ⬇️ 15.4MB/s -35%-Netflix-Openai
-104.21.73.150:2087#美国37 - ⬇️ 16.3MB/s -24%-Netflix-Openai
-104.21.73.150:2083#美国4 - ⬇️ 16.9MB/s -24%-Netflix-Openai
-9712cd80-suif40-td5oia-1m49t.hkt.plebai.net:8082#香港24 - ⬇️ 19.6MB/s -12%-Netflix-Disney-Openai
-b04eab7f-suif40-t3imuc-2nr6.hkt.plebai.net:8082#香港60 - ⬇️ 29.6MB/s -12%-Netflix-Disney-Openai
+92.114.54.227:32683#德国6 - ⬇️ 9.8MB/s -35%-Netflix-Openai
+141.101.121.127:2053#美国54 - ⬇️ 11.6MB/s-Netflix-Disney-Openai
+243f9e34-suu5c0-svricw-c82d.ldn.west.yxlmgs.com:423#英国5 - ⬇️ 6.2MB/s -60%-Netflix-Youtube-Openai
+5a789682-suu5c0-svricw-c82d.hkt.east.wctype.com:453#香港16 - ⬇️ 31.6MB/s -12%-Netflix-Disney-Openai
+9712cd80-suif40-td5oia-1m49t.hkt.plebai.net:8082#香港20 - ⬇️ 33.5MB/s -12%-Netflix-Disney-Openai
+b04eab7f-suif40-t3imuc-2nr6.hkt.plebai.net:8082#香港27 - ⬇️ 34.3MB/s -12%-Netflix-Disney-Openai
