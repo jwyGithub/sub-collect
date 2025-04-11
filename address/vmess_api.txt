@@ -31,7 +31,6 @@ cloudgetservice.mcloudservice.site:443#加拿大1 - ⬇️ 4.4MB/s -32%-Netflix-
 1744283541.tencentapp.cn:2053#新加坡27 - ⬇️ 11.3MB/s -64%-Disney-Youtube-Openai
 1744283541.tencentapp.cn:2087#新加坡4 - ⬇️ 7.4MB/s -64%-Disney-Youtube-Openai
 1744276341.tencentapp.cn:2096#新加坡5 - ⬇️ 4.9MB/s -64%-Disney-Youtube-Openai
-169f0354-sum4g0-tb7kjs-1dlno.sv.plebai.net:1280#美国16 - ⬇️ 4.1MB/s -0%-Netflix-Openai
 141.101.121.127:2053#美国17 - ⬇️ 8.4MB/s -44%-Netflix-Disney-Openai
 243f9e34-suu5c0-svricw-c82d.ldn.west.yxlmgs.com:423#英国6 - ⬇️ 9.6MB/s -60%-Netflix-Youtube-Openai
 5a789682-suu5c0-svricw-c82d.hkt.east.wctype.com:453#香港10 - ⬇️ 32.4MB/s -12%-Netflix-Disney-Openai
