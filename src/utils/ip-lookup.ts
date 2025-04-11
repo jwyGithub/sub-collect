@@ -1,5 +1,5 @@
 import { logger } from './logger';
-import { IpLookupProvider, IpApiProvider, IpapiProvider, IpSbProvider, IpApiIoProvider } from './provider';
+import { IpLookupProvider, CfDoHProvider } from './provider';
 
 class IpLookupService {
     private cache = new Map<string, string>();
@@ -11,7 +11,7 @@ class IpLookupService {
 
     constructor() {
         // 按优先级顺序添加查询服务
-        this.providers = [new IpapiProvider(), new IpSbProvider(), new IpApiIoProvider(), new IpApiProvider()];
+        this.providers = [new CfDoHProvider()];
     }
 
     /**
