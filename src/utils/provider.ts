@@ -1,7 +1,7 @@
 import { logger } from './logger';
 
 /**
- * IP-API.com 响应接口
+ * ip.looby.dpdns.org 响应接口
  */
 interface CfWorkerDoHResponse {
     status: string;
@@ -50,7 +50,7 @@ export class CfDoHProvider implements IpLookupProvider {
             logger.debug('[Cf-Worker-DoH] %s -> %s (%s, %s)', ip, data.country, data.regionName, data.city);
             return data.countryCode;
         }
-        throw new Error('Invalid response from ip-api.com');
+        throw new Error('Invalid response from ip.looby.dpdns.org');
     }
 }
 
