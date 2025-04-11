@@ -1,35 +1,43 @@
-192.18.130.65:443#US
-158.180.67.166:443#KR
-8.219.92.213:443#SG
-152.69.199.70:8443#JP
-138.2.235.224:8443#US
-8.222.207.108:443#SG
-141.147.185.63:443#JP
-146.56.178.6:443#KR
-141.147.168.141:443#JP
-158.180.71.122:443#KR
-129.154.219.70:443#KR
-130.162.158.145:443#KR
-144.21.32.101:443#NL
-8.222.202.182:443#SG
-162.159.152.225:443#CT
-162.159.153.72:443#CT
-162.159.153.212:443#CT
+47.243.5.154:2083#HK
+45.67.215.24:443#RU
+63.141.128.126:443#US
+69.84.182.147:443#US
+212.183.88.134:443#AT
+69.84.182.88:443#US
+217.163.76.226:443#GB
+63.141.128.130:443#US
+47.76.32.108:2083#US
+63.141.128.45:443#US
+212.183.88.250:443#AT
+35.201.203.106:443#TW
+212.183.88.168:443#AT
+216.24.57.92:443#US
+162.159.153.144:443#CT
+162.159.153.209:443#CT
 162.159.153.170:443#CT
 162.159.153.194:443#CT
-104.17.162.78:443#CMCC
-104.19.221.228:443#CMCC
-104.17.217.251:443#CMCC
-104.19.156.83:443#CMCC
-104.17.104.110:443#CMCC
-[2606:4700:3036:0:a36a:3160:b566:8741]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:ffdf:15bf:7d77:5f52]:443#CMCC-IPV6
-[2606:4700:3036:ef:db9e:ee41:a8df:d3b2]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:e1ed:36:7204:2031]:443#CMCC-IPV6
+162.159.152.205:443#CT
+104.19.150.163:443#CMCC
+104.16.246.132:443#CMCC
+104.18.147.201:443#CMCC
+104.17.219.208:443#CMCC
+104.16.246.173:443#CMCC
+[2606:4700:3036:6ed4:260:e367:c3d4:d3bb]:443#CMCC-IPV6
 [2606:4700:3036:0:a36a:4a94:8d40:c92c]:443#CMCC-IPV6
-csuzhou01.1cooldns.com:42303#香港85 - ⬇️ 8.6MB/s |0%|Netflix|Youtube
-192.3.130.103:443#美国121 - ⬇️ 7.8MB/s |33%|Netflix|Openai
-172.67.149.172:443#美国139 - ⬇️ 5.5MB/s |32%|Netflix|Openai
-172.67.210.210:443#美国140 - ⬇️ 15.9MB/s |32%|Netflix|Openai
-104.21.112.1:443#美国40 - ⬇️ 13.8MB/s |32%|Netflix|Openai
-104.21.29.194:443#美国53 - ⬇️ 14.3MB/s |32%|Netflix|Openai
+[2606:4700:3036:6ed4:ffdf:15bf:7d77:5f52]:443#CMCC-IPV6
+[2606:4700:3036:ef:95e:7a29:2ccc:d331]:443#CMCC-IPV6
+pro-de1.eisbeinhock.com:465#德国10 - ⬇️ 14.1MB/s -0%-Netflix-Youtube-Openai
+aafrtpfxr.sgl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27401#新加坡14 - ⬇️ 5.2MB/s -0%-Disney-Youtube-Openai
+pro-fw-jp1.dimsumyumcha.com:5011#日本11 - ⬇️ 18.8MB/s -0%-Youtube-Openai
+pro-jp1.crabyakiniku.com:465#日本9 - ⬇️ 5.4MB/s -0%-Netflix-Youtube-Openai
+pro-fw-us2.barbecuepie.com:5012#美国1 - ⬇️ 18.6MB/s -0%-Netflix-Openai
+172.67.173.64:443#美国10 - ⬇️ 4.1MB/s -61%-Openai
+pro-fw-us1.barbecuepie.com:5011#美国11 - ⬇️ 14.3MB/s -0%-Netflix-Openai
+172.67.163.102:443#美国13 - ⬇️ 4.8MB/s -0%-Openai
+pro-us2.barbecuepie.com:465#美国14 - ⬇️ 12.0MB/s -0%-Netflix-Openai
+pro-us1.barbecuepie.com:465#美国4 - ⬇️ 12.9MB/s -0%-Netflix-Openai
+pro-fw-uk1.dimsumyumcha.com:5012#英国1 - ⬇️ 18.1MB/s -0%-Netflix-Youtube-Openai
+www.ak-hk.top:10200#英国2 - ⬇️ 8.2MB/s -67%-Netflix-Openai
+pro-fw-nl1.dimsumyumcha.com:5013#荷兰1 - ⬇️ 19.3MB/s -0%-Netflix-Youtube-Openai
+pro-hk1.dimsumyumcha.com:465#香港5 - ⬇️ 22.7MB/s -0%-Netflix-Youtube-Openai
+aafrtpfxr.myl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43393#🌀其他2-MY - ⬇️ 4.3MB/s -0%-Netflix-Youtube-Openai
