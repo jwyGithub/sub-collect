@@ -1,4 +1,4 @@
-cloudgetservice.mcloudservice.site:443#法国2 - ⬇️ 7.8MB/s -42%-Netflix-Youtube-Openai
-ny1-dh.931.pp.ua:2087#美国11 - ⬇️ 5.4MB/s -60%-Netflix-Openai
-172.67.163.102:2087#美国12 - ⬇️ 5.5MB/s -60%-Netflix-Openai
-141.101.121.127:2053#美国15 - ⬇️ 13.9MB/s -44%-Netflix-Disney-Openai
+cloudgetservice.mcloudservice.site:443#加拿大3 - ⬇️ 7.2MB/s -32%-Netflix-Youtube-Openai
+92.114.54.227:32683#德国1 - ⬇️ 4.4MB/s -35%-Netflix-Openai
+fbf248.de15-5483-d16b.sbs:80#新加坡1 - ⬇️ 5.7MB/s -35%-Netflix-Openai
+141.101.121.127:2053#美国14 - ⬇️ 9.4MB/s -44%-Netflix-Disney-Openai
