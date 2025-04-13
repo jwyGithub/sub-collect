@@ -1,6 +1,3 @@
-cloudgetservice.mcloudservice.site:443#加拿大1 - ⬇️ 10.2MB/s -32%-Netflix-Youtube-Openai
-91.149.233.178:20050#德国3 - ⬇️ 4.1MB/s -35%-Netflix-Disney-Youtube-Openai
-0ffb2ad4-supts0-swdlq9-g53t.lza.plebai.net:7612#美国17 - ⬇️ 14.9MB/s -41%-Netflix-Openai
-156.238.18.68:8443#美国23 - ⬇️ 8.7MB/s -83%-Netflix-Openai
-cbe195c0-supts0-svp9t7-1oijm.lza.plebai.net:7612#美国31 - ⬇️ 13.9MB/s -41%-Netflix-Openai
-us10-09.852224.ggff.net:443#美国5 - ⬇️ 6.6MB/s -31%-Netflix-Openai
+biiia-vpn-whal.fast.hosting-ip.com:80#波兰1 - ⬇️ 7.3MB/s -33%-Netflix-Openai
+104.18.149.75:443#美国13 - ⬇️ 6.5MB/s -50%-Netflix-Disney
+cloudgetservice.mcloudservice.site:443#美国7 - ⬇️ 17.3MB/s -62%-Netflix-Openai
