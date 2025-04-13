@@ -1,13 +1,6 @@
-cloudgetservice.mcloudservice.site:443#加拿大3 - ⬇️ 11.3MB/s -32%-Netflix-Youtube-Openai
-8.219.206.22:443#法国1 - ⬇️ 8.6MB/s -0%-Netflix-Openai
-188.114.97.210:443#法国2 - ⬇️ 7.1MB/s -0%-Netflix-Openai
-linde06.indiavideo.sbs:443#法国3 - ⬇️ 6.5MB/s -0%-Openai
-172.67.207.26:443#法国7 - ⬇️ 8.4MB/s -60%-Youtube-Openai
-dcd6b19c-sunz40-t78iw5-e7db.se.plebai.net:8083#美国1 - ⬇️ 8.5MB/s -0%-Netflix-Openai
-7af650bd-sunz40-svgb54-1m0fq.se.plebai.net:8083#美国17 - ⬇️ 7.7MB/s -0%-Netflix-Openai
-104.18.149.75:443#美国18 - ⬇️ 4.6MB/s -29%-Netflix-Disney-Openai
-104.194.206.226:8083#美国2 - ⬇️ 4.5MB/s -0%-Netflix-Openai
-156.238.18.68:8443#美国21 - ⬇️ 15.7MB/s -83%-Netflix-Openai
-141.101.121.127:2053#美国28 - ⬇️ 17.1MB/s -44%-Netflix-Disney-Openai
-hk2.lrzdx.uk:443#香港22 - ⬇️ 7.7MB/s-Disney-Youtube
-185.108.128.137:30000#🌀其他13-IE - ⬇️ 4.1MB/s -0%-Netflix-Openai
+cloudgetservice.mcloudservice.site:443#加拿大1 - ⬇️ 10.2MB/s -32%-Netflix-Youtube-Openai
+91.149.233.178:20050#德国3 - ⬇️ 4.1MB/s -35%-Netflix-Disney-Youtube-Openai
+0ffb2ad4-supts0-swdlq9-g53t.lza.plebai.net:7612#美国17 - ⬇️ 14.9MB/s -41%-Netflix-Openai
+156.238.18.68:8443#美国23 - ⬇️ 8.7MB/s -83%-Netflix-Openai
+cbe195c0-supts0-svp9t7-1oijm.lza.plebai.net:7612#美国31 - ⬇️ 13.9MB/s -41%-Netflix-Openai
+us10-09.852224.ggff.net:443#美国5 - ⬇️ 6.6MB/s -31%-Netflix-Openai
