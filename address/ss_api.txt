@@ -1,1 +1,2 @@
-103.36.91.32:8388#美国14 - ⬇️ 4.1MB/s -0%-Netflix-Youtube-Openai
+141.195.112.163:60533#加拿大1 - ⬇️ 4.2MB/s-35%-Netflix-Openai
+212.34.150.176:4199#荷兰2 - ⬇️ 8.1MB/s-18%-Netflix-Youtube-Openai

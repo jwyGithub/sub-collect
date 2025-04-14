@@ -1,13 +1,11 @@
-164.152.19.229:47262#美国2 - ⬇️ 9.0MB/s -29%-Netflix-Disney-Openai
-46.29.163.171:32555#俄罗斯1 - ⬇️ 4.2MB/s -50%
-45.63.116.113:443#德国1 - ⬇️ 4.6MB/s -0%-Netflix-Youtube-Openai
-195.154.33.70:23587#法国1 - ⬇️ 10.6MB/s -0%-Netflix-Youtube-Openai
-51.159.226.1:61770#法国3 - ⬇️ 7.7MB/s -14%-Netflix-Openai
-fe021254-suk9s0-sve5if-z93q.hy2.gotochinatown.net:8443#美国12 - ⬇️ 13.0MB/s
-mg2.gywanglug.xyz:8443#美国16 - ⬇️ 6.8MB/s -62%-Netflix-Openai
-d446948b-sunz40-svabg7-1td06.hy2.gotochinatown.net:8443#美国8 - ⬇️ 13.2MB/s -41%-Netflix
-sub-us.yangxiansheng.online:45551#🌀其他1-未识别 - ⬇️ 10.7MB/s-Netflix-Openai
-46.17.41.217:64816#🌀其他2-未识别 - ⬇️ 6.7MB/s-Youtube
-cdb71208-suk9s0-sv6oiy-1p1b.hy2.gotochinatown.net:8443#🌀其他5-未识别 - ⬇️ 13.7MB/s-Netflix
-dg1.gywanglug.xyz:8443#🌀其他7-未识别 - ⬇️ 5.3MB/s-Netflix-Disney-Youtube-Openai
-hl1.gywanglug.xyz:8443#🌀其他8-未识别 - ⬇️ 13.3MB/s-Youtube-Openai
+51.159.226.1:61770#法国5 - ⬇️ 10.7MB/s-14%-Netflix-Openai
+195.154.33.70:23587#法国2 - ⬇️ 11.7MB/s-0%-Netflix-Youtube-Openai
+104.168.22.226:37832#美国1 - ⬇️ 13.1MB/s-52%-Netflix-Openai-Gemini
+sub-us-2.yangxiansheng.online:41951#美国11 - ⬇️ 12.7MB/s-52%-Netflix-Openai-Gemini
+mg6.gywanglug.xyz:8443#美国16 - ⬇️ 15.3MB/s-Netflix-Disney-Openai-Gemini
+108.181.5.133:15544#美国26 - ⬇️ 16.3MB/s-46%-Netflix-Openai
+164.152.19.229:47262#美国43 - ⬇️ 16.5MB/s-29%-Netflix-Disney-Openai-Gemini
+mg4.gywanglug.xyz:8443#美国46 - ⬇️ 24.4MB/s-62%-Netflix-Disney-Openai-Gemini
+us.10101251.xyz:3002#美国52 - ⬇️ 13.3MB/s-100%-Netflix-Disney-Openai-Gemini
+sub-us-1.yangxiansheng.online:45551#美国7 - ⬇️ 13.3MB/s-52%-Netflix-Openai
+108.181.5.130:15544#美国9 - ⬇️ 8.9MB/s-46%-Netflix-Openai
