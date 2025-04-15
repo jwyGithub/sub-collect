@@ -1,2 +1,2 @@
-cs_office.hideshots.eu:6001#🌀其他2-LV - ⬇️ 5.8MB/s-20%-Netflix-Openai
-outline-tr.connectix-d1.info:1935#🌀其他8-TR - ⬇️ 5.3MB/s-100%-Netflix
+109.74.200.150:49761#英国7 - ⬇️ 12.2MB/s-53%-Netflix-Youtube-Openai
+cs_office.hideshots.eu:6001#🌀其他9-LV - ⬇️ 5.1MB/s-24%-Netflix-Youtube-Openai

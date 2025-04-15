@@ -1,1 +1,3 @@
-5.10.246.123:443#巴西3 - ⬇️ 17.3MB/s-64%-Youtube-Openai-Gemini
+195.58.49.84:22011#俄罗斯7 - ⬇️ 4.2MB/s-50%-Netflix-Youtube
+ddf277c3-sutj40-sv07nd-jtx1.se.plebai.net:22083#美国19 - ⬇️ 13.5MB/s-0%-Netflix-Openai-Gemini
+cloudgetservice.mcloudservice.site:443#美国27 - ⬇️ 18.3MB/s-61%-Netflix-Openai-Gemini
