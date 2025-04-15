@@ -1,2 +1,5 @@
-109.74.200.150:49761#英国7 - ⬇️ 12.2MB/s-53%-Netflix-Youtube-Openai
-cs_office.hideshots.eu:6001#🌀其他9-LV - ⬇️ 5.1MB/s-24%-Netflix-Youtube-Openai
+13.212.90.20:443#新加坡3 - ⬇️ 16.8MB/s-36%-Netflix-Youtube-Openai-Gemini
+54.249.151.205:443#日本6 - ⬇️ 23.9MB/s-35%-Netflix-Disney-Openai-Gemini
+57.180.253.62:443#日本7 - ⬇️ 15.3MB/s-0%-Netflix-Youtube-Openai-Gemini
+52.78.214.206:443#韩国3 - ⬇️ 21.3MB/s-40%-Netflix-Youtube-Openai-Gemini
+cs_office.hideshots.eu:6001#🌀其他3-LV - ⬇️ 4.0MB/s-24%-Netflix-Youtube-Openai
