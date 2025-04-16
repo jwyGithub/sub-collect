@@ -1,1 +1,4 @@
-77.110.102.235:64864#英国5 - ⬇️ 4.6MB/s-0%-Openai
+172.105.24.155:37953#加拿大1 - ⬇️ 10.9MB/s-52%-Netflix-Youtube-Openai-Gemini
+172.105.75.192:37953#德国2 - ⬇️ 6.9MB/s-52%-Netflix-Youtube-Openai
+139.162.210.110:37953#英国1 - ⬇️ 7.3MB/s-50%-Netflix-Youtube-Openai
+cs_office.hideshots.eu:6001#🌀其他15-LV - ⬇️ 4.8MB/s-24%-Netflix-Youtube-Openai
