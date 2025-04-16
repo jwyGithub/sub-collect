@@ -107,8 +107,8 @@ export class CloudflareClient {
                 account_id: this.config.cloudflare.account_id,
                 zone_id: this.config.cloudflare.zone_id
             });
-            const vless = res.result.find(item => item.service === 'vps-vless');
-            const trojan = res.result.find(item => item.service === 'vps-trojan');
+            const vless = res.result.find(item => item.service === this.config.cloudflare.vless_service);
+            const trojan = res.result.find(item => item.service === this.config.cloudflare.trojan_service);
             if (vless) {
                 this.vless = new CloudflareWorker(this.cloudflare, this.config, vless, 'vless');
                 const vlessResult = await this.vless.start();
@@ -120,8 +120,8 @@ export class CloudflareClient {
                 this.trojanResult = trojanResult;
             }
             return [
-                { name: 'vless-sub', url: this.vlessResult },
-                { name: 'trojan-sub', url: this.trojanResult },
+                { name: this.config.cloudflare.vless_service, url: this.vlessResult },
+                { name: this.config.cloudflare.trojan_service, url: this.trojanResult },
                 ...Object.entries(this.config.subs).map(([name, url]: [string, string]) => ({ name, url }))
             ];
         } catch (error) {

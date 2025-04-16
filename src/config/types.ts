@@ -38,6 +38,8 @@ export interface EnvConfig {
         token: string;
         account_id: string;
         zone_id: string;
+        vless_service: string;
+        trojan_service: string;
     };
     uuid: string;
 }

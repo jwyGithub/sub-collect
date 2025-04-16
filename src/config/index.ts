@@ -30,7 +30,9 @@ function loadConfigFromEnv(): EnvConfig {
             cloudflare: {
                 token: '',
                 account_id: '',
-                zone_id: ''
+                zone_id: '',
+                vless_service: '',
+                trojan_service: ''
             },
             uuid: ''
         };
@@ -65,7 +67,9 @@ function loadEnvConfig(): EnvConfig {
             cloudflare: {
                 token: '',
                 account_id: '',
-                zone_id: ''
+                zone_id: '',
+                vless_service: '',
+                trojan_service: ''
             },
             uuid: ''
         };
