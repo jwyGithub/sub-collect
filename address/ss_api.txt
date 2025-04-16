@@ -1,3 +1,4 @@
-172.105.75.192:37953#德国2 - ⬇️ 8.8MB/s-52%-Netflix-Youtube-Openai
-178.209.50.206:989#瑞士1 - ⬇️ 12.1MB/s-0%-Netflix-Openai
-139.162.210.110:37953#英国10 - ⬇️ 11.6MB/s-50%-Netflix-Youtube-Openai
+178.209.50.206:989#瑞士1 - ⬇️ 8.5MB/s-0%-Netflix-Openai
+139.162.210.110:37953#英国6 - ⬇️ 7.0MB/s-Netflix-Openai
+cs_office.hideshots.eu:6001#🌀其他12-LV - ⬇️ 4.1MB/s-24%-Netflix-Youtube-Openai
+62.133.63.21:65262#🌀其他6-TR - ⬇️ 6.3MB/s-41%-Netflix-Disney-Youtube-Openai
