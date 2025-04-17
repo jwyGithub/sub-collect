@@ -1,4 +1,4 @@
-178.209.50.206:989#瑞士1 - ⬇️ 8.5MB/s-0%-Netflix-Openai
-139.162.210.110:37953#英国6 - ⬇️ 7.0MB/s-Netflix-Openai
-cs_office.hideshots.eu:6001#🌀其他12-LV - ⬇️ 4.1MB/s-24%-Netflix-Youtube-Openai
-62.133.63.21:65262#🌀其他6-TR - ⬇️ 6.3MB/s-41%-Netflix-Disney-Youtube-Openai
+91.108.245.111:23600#德国1 - ⬇️ 6.2MB/s-50%-Netflix-Disney-Youtube-Openai
+okanc.node-is.green:21114#新加坡1 - ⬇️ 16.1MB/s-6%-Netflix-Disney-Youtube-Openai-Gemini
+62.100.205.48:989#英国5 - ⬇️ 4.2MB/s-33%-Netflix-Youtube-Openai
+210.0.244.137:42756#香港6 - ⬇️ 4.1MB/s-19%-Netflix-Disney
