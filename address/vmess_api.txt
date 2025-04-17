@@ -1,3 +1,1 @@
-20.18.143.107:38324#德国2 - ⬇️ 4.0MB/s-Netflix-Disney
-e9adbfcf-sux8g0-sw51rj-hkb8.se.plebai.net:12083#美国23 - ⬇️ 12.0MB/s-0%-Netflix-Openai
-45.147.201.231:23071#美国32 - ⬇️ 6.5MB/s-35%-Netflix-Openai-Gemini
+s1.cn-db.top:2082#美国28 - ⬇️ 17.1MB/s-67%-Netflix-Disney-Openai
