@@ -1,3 +1,2 @@
-81.94.158.148:64300#俄罗斯4 - ⬇️ 4.3MB/s-100%
-178.79.133.11:57021#英国4 - ⬇️ 13.6MB/s-61%-Netflix-Youtube-Openai
-3.35.132.172:443#韩国1 - ⬇️ 13.3MB/s-36%-Netflix-Openai-Gemini
+95.164.16.152:12240#德国6 - ⬇️ 7.4MB/s-48%-Openai
+hkhy2.v2rayflash.top:11011#香港15 - ⬇️ 15.8MB/s-10%-Netflix-Disney-Youtube-Openai-Gemini
