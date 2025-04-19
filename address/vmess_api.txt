@@ -1,2 +1,4 @@
-sgfqkqmltcy.site:443#新加坡12 - ⬇️ 17.3MB/s-71%-Youtube-Openai-Gemini
-0:0:0:0:0:ffff:9df5:4c61:2095#荷兰4 - ⬇️ 9.2MB/s-Netflix-Youtube-Openai
+88.198.175.207:33157#德国4 - ⬇️ 6.9MB/s-Netflix-Openai
+3de253b7-suz340-t5tz5s-1onbp.lza.plebai.net:7615#美国19 - ⬇️ 16.0MB/s-41%-Netflix-Openai-Gemini
+16803288-suz340-sx19e8-gacy.lza.plebai.net:7615#美国20 - ⬇️ 15.6MB/s-41%-Netflix-Openai-Gemini
+0:0:0:0:0:ffff:9df5:4c61:2095#荷兰1 - ⬇️ 5.4MB/s-Netflix-Youtube-Openai
