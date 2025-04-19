@@ -1,2 +1,2 @@
-95.164.16.152:12240#德国6 - ⬇️ 7.4MB/s-48%-Openai
-hkhy2.v2rayflash.top:11011#香港15 - ⬇️ 15.8MB/s-10%-Netflix-Disney-Youtube-Openai-Gemini
+185.189.160.98:64759#台湾3 - ⬇️ 4.5MB/s-0%-Netflix-Openai
+95.164.16.152:12240#德国2 - ⬇️ 5.4MB/s-Openai

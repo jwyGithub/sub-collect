@@ -1,3 +1,2 @@
-45.147.201.231:23072#美国19 - ⬇️ 5.1MB/s-35%-Openai-Gemini
-0:0:0:0:0:ffff:8ac5:6fab:2095#美国4 - ⬇️ 6.0MB/s-Netflix-Openai
-0:0:0:0:0:ffff:9df5:4c61:2095#荷兰1 - ⬇️ 6.5MB/s-Openai
+sgfqkqmltcy.site:443#新加坡12 - ⬇️ 17.3MB/s-71%-Youtube-Openai-Gemini
+0:0:0:0:0:ffff:9df5:4c61:2095#荷兰4 - ⬇️ 9.2MB/s-Netflix-Youtube-Openai
