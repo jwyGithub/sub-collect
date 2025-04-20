@@ -1,2 +1,2 @@
-hy2.694463.xyz:10011#俄罗斯1 - ⬇️ 11.7MB/s-100%-Youtube
-51.159.226.1:43496#法国1 - ⬇️ 11.7MB/s-14%-Netflix-Openai
+165.1.76.128:444#美国11 - ⬇️ 20.3MB/s-63%-Netflix-Openai-Gemini
+sub-us-2.yangxiansheng.online:41951#美国6 - ⬇️ 14.0MB/s-55%-Netflix-Openai-Gemini

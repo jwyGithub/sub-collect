@@ -1,3 +1,3 @@
-195.154.200.178:46938#法国2 - ⬇️ 5.3MB/s-0%-Netflix-Youtube-Openai
-208.87.243.187:40528#美国4 - ⬇️ 8.3MB/s-45%-Netflix-Openai-Gemini
-108.181.24.77:11512#美国6 - ⬇️ 6.2MB/s-48%-Netflix-Openai
+176.32.35.226:62003#俄罗斯1 - ⬇️ 5.8MB/s-0%-Youtube
+208.87.243.187:40528#美国1 - ⬇️ 11.6MB/s-45%-Netflix-Openai-Gemini
+108.181.24.77:11512#美国10 - ⬇️ 6.3MB/s-48%-Netflix-Openai
