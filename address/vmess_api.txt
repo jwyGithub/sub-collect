@@ -1,3 +1,4 @@
-195.58.49.84:22019#俄罗斯5 - ⬇️ 4.1MB/s-50%-Youtube
-45.147.201.231:23077#美国35 - ⬇️ 4.4MB/s-35%-Openai-Gemini
-0:0:0:0:0:ffff:9df5:4c61:2095#荷兰7 - ⬇️ 9.6MB/s-Netflix-Youtube-Openai
+156.246.91.85:17396#日本4 - ⬇️ 25.7MB/s-Netflix-Youtube-Openai-Gemini
+biiia-vpn-whal.fast.hosting-ip.com:80#波兰1 - ⬇️ 7.1MB/s-33%-Openai
+77.83.141.171:443#美国37 - ⬇️ 29.9MB/s-0%-Netflix-Disney-Gemini
+0:0:0:0:0:ffff:9df5:4c61:2095#荷兰1 - ⬇️ 12.2MB/s-Netflix-Youtube-Openai

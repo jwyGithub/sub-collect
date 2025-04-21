@@ -1,4 +1,3 @@
-japantv1.zhixiang.us:24567#日本12 - ⬇️ 17.9MB/s-25%-Disney-Youtube-Gemini
-japantv4.zhixiang.us:56789#日本2 - ⬇️ 5.4MB/s-Netflix-Disney-Youtube-Openai-Gemini
-77.246.96.113:29530#荷兰2 - ⬇️ 8.1MB/s-17%-Netflix-Youtube-Openai
-103.57.251.223:39142#阿拉伯酋长国1 - ⬇️ 16.5MB/s-55%-Netflix-Youtube-Openai-Gemini
+97.107.140.236:1234#美国28 - ⬇️ 13.0MB/s-61%-Netflix-Openai-Gemini
+3.36.57.145:1234#韩国4 - ⬇️ 31.0MB/s-36%-Netflix-Youtube-Openai-Gemini
+13.125.129.4:1234#韩国5 - ⬇️ 30.7MB/s-Youtube-Openai

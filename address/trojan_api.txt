@@ -1,57 +1,38 @@
-47.242.171.94:8443#HK
-47.243.5.154:2083#HK
-47.243.5.154:8443#HK
-8.210.107.246:2096#HK
-130.250.137.163:443#US
-160.79.105.0:443#US
-217.163.76.144:443#GB
+8.217.232.246:2053#HK
+47.242.171.94:2087#HK
 8.210.174.156:2053#HK
-63.141.128.211:443#US
-160.79.105.51:443#US
-217.163.76.201:443#GB
-160.123.255.55:443#ZA
-160.79.104.73:443#US
-135.84.76.155:443#US
-162.159.153.184:443#CT
-162.159.153.156:443#CT
+45.67.215.24:443#RU
+45.67.215.30:443#RU
+160.79.104.12:443#US
+47.76.32.108:2053#US
+47.76.32.108:2083#US
+63.141.128.192:443#US
+216.24.57.91:443#US
+69.84.182.242:443#US
 162.159.153.42:443#CT
-104.18.80.243:443#CMCC
-104.19.148.108:443#CMCC
+162.159.153.209:443#CT
+162.159.153.212:443#CT
+162.159.152.225:443#CT
+162.159.152.81:443#CT
+198.41.208.23:443#CMCC
+104.18.93.7:443#CMCC
 104.19.150.163:443#CMCC
-104.18.85.29:443#CMCC
-104.16.242.72:443#CMCC
-[2606:4700:3036:ef:3f32:a9c6:39c4:9ae3]:443#CMCC-IPV6
+104.18.80.243:443#CMCC
+104.17.219.208:443#CMCC
+104.19.150.28:443#CMCC
+[2606:4700:3036:ef:92f:be51:8695:9fc5]:443#CMCC-IPV6
 [2606:4700:3036:6ed4:ffdf:15bf:7d77:5f52]:443#CMCC-IPV6
 [2606:4700:3036:6ed4:e1ed:36:8916:dace]:443#CMCC-IPV6
-sla.cn.964e995b760.gogodns.xin:46925#俄罗斯3 - ⬇️ 14.5MB/s-100%
-sla.cn.964e995b760.gogodns.xin:34016#加拿大1 - ⬇️ 10.4MB/s-0%-Netflix-Openai-Gemini
-sla.cn.964e995b760.gogodns.xin:42881#新加坡9 - ⬇️ 30.3MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-sla.cn.964e995b760.gogodns.xin:27001#日本13 - ⬇️ 32.1MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-sla.cn.964e995b760.gogodns.xin:22271#日本14 - ⬇️ 40.4MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-sla.cn.964e995b760.gogodns.xin:27101#香港13 - ⬇️ 27.9MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-sla.cn.964e995b760.gogodns.xin:27103#香港2 - ⬇️ 34.0MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-sla.cn.964e995b760.gogodns.xin:27102#香港3 - ⬇️ 13.5MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-sla.cn.964e995b760.gogodns.xin:43395#🌀其他5-TH - ⬇️ 25.4MB/s-72%-Netflix-Youtube-Openai-Gemini
-aafrtpfxr.rul01i9zjfegelp.5xfsur8v62.gosdk.xyz:46925#俄罗斯4 - ⬇️ 14.6MB/s-100%
-gnpid1111.ndycom.com:50026#台湾3 - ⬇️ 4.7MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-5.83.221.31:50026#台湾4 - ⬇️ 11.6MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-45.146.232.173:27202#台湾5 - ⬇️ 4.3MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-45.146.232.173:43383#🌀其他3-MY - ⬇️ 4.5MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-aafrtpfxr.sgl02i9zjfegelp.5xfsur8v62.gosdk.xyz:42881#新加坡5 - ⬇️ 22.3MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-aafrtpfxr.jpl03i9zjfegelp.5xfsur8v62.gosdk.xyz:22271#日本15 - ⬇️ 32.4MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-aafrtpfxr.jpl02i9zjfegelp.5xfsur8v62.gosdk.xyz:27002#日本16 - ⬇️ 10.5MB/s-0%-Netflix-Disney-Youtube-Openai
-aafrtpfxr.jpl04i9zjfegelp.5xfsur8v62.gosdk.xyz:22269#日本17 - ⬇️ 7.1MB/s-0%-Netflix-Disney-Youtube-Openai
-aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27001#日本18 - ⬇️ 5.8MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-aafrtpfxr.usl02i9zjfegelp.5xfsur8v62.gosdk.xyz:33505#美国21 - ⬇️ 6.3MB/s-28%-Gemini
-aafrtpfxr.usl03i9zjfegelp.5xfsur8v62.gosdk.xyz:33506#美国22 - ⬇️ 11.9MB/s-0%-Netflix-Openai
-aafrtpfxr.nll01i9zjfegelp.5xfsur8v62.gosdk.xyz:43591#荷兰6 - ⬇️ 5.2MB/s-10%-Netflix-Youtube-Openai
-sought-goat.dolphin109.quest:443#阿拉伯酋长国2 - ⬇️ 10.8MB/s-0%-Netflix-Openai
-aafrtpfxr.krl01i9zjfegelp.5xfsur8v62.gosdk.xyz:46668#韩国2 - ⬇️ 4.9MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-aafrtpfxr.hkl04i9zjfegelp.5xfsur8v62.gosdk.xyz:27103#香港11 - ⬇️ 11.2MB/s-0%-Netflix-Youtube-Openai-Gemini
-45.146.232.171:27101#香港12 - ⬇️ 7.7MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-45.146.232.171:43383#🌀其他2-MY - ⬇️ 4.8MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-aafrtpfxr.hkl02i9zjfegelp.5xfsur8v62.gosdk.xyz:27102#香港14 - ⬇️ 30.1MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-aafrtpfxr.hkl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27101#香港15 - ⬇️ 26.6MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-aafrtpfxr.hkl03i9zjfegelp.5xfsur8v62.gosdk.xyz:10465#香港16 - ⬇️ 8.7MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-aafrtpfxr.thl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43395#🌀其他6-TH - ⬇️ 19.8MB/s-72%-Netflix-Youtube-Openai-Gemini
-aafrtpfxr.myl02i9zjfegelp.5xfsur8v62.gosdk.xyz:43383#🌀其他7-MY - ⬇️ 4.9MB/s-0%-Disney-Youtube-Openai-Gemini
+[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]:443#CMCC-IPV6
+gnpid1111.ndycom.com:50026#台湾6 - ⬇️ 6.4MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+92.243.75.49:2087#台湾7 - ⬇️ 11.0MB/s-0%-Netflix-Disney-Openai
+108.165.152.93:2083#台湾8 - ⬇️ 11.5MB/s-0%-Netflix-Disney-Openai
+aafrtpfxr.del01i9zjfegelp.5xfsur8v62.gosdk.xyz:43583#德国4 - ⬇️ 12.9MB/s-17%-Youtube-Openai
+LW%w_:b2e19479-1962-41b6-bd35-ef6f1d7e7462
+aafrtpfxr.usl02i9zjfegelp.5xfsur8v62.gosdk.xyz:33505#美国13 - ⬇️ 7.6MB/s-28%-Gemini
+aafrtpfxr.gbl01i9zjfegelp.5xfsur8v62.gosdk.xyz:44397#英国2 - ⬇️ 6.6MB/s-17%-Netflix-Youtube-Openai
+sla.cn.964e995b760.gogodns.xin:43497#阿拉伯酋长国1 - ⬇️ 7.0MB/s-31%-Youtube-Openai
+sla.cn.964e995b760.gogodns.xin:27103#香港13 - ⬇️ 8.7MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+sla.cn.964e995b760.gogodns.xin:27102#香港14 - ⬇️ 10.6MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+sla.cn.964e995b760.gogodns.xin:27101#香港2 - ⬇️ 16.7MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+aafrtpfxr.trl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43397#🌀其他1-TR - ⬇️ 9.5MB/s-0%-Netflix-Openai-Gemini
