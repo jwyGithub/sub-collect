@@ -1,8 +1,5 @@
-172.104.233.90:47642#德国24 - ⬇️ 7.4MB/s-53%-Netflix-Youtube-Openai
-193.108.119.230:8080#德国3 - ⬇️ 8.8MB/s-100%-Netflix-Openai
-okanc.node-is.green:21115#新加坡14 - ⬇️ 54.1MB/s-6%-Netflix-Disney-Youtube-Openai-Gemini
-103.36.91.32:8388#美国21 - ⬇️ 15.6MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-103.36.90.195:8388#美国25 - ⬇️ 14.1MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-45.79.8.189:47642#美国47 - ⬇️ 10.3MB/s-60%-Netflix-Openai-Gemini
-96.126.112.199:47642#美国48 - ⬇️ 10.5MB/s-60%-Netflix-Openai-Gemini
-139.162.208.141:47642#英国2 - ⬇️ 9.1MB/s-49%-Netflix-Youtube-Openai
+45.79.8.189:47642#美国12 - ⬇️ 9.7MB/s-60%-Netflix-Openai-Gemini
+184.170.241.194:443#美国24 - ⬇️ 7.1MB/s-50%-Netflix-Openai-Gemini
+103.36.91.32:8388#美国30 - ⬇️ 13.5MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+194.124.250.4:8388#荷兰5 - ⬇️ 7.6MB/s-25%-Netflix-Openai
+169.150.202.174:990#🌀其他2-IL - ⬇️ 4.9MB/s-33%-Netflix-Openai
