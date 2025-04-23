@@ -1,2 +1,1 @@
-103.36.90.195:8388#美国54 - ⬇️ 36.4MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-62.60.231.81:39008#英国5 - ⬇️ 5.4MB/s-Netflix-Youtube-Openai
+okanc.node-is.green:21115#新加坡1 - ⬇️ 41.2MB/s-6%-Netflix-Disney-Youtube-Openai-Gemini
