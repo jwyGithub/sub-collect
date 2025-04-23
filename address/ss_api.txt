@@ -1,2 +1,1 @@
-195.85.250.173:5555#荷兰4 - ⬇️ 5.8MB/s-49%-Netflix-Openai
-194.55.137.16:8388#荷兰6 - ⬇️ 6.7MB/s-25%-Netflix-Disney-Youtube-Openai
+13.212.90.20:443#新加坡2 - ⬇️ 11.0MB/s-33%-Netflix-Youtube-Openai-Gemini

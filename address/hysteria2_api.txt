@@ -1,12 +1,14 @@
-195.58.49.84:31000#俄罗斯3 - ⬇️ 5.3MB/s-50%-Netflix-Youtube
-51.159.226.1:43496#法国2 - ⬇️ 5.9MB/s-14%-Netflix-Openai
-132.145.108.102:45979#加拿大1 - ⬇️ 4.3MB/s-63%-Netflix-Youtube-Openai
-192-227-152-86.nip.io:61001#美国10 - ⬇️ 5.4MB/s-40%-Netflix-Disney-Openai
-sub-us-1.yangxiansheng.online:45551#美国18 - ⬇️ 13.4MB/s-57%-Netflix-Openai
-71845bc5-submo0-t0t1z3-1qgn.la.shifen.uk:443#美国38 - ⬇️ 13.0MB/s-43%-Netflix
-90f6eaa0-sudhc0-syoixd-bm0y.la.shifen.uk:443#美国39 - ⬇️ 12.0MB/s-43%-Netflix
-64.181.204.186:47262#美国4 - ⬇️ 12.0MB/s-25%-Netflix-Disney-Openai-Gemini
-d7babeae-sudhc0-svm3vt-czv5.la.shifen.uk:443#美国40 - ⬇️ 11.9MB/s-43%-Netflix
-f6f7c702-submo0-suc86w-7yd9.la.shifen.uk:443#美国41 - ⬇️ 11.5MB/s-43%-Netflix
-57ad5f46-submo0-sv7alj-ctxx.la.shifen.uk:443#美国44 - ⬇️ 16.6MB/s-43%-Netflix
-108.181.5.130:65232#美国5 - ⬇️ 9.6MB/s-47%-Netflix
+51.159.226.1:43496#法国2 - ⬇️ 9.1MB/s-14%-Netflix-Openai
+hy2.694463.xyz:10011#俄罗斯1 - ⬇️ 9.2MB/s-100%-Youtube
+ca.sinqin.net:8080#加拿大5 - ⬇️ 11.9MB/s-0%-Netflix-Youtube-Openai-Gemini
+de.sinqin.net:8080#德国1 - ⬇️ 9.7MB/s-33%-Netflix-Youtube-Openai
+195.154.33.70:23587#法国4 - ⬇️ 7.0MB/s-0%-Netflix-Youtube-Openai
+fr.sinqin.net:8080#法国7 - ⬇️ 13.1MB/s-33%-Netflix-Youtube-Openai
+us.sinqin.net:8080#美国13 - ⬇️ 11.1MB/s-33%-Netflix-Openai-Gemini
+108.181.5.130:65232#美国2 - ⬇️ 9.6MB/s-47%-Netflix-Openai
+sub-us-1.yangxiansheng.online:45551#美国4 - ⬇️ 9.7MB/s-57%-Netflix-Openai
+192-227-152-86.nip.io:61001#美国41 - ⬇️ 13.8MB/s-40%-Netflix-Disney-Openai
+64.181.204.186:47262#美国5 - ⬇️ 7.0MB/s-25%-Netflix-Openai-Gemini
+uk.sinqin.net:8080#英国4 - ⬇️ 15.1MB/s-33%-Netflix-Youtube-Openai
+ie.sinqin.net:8080#🌀其他15-IE - ⬇️ 17.7MB/s-33%-Netflix-Youtube-Openai
+se.sinqin.net:8080#🌀其他3-SE - ⬇️ 10.3MB/s-33%-Netflix-Youtube-Openai
