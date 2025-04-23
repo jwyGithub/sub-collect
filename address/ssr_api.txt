@@ -1,15 +1,1 @@
-120.232.153.48:50135#日本11 - ⬇️ 13.2MB/s -0%-Netflix-Disney-Openai
-120.232.153.48:50138#香港3 - ⬇️ 57.3MB/s -25%-Netflix-Youtube
-120.232.153.48:50139#香港33 - ⬇️ 22.1MB/s -25%-Netflix-Youtube
-120.232.153.46:50135#日本16 - ⬇️ 14.2MB/s -0%-Netflix-Disney-Openai
-120.232.153.46:50137#香港21 - ⬇️ 9.5MB/s -41%-Netflix-Youtube
-120.232.153.54:50135#日本2 - ⬇️ 15.7MB/s -0%-Netflix-Disney-Openai
-120.232.153.53:50135#日本9 - ⬇️ 10.2MB/s -0%-Netflix-Disney-Openai
-120.232.153.53:50136#香港11 - ⬇️ 26.2MB/s -25%-Netflix-Youtube
-120.232.153.53:50138#香港36 - ⬇️ 63.8MB/s -25%-Netflix-Youtube
-120.232.153.56:50138#香港1 - ⬇️ 18.6MB/s -25%-Netflix-Youtube
-120.232.153.47:50136#香港30 - ⬇️ 31.1MB/s -25%-Netflix-Youtube
-120.232.153.47:50139#香港37 - ⬇️ 34.2MB/s -25%-Netflix-Youtube
-120.232.153.50:50138#香港34 - ⬇️ 28.5MB/s -25%-Netflix-Youtube
-120.232.153.55:50137#香港38 - ⬇️ 31.0MB/s -41%-Netflix-Youtube
-120.232.153.57:50137#香港5 - ⬇️ 59.7MB/s -41%-Netflix-Youtube
+50.112.62.208:443#美国33 - ⬇️ 6.6MB/s-33%-Openai-Gemini
