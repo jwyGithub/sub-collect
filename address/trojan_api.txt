@@ -1,33 +1,44 @@
-160.79.104.166:443#US
-160.123.255.172:443#ZA
-8.218.22.210:8443#HK
+8.210.174.156:2053#HK
+194.76.18.143:443#KZ
+63.141.128.74:443#US
+160.123.255.5:443#ZA
+216.221.213.150:443#US
+160.79.104.90:443#US
 47.243.139.85:2083#HK
-185.133.35.147:443#BR
-160.123.255.120:443#ZA
-135.84.76.83:443#US
-8.217.232.246:2053#HK
-18.167.194.154:443#HK
-8.210.174.156:2083#HK
-135.84.76.30:443#US
-162.159.153.212:443#CT
-162.159.153.194:443#CT
-162.159.152.69:443#CT
-162.159.152.81:443#CT
-104.18.94.238:443#CMCC
-104.19.150.163:443#CMCC
-104.17.215.102:443#CMCC
-104.19.144.212:443#CMCC
-[2606:4700:3036:ef:db9e:ee41:a8df:d3b2]:443#CMCC-IPV6
+43.154.96.33:443#HK
+216.24.57.252:443#US
+216.24.57.24:443#US
+63.141.128.34:443#US
+47.76.32.108:2083#US
+8.217.90.154:443#HK
+8.210.107.246:2096#HK
+217.163.76.230:443#GB
+162.159.153.239:443#CT
+162.159.153.42:443#CT
+162.159.152.11:443#CT
+104.17.219.208:443#CMCC
+104.17.102.95:443#CMCC
+104.16.246.132:443#CMCC
+104.18.80.243:443#CMCC
+[2606:4700:3036:6ed4:e1ed:36:7204:2031]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]:443#CMCC-IPV6
 [2606:4700:3036:ef:3f32:a9c6:39c4:9ae3]:443#CMCC-IPV6
-[2606:4700:3036:ef:92f:be51:8695:9fc5]:443#CMCC-IPV6
-aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:22269#日本4 - ⬇️ 7.0MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:27002#日本6 - ⬇️ 6.9MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43586#🌀其他6-MD - ⬇️ 4.3MB/s-49%-Netflix-Youtube-Openai
-sla.cn.964e995b760.gogodns.xin:22271#日本5 - ⬇️ 6.7MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-sla.cn.964e995b760.gogodns.xin:43498#法国7 - ⬇️ 10.4MB/s-17%-Netflix-Disney-Youtube-Openai
-sla.cn.964e995b760.gogodns.xin:46926#🌀其他5-ES - ⬇️ 5.3MB/s-0%-Netflix-Youtube-Openai
-sla.cn.964e995b760.gogodns.xin:43397#🌀其他8-TR - ⬇️ 6.8MB/s-0%-Netflix-Openai-Gemini
-3sxcvbb.890617.xyz:443#美国29 - ⬇️ 9.4MB/s-100%-Netflix-Openai
-104.21.23.162:443#美国47 - ⬇️ 11.9MB/s-40%-Netflix-Openai-Gemini
-172.67.212.82:443#美国57 - ⬇️ 15.1MB/s-40%-Netflix-Openai-Gemini
-ip.sb:443#英国3 - ⬇️ 6.1MB/s-100%-Netflix-Openai
+[2606:4700:3036:ef:95e:7a29:2ccc:d331]:443#CMCC-IPV6
+[2606:4700:3036:0:a36a:3160:b566:8741]:443#CMCC-IPV6
+104.17.147.22:443#阿拉伯酋长国1 - ⬇️ 7.4MB/s-0%-Netflix-Disney-Openai-Gemini
+sla.cn.964e995b760.gogodns.xin:42882#印度1 - ⬇️ 4.2MB/s-25%-Netflix-Openai
+sla.cn.964e995b760.gogodns.xin:42881#新加坡4 - ⬇️ 6.6MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+sla.cn.964e995b760.gogodns.xin:22271#日本12 - ⬇️ 4.2MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+sla.cn.964e995b760.gogodns.xin:22269#日本13 - ⬇️ 5.7MB/s-0%
+sla.cn.964e995b760.gogodns.xin:27001#日本18 - ⬇️ 5.3MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+sla.cn.964e995b760.gogodns.xin:27002#日本21 - ⬇️ 7.0MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+sla.cn.964e995b760.gogodns.xin:34014#美国19 - ⬇️ 5.8MB/s-0%-Netflix-Openai
+sla.cn.964e995b760.gogodns.xin:27301#美国39 - ⬇️ 6.7MB/s-0%-Disney-Openai-Gemini
+sla.cn.964e995b760.gogodns.xin:33506#美国9 - ⬇️ 6.6MB/s-0%-Netflix-Openai-Gemini
+sla.cn.964e995b760.gogodns.xin:44397#英国8 - ⬇️ 4.0MB/s-17%-Netflix-Openai
+sla.cn.964e995b760.gogodns.xin:43590#🌀其他22-AR - ⬇️ 5.8MB/s-64%-Openai-Gemini
+immense-goose.dolphin109.quest:443#德国3 - ⬇️ 4.4MB/s-38%-Netflix-Youtube-Openai
+23.172.40.143:17742#美国11 - ⬇️ 7.2MB/s-3%-Netflix-Disney-Openai-Gemini
+104.21.23.162:443#美国48 - ⬇️ 5.2MB/s-0%-Netflix-Openai
+aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:43497#阿拉伯酋长国2 - ⬇️ 4.0MB/s-33%-Netflix-Youtube-Openai
+aafrtpfxr.jpl01i9zjfegelp.5xfsur8v62.gosdk.xyz:10465#香港18 - ⬇️ 4.1MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
