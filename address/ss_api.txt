@@ -1,4 +1,1 @@
-103.36.91.32:8388#美国10 - ⬇️ 11.0MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-103.36.90.195:8388#美国38 - ⬇️ 13.0MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-65.109.180.201:1080#芬兰1 - ⬇️ 8.6MB/s-25%-Netflix-Youtube-Openai
-61.72.28.169:49539#韩国3 - ⬇️ 4.1MB/s-46%-Netflix-Disney-Youtube-Openai-Gemini
+54.180.243.85:443#韩国1 - ⬇️ 15.2MB/s-25%-Netflix-Youtube-Openai-Gemini
