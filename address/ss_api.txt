@@ -1,1 +1,2 @@
-54.180.243.85:443#韩国1 - ⬇️ 15.2MB/s-25%-Netflix-Youtube-Openai-Gemini
+35.86.144.112:80#美国24 - ⬇️ 6.7MB/s-33%-Netflix-Openai-Gemini
+35.89.254.216:443#美国25 - ⬇️ 6.5MB/s-33%-Netflix-Openai-Gemini
