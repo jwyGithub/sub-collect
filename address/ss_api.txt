@@ -1,13 +1,3 @@
-18.141.233.166:443#新加坡4 - ⬇️ 6.6MB/s-33%-Netflix-Youtube-Openai-Gemini
-52.198.168.58:80#日本7 - ⬇️ 20.8MB/s-14%-Netflix-Youtube-Openai
-54.168.224.255:443#日本8 - ⬇️ 13.2MB/s-14%-Netflix-Youtube-Openai-Gemini
-54.218.9.15:80#美国30 - ⬇️ 7.1MB/s-32%-Netflix-Openai-Gemini
-144.126.146.38:30100#美国42 - ⬇️ 11.6MB/s-100%-Netflix-Openai
-109.107.159.202:5075#英国3 - ⬇️ 4.3MB/s-39%-Netflix-Youtube-Openai
-45.87.175.154:8080#荷兰1 - ⬇️ 4.5MB/s-30%-Netflix-Openai
-212.192.2.253:3059#阿拉伯酋长国2 - ⬇️ 4.8MB/s-100%-Netflix-Youtube-Openai
-p227.panda004.net:4857#韩国4 - ⬇️ 4.1MB/s-46%
-3.35.68.33:30327#韩国5 - ⬇️ 6.0MB/s-33%-Netflix-Youtube-Openai-Gemini
-3.38.103.4:443#韩国7 - ⬇️ 22.4MB/s-33%-Netflix-Youtube-Openai-Gemini
-f3796711.z4f0d9i1c6-fb-hk02.6pzfwf.com:56002#香港12 - ⬇️ 17.9MB/s-0%-Youtube-Openai
-54.249.95.208:443#🌀其他5-未识别 - ⬇️ 20.2MB/s-Netflix-Disney-Youtube-Openai-Gemini
+35.87.31.126:443#美国16 - ⬇️ 6.7MB/s-33%-Netflix-Openai-Gemini
+103.36.91.32:8388#美国17 - ⬇️ 5.1MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+212.192.2.202:20008#阿拉伯酋长国1 - ⬇️ 6.3MB/s-100%-Netflix-Openai
