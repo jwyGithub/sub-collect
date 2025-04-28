@@ -1,10 +1,2 @@
-88.151.192.57:443#乌克兰2 - ⬇️ 6.4MB/s-40%-Netflix-Openai
-80.71.157.175:38211#德国13 - ⬇️ 12.1MB/s-49%-Netflix-Youtube-Openai
-okanc.node-is.green:21114#新加坡5 - ⬇️ 25.4MB/s-6%-Netflix-Disney-Youtube-Openai-Gemini
-okanc.node-is.green:21115#新加坡6 - ⬇️ 40.8MB/s-6%-Netflix-Disney-Youtube-Openai-Gemini
-54.248.54.233:80#日本10 - ⬇️ 28.3MB/s-32%-Netflix-Youtube-Openai-Gemini
-78.129.140.11:443#英国4 - ⬇️ 11.1MB/s-0%-Netflix-Youtube-Openai
-p231.panda004.net:11389#韩国3 - ⬇️ 7.4MB/s-71%-Netflix-Disney-Youtube-Openai
-p222.panda001.net:15098#韩国6 - ⬇️ 28.0MB/s-46%-Netflix-Disney
-3.36.86.22:443#韩国7 - ⬇️ 19.3MB/s-33%-Netflix-Youtube-Openai-Gemini
-62.60.233.83:443#🌀其他13-TR - ⬇️ 8.6MB/s-40%-Netflix-Disney-Youtube-Openai
+88.151.192.57:443#乌克兰1 - ⬇️ 7.7MB/s-40%-Netflix-Openai
+p240.panda004.net:49043#韩国2 - ⬇️ 7.4MB/s-46%-Netflix-Openai
