@@ -1,3 +1,1 @@
-77.91.103.73:443#芬兰2 - ⬇️ 4.9MB/s-48%-Youtube-Openai
-p221.panda001.net:34669#韩国2 - ⬇️ 8.7MB/s-0%-Openai
-103.36.90.195:8388#香港5 - ⬇️ 11.3MB/s-0%-Netflix-Disney-Youtube-Gemini
+91.217.10.60:1090#🌀其他4-KZ - ⬇️ 4.7MB/s-0%-Netflix-Youtube-Openai-Gemini
