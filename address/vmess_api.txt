@@ -1,2 +1,3 @@
-104.17.221.248:2095#美国31 - ⬇️ 5.2MB/s-Netflix
-141.101.121.127:2053#美国35 - ⬇️ 6.5MB/s-38%-Netflix-Disney-Openai
+cloudgetservice.mcloudservice.site:443#美国41 - ⬇️ 7.2MB/s-59%-Netflix-Openai-Gemini
+45.147.201.231:23079#美国42 - ⬇️ 4.5MB/s-34%-Netflix-Openai-Gemini
+35.220.230.251:30251#香港4 - ⬇️ 6.5MB/s-10%-Netflix
