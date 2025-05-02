@@ -1,5 +1,2 @@
-luckyvpn-vena.outlinekeys.net:1090#荷兰3 - ⬇️ 10.9MB/s-0%-Netflix-Youtube-Openai
-103.36.90.195:8388#香港22 - ⬇️ 27.3MB/s-0%-Netflix-Disney-Youtube-Gemini
-a001.standard-nodes-chickenfarms.com:50000#香港24 - ⬇️ 19.4MB/s-20%-Netflix-Youtube
-homa.cybsecguru.com:55551#🌀其他3-SE - ⬇️ 6.6MB/s-5%-Netflix-Disney-Openai
-90.230.225.157:55551#🌀其他5-SE - ⬇️ 10.0MB/s-5%-Netflix-Disney-Openai
+vps.200566.xyz:30332#台湾1 - ⬇️ 5.0MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+89.185.84.14:443#英国3 - ⬇️ 7.3MB/s-38%-Disney-Youtube-Openai
