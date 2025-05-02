@@ -1,6 +1,1 @@
-147.45.177.65:443#加拿大1 - ⬇️ 4.4MB/s-40%-Netflix-Disney-Youtube-Openai
-193.108.119.230:8080#德国4 - ⬇️ 5.0MB/s-Openai
-54.178.9.230:443#日本18 - ⬇️ 24.3MB/s-34%-Netflix-Disney-Youtube-Openai-Gemini
-18.183.92.83:443#日本24 - ⬇️ 4.5MB/s-17%-Netflix-Youtube-Openai
-p228.panda004.net:63648#韩国1 - ⬇️ 14.6MB/s-45%-Netflix-Disney-Openai
-43.201.55.5:443#韩国7 - ⬇️ 11.7MB/s-34%-Netflix-Youtube-Openai
+78.69.106.36:55551#🌀其他2-SE - ⬇️ 4.9MB/s-5%-Netflix-Disney-Openai
