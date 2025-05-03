@@ -1,1 +1,2 @@
-89.185.84.14:443#英国4 - ⬇️ 5.2MB/s-38%-Disney-Youtube-Openai
+103.36.90.195:8388#香港19 - ⬇️ 33.3MB/s-0%-Netflix-Disney-Youtube-Gemini
+103.186.154.25:38388#🌀其他5-VN - ⬇️ 4.2MB/s-0%-Openai-Gemini
