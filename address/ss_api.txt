@@ -1,2 +1,1 @@
-vps.200566.xyz:30332#台湾1 - ⬇️ 5.0MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-89.185.84.14:443#英国3 - ⬇️ 7.3MB/s-38%-Disney-Youtube-Openai
+89.185.84.14:443#英国4 - ⬇️ 5.2MB/s-38%-Disney-Youtube-Openai
