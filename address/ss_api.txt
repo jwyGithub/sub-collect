@@ -1,2 +1,1 @@
-103.36.90.195:8388#香港19 - ⬇️ 33.3MB/s-0%-Netflix-Disney-Youtube-Gemini
-103.186.154.25:38388#🌀其他5-VN - ⬇️ 4.2MB/s-0%-Openai-Gemini
+103.151.57.123:38388#🌀其他10-VN - ⬇️ 6.1MB/s-0%-Youtube-Openai-Gemini
