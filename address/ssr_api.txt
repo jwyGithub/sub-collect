@@ -1,1 +1,1 @@
-50.112.62.208:443#美国33 - ⬇️ 6.6MB/s-33%-Openai-Gemini
+ssca.irundns.net:443#加拿大3 - ⬇️ 9.2MB/s-39%-Netflix-Youtube-Openai
