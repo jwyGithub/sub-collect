@@ -1,1 +1,5 @@
-54.212.206.32:443#美国31 - ⬇️ 7.8MB/s-33%-Netflix-Openai-Gemini
+184.170.241.194:443#美国27 - ⬇️ 10.7MB/s-40%-Netflix-Openai
+52.89.141.117:443#美国31 - ⬇️ 11.1MB/s-34%-Netflix-Openai-Gemini
+185.42.163.45:25108#芬兰4 - ⬇️ 9.0MB/s-50%-Netflix-Disney-Youtube-Openai
+125.141.31.72:15098#韩国3 - ⬇️ 27.9MB/s-44%-Netflix-Disney-Openai
+221.150.109.89:11389#韩国4 - ⬇️ 28.3MB/s-77%-Netflix-Disney-Youtube-Gemini
