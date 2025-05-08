@@ -1,3 +1,1 @@
-9x.938.pp.ua:443#美国14 - ⬇️ 4.1MB/s-34%-Netflix-Openai
-104.21.64.1:2087#美国27 - ⬇️ 4.8MB/s-15%-Netflix-Openai
-104.16.0.0:443#美国38 - ⬇️ 8.7MB/s-40%-Netflix-Disney-Openai-Gemini
+gs03-1.guoshi1520.com:443#美国46 - ⬇️ 7.2MB/s-0%-Netflix-Openai
