@@ -1,1 +1,6 @@
-151.236.4.99:8443#德国6 - ⬇️ 4.8MB/s-66%-Netflix-Youtube-Openai
+103.137.62.194:443#台湾5 - ⬇️ 15.3MB/s-25%-Netflix-Disney-Youtube-Openai-Gemini
+54.245.32.133:443#美国9 - ⬇️ 7.6MB/s-33%-Netflix-Openai
+185.42.163.45:25108#芬兰3 - ⬇️ 6.9MB/s-50%-Disney-Youtube-Openai
+uk.ir.iranigamepars.ir:443#英国7 - ⬇️ 6.6MB/s-0%-Netflix-Disney-Youtube-Openai
+p227.panda004.net:4857#韩国2 - ⬇️ 4.4MB/s-44%-Netflix-Openai
+p222.panda001.net:15098#韩国7 - ⬇️ 10.9MB/s-44%-Netflix-Disney-Openai
