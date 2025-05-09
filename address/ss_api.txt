@@ -1,5 +1,1 @@
-uk.ir.iranigamepars.ir:443#英国4 - ⬇️ 9.9MB/s-0%-Disney-Youtube-Openai
-125.141.26.12:4857#韩国3 - ⬇️ 4.9MB/s-44%-Netflix-Disney-Openai
-p231.panda004.net:11389#韩国4 - ⬇️ 6.8MB/s-77%-Netflix-Disney-Youtube-Openai-Gemini
-homa.cybsecguru.com:55551#🌀其他5-SE - ⬇️ 8.5MB/s-4%-Netflix-Disney-Openai
-81.227.245.27:55551#🌀其他6-SE - ⬇️ 7.0MB/s-4%-Netflix-Disney-Openai
+193.108.119.230:8080#德国5 - ⬇️ 5.1MB/s-100%-Openai
