@@ -1,13 +1,6 @@
-cloudgetservice.mcloudservice.site:443#加拿大1 - ⬇️ 7.5MB/s-29%-Youtube-Openai
-1746754341.tencentapp.cn:2096#印度1 - ⬇️ 4.1MB/s-62%-Youtube-Gemini
-141.101.120.189:2087#德国1 - ⬇️ 12.0MB/s-10%-Disney-Openai
-1746813141.tencentapp.cn:2096#新加坡3 - ⬇️ 4.6MB/s-Disney-Youtube
-1746815541.tencentapp.cn:2083#新加坡4 - ⬇️ 4.4MB/s-62%-Disney-Youtube-Gemini
-185.174.138.209:2095#法国4 - ⬇️ 16.9MB/s-100%-Netflix-Openai
-m11sdfg.890604.dpdns.org:80#美国13 - ⬇️ 4.5MB/s-32%-Youtube-Openai
-104.21.64.1:2087#美国17 - ⬇️ 4.5MB/s-15%-Openai
-104.21.48.1:2096#美国28 - ⬇️ 5.1MB/s-15%-Openai
-icook.hk:443#美国29 - ⬇️ 4.4MB/s-19%-Netflix-Openai-Gemini
-m11sERFGH.459.pP.uA:443#美国31 - ⬇️ 5.0MB/s-32%-Youtube-Openai
-lv4.789900.xyz:2087#韩国1 - ⬇️ 7.8MB/s-63%-Youtube-Openai
-www.visa.com.tw:443#🌀其他4-TR - ⬇️ 8.8MB/s-0%-Openai
+cloudgetservice.mcloudservice.site:2083#加拿大11 - ⬇️ 4.4MB/s-29%-Youtube-Openai-Gemini
+m11sdfg.890604.dpdns.org:80#美国23 - ⬇️ 4.5MB/s-32%-Youtube-Openai
+m8ttttyyygfd.457.pp.ua:443#美国24 - ⬇️ 6.9MB/s-Openai
+104.21.32.242:80#美国25 - ⬇️ 12.9MB/s-32%-Youtube-Openai
+104.21.48.1:2096#美国48 - ⬇️ 13.5MB/s-15%-Openai
+www.visa.com.tw:443#英国12 - ⬇️ 9.7MB/s-44%-Youtube-Openai
