@@ -1,3 +1,1 @@
-103.140.136.242:57626#日本4 - ⬇️ 7.9MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-43.202.68.234:443#韩国4 - ⬇️ 4.8MB/s-30%-Youtube-Openai-Gemini
-3.36.122.17:443#韩国5 - ⬇️ 10.1MB/s-Youtube-Openai-Gemini
+hkkh11v1.xpmc.cc:45508#香港3 - ⬇️ 7.6MB/s-15%-Disney
