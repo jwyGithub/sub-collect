@@ -1,2 +1,3 @@
-okanc.node-is.green:21114#新加坡1 - ⬇️ 22.1MB/s-6%-Netflix-Disney-Youtube-Openai-Gemini
-okanc.node-is.green:21115#新加坡2 - ⬇️ 28.3MB/s-6%-Netflix-Disney-Youtube-Openai
+103.140.136.242:57626#日本4 - ⬇️ 7.9MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+43.202.68.234:443#韩国4 - ⬇️ 4.8MB/s-30%-Youtube-Openai-Gemini
+3.36.122.17:443#韩国5 - ⬇️ 10.1MB/s-Youtube-Openai-Gemini
