@@ -1,2 +1,2 @@
-103.140.136.242:19499#日本1 - ⬇️ 8.2MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-184.170.241.194:443#美国2 - ⬇️ 5.4MB/s-34%-Openai
+admin.c4.webramz.co:443#英国2 - ⬇️ 4.6MB/s-12%-Youtube-Openai
+admin.c4.havij.co:443#英国3 - ⬇️ 6.6MB/s-Openai
