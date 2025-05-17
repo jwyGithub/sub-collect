@@ -1,2 +1,1 @@
-admin.c4.webramz.co:443#英国2 - ⬇️ 4.6MB/s-12%-Youtube-Openai
-admin.c4.havij.co:443#英国3 - ⬇️ 6.6MB/s-Openai
+okanc.node-is.green:21115#新加坡1 - ⬇️ 13.1MB/s-6%-Netflix-Disney-Youtube-Openai-Gemini

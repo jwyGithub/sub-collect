@@ -1,6 +1,1 @@
-www.visa.com.sg:443#德国2 - ⬇️ 9.1MB/s-22%-Youtube-Openai
-bookmyshow.com:443#日本2 - ⬇️ 4.4MB/s
-104.21.22.211:80#美国5 - ⬇️ 5.1MB/s-0%-Youtube-Openai
-ssm.pimax.com:10516#美国7 - ⬇️ 5.9MB/s-13%-Openai-Gemini
-141.101.120.253:2096#美国9 - ⬇️ 9.4MB/s-32%-Openai
-216.250.97.138:900#香港4 - ⬇️ 17.6MB/s-19%
+216.250.97.138:900#香港1 - ⬇️ 9.7MB/s-19%
