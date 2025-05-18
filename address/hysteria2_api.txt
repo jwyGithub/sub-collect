@@ -1,1 +1,6 @@
-51.159.111.32:31180#法国1 - ⬇️ 5.0MB/s-24%-Youtube-Openai
+hy2.694463.xyz:30033#俄罗斯3 - ⬇️ 5.4MB/s-0%
+51.159.111.32:31180#法国2 - ⬇️ 5.6MB/s-24%-Youtube-Openai
+108.181.5.130:57773#美国1 - ⬇️ 9.2MB/s-48%-Openai
+64.181.207.162:47262#美国2 - ⬇️ 7.3MB/s-20%-Netflix-Disney-Openai-Gemini
+108.181.23.255:443#美国22 - ⬇️ 8.4MB/s-48%-Netflix-Openai
+2ef15a2a-svi800-sw77c8-dnss.la.shifen.uk:1443#美国74 - ⬇️ 4.7MB/s-46%-Gemini
