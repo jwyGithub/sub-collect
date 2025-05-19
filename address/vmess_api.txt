@@ -1,4 +1,1 @@
-www.visa.com.sg:443#德国2 - ⬇️ 4.3MB/s-22%-Openai
-cloudgetservice.mcloudservice.site:443#法国5 - ⬇️ 6.8MB/s-36%-Youtube-Openai
-216.250.97.138:900#香港1 - ⬇️ 16.1MB/s-19%
-38.47.96.30:443#🌀其他1-TH - ⬇️ 8.7MB/s-55%-Netflix-Openai
+ssm.pimax.com:10518#美国1 - ⬇️ 6.6MB/s-13%-Openai-Gemini
