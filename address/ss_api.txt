@@ -1,3 +1,1 @@
-193.108.119.230:8080#德国9 - ⬇️ 4.8MB/s-100%-Openai
-35.94.37.62:443#美国16 - ⬇️ 6.3MB/s-30%-Openai-Gemini
-usa-outline.outlinekeys.net:4443#英国1 - ⬇️ 4.5MB/s-0%-Openai-Gemini
+103.36.91.32:8388#新加坡2 - ⬇️ 4.3MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
