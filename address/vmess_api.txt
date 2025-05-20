@@ -1,3 +1,2 @@
-www.visa.com.tw:443#美国10 - ⬇️ 5.7MB/s-61%-Openai-Gemini
-104.21.22.211:80#美国11 - ⬇️ 4.1MB/s-0%-Youtube-Openai
-216.250.97.138:900#香港1 - ⬇️ 4.3MB/s-19%
+tiamo3.tiamocloud.us.kg:80#巴西1 - ⬇️ 5.2MB/s-58%-Youtube-Openai-Gemini
+18.162.203.189:3000#香港2 - ⬇️ 5.1MB/s-36%-Youtube
