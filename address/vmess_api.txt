@@ -1,8 +1,8 @@
-cloudgetservice.mcloudservice.site:443#加拿大1 - ⬇️ 5.9MB/s-0%-Youtube-Openai-Gemini
-172.67.71.217:443#德国10 - ⬇️ 8.1MB/s-0%-Youtube-Openai
-www.visa.com.tw:443#法国14 - ⬇️ 5.8MB/s-19%-Disney-Openai
-185.174.138.209:2095#法国16 - ⬇️ 5.5MB/s-0%
-172.66.168.209:443#美国42 - ⬇️ 5.6MB/s-54%-Netflix-Openai
-vc.fly.dev:443#美国44 - ⬇️ 15.5MB/s-0%-Netflix-Disney-Gemini
-77.83.141.171:443#美国47 - ⬇️ 11.5MB/s-0%-Netflix-Disney-Gemini
-45.202.113.194:443#🌀其他14-TH - ⬇️ 4.6MB/s-47%-Openai
+141.101.120.161:2053#俄罗斯3 - ⬇️ 4.6MB/s-0%
+tiamo3.tiamocloud.us.kg:80#巴西1 - ⬇️ 5.7MB/s-58%-Youtube-Openai
+tiamo2.tiamocloud.us.kg:80#新加坡1 - ⬇️ 5.2MB/s-58%-Youtube-Openai-Gemini
+cloudgetservice.mcloudservice.site:443#美国29 - ⬇️ 5.8MB/s-54%-Openai
+77.83.141.171:443#美国30 - ⬇️ 22.4MB/s-0%-Netflix-Disney-Gemini
+vc.fly.dev:443#美国33 - ⬇️ 19.7MB/s-0%-Netflix-Disney-Gemini
+tiamo1.tiamocloud.us.kg:80#荷兰6 - ⬇️ 8.1MB/s-0%-Openai-Gemini
+45.202.113.194:443#🌀其他3-TH - ⬇️ 6.0MB/s-47%-Openai
