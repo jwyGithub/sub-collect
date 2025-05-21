@@ -1,4 +1,1 @@
-193.108.119.230:8080#德国9 - ⬇️ 5.2MB/s-100%-Openai
-35.94.37.62:443#美国25 - ⬇️ 5.5MB/s-31%-Openai-Gemini
-p231.panda004.net:11389#韩国2 - ⬇️ 10.1MB/s-75%-Netflix-Disney-Youtube-Openai-Gemini
-221.150.109.89:11389#韩国3 - ⬇️ 5.0MB/s-75%-Netflix-Disney-Youtube-Openai-Gemini
+103.36.91.32:8388#新加坡1 - ⬇️ 7.0MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
