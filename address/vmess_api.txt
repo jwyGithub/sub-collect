@@ -1,3 +1,2 @@
-104.21.112.1:2053#加拿大1 - ⬇️ 4.3MB/s-0%-Openai
-cloudgetservice.mcloudservice.site:443#美国12 - ⬇️ 7.6MB/s-Netflix-Openai-Gemini
-185.146.173.25:80#芬兰1 - ⬇️ 6.1MB/s-20%-Youtube-Openai
+185.174.138.209:2095#法国6 - ⬇️ 4.8MB/s-Openai
+185.146.173.25:80#芬兰1 - ⬇️ 6.8MB/s-20%-Youtube-Openai

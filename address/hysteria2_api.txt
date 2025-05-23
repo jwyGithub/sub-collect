@@ -1,1 +1,6 @@
-51.159.111.32:31180#法国3 - ⬇️ 4.2MB/s-24%-Youtube-Openai
+51.159.111.32:31180#法国3 - ⬇️ 5.8MB/s-24%-Youtube-Openai
+108.181.5.130:57773#美国1 - ⬇️ 7.1MB/s-46%-Openai
+64.181.207.162:47262#美国2 - ⬇️ 5.3MB/s-19%-Netflix-Disney-Openai-Gemini
+192.9.129.48:8888#美国5 - ⬇️ 9.2MB/s-58%-Netflix-Openai
+sj-arm.nfsn666.gq:8888#美国6 - ⬇️ 8.2MB/s-58%-Netflix-Openai
+7edb7ffb-sw5og0-sznzxg-1jfvb.hy2.gotochinatown.net:8443#美国8 - ⬇️ 4.9MB/s
