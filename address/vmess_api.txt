@@ -1,2 +1,1 @@
-cloudgetservice.mcloudservice.site:443#美国29 - ⬇️ 6.2MB/s-54%-Openai-Gemini
-185.146.173.25:80#芬兰1 - ⬇️ 4.2MB/s-20%-Openai
+152.67.251.232:443#法国2 - ⬇️ 4.1MB/s-0%
