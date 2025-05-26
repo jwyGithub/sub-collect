@@ -1,3 +1,2 @@
-outshop.bestvc.ir:33148#德国30 - ⬇️ 4.2MB/s-0%-Youtube-Openai
-195.154.54.171:13355#法国7 - ⬇️ 4.0MB/s-25%-Openai
-103.62.52.253:54111#🌀其他14-MY - ⬇️ 11.9MB/s-0%-Netflix-Gemini
+okanc.node-is.green:21115#香港17 - ⬇️ 8.5MB/s-0%-Netflix-Openai-Gemini
+okanc.node-is.green:21114#香港18 - ⬇️ 14.4MB/s-0%-Netflix-Openai-Gemini
