@@ -1,1 +1,2 @@
-221.150.109.89:11389#韩国2 - ⬇️ 9.3MB/s-77%-Netflix-Disney-Openai-Gemini
+103.36.91.32:8388#新加坡1 - ⬇️ 8.3MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+125.141.26.12:4857#韩国5 - ⬇️ 6.2MB/s-39%-Netflix-Disney-Openai
