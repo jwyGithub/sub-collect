@@ -1,2 +1,1 @@
-okanc.node-is.green:21115#香港17 - ⬇️ 8.5MB/s-0%-Netflix-Openai-Gemini
-okanc.node-is.green:21114#香港18 - ⬇️ 14.4MB/s-0%-Netflix-Openai-Gemini
+221.150.109.89:11389#韩国2 - ⬇️ 9.3MB/s-77%-Netflix-Disney-Openai-Gemini
