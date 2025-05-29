@@ -1,3 +1,3 @@
-www.tifafaya.top:35500#美国25 - ⬇️ 6.5MB/s-0%-Openai
-104.21.22.211:80#美国3 - ⬇️ 5.1MB/s-100%-Youtube-Openai
-185.146.173.25:80#芬兰6 - ⬇️ 5.0MB/s-20%-Openai
+185.174.138.209:2095#法国31 - ⬇️ 6.5MB/s-0%-Openai
+45.147.201.231:23090#美国19 - ⬇️ 4.2MB/s-26%-Openai
+681f042c-sv2sg0-t15duc-1nsdp.hk.p5pv.com:80#香港19 - ⬇️ 5.0MB/s-2%-Netflix-Disney-Youtube
