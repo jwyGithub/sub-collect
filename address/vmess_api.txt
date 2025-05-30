@@ -1,3 +1,2 @@
-185.174.138.209:2095#法国31 - ⬇️ 6.5MB/s-0%-Openai
-45.147.201.231:23090#美国19 - ⬇️ 4.2MB/s-26%-Openai
-681f042c-sv2sg0-t15duc-1nsdp.hk.p5pv.com:80#香港19 - ⬇️ 5.0MB/s-2%-Netflix-Disney-Youtube
+cloudgetservice.mcloudservice.site:443#加拿大1 - ⬇️ 5.4MB/s-27%-Youtube-Openai-Gemini
+185.174.138.209:2095#法国13 - ⬇️ 6.4MB/s-0%-Openai

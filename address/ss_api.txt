@@ -1,4 +1,4 @@
-45.89.109.184:10001#日本2 - ⬇️ 4.0MB/s-55%-Youtube-Openai
-125.141.26.12:4857#韩国2 - ⬇️ 6.9MB/s-39%-Netflix-Disney-Openai
-116.206.124.41:34045#🌀其他1-TH - ⬇️ 7.4MB/s-0%-Netflix-Youtube-Openai-Gemini
-185.213.23.226:989#🌀其他3-NO - ⬇️ 4.7MB/s-32%-Openai
+103.36.91.32:8388#新加坡1 - ⬇️ 4.6MB/s-0%-Netflix-Youtube-Openai-Gemini
+52.194.252.17:443#日本2 - ⬇️ 7.0MB/s-19%-Youtube-Openai-Gemini
+35.94.37.223:443#美国27 - ⬇️ 4.9MB/s-30%-Openai-Gemini
+221.150.109.89:11389#韩国2 - ⬇️ 6.5MB/s-77%-Netflix-Disney-Youtube-Openai-Gemini
