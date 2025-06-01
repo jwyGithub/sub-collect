@@ -1,19 +1,17 @@
-194.76.18.189:443#KZ
-160.123.255.202:443#ZA
-18.167.194.154:443#HK
-192.0.63.120:443#US
-8.217.232.246:2083#HK
-8.217.232.246:2096#HK
-8.210.107.246:2096#HK
-192.200.160.157:443#US
-16.163.18.210:443#HK
-160.79.104.126:443#US
-135.84.76.34:443#US
-8.210.174.156:2087#HK
-198.62.62.39:443#US
-160.79.105.55:443#US
-160.123.255.4:443#ZA
-47.243.139.85:2053#HK
+185.133.35.209:443#BR
+18.183.158.211:443#JP
+135.84.76.146:443#US
+45.67.215.72:443#RU
+47.76.146.1:2083#HK
+69.84.182.77:443#US
+63.141.128.141:443#US
+160.79.105.187:443#US
+185.16.110.80:443#FR
+160.123.255.78:443#ZA
+47.242.171.94:8443#HK
+8.217.232.246:2053#HK
+217.163.76.155:443#GB
+47.243.234.9:8443#HK
 138.3.215.231:44784#JP
 188.253.24.77:8184#JP
 129.150.32.171:6443#SG
@@ -29,45 +27,398 @@
 23.94.213.132:27149#US
 52.32.90.142:80#US
 132.145.81.117:443#KR
+140.238.158.238:443#CA
 140.238.201.118:443#AU
 141.148.203.6:443#IN
-143.47.248.53:443#GB
 144.24.140.37:443#IN
 152.67.190.105:443#IN
 154.17.21.134:18446#US
 156.230.12.71:443#CN
 168.138.13.201:443#AU
-192.9.180.162:443#AU
+192.18.134.22:443#US
 210.61.97.241:81#TW
-43.135.44.101:30002#HK
-162.159.153.239:443#CT
+162.159.152.69:443#CT
+162.159.153.216:443#CT
 162.159.152.81:443#CT
-162.159.152.11:443#CT
-162.159.153.209:443#CT
-162.159.153.144:443#CT
-162.159.152.155:443#CT
-104.17.210.171:443#CMCC
-104.17.215.102:443#CMCC
-104.17.104.243:443#CMCC
+162.159.152.31:443#CT
+162.159.152.225:443#CT
+162.159.153.217:443#CT
+104.16.242.72:443#CMCC
 104.18.83.92:443#CMCC
+104.17.104.243:443#CMCC
 104.18.80.243:443#CMCC
-104.16.246.132:443#CMCC
+104.17.215.102:443#CMCC
+104.18.94.238:443#CMCC
+[2606:4700:3036:0:a36a:4a23:4a60:9f3f]:443#CMCC-IPV6
 [2606:4700:3036:6ed4:ffdf:15bf:7d77:5f52]:443#CMCC-IPV6
-[2606:4700:3036:0:a36a:4a94:8d40:c92c]:443#CMCC-IPV6
-[2606:4700:3036::ce:d6ea]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]:443#CMCC-IPV6
+[2606:4700:3036:ef:db9e:ee41:a8df:d3b2]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]:443#CMCC-IPV6
 [2606:4700:3036:ef:92f:be51:8695:9fc5]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:e1ed:ae00:3c36:e683]:443#CMCC-IPV6
-45.131.5.20:8880#印度1 - ⬇️ 7.7MB/s-Disney
-188.42.89.20:8880#德国1 - ⬇️ 4.4MB/s-Disney-Openai
-216.116.134.20:8880#德国2 - ⬇️ 4.0MB/s-Disney-Openai
-151.101.2.133:80#德国3 - ⬇️ 17.7MB/s-Disney-Youtube-Openai
-170.114.45.6:8080#新加坡2 - ⬇️ 4.9MB/s-56%-Netflix-Youtube
-45.159.216.20:8880#新加坡3 - ⬇️ 4.0MB/s-Disney-Openai
-zula.ir:8880#法国6 - ⬇️ 5.3MB/s-43%-Youtube-Openai
-172.67.175.139:443#美国4 - ⬇️ 6.7MB/s-28%-Openai
-45.80.110.20:8880#美国6 - ⬇️ 4.0MB/s-Disney-Openai
-91.193.58.79:8880#美国7 - ⬇️ 6.2MB/s-Disney-Youtube
-45.131.209.20:8880#阿拉伯酋长国1 - ⬇️ 6.9MB/s-Disney-Openai
-192.65.217.20:8880#香港1 - ⬇️ 6.0MB/s-Disney-Openai
-jp.zran.top:33001#🌀其他1-CL - ⬇️ 4.6MB/s-56%-Youtube-Openai-Gemini
+[2606:4700:3036:0:a36a:3160:b566:8741]:443#CMCC-IPV6
+104.17.148.22:80#德国37 - ⬇️ 4.9MB/s-0%-Openai
+154.197.108.20:8880#印度1 - ⬇️ 7.3MB/s-Disney-Youtube-Openai-Gemini
+162.159.249.20:8880#印度10 - ⬇️ 11.4MB/s-56%-Disney-Openai
+45.131.5.31:8880#印度11 - ⬇️ 9.4MB/s-56%-Disney-Youtube
+5.10.215.195:8880#印度12 - ⬇️ 9.6MB/s-56%-Disney-Youtube-Openai
+31.43.179.52:8880#印度13 - ⬇️ 12.5MB/s-56%-Disney-Youtube-Openai
+45.12.30.206:8880#印度14 - ⬇️ 16.4MB/s-Netflix-Disney-Youtube-Openai
+45.131.5.149:8880#印度15 - ⬇️ 16.2MB/s-Netflix-Disney-Youtube-Openai
+45.131.6.166:8880#印度16 - ⬇️ 13.8MB/s-Disney-Youtube-Openai
+188.42.89.91:80#印度17 - ⬇️ 14.6MB/s-56%-Disney-Youtube-Openai
+45.142.120.116:8880#印度18 - ⬇️ 22.9MB/s-Disney-Youtube-Openai
+162.159.24.20:8880#印度19 - ⬇️ 22.7MB/s-Disney-Youtube-Openai
+5.10.214.25:8880#印度2 - ⬇️ 7.1MB/s-56%-Disney-Youtube-Openai-Gemini
+185.170.166.157:8880#印度20 - ⬇️ 8.1MB/s-56%-Disney-Youtube-Openai
+45.131.209.65:8880#印度21 - ⬇️ 15.0MB/s-56%-Disney-Youtube-Openai
+5.10.215.211:8880#印度3 - ⬇️ 4.4MB/s-56%-Disney-Youtube-Openai-Gemini
+5.10.215.51:8880#印度4 - ⬇️ 4.6MB/s-Disney-Youtube-Openai-Gemini
+190.93.246.20:8880#印度5 - ⬇️ 9.3MB/s-56%-Disney-Youtube-Openai
+5.10.247.248:8880#印度6 - ⬇️ 5.8MB/s-56%-Disney-Youtube-Openai
+154.83.2.20:8880#印度7 - ⬇️ 5.9MB/s-56%-Disney-Youtube-Openai
+45.131.4.247:8880#印度9 - ⬇️ 4.2MB/s-Disney-Youtube-Openai
+108.165.152.98:2087#台湾1 - ⬇️ 9.1MB/s-1%-Disney-Youtube-Openai
+141.193.213.227:80#台湾10 - ⬇️ 9.4MB/s-1%-Disney-Youtube-Openai
+172.67.151.188:2083#台湾12 - ⬇️ 15.2MB/s-Netflix-Disney-Youtube
+141.193.213.140:80#台湾13 - ⬇️ 10.8MB/s-1%-Disney-Youtube-Openai
+141.193.213.222:80#台湾14 - ⬇️ 4.2MB/s-1%-Disney-Youtube
+141.193.213.184:80#台湾15 - ⬇️ 14.7MB/s-1%-Disney-Youtube-Openai
+141.193.213.142:80#台湾16 - ⬇️ 8.8MB/s-1%-Disney-Youtube-Openai
+141.193.213.118:80#台湾17 - ⬇️ 18.1MB/s-1%-Disney-Youtube-Openai
+141.193.213.14:80#台湾18 - ⬇️ 4.3MB/s-1%-Disney-Youtube-Openai
+141.193.213.205:80#台湾19 - ⬇️ 9.3MB/s-Disney-Youtube
+27.50.49.208:443#台湾2 - ⬇️ 9.6MB/s-1%-Disney-Youtube-Openai
+91.193.58.202:8880#台湾20 - ⬇️ 4.9MB/s-Disney-Youtube-Openai
+141.193.213.225:80#台湾21 - ⬇️ 13.6MB/s-Disney-Youtube
+141.193.213.15:80#台湾22 - ⬇️ 14.9MB/s-1%-Disney-Youtube
+141.193.213.170:80#台湾23 - ⬇️ 4.1MB/s-Disney-Youtube-Openai
+141.193.213.230:80#台湾24 - ⬇️ 7.9MB/s-1%-Disney-Youtube
+141.193.213.87:80#台湾25 - ⬇️ 6.7MB/s-Disney-Youtube-Openai
+141.193.213.187:80#台湾26 - ⬇️ 19.0MB/s-Disney-Youtube-Openai
+141.193.213.249:80#台湾27 - ⬇️ 20.3MB/s-Disney-Youtube-Openai
+141.193.213.67:80#台湾28 - ⬇️ 16.5MB/s-Disney-Youtube
+141.193.213.207:80#台湾29 - ⬇️ 8.5MB/s-Disney-Youtube-Openai
+ignacio.ns.cloudflare.com:443#台湾3 - ⬇️ 6.8MB/s-1%-Disney-Youtube-Openai
+141.193.213.43:80#台湾30 - ⬇️ 14.6MB/s-1%-Disney-Youtube-Openai
+141.193.213.105:80#台湾31 - ⬇️ 17.9MB/s-Disney-Youtube-Openai
+141.193.213.143:80#台湾32 - ⬇️ 10.4MB/s-1%-Disney-Youtube
+141.193.213.185:80#台湾33 - ⬇️ 14.3MB/s-Disney-Youtube
+108.165.152.131:443#台湾4 - ⬇️ 4.1MB/s-Disney-Youtube-Openai
+141.193.213.146:80#台湾5 - ⬇️ 7.9MB/s-1%-Disney-Youtube-Openai-Gemini
+141.193.213.198:80#台湾6 - ⬇️ 5.3MB/s-1%-Disney-Youtube-Openai
+141.193.213.77:80#台湾7 - ⬇️ 4.6MB/s-Disney-Youtube-Openai
+141.193.213.108:80#台湾9 - ⬇️ 5.1MB/s-Disney-Youtube-Openai
+192.65.217.20:8880#德国1 - ⬇️ 10.6MB/s-Disney-Youtube-Openai-Gemini
+185.148.106.75:8880#德国10 - ⬇️ 4.0MB/s-38%-Disney-Youtube-Openai
+194.53.53.213:8880#德国11 - ⬇️ 5.0MB/s-Disney-Youtube-Openai
+94.247.142.20:8880#德国12 - ⬇️ 5.1MB/s-Disney-Youtube-Openai
+185.193.30.20:80#德国13 - ⬇️ 5.9MB/s-Netflix-Disney-Youtube-Openai
+5.10.214.142:8880#德国14 - ⬇️ 4.5MB/s-Disney-Youtube-Openai
+45.131.210.236:80#德国15 - ⬇️ 19.2MB/s-Disney-Youtube-Openai
+45.131.5.112:8880#德国16 - ⬇️ 6.4MB/s-0%-Disney-Youtube-Openai
+45.8.211.236:8880#德国17 - ⬇️ 8.6MB/s-Disney-Youtube-Openai
+45.12.30.234:80#德国18 - ⬇️ 11.6MB/s-Disney-Youtube-Openai
+198.41.214.20:8880#德国19 - ⬇️ 4.4MB/s-38%-Youtube-Openai
+5.10.245.204:8880#德国2 - ⬇️ 8.7MB/s-0%-Disney-Youtube-Openai-Gemini
+104.21.3.219:8443#德国20 - ⬇️ 4.6MB/s-14%-Disney-Openai
+31.43.179.171:8880#德国21 - ⬇️ 5.1MB/s-Disney-Youtube-Openai
+172.66.2.20:8880#德国22 - ⬇️ 6.8MB/s-35%-Disney-Youtube-Openai
+5.10.244.57:8880#德国23 - ⬇️ 4.7MB/s-0%-Disney-Youtube-Openai
+5.10.244.39:8880#德国24 - ⬇️ 5.7MB/s-Disney-Youtube-Openai
+5.10.244.236:8880#德国25 - ⬇️ 5.5MB/s-Netflix-Disney-Youtube
+45.131.209.171:80#德国26 - ⬇️ 4.0MB/s-38%-Disney-Youtube-Openai
+185.162.229.205:80#德国27 - ⬇️ 6.7MB/s-Disney-Youtube-Openai
+92.243.74.20:8880#德国28 - ⬇️ 9.4MB/s-Disney-Youtube-Openai
+5.10.214.125:8880#德国29 - ⬇️ 5.3MB/s-0%-Disney-Youtube-Openai
+5.10.214.102:8880#德国3 - ⬇️ 5.3MB/s-38%-Disney-Youtube-Openai-Gemini
+5.10.247.213:8880#德国30 - ⬇️ 15.2MB/s-35%-Disney-Youtube-Openai
+whatismyipaddress.com:2096#德国31 - ⬇️ 11.6MB/s-43%-Openai
+www.speedtest.net:80#德国32 - ⬇️ 6.7MB/s-0%-Openai
+www.speedtest.net:443#法国11 - ⬇️ 9.2MB/s-40%-Openai
+45.131.211.98:8880#德国33 - ⬇️ 16.3MB/s-Disney-Youtube-Openai
+5.10.214.97:8880#德国34 - ⬇️ 14.8MB/s-Disney-Youtube-Openai
+5.10.214.143:8880#德国35 - ⬇️ 23.1MB/s-Disney-Youtube-Openai
+5.10.245.118:8880#德国36 - ⬇️ 18.7MB/s-38%-Disney-Youtube
+5.10.244.26:8880#德国38 - ⬇️ 8.2MB/s-Disney-Youtube-Openai
+5.10.214.178:8880#德国39 - ⬇️ 8.1MB/s-35%-Disney-Youtube-Openai
+5.10.214.18:8880#德国4 - ⬇️ 8.9MB/s-0%-Disney-Youtube-Openai-Gemini
+5.10.215.110:8880#德国41 - ⬇️ 21.3MB/s-Netflix-Disney-Youtube-Openai
+5.10.244.177:8880#德国42 - ⬇️ 13.9MB/s-0%-Disney-Youtube-Openai
+5.10.215.222:8880#德国43 - ⬇️ 7.7MB/s-Disney-Youtube-Openai
+185.135.9.73:80#德国44 - ⬇️ 14.2MB/s-Disney-Youtube-Openai
+5.10.214.11:8880#德国45 - ⬇️ 12.6MB/s-Disney-Youtube-Openai
+5.10.215.121:8880#德国47 - ⬇️ 15.9MB/s-0%-Disney-Youtube-Openai
+162.159.25.20:8880#德国48 - ⬇️ 23.8MB/s-35%-Disney-Youtube-Openai
+45.12.30.4:8880#德国5 - ⬇️ 4.5MB/s-Disney-Youtube-Openai
+62.72.166.20:8880#德国50 - ⬇️ 29.7MB/s-Netflix-Disney-Youtube-Openai
+104.24.135.129:2087#德国51 - ⬇️ 8.9MB/s-0%-Disney-Youtube
+185.176.26.159:8880#德国52 - ⬇️ 10.3MB/s-35%-Disney-Youtube
+45.131.7.12:8880#德国53 - ⬇️ 14.6MB/s-38%-Disney-Youtube-Openai
+104.129.164.20:8880#德国6 - ⬇️ 4.9MB/s-0%-Disney-Youtube-Openai
+45.131.209.20:8880#德国7 - ⬇️ 7.6MB/s-Disney-Youtube-Openai
+5.10.244.228:8880#德国9 - ⬇️ 4.2MB/s-Disney-Youtube-Openai
+support.zoom.us:8080#新加坡1 - ⬇️ 8.6MB/s-56%-Netflix-Youtube-Openai
+104.26.14.85:8080#法国10 - ⬇️ 15.6MB/s-15%-Openai
+104.17.147.22:443#法国5 - ⬇️ 15.8MB/s-40%-Openai
+104.26.15.85:8080#法国8 - ⬇️ 22.4MB/s-15%-Openai
+172.67.73.163:8080#波兰1 - ⬇️ 6.7MB/s-28%-Youtube-Openai
+89.116.46.20:8880#美国101 - ⬇️ 13.7MB/s-0%-Disney-Youtube-Openai
+156.238.18.111:8880#美国102 - ⬇️ 10.4MB/s-Disney-Youtube-Openai
+185.135.9.239:8880#美国103 - ⬇️ 11.7MB/s-0%-Disney-Youtube-Openai
+5.10.214.123:8880#美国104 - ⬇️ 23.7MB/s-Disney-Youtube-Openai
+5.10.215.196:8880#美国105 - ⬇️ 7.9MB/s-0%-Disney-Youtube-Openai
+91.193.58.196:8880#美国106 - ⬇️ 11.0MB/s-Disney-Youtube-Openai
+156.238.18.17:8880#美国107 - ⬇️ 7.7MB/s-56%-Disney-Youtube-Openai
+156.238.18.239:8880#美国108 - ⬇️ 16.3MB/s-Disney-Youtube-Openai
+91.193.58.243:8880#美国109 - ⬇️ 6.4MB/s-59%-Disney-Youtube-Openai
+5.10.244.13:8880#美国11 - ⬇️ 9.6MB/s-0%-Disney-Youtube-Openai-Gemini
+5.10.214.16:8880#美国111 - ⬇️ 6.8MB/s-0%-Disney-Youtube-Openai
+91.193.58.99:8880#美国112 - ⬇️ 11.5MB/s-59%-Disney-Youtube-Openai
+198.41.217.20:8880#美国113 - ⬇️ 15.3MB/s-0%-Disney-Youtube-Openai
+5.10.244.216:8880#美国114 - ⬇️ 4.1MB/s-0%-Disney-Youtube-Openai
+91.193.58.118:8880#美国115 - ⬇️ 14.6MB/s-Disney-Youtube-Openai
+91.193.58.112:8880#美国116 - ⬇️ 4.2MB/s-Disney-Youtube-Openai
+156.238.18.96:8880#美国117 - ⬇️ 12.3MB/s-56%-Disney-Youtube-Openai
+185.176.24.20:8880#美国118 - ⬇️ 6.5MB/s-0%-Disney-Youtube-Openai
+5.10.244.157:8880#美国119 - ⬇️ 22.9MB/s-0%-Disney-Youtube-Openai
+5.10.247.79:8880#美国12 - ⬇️ 9.8MB/s-0%-Disney-Youtube-Openai-Gemini
+45.131.208.150:8880#美国120 - ⬇️ 15.0MB/s-Disney-Youtube-Openai
+45.131.4.6:80#美国121 - ⬇️ 5.1MB/s-Disney-Youtube-Openai
+173.245.58.20:8880#美国122 - ⬇️ 14.5MB/s-Disney-Youtube-Openai
+91.193.58.246:8880#美国123 - ⬇️ 6.6MB/s-Disney-Youtube-Openai
+91.193.58.248:8880#美国124 - ⬇️ 8.5MB/s-Disney-Youtube-Openai
+91.193.58.73:8880#美国126 - ⬇️ 13.4MB/s-Disney-Youtube-Openai
+172.67.180.66:2083#美国127 - ⬇️ 20.3MB/s-Disney-Youtube-Openai
+91.193.58.13:8880#美国128 - ⬇️ 9.4MB/s-59%-Disney-Youtube-Openai
+91.193.58.182:8880#美国129 - ⬇️ 4.3MB/s-59%-Disney-Youtube-Openai
+91.193.58.179:8880#美国13 - ⬇️ 4.2MB/s-59%-Disney-Youtube-Openai-Gemini
+5.10.214.236:8880#美国130 - ⬇️ 16.1MB/s-Netflix-Disney-Youtube-Openai
+156.238.18.81:8880#美国131 - ⬇️ 4.4MB/s-Disney-Youtube-Openai
+91.193.58.176:8880#美国132 - ⬇️ 7.3MB/s-Disney-Youtube-Openai
+91.193.58.117:8880#美国133 - ⬇️ 17.2MB/s-Disney-Youtube-Openai
+5.10.214.145:8880#美国134 - ⬇️ 17.5MB/s-0%-Disney-Youtube-Openai
+91.193.58.129:8880#美国135 - ⬇️ 17.2MB/s-Disney-Youtube-Openai
+91.193.58.183:8880#美国136 - ⬇️ 4.8MB/s-56%-Disney-Youtube
+156.238.18.128:8880#美国137 - ⬇️ 11.1MB/s-Disney-Youtube-Openai
+172.67.163.14:443#美国138 - ⬇️ 4.4MB/s-28%-Openai
+156.238.18.103:8880#美国139 - ⬇️ 18.6MB/s-56%-Disney-Youtube-Openai
+91.193.58.41:8880#美国14 - ⬇️ 5.2MB/s-59%-Disney-Youtube-Openai-Gemini
+91.193.58.124:8880#美国140 - ⬇️ 7.4MB/s-Disney-Youtube-Openai
+5.10.215.203:8880#美国141 - ⬇️ 13.3MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.44:8880#美国142 - ⬇️ 14.5MB/s-Disney-Youtube-Openai
+156.238.18.34:8880#美国143 - ⬇️ 8.0MB/s-Disney-Youtube-Openai
+91.193.58.140:8880#美国145 - ⬇️ 4.1MB/s-Disney-Openai
+156.238.18.149:8880#美国146 - ⬇️ 14.0MB/s-56%-Disney-Youtube-Openai
+5.10.215.138:8880#美国147 - ⬇️ 18.8MB/s-Disney-Youtube-Openai
+5.10.247.178:8880#美国148 - ⬇️ 9.8MB/s-Disney-Youtube-Openai
+5.10.244.144:8880#美国149 - ⬇️ 10.4MB/s-Disney-Youtube-Openai
+45.131.7.3:8880#美国15 - ⬇️ 6.1MB/s-Disney-Youtube-Openai-Gemini
+45.142.120.99:80#美国150 - ⬇️ 6.1MB/s-Disney-Openai
+45.142.120.56:8880#美国151 - ⬇️ 9.3MB/s-0%-Disney-Youtube-Openai
+45.142.120.147:8880#美国152 - ⬇️ 6.9MB/s-0%-Disney-Youtube-Openai
+91.193.58.137:8880#美国153 - ⬇️ 5.5MB/s-Disney-Youtube-Openai
+5.10.214.122:8880#美国154 - ⬇️ 14.2MB/s-0%-Youtube-Openai
+5.10.246.226:8880#美国155 - ⬇️ 15.2MB/s-0%-Disney-Youtube-Openai
+91.193.58.234:8880#美国156 - ⬇️ 8.7MB/s-Disney-Youtube-Openai
+104.21.71.131:443#美国157 - ⬇️ 4.4MB/s-0%-Netflix-Disney-Openai
+162.159.46.20:8880#美国159 - ⬇️ 28.0MB/s-Netflix-Disney-Youtube-Openai
+185.176.26.20:8880#美国16 - ⬇️ 5.3MB/s-Netflix-Disney-Youtube-Openai-Gemini
+89.116.180.20:8880#美国160 - ⬇️ 16.1MB/s-0%-Disney-Youtube-Openai
+d3332856-cd74.2032.pp.ua:443#美国165 - ⬇️ 5.7MB/s-28%-Youtube-Openai
+104.21.34.159:443#美国166 - ⬇️ 6.0MB/s-28%-Youtube-Openai
+46bac781.2032.pp.ua:443#美国168 - ⬇️ 5.9MB/s-28%-Youtube-Openai
+104.21.83.113:443#美国169 - ⬇️ 15.9MB/s-28%-Openai
+91.193.58.145:8880#美国17 - ⬇️ 4.5MB/s-Disney-Youtube-Openai-Gemini
+172.67.204.177:443#美国170 - ⬇️ 16.0MB/s-31%-Youtube-Openai
+31.12.75.20:8880#美国175 - ⬇️ 18.0MB/s-0%-Disney-Youtube-Openai
+91.193.58.18:8880#美国176 - ⬇️ 15.0MB/s-56%-Disney-Youtube
+cf.cishanjichang.me:443#美国177 - ⬇️ 6.2MB/s-13%-Netflix-Disney-Openai-Gemini
+104.21.42.250:443#美国178 - ⬇️ 4.1MB/s-31%-Openai
+5.10.214.229:8880#美国18 - ⬇️ 14.3MB/s-0%-Disney-Youtube-Openai-Gemini
+104.21.112.1:443#美国181 - ⬇️ 14.6MB/s-0%-Disney-Youtube-Openai
+104.24.218.44:443#美国182 - ⬇️ 13.1MB/s-Disney-Youtube-Openai
+141.193.213.104:80#美国183 - ⬇️ 21.3MB/s-56%-Disney-Youtube
+141.193.213.138:80#美国184 - ⬇️ 5.5MB/s-Disney-Youtube
+141.193.213.150:80#美国185 - ⬇️ 14.2MB/s-Disney-Youtube
+141.193.213.133:80#美国186 - ⬇️ 8.0MB/s-Disney-Youtube-Openai
+141.193.213.38:80#美国187 - ⬇️ 4.6MB/s-Disney-Youtube-Openai
+156.238.18.171:8880#美国188 - ⬇️ 5.0MB/s-56%-Disney-Youtube-Openai
+156.238.18.181:8880#美国189 - ⬇️ 11.1MB/s-56%-Disney-Youtube-Openai
+103.245.228.0:8880#美国19 - ⬇️ 4.2MB/s-Disney-Youtube-Openai-Gemini
+156.238.18.37:8880#美国190 - ⬇️ 4.4MB/s-Disney-Youtube-Openai
+156.238.18.140:8880#美国191 - ⬇️ 7.0MB/s-Disney-Youtube-Openai
+156.238.18.13:8880#美国192 - ⬇️ 6.7MB/s-Disney-Youtube-Openai
+156.238.18.21:8880#美国193 - ⬇️ 7.3MB/s-Disney-Youtube-Openai
+156.238.18.42:8880#美国194 - ⬇️ 9.9MB/s-56%-Disney-Youtube-Openai
+156.238.18.69:8880#美国195 - ⬇️ 9.2MB/s-56%-Disney-Youtube
+156.238.18.225:8880#美国196 - ⬇️ 6.0MB/s-Disney-Youtube
+162.159.41.20:8880#美国197 - ⬇️ 17.4MB/s-Disney-Youtube-Openai
+185.148.106.219:8880#美国198 - ⬇️ 8.8MB/s-Disney-Youtube-Openai
+91.193.58.174:8880#美国199 - ⬇️ 5.6MB/s-59%-Disney-Youtube-Openai
+5.10.214.221:8880#美国20 - ⬇️ 6.7MB/s-0%-Disney-Youtube-Openai-Gemini
+91.193.58.128:8880#美国200 - ⬇️ 5.8MB/s-59%-Disney-Youtube-Openai
+91.193.58.171:8880#美国202 - ⬇️ 8.5MB/s-Disney-Youtube-Openai
+91.193.58.212:8880#美国203 - ⬇️ 5.0MB/s-59%-Disney-Youtube-Openai
+91.193.58.186:8880#美国204 - ⬇️ 8.3MB/s-59%-Disney-Youtube-Openai
+91.193.58.204:8880#美国205 - ⬇️ 5.6MB/s-59%-Disney-Youtube-Openai
+91.193.58.227:8880#美国206 - ⬇️ 15.7MB/s-Disney-Youtube-Openai
+91.193.58.33:8880#美国207 - ⬇️ 10.8MB/s-59%-Disney-Youtube-Openai
+91.193.58.21:8880#美国208 - ⬇️ 11.1MB/s-Disney-Youtube
+91.193.58.11:8880#美国209 - ⬇️ 4.9MB/s-Disney-Youtube
+5.10.214.68:8880#美国21 - ⬇️ 7.9MB/s-0%-Disney-Youtube-Openai-Gemini
+91.193.58.70:8880#美国210 - ⬇️ 15.7MB/s-56%-Disney-Youtube
+91.193.58.135:8880#美国211 - ⬇️ 12.4MB/s-Disney-Youtube
+5.10.215.109:8880#美国22 - ⬇️ 12.4MB/s-0%-Disney-Youtube-Openai-Gemini
+5.10.214.146:8880#美国23 - ⬇️ 13.1MB/s-Disney-Youtube-Openai-Gemini
+5.10.214.99:8880#美国24 - ⬇️ 8.3MB/s-0%-Disney-Youtube-Openai-Gemini
+5.10.215.40:8880#美国25 - ⬇️ 9.4MB/s-Disney-Youtube-Openai-Gemini
+5.10.214.111:8880#美国26 - ⬇️ 5.8MB/s-0%-Disney-Youtube-Openai
+5.10.245.196:8880#美国27 - ⬇️ 8.4MB/s-0%-Disney-Youtube-Openai
+91.193.58.109:8880#美国28 - ⬇️ 4.3MB/s-59%-Disney-Youtube-Openai-Gemini
+5.10.246.65:8880#美国29 - ⬇️ 4.1MB/s-0%-Disney-Youtube-Openai
+91.193.58.169:8880#美国30 - ⬇️ 6.4MB/s-Disney-Youtube-Openai-Gemini
+92.53.188.20:8880#美国31 - ⬇️ 8.1MB/s-Netflix-Disney-Youtube-Openai
+91.193.58.167:8880#美国32 - ⬇️ 5.5MB/s-Disney-Youtube-Openai-Gemini
+45.12.30.145:8880#美国33 - ⬇️ 4.9MB/s-0%-Disney-Youtube-Openai
+45.85.119.75:8880#美国34 - ⬇️ 5.1MB/s-0%-Disney-Youtube-Openai
+156.238.18.242:8880#美国36 - ⬇️ 14.8MB/s-Disney-Youtube-Openai-Gemini
+213.109.205.20:8880#美国37 - ⬇️ 5.4MB/s-0%-Disney-Youtube-Openai
+108.165.216.20:8880#美国38 - ⬇️ 5.2MB/s-0%-Disney-Youtube-Openai
+45.12.30.198:8880#美国39 - ⬇️ 4.9MB/s-0%-Disney-Youtube-Openai
+5.10.244.191:8880#美国40 - ⬇️ 12.4MB/s-0%-Disney-Youtube-Openai
+92.60.74.20:8880#美国41 - ⬇️ 7.0MB/s-Disney-Youtube-Openai
+104.24.229.98:80#美国42 - ⬇️ 4.4MB/s-0%-Disney-Youtube-Openai
+162.159.61.20:8880#美国43 - ⬇️ 9.6MB/s-0%-Disney-Youtube-Openai
+89.116.250.20:8880#美国44 - ⬇️ 6.3MB/s-Disney-Youtube-Openai
+66.81.247.4:8880#美国46 - ⬇️ 4.0MB/s-Disney-Youtube-Openai
+45.131.208.56:80#美国47 - ⬇️ 4.2MB/s-Disney-Youtube-Openai
+156.238.18.36:8880#美国48 - ⬇️ 5.1MB/s-Disney-Youtube-Openai-Gemini
+193.33.87.20:8880#美国49 - ⬇️ 5.5MB/s-Disney-Youtube-Openai
+5.10.214.149:8880#美国50 - ⬇️ 4.8MB/s-0%-Disney-Youtube
+104.21.63.226:443#美国51 - ⬇️ 5.3MB/s-25%-Openai
+45.85.119.134:8880#美国52 - ⬇️ 11.4MB/s-0%-Disney-Youtube-Openai
+156.238.18.90:8880#美国53 - ⬇️ 4.8MB/s-Disney-Youtube-Openai-Gemini
+185.176.24.238:8880#美国54 - ⬇️ 5.8MB/s-Disney-Youtube-Openai
+172.67.68.157:80#美国55 - ⬇️ 5.6MB/s-Disney-Youtube-Openai
+103.245.228.99:8880#美国56 - ⬇️ 4.9MB/s-Netflix-Disney-Youtube-Openai
+45.131.7.13:80#美国58 - ⬇️ 9.0MB/s-0%-Youtube-Openai
+5.10.244.70:8880#美国59 - ⬇️ 7.1MB/s-0%-Disney-Youtube-Openai
+108.162.198.20:8880#美国6 - ⬇️ 10.5MB/s-0%-Disney-Youtube-Gemini
+45.131.6.171:8880#美国60 - ⬇️ 11.0MB/s-Disney-Youtube-Openai
+45.131.209.219:8880#美国61 - ⬇️ 7.9MB/s-0%-Disney-Youtube-Openai
+198.41.200.20:8880#美国62 - ⬇️ 4.0MB/s-Disney-Youtube
+104.24.40.146:8443#美国63 - ⬇️ 4.5MB/s-Netflix-Disney-Youtube-Openai-Gemini
+5.10.214.103:8880#美国65 - ⬇️ 6.9MB/s-Disney-Youtube
+45.80.111.177:80#美国66 - ⬇️ 4.7MB/s-0%-Disney-Youtube-Openai
+104.129.165.20:8880#美国67 - ⬇️ 6.0MB/s-Disney-Youtube-Openai
+45.131.6.141:8880#美国68 - ⬇️ 4.6MB/s-0%-Disney-Youtube-Openai
+5.10.244.61:8880#美国7 - ⬇️ 4.1MB/s-Disney-Youtube-Openai-Gemini
+45.131.4.48:8880#美国70 - ⬇️ 5.0MB/s-Disney-Youtube-Openai
+5.10.244.130:8880#美国71 - ⬇️ 6.2MB/s-Disney-Youtube-Openai
+104.16.143.139:2096#美国72 - ⬇️ 4.2MB/s-0%-Disney-Youtube-Openai
+104.24.73.254:2087#美国73 - ⬇️ 5.3MB/s-Disney-Youtube-Openai
+45.131.7.55:80#美国74 - ⬇️ 5.3MB/s-Disney-Youtube-Openai
+5.10.214.73:8880#美国76 - ⬇️ 9.2MB/s-Disney-Youtube-Openai
+156.238.18.170:8880#美国77 - ⬇️ 10.0MB/s-Disney-Youtube-Openai
+5.10.244.74:8880#美国78 - ⬇️ 8.1MB/s-0%-Disney-Youtube-Openai
+104.21.18.37:2083#美国79 - ⬇️ 7.0MB/s-Disney-Youtube-Openai
+5.10.245.77:8880#美国8 - ⬇️ 5.1MB/s-Disney-Youtube-Openai-Gemini
+185.148.106.214:80#美国80 - ⬇️ 5.4MB/s-Disney-Youtube-Openai
+188.164.248.20:8880#美国81 - ⬇️ 9.2MB/s-0%-Disney-Youtube-Openai
+45.159.216.56:80#美国84 - ⬇️ 9.0MB/s-0%-Disney-Youtube-Openai
+45.131.5.20:8880#美国85 - ⬇️ 5.4MB/s-Disney-Youtube-Openai
+156.238.18.144:8880#美国89 - ⬇️ 9.5MB/s-56%-Disney-Youtube-Openai
+156.238.18.197:8880#美国9 - ⬇️ 12.6MB/s-Disney-Youtube-Openai-Gemini
+156.238.18.18:8880#美国90 - ⬇️ 6.2MB/s-56%-Disney-Youtube-Openai
+156.238.18.146:8880#美国91 - ⬇️ 5.6MB/s-56%-Disney-Youtube-Openai
+156.238.18.160:8880#美国92 - ⬇️ 4.4MB/s-56%-Disney-Youtube-Openai
+141.193.213.54:80#美国93 - ⬇️ 5.4MB/s-56%-Disney-Youtube-Openai
+156.238.18.58:8880#美国94 - ⬇️ 5.5MB/s-56%-Disney-Youtube
+156.238.18.249:8880#美国95 - ⬇️ 4.8MB/s-Disney-Youtube-Openai
+156.238.18.4:8880#美国96 - ⬇️ 7.8MB/s-Disney-Youtube-Openai
+156.238.18.52:8880#美国97 - ⬇️ 9.3MB/s-Disney-Youtube-Openai
+5.10.245.20:8880#美国98 - ⬇️ 7.0MB/s-Youtube
+45.80.110.20:8880#芬兰1 - ⬇️ 7.2MB/s-Netflix-Disney-Youtube-Openai-Gemini
+162.159.244.20:8880#芬兰10 - ⬇️ 22.4MB/s-Disney-Youtube-Openai
+5.10.244.14:8880#芬兰12 - ⬇️ 11.1MB/s-0%-Disney-Youtube-Openai
+5.10.214.119:8880#芬兰13 - ⬇️ 10.7MB/s-0%-Disney-Youtube-Openai
+195.85.23.200:8880#芬兰14 - ⬇️ 19.1MB/s-Disney-Youtube-Openai
+45.8.211.122:8880#芬兰15 - ⬇️ 9.7MB/s-Disney-Youtube-Openai
+45.131.208.114:80#芬兰3 - ⬇️ 12.2MB/s-0%-Disney-Youtube-Openai-Gemini
+5.10.214.31:8880#芬兰4 - ⬇️ 6.6MB/s-0%-Disney-Youtube-Openai-Gemini
+45.80.111.166:80#芬兰5 - ⬇️ 4.6MB/s-0%-Disney-Youtube-Openai-Gemini
+5.10.214.109:8880#芬兰7 - ⬇️ 6.4MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+141.101.120.20:8880#芬兰9 - ⬇️ 7.1MB/s-0%-Netflix-Disney-Youtube-Openai
+45.131.5.211:80#荷兰1 - ⬇️ 9.4MB/s-10%-Disney-Youtube-Openai-Gemini
+45.131.5.99:8880#荷兰10 - ⬇️ 5.6MB/s-Disney-Youtube-Openai
+185.162.231.20:8880#荷兰11 - ⬇️ 6.2MB/s-Disney-Youtube-Openai
+zula.ir:8443#荷兰12 - ⬇️ 10.0MB/s-0%-Youtube-Openai
+5.10.215.208:8880#荷兰13 - ⬇️ 6.0MB/s-10%-Disney-Youtube-Openai
+5.10.214.116:8880#荷兰14 - ⬇️ 23.2MB/s-Disney-Youtube-Openai
+5.10.244.220:8880#荷兰15 - ⬇️ 13.7MB/s-10%-Disney-Youtube-Openai
+103.160.204.20:8880#荷兰19 - ⬇️ 18.6MB/s-Disney-Youtube-Openai
+5.10.244.255:8880#荷兰2 - ⬇️ 5.1MB/s-10%-Disney-Youtube-Openai-Gemini
+185.193.31.83:8880#荷兰20 - ⬇️ 7.7MB/s-Disney-Youtube-Openai
+5.10.214.35:8880#荷兰3 - ⬇️ 4.0MB/s-10%-Disney-Youtube-Openai-Gemini
+5.10.244.45:8880#荷兰4 - ⬇️ 4.4MB/s-Disney-Youtube-Openai
+104.129.166.20:8880#荷兰6 - ⬇️ 8.4MB/s-Disney-Youtube-Openai
+45.131.208.188:8880#荷兰7 - ⬇️ 4.3MB/s-10%-Disney-Youtube-Openai
+172.66.44.20:8880#荷兰8 - ⬇️ 5.4MB/s-Netflix-Disney-Youtube-Openai
+45.131.209.157:8880#荷兰9 - ⬇️ 10.2MB/s-10%-Disney-Youtube-Openai
+5.10.214.2:8880#阿拉伯酋长国1 - ⬇️ 4.1MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+185.148.106.60:8880#阿拉伯酋长国10 - ⬇️ 7.1MB/s-Disney-Youtube-Openai
+45.131.210.98:80#阿拉伯酋长国11 - ⬇️ 4.2MB/s-Disney-Youtube-Openai
+195.245.221.20:8880#阿拉伯酋长国12 - ⬇️ 11.9MB/s-0%-Disney-Youtube-Openai
+45.131.209.193:80#阿拉伯酋长国13 - ⬇️ 5.4MB/s-Disney-Youtube-Openai
+5.10.246.254:8880#阿拉伯酋长国14 - ⬇️ 11.9MB/s-0%-Disney-Youtube-Openai
+5.10.246.146:8880#阿拉伯酋长国15 - ⬇️ 9.1MB/s-0%-Disney-Youtube-Openai
+188.42.89.237:8880#阿拉伯酋长国16 - ⬇️ 8.1MB/s-Disney-Youtube-Openai
+162.159.35.20:8880#阿拉伯酋长国17 - ⬇️ 23.8MB/s-Disney-Youtube-Openai
+45.159.219.120:8880#阿拉伯酋长国3 - ⬇️ 6.5MB/s-Disney-Youtube-Openai
+45.131.211.20:8880#阿拉伯酋长国4 - ⬇️ 5.5MB/s-0%-Disney-Youtube-Openai
+66.81.247.81:8880#阿拉伯酋长国5 - ⬇️ 7.1MB/s-Disney-Youtube-Openai
+45.80.111.252:8880#阿拉伯酋长国6 - ⬇️ 6.0MB/s-Disney-Youtube-Openai
+14.102.228.20:8880#阿拉伯酋长国7 - ⬇️ 6.0MB/s-Disney-Youtube-Openai
+45.131.211.187:8880#阿拉伯酋长国8 - ⬇️ 5.0MB/s-Disney-Youtube-Openai
+5.10.244.6:8880#阿拉伯酋长国9 - ⬇️ 4.2MB/s-0%-Disney-Youtube-Openai
+5.10.246.137:8880#韩国1 - ⬇️ 5.8MB/s-Disney-Youtube-Openai-Gemini
+45.8.211.220:80#韩国11 - ⬇️ 10.5MB/s-56%-Netflix-Disney-Youtube-Openai
+45.131.7.24:80#韩国12 - ⬇️ 4.9MB/s-Disney-Youtube-Openai
+5.10.215.126:8880#韩国15 - ⬇️ 16.9MB/s-56%-Disney-Youtube-Openai
+103.160.204.59:443#韩国16 - ⬇️ 14.3MB/s-Disney-Youtube
+5.10.244.24:8880#韩国17 - ⬇️ 10.8MB/s-Disney-Youtube-Openai
+162.159.152.2:443#韩国18 - ⬇️ 19.4MB/s-Disney-Youtube-Openai
+147.78.140.20:8880#韩国19 - ⬇️ 21.5MB/s-Disney-Youtube-Openai
+5.10.247.82:8880#韩国2 - ⬇️ 4.6MB/s-56%-Disney-Youtube-Openai
+5.10.247.246:8880#韩国3 - ⬇️ 4.9MB/s-56%-Disney-Youtube-Openai
+45.8.211.88:8880#韩国5 - ⬇️ 5.3MB/s-Disney-Youtube-Openai
+45.131.209.1:80#韩国7 - ⬇️ 12.3MB/s-56%-Disney-Youtube-Openai
+45.12.31.10:80#韩国8 - ⬇️ 9.2MB/s-56%-Disney-Youtube-Openai
+5.10.214.134:8880#香港1 - ⬇️ 9.7MB/s-Disney-Youtube-Openai-Gemini
+45.131.5.94:80#香港10 - ⬇️ 12.7MB/s-Disney-Youtube-Openai
+5.10.214.127:8880#香港11 - ⬇️ 10.7MB/s-0%-Disney-Youtube-Openai
+5.10.244.16:8880#香港12 - ⬇️ 8.4MB/s-0%-Disney-Youtube-Openai
+5.10.244.17:8880#香港13 - ⬇️ 15.2MB/s-Disney-Youtube-Openai
+5.10.245.255:8880#香港14 - ⬇️ 15.9MB/s-0%-Netflix-Disney-Youtube-Openai
+45.85.118.20:8880#香港15 - ⬇️ 22.2MB/s-0%-Disney-Youtube-Openai
+45.80.111.219:80#香港16 - ⬇️ 6.3MB/s-Disney-Youtube-Openai
+193.9.49.240:8880#香港17 - ⬇️ 6.4MB/s-Disney-Youtube-Openai
+5.10.244.195:8880#香港2 - ⬇️ 10.6MB/s-0%-Disney-Youtube-Openai-Gemini
+5.10.214.106:8880#香港3 - ⬇️ 6.7MB/s-0%-Disney-Youtube-Openai-Gemini
+194.53.53.20:8880#香港4 - ⬇️ 7.5MB/s-Disney-Youtube-Openai
+5.10.215.187:8880#香港5 - ⬇️ 4.2MB/s-0%-Disney-Youtube-Openai
+188.42.88.201:8880#香港7 - ⬇️ 6.0MB/s-0%-Youtube-Openai
+45.149.12.20:8880#香港9 - ⬇️ 5.2MB/s-0%-Disney-Youtube-Openai
+104.16.186.41:443#🌀其他1-KG - ⬇️ 6.7MB/s-Disney-Youtube-Openai-Gemini
+45.131.209.88:2096#🌀其他10-MD - ⬇️ 9.4MB/s-40%-Youtube-Openai
+45.12.31.205:2096#🌀其他11-MD - ⬇️ 8.8MB/s-40%
+45.8.211.246:2096#🌀其他12-MD - ⬇️ 7.0MB/s-40%-Youtube-Openai
+45.85.119.227:2096#🌀其他13-MD - ⬇️ 9.9MB/s-40%-Youtube-Openai
+stock.hostmonit.com:2086#🌀其他14-未识别 - ⬇️ 15.9MB/s-Netflix-Disney-Youtube-Openai
+104.16.187.41:443#🌀其他2-TR - ⬇️ 14.1MB/s-26%-Disney-Youtube-Openai
+104.16.189.41:443#🌀其他3-KW - ⬇️ 8.9MB/s-0%-Disney-Youtube-Openai
+45.131.208.182:2096#🌀其他4-MD - ⬇️ 9.1MB/s-40%-Youtube-Openai
+188.42.145.20:8880#🌀其他5-未识别 - ⬇️ 12.4MB/s-Disney-Youtube
+91.193.58.225:8880#🌀其他6-未识别 - ⬇️ 5.8MB/s-Disney-Youtube
+icook.hk:443#🌀其他7-未识别 - ⬇️ 19.5MB/s-Disney-Youtube
+141.193.213.114:80#🌀其他8-未识别 - ⬇️ 8.4MB/s-Disney-Youtube
+45.12.31.132:2096#🌀其他9-MD - ⬇️ 8.6MB/s-40%-Youtube-Openai

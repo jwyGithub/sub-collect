@@ -1,3 +1,20 @@
-5.75.207.190:8443#德国5 - ⬇️ 4.5MB/s-20%-Youtube-Openai
-tqwe4.freevpnatm2025.dpdns.org:443#美国17 - ⬇️ 6.4MB/s-0%-Openai
-cdn2.bpcdn.cc:80#🌀其他1-CY - ⬇️ 5.3MB/s-40%-Openai
+cloudgetservice.mcloudservice.site:2083#加拿大1 - ⬇️ 7.2MB/s-27%-Youtube-Openai-Gemini
+cloudgetservice.mcloudservice.site:443#加拿大3 - ⬇️ 4.4MB/s-0%-Youtube-Openai-Gemini
+104.21.64.1:2053#加拿大4 - ⬇️ 7.3MB/s-0%
+104.17.148.22:443#法国12 - ⬇️ 15.3MB/s-100%-Openai
+us01.sh-cloudflare.sbs:8443#美国10 - ⬇️ 5.3MB/s-16%-Netflix-Disney-Openai-Gemini
+172.67.138.187:80#美国100 - ⬇️ 5.5MB/s-32%-Openai
+1743919941.tencentapp.cn:8443#美国162 - ⬇️ 13.8MB/s-28%-Openai
+141.101.121.214:8443#美国163 - ⬇️ 12.3MB/s-28%-Openai
+141.101.120.229:2096#美国164 - ⬇️ 9.8MB/s-31%-Netflix-Disney-Openai
+xcfrty6.999165.xyz:80#美国172 - ⬇️ 8.4MB/s-31%-Openai
+xcdvfr56.999836.xyz:80#美国173 - ⬇️ 10.3MB/s-31%-Openai
+104.21.57.88:443#美国212 - ⬇️ 10.6MB/s-31%-Openai
+141.101.121.127:2053#美国213 - ⬇️ 7.4MB/s-44%-Netflix-Disney-Openai-Gemini
+cf.fovi.tk:443#美国3 - ⬇️ 6.8MB/s-16%-Netflix-Disney-Openai-Gemini
+AZAERBAYJAN.tX1.WORKERS.DEV:80#美国45 - ⬇️ 4.3MB/s-100%-Openai
+172.66.168.218:443#美国5 - ⬇️ 6.3MB/s-54%-Openai-Gemini
+CCVfbgt667yuI.999864.XyZ:443#美国75 - ⬇️ 6.9MB/s-Openai
+172.66.168.209:443#美国99 - ⬇️ 9.0MB/s-54%-Openai-Gemini
+ip.sb:443#芬兰2 - ⬇️ 9.3MB/s-20%-Youtube-Openai
+time.is:443#香港18 - ⬇️ 4.1MB/s-0%-Netflix-Disney-Youtube
