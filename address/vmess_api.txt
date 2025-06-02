@@ -1,4 +1,1 @@
-csr11-g01.jp06-7c5a-vm0.entry.fr0307a.art:28783#日本1 - ⬇️ 6.2MB/s-19%-Youtube-Openai-Gemini
-aflzzul.meiquankongjian.com:52512#日本2 - ⬇️ 18.9MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-107.172.96.227:2095#美国15 - ⬇️ 6.6MB/s-0%-Netflix-Disney-Openai-Gemini
-107.172.96.227:50012#美国16 - ⬇️ 6.9MB/s-0%-Netflix-Disney-Openai-Gemini
+185.174.138.209:2095#法国7 - ⬇️ 6.1MB/s-0%-Netflix-Openai
