@@ -1,10 +1,4 @@
-hy2.694463.xyz:30033#俄罗斯1 - ⬇️ 4.8MB/s-50%
-hy2-2.694463.xyz:4489#法国2 - ⬇️ 7.4MB/s-15%-Openai
-51.158.205.126:4489#法国4 - ⬇️ 9.1MB/s-15%-Openai
-alipay-api-us-a-1.testred.xyz:443#美国12 - ⬇️ 7.2MB/s-0%-Openai-Gemini
-alipay-api-us-c-2.testred.xyz:443#美国13 - ⬇️ 7.7MB/s-75%-Netflix-Disney-Openai-Gemini
-64.181.207.162:47262#美国17 - ⬇️ 5.2MB/s-16%-Netflix-Disney-Openai-Gemini
-104.168.34.109:60883#美国57 - ⬇️ 9.0MB/s-31%-Openai-Gemini
-209.141.47.127:3234#美国6 - ⬇️ 6.9MB/s-Openai
-130.162.182.250:8888#英国1 - ⬇️ 6.4MB/s-0%-Netflix-Youtube-Openai
-jiangzhiylk.54264944.xyz:43999#🌀其他2-IQ - ⬇️ 4.5MB/s-0%-Youtube-Openai
+46.17.44.165:29015#俄罗斯1 - ⬇️ 4.3MB/s-50%-Youtube-Openai
+alipay-api-ca-a-1.testred.xyz:443#加拿大1 - ⬇️ 4.4MB/s-40%-Youtube-Openai-Gemini
+51.159.111.32:31180#法国2 - ⬇️ 4.3MB/s-24%-Openai
+108.181.5.130:57773#美国3 - ⬇️ 4.1MB/s-45%-Openai
