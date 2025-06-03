@@ -1,4 +1,2 @@
-185.174.138.209:2095#法国16 - ⬇️ 5.3MB/s-Openai
-new3.huvicloud.com:443#美国30 - ⬇️ 4.6MB/s-65%-Netflix-Disney-Openai-Gemini
-::ffff:8e5d:fd31:2095#美国41 - ⬇️ 5.6MB/s-Openai
-cf.fovi.tk:443#美国56 - ⬇️ 5.9MB/s-Netflix-Disney-Openai-Gemini
+new3.huvicloud.com:443#美国14 - ⬇️ 4.3MB/s-65%-Netflix-Disney-Openai-Gemini
+cloudgetservice.mcloudservice.site:443#美国18 - ⬇️ 5.3MB/s-55%-Openai-Gemini
