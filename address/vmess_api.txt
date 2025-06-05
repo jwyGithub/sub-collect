@@ -1,2 +1,4 @@
-::ffff:8e5d:fd31:2095#美国36 - ⬇️ 5.0MB/s-Netflix-Openai
-0000:0000:0000:0000:0000:ffff:8e5d:fd31:2095#美国37 - ⬇️ 5.1MB/s-Netflix-Openai
+172.66.168.209:443#加拿大1 - ⬇️ 8.5MB/s-Netflix-Youtube-Openai
+0000:0000:0000:0000:0000:ffff:8e5d:fd31:2095#美国24 - ⬇️ 4.2MB/s-Netflix-Openai
+172.67.214.33:2082#美国44 - ⬇️ 4.7MB/s-Openai
+tci3.tiamoci.us.kg:80#香港5 - ⬇️ 5.4MB/s-Netflix-Disney
