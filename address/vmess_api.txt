@@ -1,3 +1,1 @@
-141.101.120.161:2053#俄罗斯5 - ⬇️ 5.1MB/s-Youtube
-speed.cloudflare.182682.xyz:443#美国3 - ⬇️ 5.9MB/s-Netflix-Openai-Gemini
-vc.fly.dev:443#香港1 - ⬇️ 13.3MB/s-Netflix-Disney-Gemini
+tci2.tiamoci.us.kg:8080#英国1 - ⬇️ 4.0MB/s-Netflix-Openai
