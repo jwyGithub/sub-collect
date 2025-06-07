@@ -1,2 +1,1 @@
-75.127.13.83:45551#美国11 - ⬇️ 6.3MB/s-Netflix-Openai-Gemini
-hy2-2.694463.xyz:4489#荷兰1 - ⬇️ 6.2MB/s-Netflix-Openai
+alipay-api-ca-a-1.testred.xyz:443#加拿大1 - ⬇️ 4.4MB/s-Netflix-Youtube-Openai-Gemini

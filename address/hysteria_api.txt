@@ -1,3 +1,1 @@
-176.32.35.226:62003#俄罗斯2 - ⬇️ 5.5MB/s-Youtube
-195.154.200.40:15010#法国1 - ⬇️ 10.3MB/s-Netflix-Youtube-Openai
-198.40.52.27:36194#美国1 - ⬇️ 11.0MB/s-Openai-Gemini
+51.159.226.1:14241#荷兰1 - ⬇️ 11.6MB/s-Netflix-Openai
