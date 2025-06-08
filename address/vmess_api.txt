@@ -1,1 +1,1 @@
-tci2.tiamoci.us.kg:8080#英国1 - ⬇️ 4.0MB/s-Netflix-Openai
+cf.fovi.tk:443#美国4 - ⬇️ 4.3MB/s-Netflix-Openai-Gemini
