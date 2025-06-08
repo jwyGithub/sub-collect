@@ -1,1 +1,2 @@
-cf.fovi.tk:443#美国4 - ⬇️ 4.3MB/s-Netflix-Openai-Gemini
+0000:0000:0000:0000:0000:ffff:8e5d:fd31:2095#美国45 - ⬇️ 4.0MB/s-Netflix-Openai
+::ffff:8e5d:fd31:2095#美国46 - ⬇️ 4.7MB/s-Netflix-Openai
