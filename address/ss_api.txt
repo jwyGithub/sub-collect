@@ -1,2 +1,2 @@
-admin.c3.webramz.co:443#英国1 - ⬇️ 4.1MB/s-Netflix-Youtube-Openai
-85.210.120.237:443#英国2 - ⬇️ 4.3MB/s-Netflix-Openai
+185.189.160.98:64759#台湾1 - ⬇️ 4.2MB/s-Openai-Gemini
+185.213.23.226:989#🌀其他1-NO - ⬇️ 4.5MB/s-Netflix-Openai

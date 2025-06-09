@@ -1,3 +1,1 @@
-eedp257bubu2wefy1.lovebaipiao.net:80#俄罗斯3 - ⬇️ 4.2MB/s-Youtube-Openai
-vc.fly.dev:443#香港1 - ⬇️ 14.9MB/s-Netflix-Disney-Gemini
-77.83.141.171:443#香港2 - ⬇️ 11.6MB/s-Netflix-Disney-Gemini
+cloudgetservice.mcloudservice.site:443#加拿大1 - ⬇️ 4.5MB/s-Youtube-Openai-Gemini
