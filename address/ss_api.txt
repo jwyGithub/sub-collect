@@ -1,2 +1,1 @@
-185.189.160.98:64759#台湾1 - ⬇️ 4.2MB/s-Openai-Gemini
-185.213.23.226:989#🌀其他1-NO - ⬇️ 4.5MB/s-Netflix-Openai
+103.36.91.32:8388#香港5 - ⬇️ 11.4MB/s-Netflix-Disney-Youtube-Gemini
