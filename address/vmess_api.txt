@@ -1,2 +1,1 @@
-104.21.80.1:2096#德国2 - ⬇️ 4.5MB/s-Disney-Openai
-0000:0000:0000:0000:0000:ffff:8e5d:fd31:2095#美国4 - ⬇️ 4.6MB/s-Netflix-Openai
+162.159.135.76:2053#德国1 - ⬇️ 6.0MB/s-Netflix-Openai
