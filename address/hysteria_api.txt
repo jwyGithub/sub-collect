@@ -1,3 +1,1 @@
-195.154.200.40:15010#法国2 - ⬇️ 5.0MB/s-Netflix-Youtube-Openai
-198.40.52.27:36194#美国1 - ⬇️ 8.4MB/s-Openai
-51.159.226.1:14241#荷兰2 - ⬇️ 8.0MB/s-Netflix-Openai
+51.159.226.1:14241#荷兰1 - ⬇️ 9.9MB/s-Netflix-Openai

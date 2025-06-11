@@ -1,21 +1,8 @@
-45.129.2.108:50850#俄罗斯1 - ⬇️ 6.2MB/s
-in.wendingjichang.com:50742#印度1 - ⬇️ 4.4MB/s-Netflix-Openai
-in.wendingjichang.com:50537#印度2 - ⬇️ 4.4MB/s-Netflix-Openai
-in.wendingjichang.com:58968#印度3 - ⬇️ 4.1MB/s-Netflix-Openai
-de.wendingjichang.com:53673#德国10 - ⬇️ 5.9MB/s-Netflix-Openai
-de.wendingjichang.com:59236#德国9 - ⬇️ 4.8MB/s-Netflix-Openai
-p4.3dfigures.ir:56116#德国14 - ⬇️ 6.1MB/s-Netflix-Youtube-Openai
-sg.wendingjichang.com:50363#新加坡1 - ⬇️ 4.2MB/s-Netflix-Youtube-Openai
-sg.wendingjichang.com:55980#新加坡2 - ⬇️ 5.7MB/s-Netflix-Youtube-Openai
-sg.wendingjichang.com:52960#新加坡3 - ⬇️ 4.5MB/s-Netflix-Youtube-Openai
-51.159.111.32:31180#法国1 - ⬇️ 7.8MB/s-Netflix-Openai
-108.181.5.130:4710#美国2 - ⬇️ 4.9MB/s-Netflix-Openai
-sub-us-2.yangxiansheng.online:41951#美国3 - ⬇️ 7.0MB/s-Netflix-Openai-Gemini
-209.141.47.127:3234#美国5 - ⬇️ 8.2MB/s-Netflix-Openai-Gemini
-108.181.23.255:443#美国6 - ⬇️ 6.0MB/s-Netflix-Disney-Openai
-208.87.242.189:443#美国7 - ⬇️ 7.1MB/s-Netflix-Disney-Openai
-108.181.23.241:443#美国8 - ⬇️ 8.5MB/s-Netflix-Disney-Openai
-208.87.242.79:443#美国9 - ⬇️ 7.3MB/s-Netflix-Openai
-51.158.205.126:4489#荷兰1 - ⬇️ 7.6MB/s-Netflix-Youtube-Openai
-sinavm.sinavm.ir:80#🌀其他1-LI - ⬇️ 4.9MB/s-Netflix-Openai
-sinavm.soft10.ir:443#🌀其他2-LI - ⬇️ 5.9MB/s-Netflix-Openai
+46.17.41.217:30033#俄罗斯1 - ⬇️ 4.9MB/s-Youtube
+132.145.239.250:35000#德国6 - ⬇️ 8.3MB/s-Disney-Youtube-Openai
+140.245.35.78:35000#新加坡1 - ⬇️ 21.6MB/s-Netflix-Disney-Youtube-Openai-Gemini
+159.13.35.245:35000#澳大利亚1 - ⬇️ 12.0MB/s-Disney-Youtube-Openai-Gemini
+108.181.5.130:4710#美国1 - ⬇️ 7.1MB/s-Netflix-Openai
+sub-us-2.yangxiansheng.online:41951#美国2 - ⬇️ 8.3MB/s-Netflix-Openai-Gemini
+51.158.205.126:4489#荷兰3 - ⬇️ 7.4MB/s-Netflix-Youtube-Openai
+193.123.76.84:35000#阿拉伯酋长国1 - ⬇️ 7.6MB/s-Disney-Youtube-Openai-Gemini
