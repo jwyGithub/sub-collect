@@ -1,3 +1,1 @@
-cloudflare.182682.xyz:2086#俄罗斯2 - ⬇️ 5.6MB/s-Youtube
-c1swew.777159.xyz:80#加拿大1 - ⬇️ 4.8MB/s-Youtube-Openai
-162.159.135.76:2053#德国6 - ⬇️ 7.3MB/s-Netflix-Youtube-Openai
+cf.fovi.tk:443#美国5 - ⬇️ 5.7MB/s-Netflix-Disney-Openai-Gemini
