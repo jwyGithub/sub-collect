@@ -1,1 +1,2 @@
-141.101.121.88:2053#德国2 - ⬇️ 4.6MB/s-Openai
+104.21.65.31:80#美国11 - ⬇️ 5.2MB/s-Netflix-Openai
+us.dalazhi.eu.org:24096#美国9 - ⬇️ 5.8MB/s-Netflix-Openai-Gemini
