@@ -1,4 +1,2 @@
-44.248.149.58:443#美国10 - ⬇️ 5.7MB/s-Netflix-Openai-Gemini
-37.143.129.127:20031#芬兰2 - ⬇️ 5.5MB/s-Netflix-Youtube-Openai
-p227.panda004.net:4857#韩国4 - ⬇️ 16.1MB/s-Openai
-62.60.239.203:1090#🌀其他1-AT - ⬇️ 4.2MB/s-Netflix-Youtube-Openai
+103.36.91.32:8388#香港2 - ⬇️ 9.3MB/s-Netflix-Disney-Youtube-Gemini
+185.153.197.5:989#🌀其他3-MD - ⬇️ 6.0MB/s-Youtube-Openai

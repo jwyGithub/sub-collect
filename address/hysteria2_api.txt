@@ -1,9 +1,12 @@
-51.159.226.1:4489#荷兰3 - ⬇️ 4.4MB/s-Netflix-Openai
-asg.pagate.top:10086#新加坡3 - ⬇️ 7.1MB/s-Youtube-Openai
-ajp.pagate.top:10086#日本1 - ⬇️ 16.0MB/s-Netflix-Youtube-Openai-Gemini
-108.181.5.130:4710#美国1 - ⬇️ 9.4MB/s-Netflix-Openai
-aus.pagate.top:10086#美国3 - ⬇️ 4.2MB/s-Netflix-Openai
-57cda03f-sxc9s0-sxgw5w-1j0a4.hy2.gotochinatown.net:8443#美国4 - ⬇️ 11.6MB/s-Netflix-Gemini
-209.141.47.127:3234#美国5 - ⬇️ 4.3MB/s-Netflix-Openai-Gemini
-51.158.205.126:4489#荷兰2 - ⬇️ 6.6MB/s-Netflix-Youtube-Openai
-hy2-2.694463.xyz:4489#荷兰4 - ⬇️ 4.9MB/s-Netflix-Youtube-Openai
+51.159.226.1:4489#荷兰3 - ⬇️ 4.5MB/s-Netflix-Openai
+46.17.41.217:30033#俄罗斯1 - ⬇️ 4.5MB/s
+46.29.163.171:30033#俄罗斯2 - ⬇️ 4.9MB/s
+asg.pagate.top:10086#新加坡1 - ⬇️ 9.0MB/s-Netflix-Youtube-Openai
+ajp.pagate.top:10086#日本1 - ⬇️ 10.5MB/s-Netflix-Youtube-Openai-Gemini
+108.181.5.130:4710#美国1 - ⬇️ 10.0MB/s-Netflix-Openai
+57cda03f-sxc9s0-sxgw5w-1j0a4.hy2.gotochinatown.net:8443#美国2 - ⬇️ 7.3MB/s-Netflix-Gemini
+108.181.23.255:443#美国26 - ⬇️ 8.3MB/s-Netflix-Disney-Openai
+ce8ae4b9-svn5s0-swbt02-g3b3.hy2.gotochinatown.net:8443#美国3 - ⬇️ 7.3MB/s-Netflix-Gemini
+sub-us-2.yangxiansheng.online:41951#美国7 - ⬇️ 7.5MB/s-Netflix-Openai-Gemini
+51.158.205.126:4489#荷兰1 - ⬇️ 8.6MB/s-Netflix-Youtube-Openai
+sinavm.sinavm.ir:80#🌀其他1-LI - ⬇️ 5.2MB/s-Netflix-Openai
