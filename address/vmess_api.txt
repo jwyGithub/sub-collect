@@ -1,3 +1,1 @@
-cloudgetservice.mcloudservice.site:443#CA_1 - ⬇️ 6.8MB/s-20%-Netflix-Youtube-Openai-Gemini
-v97-wha-douyinvod.zwcdn.icu:443#US_16 - ⬇️ 4.3MB/s-Netflix-Disney-Openai-Gemini
-xxxcvfgt6.huangshang.dpdns.org:443#US_6 - ⬇️ 5.4MB/s-30%-Netflix-Openai
+ip.sb:443#US_3 - ⬇️ 5.0MB/s-37%-Netflix-Openai-Gemini
