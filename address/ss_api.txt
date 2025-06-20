@@ -1,3 +1,1 @@
-kh36v1.pmxiaonan.xyz:26902#HK_1 - ⬇️ 4.5MB/s-0%-Netflix
-3.255.250.127:23456#IE_1 - ⬇️ 4.6MB/s-29%-Netflix-Youtube-Openai
-163.61.206.64:443#JP_2 - ⬇️ 6.8MB/s-0%-Netflix-Disney-Youtube-Openai
+103.36.91.32:8388#HK_1 - ⬇️ 9.3MB/s-0%-Netflix-Disney-Youtube-Gemini

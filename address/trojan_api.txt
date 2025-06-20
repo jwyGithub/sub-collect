@@ -1,37 +1,26 @@
-8.210.107.246:2096#HK
-131.186.17.132:443#KR
-168.138.184.172:443#SG
-130.61.51.100:8443#DE
-146.56.179.198:443#KR
-141.148.234.103:443#NL
-18.167.194.154:443#HK
+144.22.252.124:443#BR
 138.3.240.63:443#DE
-129.151.198.3:8443#SE
-130.61.124.127:443#DE
-8.217.90.154:443#HK
-198.41.221.5:443#AE_1 - ⬇️ 5.9MB/s-Netflix-Disney-Openai
-198.41.220.97:443#AE_2 - ⬇️ 11.3MB/s-Netflix-Disney-Youtube
-198.41.221.154:443#DE_12 - ⬇️ 5.1MB/s-Netflix-Disney-Youtube
-198.41.221.173:443#DE_14 - ⬇️ 4.8MB/s-Netflix-Disney
-198.41.221.16:443#DE_6 - ⬇️ 5.3MB/s-Disney-Openai
-198.41.221.6:443#FI_4 - ⬇️ 4.1MB/s-Netflix-Disney-Youtube-Openai
-198.41.221.11:443#FI_5 - ⬇️ 12.0MB/s-Netflix-Disney-Youtube-Openai
-198.41.221.32:443#FI_8 - ⬇️ 4.5MB/s-Netflix-Disney-Youtube
-www.digitalocean.com:443#KR_12 - ⬇️ 5.7MB/s-Netflix-Disney-Openai
-198.41.221.175:443#KR_2 - ⬇️ 6.7MB/s-Netflix-Disney
-198.41.221.3:443#US_13 - ⬇️ 11.1MB/s-Netflix-Disney-Youtube-Openai
-198.41.221.14:443#US_14 - ⬇️ 7.9MB/s-Netflix-Disney-Youtube-Openai
-198.41.221.13:443#US_16 - ⬇️ 12.6MB/s-Netflix-Disney-Youtube
-172.67.149.202:443#US_18 - ⬇️ 5.6MB/s-Netflix-Openai
-172.67.191.174:443#US_20 - ⬇️ 4.5MB/s-Netflix-Openai
-104.21.30.37:443#US_24 - ⬇️ 8.2MB/s-28%-Netflix-Openai-Gemini
-ddd4.2030.pp.ua:443#US_29 - ⬇️ 6.1MB/s-50%-Netflix-Disney-Openai
-172.67.201.36:443#US_31 - ⬇️ 7.4MB/s-Netflix-Openai
-198.41.221.62:443#US_32 - ⬇️ 5.0MB/s-Netflix-Disney-Youtube
-198.41.221.70:443#US_33 - ⬇️ 4.4MB/s-Netflix-Disney
-104.21.6.179:443#US_34 - ⬇️ 5.3MB/s-28%-Netflix-Openai
-172.67.177.109:443#US_35 - ⬇️ 6.0MB/s-28%-Netflix-Openai
-ert5.0890604.xyz:443#US_37 - ⬇️ 8.7MB/s-31%-Netflix-Openai
-198.41.221.86:443#❓Other_39 - ⬇️ 4.5MB/s-Netflix-Disney-Youtube
-198.41.221.84:443#❓Other_40 - ⬇️ 5.3MB/s-Netflix-Disney-Youtube
-198.41.220.77:443#❓Other_42 - ⬇️ 7.8MB/s-Netflix-Disney-Youtube
+152.70.155.147:2096#US
+150.230.159.76:443#DE
+140.238.58.181:2053#JP
+47.243.234.9:8443#HK
+168.138.177.109:443#SG
+132.145.232.171:443#DE
+47.242.57.106:443#HK
+168.138.184.172:443#SG
+47.57.13.107:443#HK
+162.159.153.217:443#CT
+162.159.153.72:443#CT
+162.159.153.209:443#CT
+162.159.152.53:443#CT
+104.18.147.201:443#CMCC
+104.16.242.72:443#CMCC
+104.17.102.95:443#CMCC
+104.18.93.7:443#CMCC
+104.16.246.173:443#CMCC
+104.19.145.14:443#CMCC
+[2606:4700:3036::ce:d6ea]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:e1ed:ae00:3c36:e683]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:e1ed:36:8916:dace]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:e1ed:36:7204:2031]:443#CMCC-IPV6
