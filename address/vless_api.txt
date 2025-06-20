@@ -1,17 +1,17 @@
-152.70.253.44:443#KR
-141.147.185.63:443#JP
-130.162.129.97:443#KR
-47.243.5.154:8443#HK
-141.148.232.57:443#NL
-131.186.17.132:443#KR
-146.56.179.198:443#KR
-141.147.114.60:443#GB
-130.61.107.238:8443#DE
+152.67.203.34:443#KR
+141.147.85.167:8443#GB
+168.138.184.172:443#SG
 18.167.194.154:443#HK
-8.210.174.156:2087#HK
 47.242.171.94:2087#HK
-132.145.81.117:443#KR
-168.138.50.249:443#JP
+8.210.174.156:2096#HK
+8.210.174.156:2087#HK
+8.210.174.156:2083#HK
+131.186.17.132:443#KR
+138.3.240.63:443#DE
+144.24.90.101:443#KR
+141.148.232.204:443#NL
+168.138.46.67:443#JP
+47.243.5.154:2053#HK
 121.80.244.179:11084#JP
 122.210.19.25:12340#JP
 45.154.98.100:5010#NL
@@ -26,48 +26,112 @@
 45.145.42.229:4002#US
 129.159.143.171:8443#IL
 129.213.136.180:443#US
+132.145.81.117:443#KR
 140.238.158.238:443#CA
 140.238.201.118:443#AU
 152.67.190.105:443#IN
 210.61.97.241:81#TW
-162.159.153.42:443#CT
-162.159.153.170:443#CT
+162.159.153.184:443#CT
+162.159.153.209:443#CT
+162.159.152.81:443#CT
+162.159.153.144:443#CT
 162.159.153.212:443#CT
-162.159.153.239:443#CT
-162.159.152.225:443#CT
-162.159.152.205:443#CT
-104.19.150.163:443#CMCC
-104.18.85.29:443#CMCC
-104.19.144.212:443#CMCC
+162.159.153.42:443#CT
+104.17.219.208:443#CMCC
+104.16.249.115:443#CMCC
+198.41.208.23:443#CMCC
 104.18.83.92:443#CMCC
-104.19.150.28:443#CMCC
-104.19.148.108:443#CMCC
-[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]:443#CMCC-IPV6
-[2606:4700:3036:0:a36a:4af2:65e7:a0d6]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:ffdf:15bf:7d77:5f52]:443#CMCC-IPV6
-[2606:4700:3036:ef:db9e:eecc:caef:9d4a]:443#CMCC-IPV6
+104.17.210.171:443#CMCC
+104.17.223.37:443#CMCC
+[2606:4700:3036::ce:d6ea]:443#CMCC-IPV6
 [2606:4700:3036:ef:92f:be51:8695:9fc5]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:260:e3e9:a48c:8437]:443#CMCC-IPV6
-104.26.6.214:443#DE_1 - ⬇️ 4.3MB/s-Netflix-Disney-Youtube-Openai
-104.24.60.135:80#DE_2 - ⬇️ 6.3MB/s-Netflix-Disney-Youtube-Openai
-172.67.10.124:80#DE_3 - ⬇️ 5.1MB/s-Netflix-Disney-Youtube-Openai
-104.16.108.43:80#DE_4 - ⬇️ 4.6MB/s-Netflix-Disney-Youtube-Openai
-104.18.34.83:443#DE_5 - ⬇️ 5.1MB/s-27%-Netflix-Openai
-14.102.228.247:8880#JP_2 - ⬇️ 6.3MB/s-Netflix-Disney-Openai
-23.227.39.247:8880#JP_3 - ⬇️ 4.5MB/s-Netflix-Disney-Openai
-25.129.196.247:8880#JP_4 - ⬇️ 7.4MB/s-Netflix-Disney-Openai
-173.245.59.247:8880#JP_5 - ⬇️ 6.6MB/s-Netflix-Disney-Openai-Gemini
-185.193.31.247:8880#JP_6 - ⬇️ 4.7MB/s-Disney-Openai
-kyree.ns.cloudflare.com:443#KR_1 - ⬇️ 5.2MB/s-Netflix
-69.84.182.12:443#KR_2 - ⬇️ 4.3MB/s-Netflix-Disney
-152.67.125.174:443#KR_3 - ⬇️ 4.0MB/s-Netflix-Disney-Youtube
-141.101.121.108:8080#NL_2 - ⬇️ 5.5MB/s-Netflix-Disney-Openai
-172.66.138.81:80#US_2 - ⬇️ 5.5MB/s-Netflix-Disney-Youtube-Openai
-104.17.220.188:80#US_4 - ⬇️ 5.3MB/s-Netflix-Disney-Openai
-172.66.138.99:80#US_5 - ⬇️ 4.6MB/s-Netflix-Disney-Youtube-Openai
-104.21.69.44:8443#US_6 - ⬇️ 4.1MB/s-17%-Netflix-Openai
-172.66.139.172:80#US_7 - ⬇️ 4.1MB/s-Netflix-Disney-Openai
-172.66.135.5:80#US_8 - ⬇️ 4.3MB/s-Netflix-Disney-Youtube-Openai
-172.67.177.223:80#US_9 - ⬇️ 4.2MB/s-Netflix-Disney-Openai
-104.26.9.239:80#❓Other_1 - ⬇️ 4.2MB/s-Netflix-Disney-Youtube
-104.17.147.22:80#❓Other_2 - ⬇️ 5.7MB/s-Netflix-Disney
+[2606:4700:3036:6ed4:ff6e:712c:4953:87a5]:443#CMCC-IPV6
+[2606:4700:3036:ef:95e:7a29:2ccc:d331]:443#CMCC-IPV6
+[2606:4700:3036:0:a36a:4a94:8d40:c92c]:443#CMCC-IPV6
+[2606:4700:3036:ef:db9e:ee41:a8df:d3b2]:443#CMCC-IPV6
+172.67.11.138:80#AE_1 - ⬇️ 5.9MB/s-Netflix-Disney-Youtube-Openai
+151.101.130.219:80#DE_1 - ⬇️ 4.9MB/s-17%-Netflix-Openai
+172.67.138.171:2087#DE_10 - ⬇️ 5.6MB/s-22%-Netflix-Openai
+172.66.177.129:80#DE_11 - ⬇️ 7.1MB/s-Netflix-Disney-Youtube-Openai
+104.18.41.9:443#DE_12 - ⬇️ 7.9MB/s-17%-Netflix-Openai
+104.26.14.85:8080#DE_13 - ⬇️ 6.5MB/s-44%-Netflix-Youtube-Openai
+104.18.34.83:2087#DE_2 - ⬇️ 5.8MB/s-22%-Netflix-Openai
+104.18.30.65:80#DE_3 - ⬇️ 5.6MB/s-Netflix-Disney-Youtube-Openai
+zula.ir:8443#DE_4 - ⬇️ 5.9MB/s-27%-Netflix-Youtube-Openai
+104.17.104.45:80#DE_5 - ⬇️ 4.3MB/s-Netflix-Disney-Openai
+172.67.180.238:8880#DE_6 - ⬇️ 6.3MB/s-Netflix-Disney-Youtube-Openai
+104.21.4.209:443#DE_8 - ⬇️ 6.3MB/s-Netflix-Disney-Openai
+172.67.204.84:443#EE_1 - ⬇️ 6.2MB/s-Netflix-Disney-Openai
+172.67.175.148:8443#EE_2 - ⬇️ 5.4MB/s-Netflix-Disney-Youtube-Openai
+104.16.108.43:80#FI_1 - ⬇️ 5.4MB/s-Netflix-Disney-Youtube-Openai
+172.67.212.233:80#FI_2 - ⬇️ 4.1MB/s-Netflix-Disney-Youtube-Openai
+104.24.247.217:80#FI_3 - ⬇️ 5.9MB/s-Netflix-Disney-Openai
+104.18.209.108:80#FI_4 - ⬇️ 5.8MB/s-Netflix-Disney-Openai
+172.67.131.226:443#FI_5 - ⬇️ 7.0MB/s-17%-Netflix-Openai
+104.21.4.90:443#FI_6 - ⬇️ 5.1MB/s-17%-Netflix-Openai
+172.67.68.240:443#IT_1 - ⬇️ 4.8MB/s-Netflix-Disney-Youtube-Openai
+45.142.255.247:8880#JP_1 - ⬇️ 4.3MB/s-Netflix-Disney-Openai
+27.50.48.247:8880#JP_10 - ⬇️ 8.6MB/s-Netflix-Disney-Openai
+88.216.69.247:8880#JP_12 - ⬇️ 8.7MB/s-Netflix-Disney-Openai
+91.124.127.247:8880#JP_13 - ⬇️ 9.0MB/s-Netflix-Disney-Openai
+108.162.195.247:8880#JP_14 - ⬇️ 7.0MB/s-Netflix-Disney-Openai
+141.193.27.247:8880#JP_15 - ⬇️ 6.2MB/s-Netflix-Disney-Youtube-Openai
+154.197.121.247:8880#JP_16 - ⬇️ 9.1MB/s-Netflix-Disney-Openai
+154.211.8.247:8880#JP_17 - ⬇️ 6.3MB/s-Netflix-Disney-Openai
+159.242.242.247:8880#JP_18 - ⬇️ 5.5MB/s-Netflix-Disney-Openai
+162.120.94.247:8880#JP_19 - ⬇️ 6.1MB/s-Netflix-Disney-Openai
+185.135.9.247:8880#JP_2 - ⬇️ 6.8MB/s-Netflix-Disney-Openai
+160.153.1.247:8880#JP_20 - ⬇️ 5.3MB/s-Netflix-Disney-Youtube-Openai
+160.153.137.247:8880#JP_21 - ⬇️ 5.5MB/s-Netflix-Disney-Youtube-Openai
+193.124.224.247:8880#JP_23 - ⬇️ 7.3MB/s-Netflix-Disney-Openai
+198.202.211.247:8880#JP_24 - ⬇️ 7.0MB/s-Netflix-Disney-Openai
+199.34.228.247:8880#JP_25 - ⬇️ 9.2MB/s-Netflix-Disney-Openai
+199.34.230.247:8880#JP_26 - ⬇️ 5.4MB/s-Netflix-Disney-Youtube-Openai
+209.94.90.247:8880#JP_27 - ⬇️ 7.1MB/s-Netflix-Disney-Youtube-Openai
+216.205.52.247:8880#JP_28 - ⬇️ 8.8MB/s-Netflix-Disney-Openai
+185.170.166.247:8880#JP_3 - ⬇️ 5.1MB/s-Netflix-Disney-Openai
+141.193.213.247:8880#JP_4 - ⬇️ 5.4MB/s-Netflix-Disney-Youtube-Openai
+185.16.110.247:8880#JP_5 - ⬇️ 5.0MB/s-Netflix-Disney-Youtube-Openai
+199.34.229.247:8880#JP_6 - ⬇️ 4.9MB/s-Netflix-Disney-Openai
+14.102.229.247:8880#JP_7 - ⬇️ 5.7MB/s-Netflix-Disney-Openai
+25.25.25.247:8880#JP_8 - ⬇️ 4.2MB/s-Netflix-Disney-Openai
+23.227.38.247:8880#JP_9 - ⬇️ 5.1MB/s-Netflix-Disney-Openai
+node.vauth.workers.dev:2095#KR_1 - ⬇️ 7.1MB/s-Netflix-Disney-Youtube-Gemini
+node.vauth.workers.dev:2086#KR_2 - ⬇️ 4.1MB/s-Netflix-Disney-Gemini
+node.vauth.workers.dev:8080#KR_3 - ⬇️ 6.5MB/s-Netflix-Disney-Youtube
+172.66.141.21:80#KR_4 - ⬇️ 7.6MB/s-Netflix-Disney-Openai
+172.67.53.233:80#KR_5 - ⬇️ 4.3MB/s-Netflix-Disney-Youtube-Openai
+104.21.81.174:80#KR_6 - ⬇️ 7.0MB/s-Disney
+104.16.103.250:80#NL_2 - ⬇️ 4.9MB/s-Netflix-Openai
+tgju.org:80#NL_3 - ⬇️ 4.4MB/s-17%
+141.101.121.243:8080#NL_4 - ⬇️ 5.5MB/s-Openai
+172.67.9.145:80#NL_5 - ⬇️ 4.9MB/s-Netflix-Disney-Youtube-Openai
+43.160.193.138:34045#SG_1 - ⬇️ 5.3MB/s-50%-Netflix-Youtube-Openai-Gemini
+172.67.218.90:80#SG_2 - ⬇️ 7.1MB/s-Netflix-Disney-Youtube
+162.159.36.102:443#US_11 - ⬇️ 6.2MB/s-Netflix-Disney-Openai
+172.67.14.59:80#US_12 - ⬇️ 5.5MB/s-Netflix-Disney-Youtube-Openai
+oracle2.188122.xyz:28429#US_13 - ⬇️ 4.2MB/s-46%-Netflix-Openai-Gemini
+144.202.114.28:34045#US_14 - ⬇️ 6.4MB/s-37%-Netflix-Openai
+172.67.130.204:443#US_16 - ⬇️ 6.2MB/s-31%-Netflix-Openai
+172.66.138.99:80#US_17 - ⬇️ 4.1MB/s-Netflix-Disney-Youtube-Openai
+104.16.109.134:80#US_21 - ⬇️ 4.6MB/s-Netflix-Disney-Youtube-Openai
+172.67.33.67:80#US_22 - ⬇️ 4.1MB/s-Netflix-Disney-Youtube-Openai
+104.24.31.150:80#US_23 - ⬇️ 9.4MB/s-Netflix-Disney-Openai
+172.66.128.138:80#US_24 - ⬇️ 8.4MB/s-Netflix-Disney-Openai
+104.16.181.110:80#US_25 - ⬇️ 5.1MB/s-Netflix-Disney-Openai
+183.106.76.116:12340#US_26 - ⬇️ 4.5MB/s-Netflix-Disney-Youtube-Openai-Gemini
+152.67.251.232:443#US_27 - ⬇️ 4.9MB/s-Netflix-Disney-Openai
+104.16.132.56:443#US_28 - ⬇️ 5.2MB/s-Netflix-Disney-Youtube-Openai
+212.183.88.193:443#US_32 - ⬇️ 5.0MB/s-Netflix-Disney-Youtube-Openai
+162.159.153.170:443#US_35 - ⬇️ 13.6MB/s-Netflix-Disney-Youtube-Openai
+104.24.210.72:443#US_36 - ⬇️ 7.0MB/s-Netflix-Disney-Youtube-Openai
+63.141.128.163:443#US_38 - ⬇️ 6.3MB/s-Netflix-Disney-Youtube-Openai
+104.24.56.187:80#US_5 - ⬇️ 4.8MB/s-Netflix-Disney-Youtube-Openai
+104.16.100.188:80#US_6 - ⬇️ 5.0MB/s-Netflix-Disney-Youtube-Openai
+www.gov.se:443#US_9 - ⬇️ 4.0MB/s-Netflix-Disney-Openai
+172.64.155.187:2082#❓Other_1 - ⬇️ 4.3MB/s-Netflix-Disney-Youtube
+104.18.32.69:8880#❓Other_2 - ⬇️ 4.6MB/s-Netflix-Disney
+172.67.135.195:2052#❓Other_3 - ⬇️ 5.1MB/s-Netflix-Disney-Youtube
+173.245.49.116:80#❓Other_4 - ⬇️ 6.8MB/s-Netflix-Disney
+172.67.128.244:2082#❓Other_5 - ⬇️ 5.4MB/s-Netflix-Disney-Youtube
+104.25.32.118:2083#❓Other_6 - ⬇️ 7.5MB/s-Netflix-Disney-Youtube

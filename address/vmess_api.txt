@@ -1,3 +1,2 @@
-aflzzul.meiquankongjian.com:52512#JP_4 - ⬇️ 23.5MB/s-0%-Disney-Youtube-Openai-Gemini
-198.41.209.45:80#SG_39 - ⬇️ 4.4MB/s-Netflix-Youtube-Openai-Gemini
-xxxcvfgt6.huangshang.dpdns.org:443#US_12 - ⬇️ 4.6MB/s-28%-Netflix-Openai-Gemini
+xxxcvfgt6.huangshang.dpdns.org:443#US_2 - ⬇️ 5.8MB/s-28%-Netflix-Openai-Gemini
+ip.sb:443#US_4 - ⬇️ 6.1MB/s-37%-Netflix-Openai-Gemini
