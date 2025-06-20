@@ -1,2 +1,1 @@
-xxxcvfgt6.huangshang.dpdns.org:443#US_2 - ⬇️ 5.8MB/s-28%-Netflix-Openai-Gemini
-ip.sb:443#US_4 - ⬇️ 6.1MB/s-37%-Netflix-Openai-Gemini
+43b5a616-sw04g0-swasv3-luwe.hgc1.tcpbbr.net:8080#HK_1 - ⬇️ 4.2MB/s-2%-Disney-Youtube-Openai
