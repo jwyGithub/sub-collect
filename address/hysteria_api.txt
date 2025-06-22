@@ -1,2 +1,2 @@
 176.32.35.226:62003#RU_1 - ⬇️ 4.5MB/s-0%-Youtube
-74.48.18.240:27564#US_7 - ⬇️ 4.6MB/s-17%-Netflix-Disney-Openai-Gemini
+74.48.18.240:27564#US_1 - ⬇️ 4.7MB/s-17%-Netflix-Disney-Openai-Gemini
