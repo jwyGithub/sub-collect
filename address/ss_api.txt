@@ -1,2 +1,1 @@
-185.213.23.226:989#NO_1 - ⬇️ 5.3MB/s-Netflix-Openai
-103.186.155.21:38388#VN_1 - ⬇️ 4.2MB/s-0%-Netflix-Openai
+103.36.91.32:8388#HK_1 - ⬇️ 10.3MB/s-Netflix-Disney-Youtube-Gemini
