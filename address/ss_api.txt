@@ -1,2 +1,4 @@
-163.61.206.64:443#JP_1 - ⬇️ 5.4MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
-104.192.226.106:989#US_1 - ⬇️ 4.8MB/s-0%-Netflix-Openai
+57.128.190.238:18992#GB_2 - ⬇️ 4.1MB/s-80%-Netflix-Youtube-Openai
+185.153.197.5:989#MD_1 - ⬇️ 4.8MB/s-Netflix-Openai-Gemini
+51.15.17.169:989#NL_7 - ⬇️ 6.2MB/s-15%-Netflix-Youtube-Openai
+104.192.226.106:989#US_14 - ⬇️ 9.5MB/s-0%-Netflix-Openai
