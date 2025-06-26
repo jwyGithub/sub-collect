@@ -1,1 +1,1 @@
-ssca.irundns.net:443#加拿大3 - ⬇️ 9.2MB/s-39%-Netflix-Youtube-Openai
+104.192.226.106:989#US_9 - ⬇️ 8.8MB/s-Netflix-Openai
