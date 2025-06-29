@@ -1,3 +1,2 @@
-195.154.200.40:15010#FR_2 - ⬇️ 6.2MB/s-25%-Netflix-Youtube-Openai
-51.159.226.1:14241#NL_1 - ⬇️ 4.9MB/s-16%-Netflix-Youtube-Openai
-176.32.35.226:62003#RU_1 - ⬇️ 4.5MB/s-0%-Youtube
+51.159.226.1:14241#NL_1 - ⬇️ 9.8MB/s-16%-Netflix-Youtube-Openai
+176.32.35.226:62003#RU_1 - ⬇️ 4.4MB/s-0%-Youtube
