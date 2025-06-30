@@ -1,1 +1,5 @@
-43.202.58.164:443#KR_1 - ⬇️ 4.6MB/s-Netflix-Youtube-Openai
+52.194.252.154:443#JP_2 - ⬇️ 4.8MB/s-28%-Youtube-Openai
+222.112.15.140:56780#KR_1 - ⬇️ 4.8MB/s-30%-Netflix-Disney-Openai
+13.250.20.204:443#SG_1 - ⬇️ 13.6MB/s-Netflix-Openai
+52.221.255.116:443#SG_2 - ⬇️ 4.3MB/s-29%-Netflix-Youtube-Openai-Gemini
+43.203.255.63:443#❓Other_1 - ⬇️ 5.9MB/s-Netflix-Youtube-Openai
