@@ -1,1 +1,2 @@
-103.36.91.32:8388#HK_1 - ⬇️ 5.8MB/s-0%-Netflix-Disney-Youtube-Gemini
+3.35.170.238:443#KR_1 - ⬇️ 4.8MB/s-29%-Netflix-Openai
+43.203.122.135:443#❓Other_1 - ⬇️ 4.2MB/s-Netflix-Youtube-Openai-Gemini

@@ -1,4 +1,2 @@
-51.159.226.1:50066#NL_2 - ⬇️ 4.2MB/s-16%-Netflix-Youtube-Openai
-45.129.2.248:23579#RU_2 - ⬇️ 4.1MB/s-0%
-209.141.47.127:3234#US_1 - ⬇️ 8.1MB/s-24%-Netflix-Openai-Gemini
-aus.pagate.top:10086#US_2 - ⬇️ 4.9MB/s-32%-Netflix-Openai-Gemini
+51.159.226.1:50066#NL_2 - ⬇️ 4.0MB/s-Netflix-Youtube-Openai
+209.141.47.127:3234#US_1 - ⬇️ 9.5MB/s-Netflix-Openai-Gemini
