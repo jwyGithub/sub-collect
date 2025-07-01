@@ -1,4 +1,3 @@
-141.193.213.199:2086#GB_1 - ⬇️ 5.6MB/s-28%-Netflix-Openai
-57.128.219.94:2083#PL_1 - ⬇️ 4.1MB/s-19%-Netflix-Youtube-Openai
-cf.fovi.tk:443#US_15 - ⬇️ 7.2MB/s-6%-Netflix-Disney-Openai-Gemini
-a.1314lovelydog.top:443#US_7 - ⬇️ 4.2MB/s-38%-Netflix-Disney-Openai-Gemini
+cloudgetservice.mcloudservice.site:443#CA_1 - ⬇️ 5.4MB/s-20%-Netflix-Youtube-Openai
+74.220.16.173:8080#GB_3 - ⬇️ 4.0MB/s-0%-Netflix-Disney-Openai
+172.67.131.76:80#US_8 - ⬇️ 5.4MB/s-Netflix-Openai
