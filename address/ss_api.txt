@@ -1,2 +1,2 @@
-85.210.120.237:443#GB_1 - ⬇️ 4.2MB/s-25%-Netflix-Youtube-Openai
-43.226.17.8:636#KR_1 - ⬇️ 4.3MB/s-0%-Netflix-Disney
+185.231.233.112:989#PT_1 - ⬇️ 4.2MB/s-0%-Disney-Openai
+18.143.181.137:443#❓Other_3 - ⬇️ 16.6MB/s-Netflix-Youtube-Openai

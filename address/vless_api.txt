@@ -1,19 +1,18 @@
-47.243.139.85:2096#HK
-16.162.10.198:443#HK
-8.217.232.246:2083#HK
+140.238.201.118:443#AU
+8.217.159.210:2087#HK
+47.243.234.9:8443#HK
 8.217.232.246:2096#HK
-47.243.5.154:2053#HK
-47.243.5.154:2087#HK
-47.243.5.154:8443#HK
-8.210.174.156:2053#HK
 8.210.174.156:2096#HK
-47.242.57.106:443#HK
-168.138.13.201:443#AU
-141.144.253.109:443#DE
-158.180.82.186:443#KR
-43.154.96.33:443#HK
-8.218.22.210:8443#HK
+8.210.174.156:2087#HK
+47.243.5.154:2087#HK
+152.67.190.105:443#IN
+8.210.107.246:2096#HK
+192.9.250.241:443#US
+47.243.139.85:2053#HK
 129.213.130.70:443#US
+47.242.57.106:443#HK
+131.186.17.132:443#KR
+16.163.18.210:443#HK
 121.83.127.91:12442#JP
 202.84.53.85:12145#JP
 45.120.216.165:20000#HK
@@ -31,91 +30,148 @@
 129.159.143.171:8443#IL
 129.213.136.180:443#US
 132.145.81.117:443#KR
-140.238.201.118:443#AU
 140.238.212.95:443#CH
 144.24.73.232:443#KR
-152.67.190.105:443#IN
+168.138.13.201:443#AU
 192.18.134.22:443#US
 192.9.180.162:443#AU
 210.61.97.241:81#TW
-162.159.153.212:443#CT
+162.159.153.209:443#CT
+162.159.152.81:443#CT
+162.159.153.216:443#CT
+162.159.153.72:443#CT
 162.159.152.205:443#CT
-162.159.153.156:443#CT
-162.159.153.144:443#CT
-162.159.153.170:443#CT
-162.159.152.69:443#CT
-104.18.83.92:443#CMCC
-104.19.150.163:443#CMCC
-104.19.144.212:443#CMCC
-104.18.86.131:443#CMCC
-104.18.82.55:443#CMCC
-104.18.94.107:443#CMCC
-[2606:4700:3036:6ed4:e1ed:36:8916:dace]:443#CMCC-IPV6
-[2606:4700:3036:0:a36a:4a23:4a60:9f3f]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:ffdf:15bf:7d77:5f52]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:e1ed:ae00:3c36:e683]:443#CMCC-IPV6
-[2606:4700:3036:ef:95e:7a29:2ccc:d331]:443#CMCC-IPV6
+162.159.153.184:443#CT
+104.18.80.243:443#CMCC
+104.19.150.28:443#CMCC
+104.18.93.7:443#CMCC
+104.16.246.132:443#CMCC
+104.17.101.175:443#CMCC
+104.16.242.72:443#CMCC
+[2606:4700:3036:0:a36a:4af2:65e7:a0d6]:443#CMCC-IPV6
 [2606:4700:3036:6ed4:260:e3e9:a48c:8437]:443#CMCC-IPV6
-91.193.58.2:8880#SG_1 - ⬇️ 4.3MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.158:8880#SG_10 - ⬇️ 5.2MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.179:8880#SG_11 - ⬇️ 4.4MB/s-0%-Netflix-Youtube-Openai
-91.193.58.174:8880#SG_12 - ⬇️ 4.9MB/s-0%-Netflix-Youtube-Openai
-91.193.58.209:8880#SG_13 - ⬇️ 5.8MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.187:8880#SG_14 - ⬇️ 8.1MB/s-Netflix-Disney-Youtube-Openai
-91.193.58.189:8880#SG_15 - ⬇️ 6.4MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.221:8880#SG_16 - ⬇️ 4.2MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.101:8880#SG_17 - ⬇️ 4.3MB/s-Netflix-Disney-Openai
-91.193.58.254:8880#SG_18 - ⬇️ 5.1MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.177:8880#SG_19 - ⬇️ 4.3MB/s-Netflix-Disney-Openai
-91.193.58.15:8880#SG_2 - ⬇️ 5.0MB/s-0%-Netflix-Disney-Openai
-91.193.58.3:8880#SG_20 - ⬇️ 5.5MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.0:8880#SG_21 - ⬇️ 5.2MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.30:8880#SG_22 - ⬇️ 6.0MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.18:8880#SG_23 - ⬇️ 4.6MB/s-0%-Netflix-Disney-Openai
-91.193.58.35:8880#SG_24 - ⬇️ 7.9MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.51:8880#SG_25 - ⬇️ 6.9MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.61:8880#SG_26 - ⬇️ 5.3MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.77:8880#SG_27 - ⬇️ 4.4MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.68:8880#SG_28 - ⬇️ 4.0MB/s-0%-Netflix-Disney-Openai
-91.193.58.83:8880#SG_29 - ⬇️ 4.8MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.60:8880#SG_3 - ⬇️ 6.7MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.85:8880#SG_30 - ⬇️ 5.1MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.94:8880#SG_31 - ⬇️ 4.8MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.95:8880#SG_32 - ⬇️ 4.5MB/s-Netflix-Disney-Youtube-Openai
-91.193.58.99:8880#SG_33 - ⬇️ 4.6MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.100:8880#SG_34 - ⬇️ 4.1MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.102:8880#SG_35 - ⬇️ 5.0MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.105:8880#SG_36 - ⬇️ 4.2MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.109:8880#SG_37 - ⬇️ 5.0MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.123:8880#SG_38 - ⬇️ 6.8MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.128:8880#SG_39 - ⬇️ 4.3MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.118:8880#SG_4 - ⬇️ 5.3MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.134:8880#SG_40 - ⬇️ 4.2MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.137:8880#SG_41 - ⬇️ 4.9MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.138:8880#SG_42 - ⬇️ 6.7MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.145:8880#SG_43 - ⬇️ 6.0MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.148:8880#SG_44 - ⬇️ 5.6MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.154:8880#SG_45 - ⬇️ 4.6MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.159:8880#SG_46 - ⬇️ 4.2MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.163:8880#SG_47 - ⬇️ 4.1MB/s-0%-Netflix-Youtube-Openai
-91.193.58.167:8880#SG_48 - ⬇️ 6.3MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.188:8880#SG_49 - ⬇️ 4.0MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.92:8880#SG_5 - ⬇️ 4.6MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.183:8880#SG_50 - ⬇️ 8.9MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.190:8880#SG_51 - ⬇️ 5.8MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.196:8880#SG_52 - ⬇️ 5.2MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.165:8880#SG_53 - ⬇️ 5.6MB/s-0%-Netflix-Disney-Openai
-91.193.58.210:8880#SG_54 - ⬇️ 6.2MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.211:8880#SG_55 - ⬇️ 8.6MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.216:8880#SG_56 - ⬇️ 5.2MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.212:8880#SG_57 - ⬇️ 4.1MB/s-0%-Netflix-Disney-Openai
-91.193.58.233:8880#SG_58 - ⬇️ 4.1MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.247:8880#SG_59 - ⬇️ 4.8MB/s-0%-Netflix-Disney-Openai
-91.193.58.81:8880#SG_6 - ⬇️ 4.8MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.253:8880#SG_60 - ⬇️ 5.3MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.84:8880#SG_7 - ⬇️ 6.1MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.106:8880#SG_8 - ⬇️ 4.9MB/s-0%-Netflix-Disney-Youtube-Openai
-91.193.58.80:8880#SG_9 - ⬇️ 5.7MB/s-0%-Netflix-Disney-Youtube-Openai
-135.84.76.152:2087#US_1 - ⬇️ 4.7MB/s-Netflix-Disney-Openai
-104.21.68.56:2096#❓Other_1 - ⬇️ 4.0MB/s-Netflix-Disney
-172.67.188.18:80#❓Other_2 - ⬇️ 4.9MB/s-Netflix
+[2606:4700:3036:ef:95e:7a29:2ccc:d331]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:e1ed:ae00:3c36:e683]:443#CMCC-IPV6
+[2606:4700:3036:0:a36a:3160:b566:8741]:443#CMCC-IPV6
+[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]:443#CMCC-IPV6
+5.10.214.20:8880#AU_1 - ⬇️ 4.4MB/s-Netflix-Disney
+104.26.14.85:8080#DE_1 - ⬇️ 5.9MB/s-42%-Netflix-Youtube-Openai
+104.18.41.9:443#DE_2 - ⬇️ 4.4MB/s-17%-Netflix-Openai
+104.21.96.1:443#DE_3 - ⬇️ 4.6MB/s-0%-Netflix-Disney-Youtube-Openai
+172.67.138.171:443#DE_4 - ⬇️ 4.6MB/s-17%-Netflix
+104.18.34.83:443#DE_5 - ⬇️ 4.5MB/s-17%-Netflix
+104.21.70.184:443#DE_6 - ⬇️ 5.3MB/s-17%-Netflix
+172.67.131.226:443#FI_1 - ⬇️ 6.3MB/s-17%-Netflix-Openai
+104.21.4.90:443#FI_2 - ⬇️ 7.0MB/s-17%-Netflix-Openai
+cdnjs.com:443#FR_3 - ⬇️ 6.7MB/s-0%-Netflix-Disney-Youtube-Openai
+104.21.112.1:443#GB_1 - ⬇️ 5.3MB/s-0%-Netflix-Disney-Youtube-Openai
+188.114.96.1:2086#GB_2 - ⬇️ 5.4MB/s
+141.101.121.243:8080#NL_2 - ⬇️ 5.1MB/s-Netflix-Disney-Openai
+172.67.146.203:2087#NL_3 - ⬇️ 6.4MB/s-24%-Netflix-Disney-Youtube-Openai
+172.67.73.163:8080#NL_4 - ⬇️ 6.7MB/s-Openai
+162.159.6.6:443#NL_5 - ⬇️ 6.6MB/s-12%-Netflix-Disney-Openai
+141.101.120.38:8080#NL_6 - ⬇️ 9.4MB/s-0%-Netflix-Disney-Openai
+104.26.15.85:8080#NL_7 - ⬇️ 4.9MB/s-15%-Youtube-Openai
+91.193.58.74:8880#SG_1 - ⬇️ 5.1MB/s-0%-Netflix-Disney-Openai
+91.193.58.75:8880#SG_10 - ⬇️ 4.1MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.36:8880#SG_11 - ⬇️ 4.7MB/s-0%-Netflix-Openai
+91.193.58.94:8880#SG_12 - ⬇️ 4.4MB/s-Netflix-Disney-Youtube-Openai
+91.193.58.120:8880#SG_13 - ⬇️ 8.2MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.72:8880#SG_14 - ⬇️ 6.7MB/s-0%-Netflix-Disney-Openai
+91.193.58.122:8880#SG_15 - ⬇️ 4.1MB/s-Netflix-Disney-Youtube-Openai
+91.193.58.109:8880#SG_16 - ⬇️ 7.2MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.90:8880#SG_17 - ⬇️ 9.0MB/s-0%-Netflix-Disney-Openai
+91.193.58.101:8880#SG_18 - ⬇️ 8.3MB/s-0%-Netflix-Disney-Openai
+91.193.58.125:8880#SG_19 - ⬇️ 5.0MB/s-0%-Netflix-Disney-Openai
+91.193.58.204:8880#SG_2 - ⬇️ 6.1MB/s-0%-Netflix-Disney-Openai
+91.193.58.107:8880#SG_20 - ⬇️ 10.4MB/s-0%-Netflix-Disney
+91.193.58.133:8880#SG_21 - ⬇️ 7.4MB/s-0%-Netflix-Disney-Openai
+91.193.58.111:8880#SG_22 - ⬇️ 4.3MB/s-0%-Netflix-Disney-Openai
+91.193.58.166:8880#SG_23 - ⬇️ 6.0MB/s-0%-Netflix-Disney-Openai
+91.193.58.161:8880#SG_24 - ⬇️ 7.7MB/s-0%-Netflix-Disney-Openai
+91.193.58.147:8880#SG_25 - ⬇️ 4.4MB/s-0%-Netflix-Disney-Openai
+91.193.58.212:8880#SG_26 - ⬇️ 5.7MB/s-Netflix-Disney-Openai
+91.193.58.214:8880#SG_27 - ⬇️ 5.1MB/s-0%-Netflix-Disney-Openai
+91.193.58.227:8880#SG_28 - ⬇️ 7.8MB/s-0%-Netflix-Disney-Openai
+91.193.58.219:8880#SG_29 - ⬇️ 5.7MB/s-0%-Netflix-Disney-Openai
+91.193.58.113:8880#SG_3 - ⬇️ 5.0MB/s-0%-Netflix-Disney-Openai
+91.193.58.237:8880#SG_30 - ⬇️ 5.6MB/s-0%-Netflix-Disney-Openai
+91.193.58.249:8880#SG_31 - ⬇️ 8.2MB/s-Netflix-Disney-Openai
+91.193.58.229:8880#SG_32 - ⬇️ 4.5MB/s-0%-Netflix-Disney-Openai
+91.193.58.3:8880#SG_33 - ⬇️ 4.2MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.18:8880#SG_34 - ⬇️ 8.5MB/s-0%-Netflix-Disney-Openai
+91.193.58.60:8880#SG_35 - ⬇️ 5.2MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.63:8880#SG_36 - ⬇️ 6.5MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.50:8880#SG_37 - ⬇️ 7.8MB/s-0%-Disney-Openai
+91.193.58.66:8880#SG_38 - ⬇️ 5.7MB/s-Netflix-Disney-Youtube-Openai
+91.193.58.69:8880#SG_39 - ⬇️ 5.4MB/s-Netflix-Disney-Youtube-Openai
+91.193.58.170:8880#SG_4 - ⬇️ 4.3MB/s-0%-Netflix-Disney-Openai
+91.193.58.57:8880#SG_40 - ⬇️ 5.6MB/s-0%-Netflix-Openai
+91.193.58.67:8880#SG_41 - ⬇️ 7.2MB/s-0%-Netflix-Disney-Openai
+91.193.58.92:8880#SG_42 - ⬇️ 4.2MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.102:8880#SG_43 - ⬇️ 4.3MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.118:8880#SG_44 - ⬇️ 6.6MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.96:8880#SG_45 - ⬇️ 7.4MB/s-0%-Netflix-Disney-Openai
+91.193.58.103:8880#SG_46 - ⬇️ 5.5MB/s-0%-Netflix-Disney-Openai
+91.193.58.104:8880#SG_47 - ⬇️ 6.0MB/s-0%-Netflix-Disney-Openai
+91.193.58.128:8880#SG_48 - ⬇️ 4.6MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.110:8880#SG_49 - ⬇️ 7.7MB/s-0%-Netflix-Disney-Openai
+91.193.58.175:8880#SG_5 - ⬇️ 4.2MB/s-0%-Netflix-Disney-Openai
+91.193.58.130:8880#SG_50 - ⬇️ 4.7MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.149:8880#SG_51 - ⬇️ 5.4MB/s-Netflix-Disney-Youtube-Openai
+91.193.58.151:8880#SG_52 - ⬇️ 4.4MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.153:8880#SG_53 - ⬇️ 5.0MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.132:8880#SG_54 - ⬇️ 4.0MB/s-0%-Netflix-Disney-Youtube
+91.193.58.135:8880#SG_55 - ⬇️ 5.7MB/s-0%-Netflix-Disney-Openai
+91.193.58.144:8880#SG_56 - ⬇️ 4.8MB/s-Netflix-Disney-Openai
+91.193.58.146:8880#SG_57 - ⬇️ 6.5MB/s-0%-Netflix-Disney-Openai
+91.193.58.158:8880#SG_58 - ⬇️ 4.4MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.152:8880#SG_59 - ⬇️ 6.6MB/s-0%-Netflix-Disney-Openai
+91.193.58.27:8880#SG_6 - ⬇️ 4.1MB/s-0%-Netflix-Disney-Openai
+91.193.58.171:8880#SG_60 - ⬇️ 4.7MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.188:8880#SG_61 - ⬇️ 7.8MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.178:8880#SG_62 - ⬇️ 5.1MB/s-0%-Netflix-Disney-Openai
+91.193.58.177:8880#SG_63 - ⬇️ 5.6MB/s-0%-Netflix-Disney-Openai
+91.193.58.176:8880#SG_64 - ⬇️ 4.6MB/s-Netflix-Disney-Openai
+91.193.58.206:8880#SG_65 - ⬇️ 5.5MB/s-0%-Netflix-Youtube-Openai
+91.193.58.209:8880#SG_66 - ⬇️ 8.9MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.191:8880#SG_67 - ⬇️ 8.3MB/s-0%-Netflix-Disney-Openai
+91.193.58.216:8880#SG_68 - ⬇️ 5.5MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.203:8880#SG_69 - ⬇️ 6.2MB/s-0%-Netflix-Disney-Openai
+91.193.58.61:8880#SG_7 - ⬇️ 4.6MB/s-Netflix-Disney-Youtube-Openai
+91.193.58.201:8880#SG_70 - ⬇️ 7.1MB/s-0%-Netflix-Disney-Openai
+91.193.58.220:8880#SG_71 - ⬇️ 4.6MB/s-0%-Netflix-Youtube-Openai
+91.193.58.222:8880#SG_72 - ⬇️ 4.2MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.207:8880#SG_73 - ⬇️ 6.0MB/s-Netflix-Disney-Openai
+91.193.58.217:8880#SG_74 - ⬇️ 8.2MB/s-0%-Netflix-Disney-Openai
+91.193.58.218:8880#SG_75 - ⬇️ 5.8MB/s-0%-Netflix-Disney-Openai
+91.193.58.228:8880#SG_76 - ⬇️ 4.6MB/s-0%-Netflix-Disney-Youtube-Openai
+91.193.58.246:8880#SG_77 - ⬇️ 4.2MB/s-0%-Netflix-Youtube-Openai
+91.193.58.223:8880#SG_78 - ⬇️ 5.4MB/s-0%-Netflix-Disney-Openai
+91.193.58.22:8880#SG_8 - ⬇️ 7.3MB/s-Netflix-Disney-Openai
+91.193.58.15:8880#SG_9 - ⬇️ 7.9MB/s-0%-Netflix-Disney-Openai
+172.67.207.27:443#US_10 - ⬇️ 7.5MB/s-50%-Netflix-Openai
+104.24.184.113:80#US_11 - ⬇️ 4.8MB/s-0%-Netflix-Disney-Youtube-Openai
+104.24.204.237:80#US_12 - ⬇️ 8.4MB/s-0%-Netflix-Disney-Youtube-Openai
+172.67.162.74:443#US_13 - ⬇️ 5.6MB/s-0%-Netflix
+104.24.161.187:80#US_15 - ⬇️ 7.7MB/s-0%-Netflix-Disney-Youtube-Openai
+104.24.247.189:80#US_5 - ⬇️ 7.8MB/s-0%-Netflix-Disney-Youtube-Openai
+104.24.140.39:80#US_6 - ⬇️ 6.0MB/s-Netflix-Disney-Youtube-Openai
+104.24.192.51:80#US_7 - ⬇️ 7.7MB/s-0%-Netflix
+185.238.228.39:8880#US_8 - ⬇️ 4.8MB/s-Netflix-Disney
+104.21.69.41:443#US_9 - ⬇️ 5.9MB/s-33%-Netflix-Openai
+160.250.65.124:34045#VN_1 - ⬇️ 5.8MB/s-0%-Netflix-Openai
+172.67.187.190:2087#❓Other_1 - ⬇️ 4.7MB/s-Netflix-Disney-Youtube
+172.67.187.190:2096#❓Other_2 - ⬇️ 5.9MB/s-Netflix-Disney-Youtube
+45.131.211.190:80#❓Other_10 - ⬇️ 5.7MB/s-Netflix-Disney
+45.131.209.162:80#❓Other_11 - ⬇️ 6.9MB/s-Netflix-Disney
+45.131.211.138:80#❓Other_12 - ⬇️ 5.9MB/s-Netflix-Disney
+45.131.211.122:80#❓Other_13 - ⬇️ 7.1MB/s-Netflix-Disney
+45.131.211.104:80#❓Other_14 - ⬇️ 8.1MB/s-Netflix-Disney
+104.21.7.50:2052#❓Other_15 - ⬇️ 6.9MB/s-Netflix-Disney
+199.34.228.161:2083#❓Other_16 - ⬇️ 6.0MB/s-Netflix-Disney-Youtube
+104.21.68.56:2096#❓Other_4 - ⬇️ 6.0MB/s-Netflix-Disney-Youtube
+211.177.191.120:10020#❓Other_5 - ⬇️ 5.1MB/s-Netflix-Disney-Youtube
+45.95.186.48:50004#❓Other_6 - ⬇️ 6.7MB/s-Netflix-Disney
+159.112.235.174:2082#❓Other_8 - ⬇️ 4.8MB/s-Netflix-Disney
+172.67.128.244:2082#❓Other_9 - ⬇️ 6.4MB/s-Netflix-Disney-Youtube
