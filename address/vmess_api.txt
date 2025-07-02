@@ -1,4 +1,2 @@
-6tlnc-g04.jp01-nn-vm0.entry.fr0528.art:21584#JP_1 - ⬇️ 6.3MB/s-8%-Netflix-Youtube-Openai-Gemini
-cg1c13.waimaoglobaldirect.cc:443#NL_2 - ⬇️ 4.5MB/s-56%-Youtube-Openai
-107.172.96.227:2095#US_7 - ⬇️ 5.5MB/s-5%-Netflix-Disney-Openai-Gemini
-107.172.96.227:50012#US_8 - ⬇️ 5.5MB/s-5%-Netflix-Disney-Openai-Gemini
+cloudgetservice.mcloudservice.site:443#CA_1 - ⬇️ 6.7MB/s-Netflix-Youtube-Openai
+107.172.96.227:50012#US_8 - ⬇️ 5.6MB/s-5%-Netflix-Disney-Openai
