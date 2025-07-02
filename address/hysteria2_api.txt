@@ -1,4 +1,1 @@
-51.159.111.32:31180#FR_3 - ⬇️ 7.5MB/s-19%-Netflix-Youtube-Openai
-108.181.5.130:4710#US_1 - ⬇️ 6.4MB/s-40%-Netflix-Openai
-sub-us-1.yangxiansheng.online:45551#US_2 - ⬇️ 7.5MB/s-55%-Netflix-Openai
-sub-us-2.yangxiansheng.online:41951#US_3 - ⬇️ 6.0MB/s-55%-Netflix-Openai
+51.159.226.1:50066#NL_2 - ⬇️ 4.2MB/s-15%-Netflix-Youtube-Openai
