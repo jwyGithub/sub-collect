@@ -1,2 +1,2 @@
-cloudgetservice.mcloudservice.site:443#CA_1 - ⬇️ 6.7MB/s-Netflix-Youtube-Openai
-107.172.96.227:50012#US_8 - ⬇️ 5.6MB/s-5%-Netflix-Disney-Openai
+cloudgetservice.mcloudservice.site:443#FR_3 - ⬇️ 6.5MB/s-0%-Netflix-Youtube-Openai
+hkt.gotochinatown.net:80#HK_1 - ⬇️ 5.3MB/s-3%-Netflix-Youtube

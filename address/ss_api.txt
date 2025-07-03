@@ -1,2 +1,5 @@
-185.231.233.112:989#PT_1 - ⬇️ 4.2MB/s-0%-Disney-Openai
-18.143.181.137:443#❓Other_3 - ⬇️ 16.6MB/s-Netflix-Youtube-Openai
+185.153.197.5:989#MD_1 - ⬇️ 4.3MB/s-Netflix-Openai
+185.22.153.235:10980#RU_4 - ⬇️ 4.1MB/s
+bgp.u17.xyz:30921#SG_32 - ⬇️ 21.2MB/s-28%-Netflix-Youtube-Openai
+47.129.2.253:443#SG_95 - ⬇️ 11.1MB/s-Openai-Gemini
+87.251.79.34:20684#US_7 - ⬇️ 6.9MB/s-0%-Netflix-Disney-Openai
