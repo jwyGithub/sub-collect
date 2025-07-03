@@ -1,2 +1,1 @@
-cloudgetservice.mcloudservice.site:443#FR_3 - ⬇️ 6.5MB/s-0%-Netflix-Youtube-Openai
-hkt.gotochinatown.net:80#HK_1 - ⬇️ 5.3MB/s-3%-Netflix-Youtube
+cloudgetservice.mcloudservice.site:443#FR_3 - ⬇️ 4.2MB/s-0%-Netflix-Youtube-Openai
