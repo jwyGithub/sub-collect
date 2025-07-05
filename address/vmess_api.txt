@@ -1,2 +1,5 @@
-cloudgetservice2.mcloudservice.site:443#DE_1 - ⬇️ 5.0MB/s-42%-Netflix-Openai
-cloudgetservice.mcloudservice.site:443#FR_2 - ⬇️ 4.1MB/s-0%-Netflix-Openai
+cloudgetservice2.mcloudservice.site:443#DE_1 - ⬇️ 5.0MB/s-42%-Netflix-Youtube-Openai
+cloudgetservice.mcloudservice.site:443#FR_3 - ⬇️ 6.5MB/s-0%-Netflix-Youtube-Openai
+cf.fovi.tk:443#US_21 - ⬇️ 6.7MB/s-5%-Netflix-Openai-Gemini
+awetdfgn_cdn.hfhfb.homes:2086#US_7 - ⬇️ 4.5MB/s-Netflix-Openai-Gemini
+172.67.131.27:2053#US_8 - ⬇️ 6.2MB/s-8%-Netflix-Openai

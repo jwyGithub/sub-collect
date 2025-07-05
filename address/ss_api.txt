@@ -1,1 +1,4 @@
-103.36.91.32:8388#HK_1 - ⬇️ 8.9MB/s-Netflix-Youtube
+103.36.91.32:8388#HK_3 - ⬇️ 4.4MB/s-0%-Netflix-Disney-Youtube-Gemini
+3.255.250.127:23456#IE_2 - ⬇️ 4.3MB/s-28%-Netflix-Youtube-Openai
+sg.opensocks.site:8388#SG_38 - ⬇️ 5.9MB/s-0%-Netflix-Disney-Youtube-Openai-Gemini
+3ce8ee8.hb.gladns.com:2377#TW_1 - ⬇️ 7.6MB/s-1%-Disney-Youtube-Openai-Gemini
