@@ -1,1 +1,1 @@
-52.193.38.93:443#JP_1 - ⬇️ 17.0MB/s-25%-Netflix-Openai
+103.36.91.32:8388#HK_1 - ⬇️ 8.9MB/s-Netflix-Youtube
