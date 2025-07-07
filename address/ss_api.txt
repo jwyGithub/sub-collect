@@ -1,4 +1,3 @@
-43.226.17.8:636#KR_7 - ⬇️ 4.4MB/s-Netflix-Disney
-45.87.175.180:8080#NL_7 - ⬇️ 5.8MB/s-63%-Netflix-Openai
-54.169.5.180:443#SG_30 - ⬇️ 21.1MB/s-28%-Netflix-Youtube-Openai-Gemini
-13.229.183.5:443#❓Other_33 - ⬇️ 16.4MB/s-Netflix-Youtube-Openai-Gemini
+103.149.183.154:8388#HK_1 - ⬇️ 7.4MB/s-0%-Disney
+103.36.91.32:8388#HK_2 - ⬇️ 4.9MB/s-0%-Netflix-Disney-Youtube-Gemini
+54.255.45.36:443#SG_16 - ⬇️ 15.9MB/s-25%-Netflix-Openai-Gemini
