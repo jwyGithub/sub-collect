@@ -1,2 +1,3 @@
-hkt.gotochinatown.net:80#HK_1 - ⬇️ 4.3MB/s-0%-Youtube
-awetdfgn_cdn.hfhfb.homes:2086#US_5 - ⬇️ 5.7MB/s-29%-Netflix-Openai-Gemini
+www.speedtest.net:443#CA_1 - ⬇️ 4.9MB/s-Youtube-Openai-Gemini
+cloudgetservice.mcloudservice.site:443#FR_3 - ⬇️ 7.5MB/s-0%-Netflix-Openai
+ip.sb:443#US_12 - ⬇️ 8.7MB/s-29%-Netflix-Disney-Openai
