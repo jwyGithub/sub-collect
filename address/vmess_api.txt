@@ -1,1 +1,4 @@
-172.67.131.27:2087#US_6 - ⬇️ 4.5MB/s-8%-Netflix-Openai
+www.speedtest.net:443#CA_12 - ⬇️ 5.8MB/s-20%-Netflix-Youtube-Openai-Gemini
+www.meter.net:2083#DE_1 - ⬇️ 8.1MB/s-Netflix-Youtube-Openai
+ip.sb:443#US_3 - ⬇️ 7.6MB/s-25%-Netflix-Disney-Openai
+172.67.131.27:2087#US_42 - ⬇️ 5.3MB/s-10%-Netflix-Openai

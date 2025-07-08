@@ -1,1 +1,4 @@
-103.149.183.154:8388#HK_1 - ⬇️ 5.3MB/s-0%-Disney
+uk.opensocks.site:8388#GB_1 - ⬇️ 4.1MB/s-0%-Netflix-Youtube-Openai
+59.125.62.190:2377#TW_1 - ⬇️ 4.0MB/s-1%-Netflix-Disney-Youtube-Openai-Gemini
+23.247.137.165:2377#US_41 - ⬇️ 4.3MB/s-0%-Netflix-Disney-Openai-Gemini
+43.203.213.154:443#❓Other_55 - ⬇️ 12.2MB/s-Youtube-Openai
