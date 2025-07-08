@@ -1,3 +1,1 @@
-103.149.183.154:8388#HK_1 - ⬇️ 7.4MB/s-0%-Disney
-103.36.91.32:8388#HK_2 - ⬇️ 4.9MB/s-0%-Netflix-Disney-Youtube-Gemini
-54.255.45.36:443#SG_16 - ⬇️ 15.9MB/s-25%-Netflix-Openai-Gemini
+103.149.183.154:8388#HK_1 - ⬇️ 5.3MB/s-0%-Disney

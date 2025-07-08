@@ -1,6 +1,1 @@
-www.speedtest.net:443#CA_1 - ⬇️ 4.1MB/s-20%-Youtube-Openai-Gemini
-hkt.gotochinatown.net:80#HK_3 - ⬇️ 4.4MB/s-3%-Netflix-Disney-Youtube-Openai
-172.67.131.27:2087#US_21 - ⬇️ 4.8MB/s-8%-Netflix-Openai
-ip.sb:443#US_7 - ⬇️ 4.8MB/s-29%-Netflix-Disney-Openai
-cf.fovi.tk:443#US_72 - ⬇️ 6.9MB/s-5%-Netflix-Disney-Gemini
-cloudgetservice2.mcloudservice.site:443#US_8 - ⬇️ 4.6MB/s-52%-Netflix-Openai-Gemini
+172.67.131.27:2087#US_6 - ⬇️ 4.5MB/s-8%-Netflix-Openai
