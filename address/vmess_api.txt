@@ -1,5 +1,2 @@
-www.meter.net:2083#DE_1 - ⬇️ 8.9MB/s-42%-Netflix-Openai
-ip.sb:443#KR_4 - ⬇️ 6.8MB/s-25%-Netflix-Openai
-codepen.io:443#US_133 - ⬇️ 5.6MB/s-5%-Netflix-Disney-Openai-Gemini
-104.21.3.189:2083#US_4 - ⬇️ 4.3MB/s-10%-Netflix-Openai
-6.cdn.5468936.xyz:80#US_43 - ⬇️ 5.1MB/s-54%-Netflix-Openai-Gemini
+104.21.3.189:2083#CA_1 - ⬇️ 4.5MB/s-44%-Netflix-Openai
+www.meter.net:2083#DE_10 - ⬇️ 4.2MB/s-42%-Netflix-Openai
