@@ -1,3 +1,1 @@
-121.127.231.239:636#HK_1 - ⬇️ 4.6MB/s-0%-Netflix
-54.255.45.36:443#SG_18 - ⬇️ 15.1MB/s-28%-Netflix-Youtube-Openai-Gemini
-54.169.5.180:443#SG_44 - ⬇️ 7.5MB/s-29%-Netflix-Youtube-Openai-Gemini
+54.255.45.36:443#SG_1 - ⬇️ 12.1MB/s-28%-Netflix-Youtube-Openai-Gemini
