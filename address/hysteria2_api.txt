@@ -1,3 +1,1 @@
-108.181.5.130:4710#US_1 - ⬇️ 7.4MB/s-39%-Netflix-Openai
-us.xn--mes91t7ofgnw.com:20223#US_32 - ⬇️ 4.5MB/s-37%-Netflix-Disney-Openai
-us.xn--mes91t7ofgnw.com:20228#US_33 - ⬇️ 4.5MB/s-37%-Netflix-Disney-Openai
+51.159.226.1:50066#NL_1 - ⬇️ 5.1MB/s-16%-Netflix-Youtube-Openai
