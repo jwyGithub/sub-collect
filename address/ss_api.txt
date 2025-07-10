@@ -1,3 +1,2 @@
-ca-01.cloxynode.com:35515#CA_14 - ⬇️ 4.1MB/s-48%-Netflix-Youtube-Openai-Gemini
-david.lemoex.blog:8080#DE_16 - ⬇️ 4.0MB/s-0%-Netflix-Youtube-Openai
-54.169.5.180:443#SG_7 - ⬇️ 15.6MB/s-Netflix-Youtube-Openai-Gemini
+103.36.91.32:8388#HK_15 - ⬇️ 8.4MB/s-0%-Netflix-Disney-Youtube-Gemini
+54.169.5.180:443#SG_1 - ⬇️ 16.5MB/s-Netflix-Youtube-Openai-Gemini
