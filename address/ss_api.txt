@@ -1,1 +1,5 @@
-43.226.17.54:636#KR_2 - ⬇️ 4.5MB/s-0%-Netflix-Disney
+david2.lemoex.blog:2083#DE_18 - ⬇️ 4.8MB/s-16%-Netflix-Youtube-Openai
+139.162.119.212:2377#JP_2 - ⬇️ 4.1MB/s-51%-Netflix-Youtube-Openai-Gemini
+45.153.124.90:989#MD_1 - ⬇️ 5.8MB/s-0%-Netflix-Youtube-Openai
+185.126.237.38:989#RO_1 - ⬇️ 4.2MB/s-61%-Netflix-Youtube-Openai-Gemini
+104.192.226.106:989#US_77 - ⬇️ 4.5MB/s-0%-Netflix-Openai-Gemini
