@@ -1,4 +1,2 @@
-107.172.96.227:2095#US_10 - ⬇️ 5.4MB/s-5%-Netflix-Disney-Gemini
-107.172.96.227:50012#US_8 - ⬇️ 4.1MB/s-5%-Netflix-Disney-Openai-Gemini
-ffFFFfffFFFfG.222560.xyZ:443#US_11 - ⬇️ 4.4MB/s-0%-Netflix-Openai
-wWWD.4444916.xYZ:443#US_27 - ⬇️ 4.3MB/s-33%-Netflix-Openai-Gemini
+www.meter.net:2083#DE_9 - ⬇️ 8.0MB/s-42%-Netflix-Openai
+107.172.96.227:50012#US_2 - ⬇️ 6.9MB/s-5%-Netflix-Disney-Openai-Gemini
