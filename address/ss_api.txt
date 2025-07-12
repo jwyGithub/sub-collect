@@ -1,2 +1,1 @@
-121.127.231.239:636#HK_12 - ⬇️ 4.2MB/s-0%-Netflix
-103.36.91.32:8388#HK_13 - ⬇️ 5.1MB/s-0%-Netflix-Disney-Youtube-Gemini
+121.127.231.239:636#HK_3 - ⬇️ 4.3MB/s-0%-Netflix

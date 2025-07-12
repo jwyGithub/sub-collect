@@ -1,4 +1,1 @@
-www.speedtest.net:443#CA_2 - ⬇️ 8.6MB/s-20%-Netflix-Youtube-Openai-Gemini
-141.101.113.6:443#FI_1 - ⬇️ 5.6MB/s-5%
-1750158741.tencentapp.cn:443#US_40 - ⬇️ 4.8MB/s-30%-Netflix-Openai
-ssrsub.cloudflare.182682.xyz:8880#US_77 - ⬇️ 4.6MB/s-12%-Netflix-Disney-Openai
+1750158741.tencentapp.cn:443#US_19 - ⬇️ 5.4MB/s-30%-Netflix
