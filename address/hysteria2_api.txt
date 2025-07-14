@@ -1,2 +1,2 @@
-139.185.36.59:55000#AE_1 - ⬇️ 8.0MB/s-25%-Youtube-Openai-Gemini
-159.13.34.59:55000#AU_2 - ⬇️ 6.6MB/s-25%-Youtube-Openai-Gemini
+46.17.41.5:12904#RU_1 - ⬇️ 4.5MB/s-33%-Youtube
+us1.1010991.xyz:3001#US_11 - ⬇️ 6.0MB/s-33%-Netflix-Openai-Gemini
