@@ -1,2 +1,2 @@
-46.17.41.5:12904#RU_1 - ⬇️ 4.5MB/s-33%-Youtube
-us1.1010991.xyz:3001#US_11 - ⬇️ 6.0MB/s-33%-Netflix-Openai-Gemini
+69ad0675-sw5og0-sx7hbg-1mmbp.hy2.gotochinatown.net:8443#US_1 - ⬇️ 7.6MB/s-Netflix-Gemini
+209.141.47.127:3234#US_13 - ⬇️ 5.9MB/s-22%-Openai
