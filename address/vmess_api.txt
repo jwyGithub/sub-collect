@@ -1,2 +1,4 @@
-csgo.com:8880#US_10 - ⬇️ 4.4MB/s-12%-Netflix-Disney-Openai-Gemini
-1750158741.tencentapp.cn:443#US_9 - ⬇️ 5.5MB/s-30%-Netflix-Openai
+45.5921688.xyz:22443#RU_2 - ⬇️ 4.4MB/s-0%-Youtube
+codepen.io:443#US_153 - ⬇️ 4.8MB/s-5%-Netflix
+1750158741.tencentapp.cn:443#US_65 - ⬇️ 4.4MB/s-30%-Netflix-Openai
+csgo.com:8880#US_75 - ⬇️ 4.4MB/s-12%-Netflix-Disney-Openai
