@@ -1,1 +1,2 @@
-channel.dollardoon.com:15709#NL_1 - ⬇️ 4.6MB/s-17%-Netflix
+csgo.com:8880#US_10 - ⬇️ 4.4MB/s-12%-Netflix-Disney-Openai-Gemini
+1750158741.tencentapp.cn:443#US_9 - ⬇️ 5.5MB/s-30%-Netflix-Openai

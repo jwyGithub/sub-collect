@@ -1,2 +1,1 @@
-69ad0675-sw5og0-sx7hbg-1mmbp.hy2.gotochinatown.net:8443#US_1 - ⬇️ 7.6MB/s-Netflix-Gemini
-209.141.47.127:3234#US_13 - ⬇️ 5.9MB/s-22%-Openai
+209.141.47.127:3234#US_3 - ⬇️ 8.4MB/s-21%-Netflix-Openai-Gemini
