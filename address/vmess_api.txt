@@ -1,1 +1,5 @@
-1750158741.tencentapp.cn:443#US_60 - ⬇️ 4.4MB/s-30%-Netflix-Openai
+83.149.84.145:15709#NL_5 - ⬇️ 5.0MB/s-16%-Netflix-Openai
+channel.dollardoon.com:15709#NL_7 - ⬇️ 5.1MB/s-16%-Netflix-Openai
+527cb2.827a4c39.shop:80#SG_18 - ⬇️ 6.9MB/s-46%
+1750158741.tencentapp.cn:443#US_87 - ⬇️ 4.9MB/s-30%-Netflix-Openai
+awetdfgn_cdn.hfhfb.homes:2086#US_92 - ⬇️ 5.4MB/s-0%-Netflix-Openai-Gemini
