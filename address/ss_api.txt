@@ -1,2 +1,5 @@
-3.255.250.127:23456#IE_1 - ⬇️ 5.1MB/s-29%-Netflix-Youtube-Openai
-139.162.119.212:2377#JP_28 - ⬇️ 10.0MB/s-49%-Netflix-Youtube-Openai-Gemini
+156.251.179.181:636#HK_8 - ⬇️ 4.5MB/s-Netflix
+139.162.119.212:2377#JP_28 - ⬇️ 4.1MB/s-Netflix-Youtube-Openai-Gemini
+60.249.35.39:2377#TW_1 - ⬇️ 5.6MB/s-Netflix-Disney-Youtube-Openai-Gemini
+60.249.35.38:2377#TW_2 - ⬇️ 8.3MB/s-1%-Netflix-Disney-Youtube-Openai-Gemini
+210.61.187.239:2377#TW_3 - ⬇️ 4.0MB/s-Netflix-Disney-Youtube-Openai-Gemini
