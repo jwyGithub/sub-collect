@@ -1,49 +1,29 @@
-47.243.139.85:2096#HK
-47.242.171.94:8443#HK
-8.217.232.246:2083#HK
-64.110.75.145:443#KR
-8.217.159.210:2087#HK
-8.210.174.156:2087#HK
-8.210.174.156:2083#HK
-168.138.212.80:443#JP
+47.243.5.154:2087#HK
+8.210.174.156:2096#HK
+47.242.57.106:443#HK
+129.213.130.70:443#US
 43.154.96.33:443#HK
-162.159.152.155:443#CT
-162.159.153.216:443#CT
-162.159.153.239:443#CT
-162.159.153.144:443#CT
-104.16.249.174:443#CMCC
-104.19.150.28:443#CMCC
-104.16.246.132:443#CMCC
+47.243.139.85:2083#HK
+192.9.139.160:443#US
+16.162.37.167:443#HK
+18.167.194.154:443#HK
+162.159.153.194:443#CT
+162.159.153.209:443#CT
+104.16.246.173:443#CMCC
 104.18.147.201:443#CMCC
-104.16.249.115:443#CMCC
-104.19.144.212:443#CMCC
-[2606:4700:3036::ce:d6ea]:443#CMCC-IPV6
-[2606:4700:3036:0:a36a:4af2:65e7:a0d6]:443#CMCC-IPV6
+104.17.100.185:443#CMCC
+104.17.223.37:443#CMCC
 [2606:4700:3036:6ed4:e1ed:36:7204:2031]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:ffdf:15bf:7d77:5f52]:443#CMCC-IPV6
+[2606:4700:3036:ef:92f:be51:8695:9fc5]:443#CMCC-IPV6
 [2606:4700:3036:ef:3f32:a9c6:39c4:9ae3]:443#CMCC-IPV6
-[2606:4700:3036:6ed4:ffdf:f2ba:820b:ed5c]:443#CMCC-IPV6
-csgo.com:8443#US_152 - ⬇️ 4.9MB/s-Netflix-Disney-Openai-Gemini
-154.83.2.54:2096#CA_16 - ⬇️ 4.8MB/s-Netflix-Disney
-gerxyz.bm04.xyz:2053#DE_3 - ⬇️ 4.2MB/s-42%-Netflix-Youtube-Openai
-13.233.5.49:443#FI_1 - ⬇️ 4.7MB/s-Youtube-Gemini
-216.24.57.30:443#JP_17 - ⬇️ 8.3MB/s-Netflix-Disney
-194.53.53.11:2096#KR_17 - ⬇️ 5.5MB/s-Netflix-Disney-Openai
-103.160.204.1:443#KR_18 - ⬇️ 6.3MB/s-Netflix-Disney
-198.62.62.156:443#KR_29 - ⬇️ 7.1MB/s-Netflix-Disney
-stirring-parakeet.shiner427.skin:443#NL_4 - ⬇️ 4.1MB/s-0%-Openai
-172.67.187.28:443#US_151 - ⬇️ 5.7MB/s-Netflix-Openai
-ssrsub.cloudflare.182682.xyz:8443#US_154 - ⬇️ 5.0MB/s-Netflix-Disney-Openai-Gemini
-ggbnhju.859885.xyz:443#US_155 - ⬇️ 8.9MB/s-Netflix-Openai-Gemini
-ssxcdfrt.859885.xyz:443#US_156 - ⬇️ 9.5MB/s-Netflix-Openai-Gemini
-104.21.63.135:443#US_42 - ⬇️ 5.6MB/s-Netflix-Youtube-Openai
-172.67.145.200:443#US_56 - ⬇️ 4.7MB/s-100%-Netflix-Openai
-91.193.58.0:443#❓Other_133 - ⬇️ 5.4MB/s-Netflix-Disney-Youtube
-194.76.18.129:443#❓Other_134 - ⬇️ 18.1MB/s-Netflix-Disney-Youtube
-104.16.87.223:2083#❓Other_162 - ⬇️ 6.3MB/s-Netflix-Disney
-13.228.142.218:443#❓Other_23 - ⬇️ 8.9MB/s-Netflix-Disney-Youtube
-45.67.215.95:443#❓Other_40 - ⬇️ 5.7MB/s-Netflix-Disney
-www.csgo.com:443#❓Other_7 - ⬇️ 8.2MB/s-Netflix-Disney
-103.160.204.26:2053#❓Other_97 - ⬇️ 7.9MB/s-Netflix-Disney
-27.50.48.126:2083#❓Other_98 - ⬇️ 9.3MB/s-Netflix
-194.53.53.249:2083#❓Other_99 - ⬇️ 9.6MB/s-Netflix-Disney
+13.228.155.72:443#DE_8 - ⬇️ 11.3MB/s-Netflix-Disney-Youtube
+huge-turkey.shiner427.skin:443#GB_2 - ⬇️ 4.3MB/s-40%-Netflix-Youtube-Openai
+104.21.63.135:443#US_100 - ⬇️ 6.9MB/s-100%-Netflix-Youtube-Openai
+172.67.173.64:443#US_106 - ⬇️ 4.3MB/s-60%-Netflix-Openai-Gemini
+ggbnhju.859885.xyz:443#US_17 - ⬇️ 5.4MB/s-28%-Netflix-Openai-Gemini
+172.67.177.109:443#US_40 - ⬇️ 4.1MB/s-34%-Netflix-Openai
+103.160.204.26:2053#❓Other_100 - ⬇️ 7.9MB/s-Netflix-Disney
+103.160.204.59:443#❓Other_102 - ⬇️ 5.8MB/s-Netflix-Disney
+198.62.62.156:443#❓Other_103 - ⬇️ 4.8MB/s-Netflix-Disney
+45.67.215.95:443#❓Other_141 - ⬇️ 7.2MB/s-Netflix-Disney
+198.62.62.67:443#❓Other_144 - ⬇️ 8.6MB/s-Netflix-Disney-Gemini
