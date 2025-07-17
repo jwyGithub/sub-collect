@@ -1,3 +1,2 @@
-51.159.226.1:35810#NL_1 - ⬇️ 4.2MB/s-Netflix-Youtube-Openai
-shy23.zqjc.cloud:55215#KR_1 - ⬇️ 5.0MB/s-26%-Netflix-Youtube-Openai-Gemini
-108.181.5.130:4710#US_52 - ⬇️ 4.4MB/s-Netflix-Openai
+shy23.zqjc.cloud:55215#KR_2 - ⬇️ 4.4MB/s-Netflix-Youtube-Openai-Gemini
+209.141.47.127:3234#US_40 - ⬇️ 4.4MB/s-21%-Netflix-Openai-Gemini
