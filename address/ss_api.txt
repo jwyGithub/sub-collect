@@ -1,3 +1,4 @@
-h110vpnde.outlinekeys.net:21712#DE_4 - ⬇️ 4.2MB/s-47%-Netflix-Disney-Youtube-Openai
-78.153.131.96:443#LT_1 - ⬇️ 4.5MB/s-47%-Netflix-Youtube-Openai
-18.143.163.134:443#SG_17 - ⬇️ 16.6MB/s-30%-Youtube-Openai-Gemini
+103.103.245.158:636#HK_18 - ⬇️ 10.3MB/s-0%-Netflix-Disney
+51.15.17.169:989#NL_3 - ⬇️ 5.4MB/s-13%-Netflix-Youtube-Openai
+213.111.142.216:8443#US_82 - ⬇️ 4.9MB/s-34%-Netflix-Openai-Gemini
+fox-usa.outlinekeys.net:34868#US_83 - ⬇️ 4.6MB/s-26%-Netflix-Openai
