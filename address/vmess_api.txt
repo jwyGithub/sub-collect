@@ -1,1 +1,6 @@
-www.visa.com.sg:8443#FI_1 - ⬇️ 6.6MB/s-13%-Netflix-Openai
+www.visa.com.sg:8443#FI_1 - ⬇️ 5.0MB/s-13%-Netflix-Openai
+172.67.68.242:443#FI_10 - ⬇️ 7.6MB/s-Openai
+62.60.156.228:443#FI_9 - ⬇️ 4.4MB/s-5%-Disney-Openai
+dv4.789900.xyz:2096#KR_21 - ⬇️ 4.3MB/s-26%-Netflix-Youtube-Openai-Gemini
+104.17.121.140:8443#SG_104 - ⬇️ 5.4MB/s-5%-Youtube-Openai-Gemini
+codepen.io:443#US_123 - ⬇️ 6.7MB/s-5%-Netflix-Disney-Openai-Gemini
