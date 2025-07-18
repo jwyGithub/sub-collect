@@ -1,6 +1,1 @@
-shy23.zqjc.cloud:55215#KR_1 - ⬇️ 5.9MB/s-26%-Netflix-Youtube-Openai-Gemini
-51.159.226.1:35810#NL_1 - ⬇️ 4.8MB/s-Netflix-Youtube-Openai
-6b8fb9b0-sz1ds0-szi8d6-1ro8s.hy2.gotochinatown.net:8443#US_23 - ⬇️ 7.7MB/s-Netflix-Gemini
-ce8ae4b9-svn5s0-swbt02-g3b3.hy2.gotochinatown.net:8443#US_26 - ⬇️ 7.2MB/s-Netflix-Gemini
-4772a36e-sytz40-szi8d6-1ro8s.hy2.gotochinatown.net:8443#US_69 - ⬇️ 4.0MB/s-Netflix-Gemini
-209.141.47.127:3234#US_86 - ⬇️ 7.0MB/s-21%-Netflix-Openai-Gemini
+209.141.47.127:3234#US_18 - ⬇️ 6.3MB/s-Openai-Gemini
