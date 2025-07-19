@@ -1,6 +1,1 @@
-37.235.50.43:8443#CH_1 - ⬇️ 4.7MB/s-0%-Netflix-Youtube
-185.122.187.136:8443#DE_3 - ⬇️ 5.1MB/s-Netflix-Youtube-Openai
-188.166.220.70:37708#SG_15 - ⬇️ 14.0MB/s-56%-Netflix-Youtube-Openai-Gemini
-13.212.193.32:443#SG_55 - ⬇️ 12.5MB/s-30%-Netflix-Openai-Gemini
-5.8.34.178:8443#UA_1 - ⬇️ 4.6MB/s-Netflix-Youtube-Openai-Gemini
-213.111.142.59:8443#US_73 - ⬇️ 4.6MB/s-Netflix-Openai-Gemini
+213.111.181.38:8443#EE_1 - ⬇️ 4.5MB/s-Netflix-Youtube-Openai
