@@ -1,4 +1,2 @@
-nexiabx.688997.xyz:20857#BR_1 - ⬇️ 5.6MB/s-Netflix-Youtube-Openai
-nexiateq.688997.xyz:20957#TR_1 - ⬇️ 4.3MB/s-Netflix-Disney-Openai-Gemini
-209.141.47.127:3234#US_2 - ⬇️ 8.1MB/s-21%-Netflix-Openai-Gemini
-208.87.243.187:22222#US_76 - ⬇️ 7.2MB/s-49%-Netflix-Openai-Gemini
+nexiabx.688997.xyz:20857#BR_1 - ⬇️ 4.6MB/s-46%-Netflix-Youtube-Openai-Gemini
+208.87.243.187:22222#US_28 - ⬇️ 5.7MB/s-49%-Netflix-Openai-Gemini
