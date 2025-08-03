@@ -1,2 +1,4 @@
-103.149.183.154:8388#HK_21 - ⬇️ 5.7MB/s-0%-Netflix-Disney-Youtube
-62.60.232.20:443#HK_25 - ⬇️ 5.3MB/s-0%-Netflix-Disney-Youtube
+121.127.231.239:636#HK_20 - ⬇️ 5.5MB/s-0%-Netflix-Disney
+103.149.183.154:8388#HK_5 - ⬇️ 4.1MB/s-0%-Netflix-Disney-Youtube
+62.60.232.20:443#HK_6 - ⬇️ 4.9MB/s-0%-Netflix-Disney-Youtube
+193.29.139.138:8080#NL_1 - ⬇️ 4.3MB/s-76%-Netflix-Openai
