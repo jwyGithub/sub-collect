@@ -1,2 +1,2 @@
-78.153.131.96:443#LT_1 - ⬇️ 4.2MB/s-40%-Netflix
-104.225.151.162:35358#US_136 - ⬇️ 7.2MB/s-6%-Netflix-Disney-Openai-Gemini
+49.12.232.175:8443#DE_1 - ⬇️ 4.4MB/s-26%-Netflix-Openai
+p222.panda001.net:15098#KR_7 - ⬇️ 15.1MB/s-33%-Disney-Openai
