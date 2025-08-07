@@ -1,3 +1,1 @@
-18.143.180.14:22509#SG_45 - ⬇️ 8.6MB/s-15%-Netflix-Youtube-Openai-Gemini
-teq.dport.top:33658#TR_1 - ⬇️ 5.5MB/s-42%-Netflix-Disney-Openai
-sub-us-2.yangxiansheng.online:41951#US_40 - ⬇️ 8.5MB/s-53%-Netflix-Openai-Gemini
+sub-us-2.yangxiansheng.online:41951#US_4 - ⬇️ 4.4MB/s-53%-Netflix-Openai-Gemini
