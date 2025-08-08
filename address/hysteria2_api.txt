@@ -1,4 +1,6 @@
-51.159.111.32:5355#FR_2 - ⬇️ 4.6MB/s-19%-Netflix-Youtube-Openai
-51.158.218.2:50066#NL_1 - ⬇️ 4.5MB/s-16%-Netflix-Youtube-Openai
-sub-us-2.yangxiansheng.online:41951#US_7 - ⬇️ 7.4MB/s-53%-Netflix-Openai-Gemini
-208.87.243.187:22222#US_9 - ⬇️ 5.3MB/s-45%-Netflix-Openai
+51.159.111.32:5355#FR_1-4.8MB/s-GPT⁺-YT-FR-NF-19%
+18.143.168.252:8030#SG_44-12.4MB/s-GPT⁺-YT-SG-NF-GM-15%
+teq.dport.top:33658#TR_1-4.6MB/s-GPT⁺-NF-D+-42%
+sub-us-2.yangxiansheng.online:41951#US_61-4.7MB/s-GPT⁺-NF-GM-53%
+208.87.243.187:22222#US_93-5.9MB/s-GPT⁺-NF-45%
+dd6447be-t0j340-tgxeiy-3kis.la.shifen.uk:1743#US_94-4.9MB/s-NF-GM-36%
