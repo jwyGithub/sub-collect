@@ -1,5 +1,1 @@
-ip.sb:443#FR_3 - ⬇️ 7.8MB/s-27%-Netflix-Openai
-cloudgetservice.mcloudservice.site:443#FR_4 - ⬇️ 5.2MB/s-0%-Netflix-Openai
-hkt.gotochinatown.net:80#HK_17 - ⬇️ 5.3MB/s-4%-Netflix-Disney-Youtube-Openai
-aio.unlimited.biz.id:443#SG_76 - ⬇️ 8.0MB/s-27%-Netflix-Disney-Openai-Gemini
-2.58.87.221:14555#US_77 - ⬇️ 5.3MB/s-100%-Netflix-Disney-Openai-Gemini
+www.meter.net:2083#GB_1 - ⬇️ 7.2MB/s-0%-Netflix-Openai
