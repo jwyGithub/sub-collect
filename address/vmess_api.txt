@@ -1,11 +1,5 @@
-www.speedtest.net:443#CA_5-7.3MB/s-GPT⁺-YT-CA-NF-GM-21%
-v20.emoyes.top:8443#DE_2-4.6MB/s-GPT⁺-YT-DE-NF-55%
-cloudgetservice.mcloudservice.site:443#FR_2-5.7MB/s-GPT⁺-YT-FR-NF-0%
-0f64e685-sv0xs0-svwnuh-1t4wg.hk3.p5pv.com:80#HK_39-8.4MB/s-GPT-YT-HK-NF-D+-4%
-hkt.gotochinatown.net:80#HK_4-5.0MB/s-GPT⁺-YT-HK-D+-4%
-aflzzul.meiquankongjian.com:52512#JP_4-15.3MB/s-GPT⁺-YT-JP-NF-D+-GM-0%
-ssssssssssssfffffffgh.2032.pp.ua:443#US_183-4.4MB/s-GPT⁺-NF-0%
-tTtTttTttGgGGHHhnMk.iraN2035.DPDNS.ORG:443#US_191-5.4MB/s-GPT⁺-NF-29%
-sSsdCVfBGNjkI.931.PP.Ua:443#US_213-5.0MB/s-GPT⁺-NF-0%
-FFFFfFFvvBgnh.iRAn2035.DpDnS.OrG:443#US_381-4.2MB/s-GPT⁺-NF-29%
-DdDDdddddDFrrrrrrRRy.IRan2035.dPDns.ORG:443#US_382-4.3MB/s-GPT⁺-NF-29%
+www.meter.net:2096#CA_5-4.4MB/s-GPT⁺-YT-CA-NF-GM-21%
+www.meter.net:2083#GB_3-4.3MB/s-GPT⁺-NF-0%
+www.speedtest.net:443#CA_6-4.2MB/s-GPT⁺-YT-CA-21%
+test2.flha.ru:80#DE_3-5.6MB/s-GPT⁺-NF-0%
+cloudgetservice.mcloudservice.site:443#FR_2-5.1MB/s-GPT⁺-NF-0%
