@@ -1,5 +1,7 @@
-www.meter.net:2096#CA_5-4.4MB/s-GPT⁺-YT-CA-NF-GM-21%
-www.meter.net:2083#GB_3-4.3MB/s-GPT⁺-NF-0%
-www.speedtest.net:443#CA_6-4.2MB/s-GPT⁺-YT-CA-21%
-test2.flha.ru:80#DE_3-5.6MB/s-GPT⁺-NF-0%
-cloudgetservice.mcloudservice.site:443#FR_2-5.1MB/s-GPT⁺-NF-0%
+www.speedtest.net:443#CA_1-4.7MB/s-GPT⁺-YT-CA-NF-GM-21%
+www.meter.net:2096#CA_5-5.1MB/s-GPT⁺-YT-CA-GM-21%
+www.meter.net:2083#GB_1-4.1MB/s
+hkt.gotochinatown.net:80#HK_25-4.3MB/s-GPT⁺-YT-HK-NF-D+-4%
+103.208.86.100:17264#NZ_1-4.0MB/s-GPT⁺-YT-NZ-NF-GM-0%
+FFFFfFFvvBgnh.iRAn2035.DpDnS.OrG:443#US_528-4.9MB/s-GPT⁺-29%
+klo.986986.shop:443#US_72-4.0MB/s-GPT⁺-NF
