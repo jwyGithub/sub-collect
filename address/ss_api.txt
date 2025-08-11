@@ -1,1 +1,9 @@
-202.155.152.86:27600#ID_1-5.8MB/s-YT-HK-NF-D+-0%
+103.103.245.158:636#HK_18-10.8MB/s-NF-D+-0%
+awes35lesl.blhao0o.dpdns.org:12012#HK_19-8.4MB/s-GPT⁺-NF-D+-50%
+awes35lesl.blhao0o.dpdns.org:12008#HK_20-6.9MB/s-YT-HK-12%
+awes35lesl.blhao0o.dpdns.org:12005#HK_21-5.2MB/s-YT-HK-12%
+awes35lesl.blhao0o.dpdns.org:12017#SG_58-4.9MB/s-GPT⁺-YT-SG-GM-27%
+awes35lesl.blhao0o.dpdns.org:12031#TW_1-6.2MB/s-GPT⁺-YT-TW-NF-D+-GM-2%
+133.18.108.187:37422#JP_22-6.8MB/s-GPT⁺-YT-JP-NF-D+-GM-17%
+125.141.31.76:15098#KR_5-16.3MB/s-GPT-33%
+23.251.121.242:8080#US_150-4.1MB/s-GPT⁺-NF-GM-86%
