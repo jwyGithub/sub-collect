@@ -1,4 +1,2 @@
-www.speedtest.net:443#CA_2-5.2MB/s-GPT⁺-YT-CA-NF-GM-21%
-klo.986986.shop:443#US_26-4.5MB/s-GPT⁺-NF
-tTtTttTttGgGGHHhnMk.iraN2035.DPDNS.ORG:443#US_277-4.3MB/s-GPT⁺-NF-29%
-www.meter.net:2083#❓Other_1-4.4MB/s
+test3.flha.ru:80#NL_2-4.7MB/s-GPT⁺-0%
+www.meter.net:2083#❓Other_2-5.5MB/s-GPT
