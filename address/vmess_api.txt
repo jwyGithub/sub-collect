@@ -1,10 +1,2 @@
-www.speedtest.net:443#CA_1-6.0MB/s-GPT⁺-YT-CA-NF-20%
-v7.heduian.link:30807#HK_11-4.3MB/s-YT-HK-NF-6%
-a600f817-szt5s0-t167d0-ggww.hkt.tcpbbr.net:80#HK_9-4.7MB/s-GPT⁺-YT-HK-NF-D+-6%
-test3.flha.ru:80#NL_3-6.8MB/s-GPT⁺-0%
-ddDFvg.859885.XYZ:443#US_195-4.2MB/s-GPT⁺-NF-GM-34%
-sSsdCVfBGNjkI.931.PP.Ua:443#US_196-4.3MB/s-GPT⁺-NF-0%
-klo.986986.shop:443#US_242-6.4MB/s-GPT⁺-NF-GM
-FFFFfFFvvBgnh.iRAn2035.DpDnS.OrG:443#US_35-5.1MB/s-GPT⁺-NF-26%
-DdDDdddddDFrrrrrrRRy.IRan2035.dPDns.ORG:443#US_502-4.9MB/s-GPT⁺-NF-26%
-JJJjjjjjmMMmM.4444926.XYZ:443#❓Other_2-4.9MB/s
+www.meter.net:2096#CA_1-4.6MB/s-GPT⁺-YT-CA-NF-GM-20%
+www.speedtest.net:443#CA_2-4.5MB/s-GPT⁺-YT-CA-NF-GM-20%
