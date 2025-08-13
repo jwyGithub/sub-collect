@@ -1,2 +1,2 @@
-www.meter.net:2096#CA_1-4.6MB/s-GPT⁺-YT-CA-NF-GM-20%
-www.speedtest.net:443#CA_2-4.5MB/s-GPT⁺-YT-CA-NF-GM-20%
+www.meter.net:2096#CA_1-7.6MB/s-GPT⁺-YT-CA-NF-GM-20%
+aio.zipzap.biz.id:443#US_96-4.7MB/s-NF-D+
