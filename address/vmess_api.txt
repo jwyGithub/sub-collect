@@ -1,7 +1,4 @@
-news.farsonline24.ir:8443#AE_2-4.6MB/s-GPT⁺-YT-GB-NF-D+-0%
-www.speedtest.net:443#CA_1-5.7MB/s-GPT⁺-YT-CA-NF-20%
-test2.flha.ru:80#DE_1-5.7MB/s-GPT⁺-YT-DE-NF-0%
-cloudgetservice.mcloudservice.site:443#FR_4-4.5MB/s-GPT⁺-YT-FR-NF-0%
-test3.flha.ru:80#NL_3-4.0MB/s-GPT⁺-YT-IT-NF-0%
-sSsdCVfBGNjkI.931.PP.Ua:443#US_304-4.7MB/s-GPT⁺-NF-0%
-Losv6cdn.bM04.xYz:2053#US_458-6.0MB/s-GPT⁺-NF-D+-GM-6%
+www.meter.net:2096#CA_3-5.2MB/s-GPT⁺-YT-CA-NF-GM-20%
+www.speedtest.net:443#FR_4-5.0MB/s-GPT-32%
+aio.unlimited.biz.id:443#SG_14-6.9MB/s-GPT⁺-NF-D+-15%
+Losv6cdn.bM04.xYz:2053#US_86-4.5MB/s-GPT⁺-NF-D+-GM-6%
