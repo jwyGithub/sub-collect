@@ -1,11 +1,6 @@
-www.speedtest.net:443#CA_1-5.1MB/s-GPT⁺-YT-CA-NF-GM-20%
-fk4.620720.xyz:8443#DE_13-4.8MB/s-GPT⁺-YT-DE-NF-D+-15%
-fk3.620720.xyz:8443#DE_14-4.9MB/s-GPT⁺-YT-DE-NF-D+-15%
-test2.flha.ru:80#DE_23-4.2MB/s-GPT-0%
-cloudgetservice.mcloudservice.site:443#FR_8-4.8MB/s-GPT⁺-NF-0%
-test3.flha.ru:80#NL_3-4.9MB/s-GPT⁺-0%
-sj3.620720.xyz:8443#US_266-4.5MB/s-GPT⁺-NF-D+-GM-15%
-DdDDdddddDFrrrrrrRRy.IRan2035.dPDns.ORG:443#US_416-4.4MB/s-GPT⁺-NF-26%
-172.67.209.79:443#US_418-5.9MB/s-GPT⁺-NF-GM
-172.67.188.188:443#US_63-4.3MB/s-GPT⁺-NF-GM-26%
-www.meter.net:2096#❓Other_5-7.6MB/s-GPT
+fk3.620720.xyz:8443#DE_4-6.2MB/s-GPT⁺-NF-D+-15%
+test2.flha.ru:80#DE_9-6.7MB/s-GPT⁺-YT-DE-NF-0%
+hkt.gotochinatown.net:80#HK_15-4.0MB/s-GPT⁺-YT-HK-D+-3%
+n1749032173.xlxzzx.com:443#HK_20-12.5MB/s-YT-HK-NF-21%
+172.67.209.79:443#US_14-6.0MB/s-GPT⁺-NF-GM
+172.67.150.132:443#US_187-4.8MB/s-GPT-NF-37%
