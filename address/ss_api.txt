@@ -1,2 +1,3 @@
-ss.038.node-for-bigairport.win:11689#HK_3-11.5MB/s-YT-HK-NF-0%
-202.155.152.86:27600#ID_1-6.0MB/s-YT-HK-NF-D+-0%
+202.155.152.86:27600#ID_1-8.1MB/s-YT-HK-NF-D+-0%
+103.36.91.32:8388#SG_3-7.1MB/s-YT-SG-D+-GM-0%
+ss.024.node-for-bigairport.win:15099#❓Other_1-4.7MB/s
