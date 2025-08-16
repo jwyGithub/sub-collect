@@ -1,9 +1,5 @@
-fk4.620720.xyz:8443#DE_3-4.3MB/s-GPT⁺-YT-DE-NF-D+-15%
-hkt.gotochinatown.net:80#HK_3-5.3MB/s-GPT⁺-YT-HK-NF-D+-6%
-sj3.620720.xyz:8443#US_161-5.0MB/s-15%
-vc.fly.dev:443#US_191-12.5MB/s-YT-HK-NF-D+-0%
-dddfffvvbnhju.931.pp.ua:443#US_218-4.1MB/s-GPT⁺-NF-0%
-ssssssssssssfffffffgh.2032.pp.ua:443#US_224-5.1MB/s-GPT⁺-NF-0%
-sSsdCVfBGNjkI.931.PP.Ua:443#US_231-5.2MB/s-GPT⁺-NF-0%
-qqqqqqqqqqqqaaaa.www890604.dpdns.org:443#❓Other_1-4.2MB/s
-www.meter.net:2096#❓Other_2-5.1MB/s-GPT
+t.cnmjcn.cyou:16645#FR_1-6.1MB/s-GPT⁺-52%
+t.cnmjcn.cyou:16618#SG_3-10.0MB/s-GPT⁺-NF-D+-GM-50%
+planb.mojcn.com:16632#HK_4-4.7MB/s-GPT⁺-YT-HK-NF-D+-GM-0%
+aio.unlimited.biz.id:443#SG_2-5.2MB/s-GPT⁺-NF-D+-GM-15%
+Losv6cdn.bM04.xYz:2053#❓Other_1-4.8MB/s-GPT⁺-NF-D+
