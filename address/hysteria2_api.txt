@@ -1,5 +1,1 @@
-51.158.218.2:50066#NL_5-6.5MB/s-GPT⁺-YT-NL-NF-16%
-129.146.215.233:443#US_176-4.5MB/s-GPT⁺-NF-D+-GM-15%
-netcupus.alisaku.com:34444#US_1-4.3MB/s-GPT⁺-NF-GM-50%
-sub-us-2.yangxiansheng.online:41951#US_2-4.2MB/s-GPT⁺-NF-GM-51%
-hsmg.huasuan666.top:22151#US_42-4.2MB/s-GPT⁺-NF-26%
+us.hyleet.news:27015#US_58-7.2MB/s-GPT⁺-NF-GM-33%
