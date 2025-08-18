@@ -1,5 +1,2 @@
-51.159.111.32:5355#FR_1-4.6MB/s-GPT⁺-YT-FR-NF-20%
-51.158.218.2:50066#NL_4-6.4MB/s-GPT⁺-YT-NL-NF-16%
-gavazn.lnmarketplace.net:45000#NL_9-4.4MB/s-GPT⁺-YT-NL-NF-D+-0%
-166.88.164.9:27704#US_29-4.3MB/s-GPT⁺-NF-GM-40%
-sub-us-2.yangxiansheng.online:41951#US_76-4.7MB/s-GPT-NF-GM-51%
+us.hyleet.news:27015#US_128-7.1MB/s-GPT⁺-NF-33%
+netcupus.alisaku.com:34444#US_86-4.1MB/s-GPT⁺-NF-D+-GM-50%
