@@ -1,2 +1,7 @@
-us.hyleet.news:27015#US_128-7.1MB/s-GPT⁺-NF-33%
-netcupus.alisaku.com:34444#US_86-4.1MB/s-GPT⁺-NF-D+-GM-50%
+138.197.185.116:7444#DE_6-4.5MB/s-GPT⁺-YT-DE-NF-52%
+206.189.20.193:7197#GB_6-5.3MB/s-GPT⁺-YT-GB-NF-52%
+47.242.195.121:12854#HK_1-16.7MB/s-YT-HK-NF
+netcupus.alisaku.com:34444#US_142-5.3MB/s-GPT⁺-NF-D+-GM-50%
+us.hyleet.news:27015#US_181-5.5MB/s-GPT⁺-NF-GM-33%
+166.88.164.9:27704#US_226-8.5MB/s-GPT⁺-NF-GM-40%
+b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk:1743#US_245-5.5MB/s-NF-GM-37%
