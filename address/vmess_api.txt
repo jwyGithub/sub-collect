@@ -1,7 +1,4 @@
-npmjs.com:443#DE_14-6.4MB/s-GPT⁺-NF-16%
-www.speedtest.net:443#FR_1-6.6MB/s-GPT⁺-NF-32%
-hkt.gotochinatown.net:80#HK_11-4.9MB/s-GPT⁺-YT-HK-NF-D+-4%
-FFFFfFFvvBgnh.iRAn2035.DpDnS.OrG:443#US_104-5.2MB/s-GPT⁺-NF-28%
-aio.unlimited.biz.id:443#US_216-5.1MB/s-GPT-NF-7%
-klo.986986.shop:443#US_236-4.5MB/s-GPT⁺-GM
-dddvvbn.931.pp.ua:443#US_245-4.5MB/s-GPT⁺-NF-0%
+v37.heduian.link:30837#FR_2-7.8MB/s-GPT⁺-24%
+cloudgetservice.mcloudservice.site:443#FR_3-4.0MB/s-GPT⁺-NF-0%
+v5.heduian.link:30805#IT_1-5.5MB/s-GPT⁺-YT-IT-24%
+qqqqqqqqqqqqaaaa.www890604.dpdns.org:443#US_218-4.5MB/s-GPT⁺-NF-0%
