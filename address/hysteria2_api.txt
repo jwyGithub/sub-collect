@@ -1,9 +1,1 @@
-51.159.111.32:5355#FR_2-5.1MB/s-GPT⁺-YT-FR-NF-20%
-206.189.20.193:7197#GB_3-4.7MB/s-GPT⁺-YT-GB-NF-52%
-185.85.242.177:1443#GB_8-4.9MB/s-GPT-34%
-gavazn.lnmarketplace.net:45000#NL_3-4.4MB/s-GPT⁺-YT-NL-NF-D+-0%
-netcupus.alisaku.com:34444#US_21-4.9MB/s-GPT⁺-NF-D+-GM-50%
-us.hyleet.news:27015#US_32-5.2MB/s-GPT⁺-NF-GM-33%
-166.88.164.9:27704#US_43-4.7MB/s-GPT⁺-NF-GM-40%
-sub-us-2.yangxiansheng.online:41951#US_98-4.8MB/s-GPT⁺-NF-GM-51%
-us3do.interld123456789.com:32000#❓Other_2-8.4MB/s-GPT⁺-YT-SG
+47.237.23.83:4763#SG_3-6.2MB/s-GPT⁺-YT-SG-NF-GM
