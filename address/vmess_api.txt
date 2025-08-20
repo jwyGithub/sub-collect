@@ -1,3 +1,14 @@
-cloudgetservice.mcloudservice.site:443#FR_1-4.4MB/s-GPT⁺-NF-0%
-aio.unlimited.biz.id:443#US_113-4.3MB/s-GPT⁺-NF-D+-7%
-sangarvpnbotadmin.sangarvpn-bot.shop:39043#US_29-4.3MB/s-GPT⁺-NF-D+-GM-33%
+www.meter.net:2096#CA_1-6.1MB/s-GPT⁺-YT-CA-NF-GM-20%
+npmjs.com:443#DE_14-7.3MB/s-GPT⁺-NF-19%
+www.speedtest.net:443#FR_2-4.7MB/s-GPT⁺-NF-32%
+cloudgetservice.mcloudservice.site:443#FR_5-4.4MB/s-GPT⁺-0%
+t.cnmjcn.cyou:16617#JP_1-10.5MB/s-GPT⁺-NF-D+-GM-35%
+t.cnmjcn.cyou:16618#SG_1-4.6MB/s-GPT⁺-NF-D+-GM-0%
+sj4.620720.xyz:8443#US_127-4.2MB/s-GPT⁺-NF-D+-GM-9%
+sj1.620720.xyz:8443#US_128-4.1MB/s-GPT⁺-NF-D+-GM-9%
+172.67.170.147:443#US_216-4.5MB/s-GPT⁺-NF-28%
+172.67.165.122:443#US_217-4.8MB/s-GPT⁺-YT-GB-NF-GM-40%
+ssssssssssssfffffffgh.2032.pp.ua:443#US_248-5.1MB/s-GPT⁺-NF-0%
+dddvvbn.931.pp.ua:443#US_253-4.7MB/s-GPT⁺-NF-0%
+klo.986986.shop:443#US_255-4.6MB/s-GPT⁺-GM
+FFFFfFFvvBgnh.iRAn2035.DpDnS.OrG:443#US_490-4.8MB/s-GPT⁺-NF-28%
