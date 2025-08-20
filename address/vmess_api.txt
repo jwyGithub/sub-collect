@@ -1,4 +1,3 @@
-v37.heduian.link:30837#FR_2-7.8MB/s-GPT⁺-24%
-cloudgetservice.mcloudservice.site:443#FR_3-4.0MB/s-GPT⁺-NF-0%
-v5.heduian.link:30805#IT_1-5.5MB/s-GPT⁺-YT-IT-24%
-qqqqqqqqqqqqaaaa.www890604.dpdns.org:443#US_218-4.5MB/s-GPT⁺-NF-0%
+cloudgetservice.mcloudservice.site:443#FR_1-4.4MB/s-GPT⁺-NF-0%
+aio.unlimited.biz.id:443#US_113-4.3MB/s-GPT⁺-NF-D+-7%
+sangarvpnbotadmin.sangarvpn-bot.shop:39043#US_29-4.3MB/s-GPT⁺-NF-D+-GM-33%
