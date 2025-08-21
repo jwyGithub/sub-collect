@@ -1,9 +1,1 @@
-www.meter.net:2096#CA_2-7.6MB/s-GPT⁺-YT-CA-NF-GM-20%
-188.114.98.178:443#DE_4-5.4MB/s-GPT⁺-NF-19%
-npmjs.com:443#DE_9-4.6MB/s-GPT⁺-NF-0%
-188.114.99.48:443#FI_5-5.5MB/s-GPT⁺-NF-16%
-new1.huvicloud.com:443#JP_3-4.2MB/s-GPT⁺-YT-JP-GM-0%
-aio.unlimited.biz.id:443#US_122-5.3MB/s-GPT⁺-NF-D+-GM-7%
-172.67.170.147:443#US_137-4.4MB/s-GPT⁺-NF-28%
-klo.986986.shop:443#US_148-4.5MB/s-GPT⁺-GM
-dddvvbn.931.pp.ua:443#US_151-6.4MB/s-GPT⁺-NF-0%
+cgroup.node3.v.nodelist-airport.com:31103#❓Other_1-9.8MB/s
