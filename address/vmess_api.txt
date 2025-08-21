@@ -1,1 +1,5 @@
-ssm.pimax.com:10820#US_64-4.5MB/s-GPT⁺-NF-D+-GM-3%
+t.cnmjcn.cyou:16632#HK_3-32.2MB/s-GPT⁺-YT-HK-NF-D+-GM-0%
+t.cnmjcn.cyou:16618#SG_1-11.5MB/s-GPT⁺-NF-D+-GM-0%
+aflzzul.meiquankongjian.com:52512#JP_1-11.2MB/s-GPT⁺-YT-JP-D+-GM-0%
+sj1.620720.xyz:8443#US_13-4.4MB/s-9%
+aio.unlimited.biz.id:443#US_91-6.0MB/s-GPT⁺-NF-D+-GM-7%
