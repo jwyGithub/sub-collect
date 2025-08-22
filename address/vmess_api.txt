@@ -1,7 +1,2 @@
-cloudgetservice.mcloudservice.site:443#FR_1-6.2MB/s-GPT⁺-NF-0%
-www.speedtest.net:443#FR_2-5.0MB/s-GPT⁺-NF-32%
-aio.zipzap.biz.id:443#GB_62-4.3MB/s-D+
-a04ab468-t0fds0-t1a5pv-luwe.hkt.tcpbbr.net:80#HK_2-4.4MB/s-GPT-YT-HK-NF-D+-4%
-klo.986986.shop:443#US_143-5.1MB/s-GPT⁺-GM
-172.67.170.147:443#US_144-4.5MB/s-GPT⁺-NF-28%
-202.85.53.74:443#US_16-5.5MB/s-GPT⁺-NF-D+-7%
+ip.sb:443#FR_2-5.2MB/s-GPT⁺-NF-9%
+cloudgetservice.mcloudservice.site:443#FR_3-5.9MB/s-GPT⁺-NF-0%
