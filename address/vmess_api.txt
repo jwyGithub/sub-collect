@@ -1,4 +1,4 @@
-www.meter.net:2096#CA_1-5.3MB/s-GPT⁺-YT-CA-NF-GM-20%
-ip.sb:443#FR_2-5.8MB/s-GPT⁺-NF-9%
-www.speedtest.net:443#FR_3-5.5MB/s-GPT⁺-32%
-DdDDdddddDFrrrrrrRRy.IRan2035.dPDns.ORG:443#❓Other_2-4.3MB/s
+188.114.98.178:443#DE_3-5.0MB/s-GPT⁺-NF-19%
+ip.sb:443#FR_2-5.2MB/s-GPT
+new1.huvicloud.com:443#JP_2-4.4MB/s-GPT⁺-YT-JP-GM-0%
+FFFFfFFvvBgnh.iRAn2035.DpDnS.OrG:443#US_350-4.9MB/s-GPT⁺-NF-28%
