@@ -1,4 +1,1 @@
-188.114.98.178:443#DE_3-5.0MB/s-GPT⁺-NF-19%
-ip.sb:443#FR_2-5.2MB/s-GPT
-new1.huvicloud.com:443#JP_2-4.4MB/s-GPT⁺-YT-JP-GM-0%
-FFFFfFFvvBgnh.iRAn2035.DpDnS.OrG:443#US_350-4.9MB/s-GPT⁺-NF-28%
+cloudgetservice.mcloudservice.site:443#FR_1-6.6MB/s-GPT⁺-NF-0%
