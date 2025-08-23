@@ -1,2 +1,4 @@
-ip.sb:443#FR_2-5.2MB/s-GPT⁺-NF-9%
-cloudgetservice.mcloudservice.site:443#FR_3-5.9MB/s-GPT⁺-NF-0%
+www.meter.net:2096#CA_1-5.3MB/s-GPT⁺-YT-CA-NF-GM-20%
+ip.sb:443#FR_2-5.8MB/s-GPT⁺-NF-9%
+www.speedtest.net:443#FR_3-5.5MB/s-GPT⁺-32%
+DdDDdddddDFrrrrrrRRy.IRan2035.dPDns.ORG:443#❓Other_2-4.3MB/s
