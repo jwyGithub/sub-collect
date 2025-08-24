@@ -1,1 +1,2 @@
-cloudgetservice.mcloudservice.site:443#FR_1-6.6MB/s-GPT⁺-NF-0%
+ip.sb:443#FR_1-4.8MB/s-9%
+tTtTttTttGgGGHHhnMk.iraN2035.DPDNS.ORG:443#US_96-5.2MB/s-GPT⁺-NF-28%
