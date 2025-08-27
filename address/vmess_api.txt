@@ -1,2 +1,14 @@
-t492d-g05.jp04-3771-vm0.entry.fr0307a.art:448#JP_1-4.7MB/s-GPT⁺-YT-JP-NF-GM-5%
-ssm.pimax.com:10826#US_1-4.7MB/s-GPT⁺-NF-D+-GM-3%
+188.114.98.178:443#DE_1-4.8MB/s-GPT⁺-NF-15%
+cloudgetservice.mcloudservice.site:443#FR_1-4.3MB/s-GPT⁺-YT-FR-NF-0%
+ip.sb:443#FR_3-5.0MB/s-GPT⁺-6%
+t.cnmjcn.cyou:16617#JP_1-6.6MB/s-GPT⁺-NF-D+-GM-34%
+new1.huvicloud.com:443#JP_3-4.5MB/s-GPT⁺-YT-JP-GM-0%
+77.75.199.222:8880#US_142-5.7MB/s-GPT⁺-NF-D+-67%
+185.7.240.224:8880#US_144-4.5MB/s-GPT⁺-NF-D+-67%
+185.176.26.224:8880#US_145-5.9MB/s-GPT⁺-NF-D+-67%
+cloudflare.182682.xyz:443#US_146-7.7MB/s-GPT⁺-NF-D+-7%
+104.21.77.149:443#US_346-4.8MB/s-GPT⁺-NF-40%
+ssssssssssssfffffffgh.2032.pp.ua:443#US_348-5.2MB/s-GPT⁺-NF-0%
+DdDDdddddDFrrrrrrRRy.IRan2035.dPDns.ORG:443#US_395-5.4MB/s-GPT⁺-NF-26%
+klo.986986.shop:443#US_99-4.4MB/s-GPT⁺-YT-GB-GM
+Losv6cdn.bM04.xYz:2053#❓Other_6-4.7MB/s-GPT⁺-NF
