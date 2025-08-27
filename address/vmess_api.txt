@@ -1,8 +1,2 @@
-www.speedtest.net:443#FR_2-4.7MB/s-GPT⁺-31%
-www.speedtest.net:80#NL_4-5.1MB/s-GPT⁺-0%
-t.cnmjcn.cyou:16632#HK_7-9.2MB/s-GPT⁺-NF-D+-GM-0%
-t.cnmjcn.cyou:16617#JP_3-10.3MB/s-GPT⁺-D+-GM-34%
-t.cnmjcn.cyou:16618#SG_1-8.8MB/s-GPT⁺-NF-D+-GM-0%
-linux.do:443#US_35-4.3MB/s-GPT⁺-NF-33%
-tTtTttTttGgGGHHhnMk.iraN2035.DPDNS.ORG:443#US_79-4.3MB/s-GPT⁺-NF-26%
-Losv6cdn.bM04.xYz:2053#❓Other_3-5.0MB/s-GPT⁺-NF
+t492d-g05.jp04-3771-vm0.entry.fr0307a.art:448#JP_1-4.7MB/s-GPT⁺-YT-JP-NF-GM-5%
+ssm.pimax.com:10826#US_1-4.7MB/s-GPT⁺-NF-D+-GM-3%
