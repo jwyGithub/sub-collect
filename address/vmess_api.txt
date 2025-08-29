@@ -1,2 +1,7 @@
-cloudgetservice.mcloudservice.site:443#FR_4-5.5MB/s-GPT⁺-0%
-104.21.77.149:443#US_167-5.4MB/s-GPT⁺-NF-40%
+www.meter.net:2096#CA_1-6.5MB/s-GPT⁺-YT-CA-NF-GM-20%
+npmjs.com:443#DE_11-6.7MB/s-GPT⁺-NF-0%
+188.114.98.178:443#DE_1-5.0MB/s-GPT⁺-NF-15%
+linux.do:443#US_108-4.4MB/s-GPT⁺-NF-33%
+77.75.199.222:8880#US_82-5.0MB/s-GPT⁺-NF-D+-67%
+45.159.217.223:8880#US_83-5.9MB/s-GPT⁺-NF-D+-67%
+104.16.0.0:443#US_84-5.7MB/s-GPT⁺-NF-33%
