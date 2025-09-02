@@ -1,1 +1,1 @@
-www.speedtest.net:443#FR_2-5.7MB/s-GPT⁺-NF-30%
+172.67.201.36:443#US_6-5.2MB/s-GPT⁺-NF-0%
