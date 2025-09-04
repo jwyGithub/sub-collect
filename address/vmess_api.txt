@@ -1,5 +1,1 @@
-www.speedtest.net:443#FR_2-5.8MB/s-GPT⁺-NF-30%
-1e426046-t0fds0-t12cnj-1ol97.hk.p5pv.com:80#HK_1-5.0MB/s-GPT⁺-YT-HK-NF-D+-4%
-141.101.121.177:80#KR_1-7.3MB/s-GPT-YT-KR-NF-D+-GM
-api.jquery.com:443#TW_2-19.0MB/s-GPT⁺-YT-TW-NF-D+-GM-7%
-Losv6cdn.bM04.xYz:2053#❓Other_1-5.3MB/s
+Losv6cdn.bM04.xYz:2053#US_7-5.2MB/s-GPT⁺-NF-D+-GM-7%

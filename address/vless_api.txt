@@ -1,5 +1,2 @@
-162.159.153.2:2095#DE_1-5.3MB/s-GPT⁺-YT-DE-NF-D+
-104.21.9.71:443#US_1-5.7MB/s-GPT⁺-NF-28%
-172.67.130.204:443#US_2-5.4MB/s-GPT⁺-NF-28%
-104.19.102.16:443#US_3-15.2MB/s
-aio.nolimit.dpdns.org:443#US_4-5.5MB/s-NF-D+-GM
+registry.cyou:443#US_1-5.6MB/s-GPT⁺-NF-D+-GM-7%
+hh.crosswall.dpdns.org:443#US_6-5.7MB/s-GPT⁺-NF-GM-14%
