@@ -1,7 +1,1 @@
-gercdn.bm04.xyz:2053#FR_5-5.2MB/s-GPT⁺-NF-40%
-104.18.2.150:443#US_10-5.2MB/s-NF-D+
-104.18.2.108:8443#US_16-5.1MB/s-NF-D+
-aio.proxybox.dpdns.org:443#US_17-5.0MB/s-GPT⁺-NF-GM-7%
-185.251.82.195:2096#US_4-6.0MB/s-NF-D+-GM
-104.18.3.150:443#US_8-8.4MB/s-NF-D+-GM
-185.251.83.195:2096#US_9-5.1MB/s-NF-D+-GM
+myanmar.visa.com:8443#US_3-5.1MB/s-NF-D+
