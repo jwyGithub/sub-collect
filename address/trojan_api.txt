@@ -1,1 +1,5 @@
-myanmar.visa.com:8443#US_3-5.1MB/s-NF-D+
+gercdn.bm04.xyz:2053#FR_3-6.4MB/s-GPT⁺-NF-40%
+157.120.32.122:443#JP_3-16.4MB/s-GPT⁺-YT-JP-NF-GM-5%
+myanmar.visa.com:8443#US_2-6.7MB/s-NF-D+-GM
+104.18.2.108:8443#US_3-5.3MB/s-NF-D+
+185.251.83.195:2096#US_6-5.5MB/s-NF-D+

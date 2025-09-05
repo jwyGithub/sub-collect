@@ -1,1 +1,3 @@
-registry.cyou:443#US_1-5.0MB/s-GPT⁺-NF-D+-GM-7%
+103.65.140.216:34045#AU_1-5.9MB/s-GPT⁺-NF-D+-4%
+162.159.153.2:2095#DE_1-5.9MB/s-GPT⁺-YT-DE-NF-D+
+www.speedtest.net:8443#US_5-5.0MB/s-GPT⁺-NF-D+-GM-7%
