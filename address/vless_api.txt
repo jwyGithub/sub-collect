@@ -1,1 +1,5 @@
-104.24.172.153:80#DE_2-5.2MB/s-GPT⁺-D+
+24.199.120.9:443#US_11-5.3MB/s-GPT⁺-NF-D+-GM-0%
+snipaste1.speedip.eu.org:443#US_1-10.5MB/s-GPT⁺-NF-D+-GM-7%
+snipaste4.speedip.eu.org:443#US_2-5.5MB/s-GPT⁺-NF-D+-GM-7%
+snipaste2.speedip.eu.org:443#US_4-5.6MB/s-GPT⁺-NF-D+-7%
+snipaste3.speedip.eu.org:443#US_6-5.3MB/s-GPT⁺-NF-D+-7%
