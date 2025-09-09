@@ -1,3 +1,1 @@
-104.21.71.83:443#US_15-6.2MB/s-GPT⁺-NF-D+-GM-44%
-104.26.12.31:443#US_2-5.9MB/s-GPT⁺-NF-D+-8%
-snipaste3.speedip.eu.org:443#US_3-5.5MB/s-GPT⁺-NF-D+-8%
+63.141.128.173:443#US_4-5.0MB/s-GPT⁺-D+
