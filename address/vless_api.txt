@@ -1,2 +1,2 @@
-snipaste2.speedip.eu.org:443#US_2-7.3MB/s-GPT⁺-NF-D+-GM-7%
-104.21.71.83:443#US_3-7.5MB/s-GPT⁺-NF-D+-GM-44%
+104.26.12.31:443#US_1-5.4MB/s-GPT⁺-NF-D+-8%
+104.26.13.31:443#US_2-5.5MB/s-GPT⁺-NF-D+-8%
