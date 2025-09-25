@@ -3,20 +3,34 @@ import { fetchSubscription } from './core/fetcher';
 import { ParserFactory } from './core/parser';
 import { Storage } from './core/storage';
 import { logger } from './utils/logger';
-import { Node } from './config/types';
+import { Config, Node } from './config/types';
 import { PROTOCOLS } from './const';
-import { CloudflareClient } from './core/cloudflare';
 import { sleep } from 'cloudflare-tools';
 import { File } from './core/file';
 import { join } from 'path';
 import { Process } from './core/process';
 
-async function main(cloudflare: CloudflareClient) {
-    try {
-        const result = await cloudflare.start();
-        await sleep(5000);
+function getSubs(config: Config): { name: string; url: string }[] {
+    return config.subs.reduce<{ name: string; url: string }[]>((acc, sub) => {
+        Object.entries(config.vps).forEach(([key, value]) => {
+            const searchParams = new URLSearchParams();
+            Object.entries(value).forEach(([key, value]) => {
+                searchParams.set(key, value.toString());
+            });
+            acc.push({
+                name: key,
+                url: `${sub}?${searchParams.toString()}`
+            });
+        });
+        return acc;
+    }, []);
+}
 
+async function main(config: Config) {
+    try {
+        console.log('config', config);
         logger.info('开始处理订阅任务');
+        const result = getSubs(config);
         const storage = new Storage(config.storage);
         const processor = new Process();
         const file = new File(join(process.cwd(), 'address'));
@@ -75,12 +89,8 @@ async function main(cloudflare: CloudflareClient) {
         logger.error('程序执行失败: %s', error);
         process.exit(1);
     } finally {
-        // 6. 删除自定义域名
-        await cloudflare.deleteCustomHostname();
-        // 7. 删除自定义SSL证书
-        await cloudflare.deleteCustomSsl();
     }
 }
 
-main(new CloudflareClient(config));
+main(config);
 

@@ -23,17 +23,8 @@ function loadConfigFromEnv(): EnvConfig {
 
     if (!configEnv) {
         return {
-            subs: {
-                vless: '',
-                trojan: ''
-            },
-            cloudflare: {
-                token: '',
-                account_id: '',
-                zone_id: '',
-                vless_service: '',
-                trojan_service: ''
-            },
+            subs: [],
+            vps: {},
             uuid: ''
         };
     }
@@ -60,17 +51,8 @@ function loadEnvConfig(): EnvConfig {
     } catch (error) {
         console.warn('开发环境配置加载失败，使用空订阅列表:', error);
         return {
-            subs: {
-                vless: '',
-                trojan: ''
-            },
-            cloudflare: {
-                token: '',
-                account_id: '',
-                zone_id: '',
-                vless_service: '',
-                trojan_service: ''
-            },
+            subs: [],
+            vps: {},
             uuid: ''
         };
     }

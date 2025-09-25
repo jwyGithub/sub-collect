@@ -30,16 +30,11 @@ export interface BaseConfig {
 
 // 环境配置接口（development.yaml 或环境变量）
 export interface EnvConfig {
-    subs: {
-        vless: string;
-        trojan: string;
-    };
-    cloudflare: {
-        token: string;
-        account_id: string;
-        zone_id: string;
-        vless_service: string;
-        trojan_service: string;
+    subs: string[];
+    vps: {
+        vmess?: Record<string, any>;
+        vless?: Record<string, any>;
+        trojan?: Record<string, any>;
     };
     uuid: string;
 }
