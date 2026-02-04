@@ -48,7 +48,7 @@ export class Process {
      */
     private deduplicateNodes(nodes: Node[]): Node[] {
         const nodeMap = new Map<string, Node>();
-        
+
         for (const node of nodes) {
             const key = `${node.address}:${node.port}`;
             // 如果节点已存在，保留原始链接
@@ -106,7 +106,7 @@ export class Process {
             if (countryCode !== 'ERROR' && !this.filterRules.countryCodes.includes(countryCode)) {
                 const nodes = addressToNodes.get(address);
                 if (nodes) {
-                    filteredNodes.push(...nodes);
+                    filteredNodes.push(...nodes.map(node => ({ ...node, hash: `${node.hash}-${countryCode}` })));
                 }
             } else if (countryCode !== 'ERROR') {
                 const nodes = addressToNodes.get(address);
@@ -120,4 +120,5 @@ export class Process {
 
         return filteredNodes;
     }
-} 
+}
+
