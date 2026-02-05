@@ -1,9 +1,6 @@
 import { logger } from './logger';
 
-/**
- * ip.looby.dpdns.org 响应接口
- */
-export interface CfWorkerDoHResponse {
+export interface DoHResponse {
     status: string;
     country: string;
     countryCode: string;
@@ -18,7 +15,6 @@ export interface CfWorkerDoHResponse {
     org: string;
     as: string;
     query: string;
-    timestamp: string;
 }
 
 /**
@@ -30,27 +26,23 @@ export interface IpLookupProvider {
      * @param ip IP地址
      * @returns 国家代码
      */
-    lookup(ip: string): Promise<CfWorkerDoHResponse>;
+    lookup(ip: string | string[]): Promise<DoHResponse[]>;
 }
 
-/**
- * cf-worker-doh
- */
-export class CfDoHProvider implements IpLookupProvider {
-    async lookup(ip: string): Promise<CfWorkerDoHResponse> {
-        const url = `https://ip.looby.dpdns.org/ip-info?ip=${ip}`;
+export class DoHProvider implements IpLookupProvider {
+    async lookup(ip: string | string[]): Promise<DoHResponse[]> {
+        const ips = Array.isArray(ip) ? ip : [ip];
+        const url = `http://ip-api.com/batch`;
         logger.debug('[Cf-Worker-DoH] %s', url);
-        const response = await fetch(url);
+        const response = await fetch(url, {
+            method: 'post',
+            body: JSON.stringify(ips)
+        });
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
-        const data: CfWorkerDoHResponse = await response.json();
-
-        if (data.status === 'success') {
-            logger.debug('[Cf-Worker-DoH] %s -> %s (%s, %s)', ip, data.country, data.regionName, data.city);
-            return data;
-        }
-        throw new Error('Invalid response from ip.looby.dpdns.org');
+        const data: DoHResponse[] = await response.json();
+        return data;
     }
 }
 

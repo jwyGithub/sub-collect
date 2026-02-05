@@ -101,11 +101,12 @@ export class Process {
         const lookupResults = await ipLookup.batchLookup(addressList);
 
         // 处理查询结果
-        for (const [address, lookupResult] of lookupResults) {
-            const { countryCode = '', region = '' } = lookupResult;
+        for (const lookupResult of lookupResults) {
+            const { countryCode = '', region = '', status, query } = lookupResult;
+            if (!query) continue;
             // 如果地址查询失败或不在黑名单国家/地区中，保留节点
-            if (lookupResult.status !== 'error' && !this.filterRules.countryCodes.includes(countryCode)) {
-                const nodes = addressToNodes.get(address);
+            if (status !== 'error' && !this.filterRules.countryCodes.includes(countryCode)) {
+                const nodes = addressToNodes.get(query);
                 if (nodes) {
                     filteredNodes.push(
                         ...nodes.map(node => ({
@@ -114,8 +115,8 @@ export class Process {
                         }))
                     );
                 }
-            } else if (lookupResult.status !== 'error') {
-                const nodes = addressToNodes.get(address);
+            } else if (status !== 'error') {
+                const nodes = addressToNodes.get(query);
                 if (nodes) {
                     nodes.forEach(node => {
                         logger.debug('⛔ 地理位置过滤 [%s:%s] -> 命中规则: %s %s', node.address, node.port, countryCode, region);
