@@ -17,7 +17,7 @@ export async function fetchSubscription(url: string): Promise<string> {
             }
         });
         const text = await response.data.text();
-        logger.debug('成功获取订阅内容 (%s)', url);
+        logger.info('成功获取订阅内容 (%s)', url);
 
         return text;
     } catch (error) {

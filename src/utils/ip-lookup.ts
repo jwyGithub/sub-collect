@@ -1,9 +1,10 @@
 import { logger } from './logger';
-import { IpLookupProvider, CfDoHProvider } from './provider';
+import { IpLookupProvider, CfDoHProvider, CfWorkerDoHResponse } from './provider';
 
+type IpLookupResult = Partial<CfWorkerDoHResponse>;
 class IpLookupService {
-    private cache = new Map<string, string>();
-    private pendingQueries = new Map<string, Promise<string>>();
+    private cache = new Map<string, IpLookupResult>();
+    private pendingQueries = new Map<string, Promise<IpLookupResult>>();
     private lastQueryTime = 0;
     private minQueryInterval = 500; // 每次查询最小间隔 500ms
     private batchSize = 20; // 每批处理的IP数量
@@ -19,10 +20,10 @@ class IpLookupService {
      * @param ips IP地址数组
      * @returns Map<ip, countryCode>
      */
-    async batchLookup(ips: string[]): Promise<Map<string, string>> {
+    async batchLookup(ips: string[]): Promise<Map<string, IpLookupResult>> {
         // 去重IP
         const uniqueIps = [...new Set(ips)];
-        const results = new Map<string, string>();
+        const results = new Map<string, IpLookupResult>();
         const uncachedIps: string[] = [];
 
         // 先检查缓存
@@ -47,14 +48,14 @@ class IpLookupService {
             try {
                 const batchResults = await Promise.all(promises);
                 batch.forEach((ip, index) => {
-                    const countryCode = batchResults[index];
-                    results.set(ip, countryCode);
-                    this.cache.set(ip, countryCode);
+                    const lookupResult = batchResults[index];
+                    results.set(ip, lookupResult);
+                    this.cache.set(ip, lookupResult);
                 });
             } catch (error) {
                 logger.error('[ERROR] 批量查询IP失败: %s', error);
                 batch.forEach(ip => {
-                    results.set(ip, 'ERROR');
+                    results.set(ip, { status: 'error' });
                 });
             }
 
@@ -72,7 +73,7 @@ class IpLookupService {
      * @param ip IP地址
      * @returns 国家代码
      */
-    private async lookupSingle(ip: string): Promise<string> {
+    private async lookupSingle(ip: string): Promise<IpLookupResult> {
         // 检查是否已有相同IP的查询正在进行
         if (this.pendingQueries.has(ip)) {
             return this.pendingQueries.get(ip)!;
@@ -90,9 +91,9 @@ class IpLookupService {
                 // 依次尝试所有查询服务
                 for (const provider of this.providers) {
                     try {
-                        const countryCode = await provider.lookup(ip);
+                        const lookupResult = await provider.lookup(ip);
                         this.lastQueryTime = Date.now();
-                        return countryCode;
+                        return lookupResult;
                     } catch (error) {
                         logger.debug('[RETRY] 查询失败，尝试下一个服务: %s', error);
                         // 等待一下再尝试下一个服务
@@ -101,10 +102,10 @@ class IpLookupService {
                 }
 
                 logger.warn('[WARN] 无法确定IP %s 的位置', ip);
-                return 'UNKNOWN';
+                return {};
             } catch (error) {
                 logger.error('[ERROR] 查询IP %s 失败: %s', ip, error);
-                return 'ERROR';
+                return { status: 'error' };
             } finally {
                 this.pendingQueries.delete(ip);
             }

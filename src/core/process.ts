@@ -98,21 +98,27 @@ export class Process {
 
         // 批量查询地理位置
         const addressList = Array.from(addressToNodes.keys());
-        const countryCodes = await ipLookup.batchLookup(addressList);
+        const lookupResults = await ipLookup.batchLookup(addressList);
 
         // 处理查询结果
-        for (const [address, countryCode] of countryCodes) {
+        for (const [address, lookupResult] of lookupResults) {
+            const { countryCode = '', region = '' } = lookupResult;
             // 如果地址查询失败或不在黑名单国家/地区中，保留节点
-            if (countryCode !== 'ERROR' && !this.filterRules.countryCodes.includes(countryCode)) {
+            if (lookupResult.status !== 'error' && !this.filterRules.countryCodes.includes(countryCode)) {
                 const nodes = addressToNodes.get(address);
                 if (nodes) {
-                    filteredNodes.push(...nodes.map(node => ({ ...node, hash: `${node.hash}-${countryCode}` })));
+                    filteredNodes.push(
+                        ...nodes.map(node => ({
+                            ...node,
+                            hash: `${node.hash}${countryCode ? `-${countryCode}` : ''}${region ? `-${region}` : ''}`
+                        }))
+                    );
                 }
-            } else if (countryCode !== 'ERROR') {
+            } else if (lookupResult.status !== 'error') {
                 const nodes = addressToNodes.get(address);
                 if (nodes) {
                     nodes.forEach(node => {
-                        logger.debug('⛔ 地理位置过滤 [%s:%s] -> 命中规则: %s', node.address, node.port, countryCode);
+                        logger.debug('⛔ 地理位置过滤 [%s:%s] -> 命中规则: %s %s', node.address, node.port, countryCode, region);
                     });
                 }
             }
