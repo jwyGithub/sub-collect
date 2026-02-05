@@ -104,6 +104,7 @@ export class Process {
         for (const lookupResult of lookupResults) {
             const { countryCode = '', region = '', status, query } = lookupResult;
             if (!query) continue;
+            logger.info('ip -> %s, countryCode -> %s, region -> %s, status -> %s', query, countryCode, region, status);
             // 如果地址查询失败或不在黑名单国家/地区中，保留节点
             if (status !== 'error' && !this.filterRules.countryCodes.includes(countryCode)) {
                 const nodes = addressToNodes.get(query);
