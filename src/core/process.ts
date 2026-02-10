@@ -112,7 +112,7 @@ export class Process {
                     filteredNodes.push(
                         ...nodes.map(node => ({
                             ...node,
-                            hash: `${node.hash}(${countryCode ? `-${countryCode}` : ''}${region ? `-${region}` : ''})`
+                            hash: `${node.hash}(${countryCode}${region ? `-${region}` : ''})`
                         }))
                     );
                 }
